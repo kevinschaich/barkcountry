@@ -1,0 +1,38 @@
+{
+ "id": "nibiischii-national-park",
+ "name": "Nibiischii National Park",
+ "policy": "everywhere",
+ "policyReason": "The Nibiischii corporation, which runs the park, says dogs are welcome on the territory on a leash.",
+ "summary": "Dogs are welcome across the territory on a leash, but not in shared buildings.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont les bienvenus sur le territoire, dans le respect des visiteurs, de la faune et de l’environnement.",
+   "url": "https://www.nibiischii.com/fr/component/content/article/changement-reglementaire.html"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs leashed and under control at all times.",
+   "url": "https://www.nibiischii.com/fr/component/content/article/changement-reglementaire.html"
+  },
+  {
+   "text": "Dogs must not chase or disturb wildlife; pick up after them.",
+   "url": "https://www.nibiischii.com/fr/component/content/article/changement-reglementaire.html"
+  },
+  {
+   "text": "No dogs in shared buildings.",
+   "url": "https://www.nibiischii.com/fr/component/content/article/changement-reglementaire.html"
+  },
+  {
+   "text": "Aggressive dogs may be expelled without refund.",
+   "url": "https://www.nibiischii.com/fr/component/content/article/changement-reglementaire.html"
+  }
+ ],
+ "officialUrl": "https://www.nibiischii.com/fr/",
+ "petsUrl": "https://www.nibiischii.com/fr/component/content/article/changement-reglementaire.html",
+ "coordinates": [
+  -72.668055555,
+  51.233333333
+ ],
+ "coordinatesSource": "Wikidata Q3457131"
+}

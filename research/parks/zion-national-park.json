@@ -1,0 +1,38 @@
+{
+ "id": "zion-national-park",
+ "name": "Zion National Park",
+ "policy": "trails",
+ "policyReason": "Pets are welcome on roads, campgrounds and the Zion Lodge grounds; the Pa’rus Trail is the only trail that allows them.",
+ "summary": "Pets are welcome on roads, campgrounds and the Zion Lodge grounds; the Pa’rus Trail is the only trail that allows them.",
+ "excerpts": [
+  {
+   "quote": "Properly restrained pets are welcome along public roads and parking areas, in developed campgrounds and picnic areas, and on the grounds of the Zion Lodge.",
+   "url": "https://www.nps.gov/zion/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Roads, parking areas, campgrounds, picnic areas and Zion Lodge grounds allowed.",
+   "url": "https://www.nps.gov/zion/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not on other trails, wilderness, shuttles or buildings.",
+   "url": "https://www.nps.gov/zion/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No retractable leashes over 6 ft.",
+   "url": "https://www.nps.gov/zion/planyourvisit/pets.htm"
+  },
+  {
+   "text": "May be left in campgrounds only when conditions are safe.",
+   "url": "https://www.nps.gov/zion/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/zion/index.htm",
+ "petsUrl": "https://www.nps.gov/zion/planyourvisit/pets.htm",
+ "coordinates": [
+  -112.98785,
+  37.202619444
+ ],
+ "coordinatesSource": "Wikidata Q205325"
+}

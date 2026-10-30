@@ -1,0 +1,35 @@
+{
+ "id": "okanogan-national-forest",
+ "name": "Okanogan National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed on most wilderness trails, under control.",
+ "summary": "Dogs are allowed on most wilderness trails, under control.",
+ "excerpts": [
+  {
+   "quote": "Dogs are allowed on most other wilderness trails, providing that they are under control at all times",
+   "url": "https://www.fs.usda.gov/r06/okanogan-wenatchee/wilderness"
+  },
+  {
+   "quote": "Leash your dog to keep it and wildlife safe",
+   "url": "https://www.fs.usda.gov/r06/okanogan-wenatchee/safety-ethics"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs are allowed on most wilderness trails, under control at all times.",
+   "url": "https://www.fs.usda.gov/r06/okanogan-wenatchee/wilderness"
+  },
+  {
+   "text": "Leash your dog to keep it and wildlife safe.",
+   "url": "https://www.fs.usda.gov/r06/okanogan-wenatchee/safety-ethics"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r06/okanogan-wenatchee",
+ "petsUrl": "https://www.fs.usda.gov/r06/okanogan-wenatchee/wilderness",
+ "coordinates": [
+  -120.0800031,
+  48.6302779
+ ],
+ "coordinatesSource": "OpenStreetMap: Okanogan National Forest, Road 3700-805, Okanogan County, Washington, United Sta",
+ "unit": "Okanogan-Wenatchee National Forest"
+}

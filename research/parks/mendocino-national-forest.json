@@ -1,0 +1,26 @@
+{
+ "id": "mendocino-national-forest",
+ "name": "Mendocino National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed in the forest and wilderness.",
+ "summary": "Dogs are allowed in the forest and wilderness.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed in the Mendocino National Forest and wilderness areas.",
+   "url": "https://www.fs.usda.gov/r05/mendocino/recreation"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs in seed production orchards.",
+   "url": "https://www.fs.usda.gov/r05/mendocino/recreation/chico-seed-orchard-0"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/mendocino",
+ "petsUrl": "https://www.fs.usda.gov/r05/mendocino/recreation",
+ "coordinates": [
+  -122.8125,
+  39.5625
+ ],
+ "coordinatesSource": "Wikidata Q6816692"
+}

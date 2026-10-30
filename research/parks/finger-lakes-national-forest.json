@@ -1,0 +1,27 @@
+{
+ "id": "finger-lakes-national-forest",
+ "name": "Finger Lakes National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs may use the trails.",
+ "summary": "Leashed dogs may use the trails.",
+ "excerpts": [
+  {
+   "quote": "Pets must always be restrained or on a leash while in developed recreation sites and on trails.",
+   "url": "https://www.fs.usda.gov/r09/gmfl/safety-ethics"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets in swimming areas.",
+   "url": "https://www.fs.usda.gov/r09/gmfl/safety-ethics"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r09/gmfl",
+ "petsUrl": "https://www.fs.usda.gov/r09/gmfl/safety-ethics",
+ "coordinates": [
+  -76.78968,
+  42.51063
+ ],
+ "coordinatesSource": "original map",
+ "unit": "Green Mountain and Finger Lakes National Forests"
+}

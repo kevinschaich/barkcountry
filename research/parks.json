@@ -1,0 +1,3650 @@
+[
+ {
+  "id": "acadia-national-park",
+  "name": "Acadia National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "The First National Park East of the Mississippi River\n\nPeople have been drawn to the rugged coast of Maine throughout history. Awed by its beauty and diversity, early 20th-century visionaries donated the land that became Acadia National Park. The park is home to many plants and animals, and the tallest mountain on the U.S. Atlantic coast. Today visitors come to Acadia to hike granite peaks, bike historic carriage roads, or relax and enjoy the scenery.",
+   "link": "https://www.nps.gov/acad/",
+   "coordinates": [
+    -68.2458,
+    44.40835
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "arches-national-park",
+  "name": "Arches National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Arches National Park preserves over 2,000 natural sandstone arches, like the world-famous Delicate Arch, as well as many other unusual rock formations. In some areas, the forces of nature have exposed millions of years of geologic history. The extraordinary features of the park create a landscape of contrasting colors, landforms and textures that is unlike any other in the world.",
+   "link": "https://www.nps.gov/arch/",
+   "coordinates": [
+    -109.6197,
+    38.61611
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "badlands-national-park",
+  "name": "Badlands National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Containing the world’s richest Oligocene epoch fossil beds, dating 37-28 million years old, the evolutionary stories of mammals such as the horse and rhinoceros arise from the 244,000 acres of sharply eroded buttes, pinnacles, and spires. Bison, bighorn sheep, endangered black-footed ferrets, and swift fox roam one of the largest, protected mixed-grass prairies in the United States.",
+   "link": "https://www.nps.gov/badl/",
+   "coordinates": [
+    -101.94242,
+    43.74906
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "big-bend-national-park",
+  "name": "Big Bend National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "\"A land of strong beauty— often savage and always imposing.\"\n\nSometimes considered \"three parks in one,\" Big Bend includes mountain, desert, and river environments. An hour’s drive can take you from the banks of the Rio Grande to a mountain basin nearly a mile high. Here, you can explore one of the last remaining wild corners of the United States, and experience unmatched sights, sounds, and solitude.",
+   "link": "https://www.nps.gov/bibe/",
+   "coordinates": [
+    -103.20735,
+    29.32212
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "biscayne-national-park",
+  "name": "Biscayne National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "A Watery Wonderland\n\nWithin sight of downtown Miami, yet worlds away, Biscayne protects a rare combination of aquamarine waters, emerald islands, and fish-bejeweled coral reefs. Here too is evidence of 10,000 years of human history, from pirates and shipwrecks to pineapple farmers and presidents. Outdoors enthusiasts can boat, snorkel, camp, watch wildlife…or simply relax in a rocking chair gazing out over the bay.",
+   "link": "https://www.nps.gov/bisc/",
+   "coordinates": [
+    -80.33469,
+    25.46335
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "black-canyon-of-the-gunnison-national-park",
+  "name": "Black Canyon of the Gunnison National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Welcome to Black Canyon\n\nThe Black Canyon of the Gunnison's unique and spectacular landscape was formed slowly by the action of water and rock scouring down through hard Proterozoic crystalline rock.\n\nNo other canyon in North America combines the narrow opening, sheer walls, and startling depths offered by the Black Canyon of the Gunnison.\n\nNo other canyon in North America combines the narrow opening, sheer walls, and startling depths offered by the Black Canyon of the Gunnison.",
+   "link": "https://www.nps.gov/blca/",
+   "coordinates": [
+    -107.68619,
+    38.55479
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "bryce-canyon-national-park",
+  "name": "Bryce Canyon National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Hoodoos - grotesque, eerie and often whimsical... are on display here, along with ancient trees and scenic views from the rim.\n\nFamous for its unique geology of red rock spires and horseshoe-shaped amphitheaters, Bryce offers the visitor a \"Far View\" from the eastern edge of the Paunsaugunt Plateau in southern Utah.",
+   "link": "https://www.nps.gov/brca/",
+   "coordinates": [
+    -112.16912,
+    37.64021
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "canyonlands-national-park",
+  "name": "Canyonlands National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Canyonlands preserves a colorful landscape eroded into countless canyons, mesas and buttes by the Colorado River and its tributaries. The rivers divide the park into four districts: the Island in the Sky, the Needles, the Maze and the rivers themselves. While these areas share a primitive desert atmosphere, each retains its own character and offers different opportunities for exploration.",
+   "link": "https://www.nps.gov/cany/",
+   "coordinates": [
+    -109.86277,
+    38.35313
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "capitol-reef-national-park",
+  "name": "Capitol Reef National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "The Waterpocket Fold, a 100-mile long wrinkle in the earth's crust known as a monocline, extends from nearby Thousand Lakes Mountain to the Colorado River (now Lake Powell). Capitol Reef National Park was established to protect this grand and colorful geologic feature, as well as the unique natural and cultural history found in the area.",
+   "link": "https://www.nps.gov/care/",
+   "coordinates": [
+    -111.26141,
+    38.29125
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "carlsbad-caverns-national-park",
+  "name": "Carlsbad Caverns National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "As you pass through the Chihuahuan Desert and Guadalupe Mountains of southeastern New Mexico and west Texas—filled with prickly pear, chollas, sotols and agaves—you might never guess there are more than 300 known caves beneath the surface. The park contains 113 of these caves, formed when sulfuric acid dissolved the surrounding limestone, creating some of the largest caves in North America.",
+   "link": "https://www.nps.gov/cave/",
+   "coordinates": [
+    -104.44411,
+    32.17496
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "channel-islands-national-park",
+  "name": "Channel Islands National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "none",
+   "description": "Close to the California mainland, yet worlds apart, Channel Islands National Park encompasses five remarkable islands (Anacapa, Santa Cruz, Santa Rosa, San Miguel, and Santa Barbara) and their ocean environment, preserving and protecting a wealth of natural and cultural resources. Isolation over thousands of years has created unique animals, plants, and archeological resources found nowhere else on Earth and helped preserve a place where visitors can experience coastal southern California as it once was.",
+   "link": "https://www.nps.gov/chis/",
+   "coordinates": [
+    -119.57897,
+    34.02136
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "congaree-national-park",
+  "name": "Congaree National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Home of Champions!\n\nWelcome to the largest remnant of old-growth floodplain forest remaining on the continent! Experience national and state champion trees, towering to record size amidst astonishing biodiversity. Walk, paddle or just relax within this dynamic floodplain ecosystem. Beauty and tranquility reign supreme in the midst of this natural treasure.",
+   "link": "https://www.nps.gov/cosw/",
+   "coordinates": [
+    -80.82406,
+    33.83035
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "crater-lake-national-park",
+  "name": "Crater Lake National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Crater Lake has inspired people for hundreds of years. No place else on earth combines a deep, pure lake, so blue in color; sheer surrounding cliffs, almost two thousand feet high; two picturesque islands; and a violent volcanic past. It is a place of immeasurable beauty, and an outstanding outdoor laboratory and classroom.\n\nCrater Lake is located in Southern Oregon on the crest of the Cascade Mountain range, 100 miles (160 km) east of the Pacific Ocean. It lies inside a caldera, or volcanic basin, created when the 12,000 foot (3,660 meter) high Mount Mazama collapsed 7,700 years ago following a large eruption.\n\nGenerous amounts of winter snow, averaging 533 inches (1,354 cm) per year, supply the lake with water. There are no inlets or outlets to the lake. Crater Lake, at 1,943 feet (592 meters) deep, is the seventh deepest lake in the world and the deepest in the United States. Evaporation and seepage prevent the lake from becoming any deeper.",
+   "link": "https://www.nps.gov/crla/",
+   "coordinates": [
+    -122.13391,
+    42.89642
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "cuyahoga-valley-national-park",
+  "name": "Cuyahoga Valley National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Along the \"Crooked River\"\n\nThough a short distance from the urban environments of Cleveland and Akron, Cuyahoga Valley National Park seems worlds away. The winding Cuyahoga—the \"crooked river\" as named by American Indians—gives way to deep forests, rolling hills, and open farmlands. The park is a refuge for flora and fauna, gives a sense of times past, and provides recreation and solitude for Ohio's residents and visitors.",
+   "link": "https://www.nps.gov/cuva/",
+   "coordinates": [
+    -81.55881,
+    41.26289
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "death-valley-national-park",
+  "name": "Death Valley National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Death Valley National Park: A Land of Extremes\n\nHottest, Driest, Lowest: A superlative desert of streaming sand dunes, snow-capped mountains, multicolored rock layers, water-fluted canyons and three million acres of stone wilderness. Home to the Timbisha Shoshone and to plants and animals unique to the harshest deserts. A place of legend and a place of trial.",
+   "link": "https://www.nps.gov/deva/",
+   "coordinates": [
+    -116.86581,
+    36.46083
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "denali-national-park",
+  "name": "Denali National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Denali’s dynamic glaciated landscape supports a diversity of wildlife with grizzly bears, caribou, wolves, Dall sheep and moose. Summer slopes are graced with birds and wildflowers. Visitors enjoy sightseeing, backpacking, mountaineering, and research opportunities. Whether climbing or admiring, the crowning jewel of North America’s highest peak is the awe inspiring 20,320 foot Mount McKinley.",
+   "link": "https://www.nps.gov/dena/",
+   "coordinates": [
+    -148.91453,
+    63.73034
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "dry-tortugas-national-park",
+  "name": "Dry Tortugas National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Guardian of the Gulf\n\nAlmost 70 miles (112.9 km) west of Key West lies a cluster of seven islands, composed of coral reefs and sand, called the Dry Tortugas. Along with the surrounding shoals and waters, they make up Dry Tortugas National Park. The area is known for its famous bird and marine life, its legends of pirates and sunken gold, and its military past.",
+   "link": "https://www.nps.gov/drto/",
+   "coordinates": [
+    -82.8727,
+    24.62673
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "everglades-national-park",
+  "name": "Everglades National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "There is only one Everglades in the World.\n\nEverglades National Park is the largest subtropical wilderness in the United States. The area boasts rare and endangered species, such as the American crocodile, Florida panther, and West Indian manatee. It has been designated an International Biosphere Reserve, a World Heritage Site, and a Wetland of International Importance, in recognition of its significance to all the people of the world.",
+   "link": "https://www.nps.gov/ever/",
+   "coordinates": [
+    -80.92821,
+    25.13938
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gates-of-the-arctic-national-park",
+  "name": "Gates of the Arctic National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Wilderness Adventure\n\nThe floatplane disappears, leaving you on the lakeshore. For the next two weeks you must survive using the knowledge, skills and gear you bring with you. Traveling through this vast wilderness you will discover craggy ridges, glacier carved valleys and fragile flowers. You will walk or float through intact ecosystems where people have lived with the land for thousands of years. You will experience solitude, self reliance and nature on its own terms. Are you prepared?",
+   "link": "https://www.nps.gov/gaar/",
+   "coordinates": [
+    -153.26412,
+    67.56595
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gateway-arch-national-park",
+  "name": "Gateway Arch National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -90.18679,
+    38.62506
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "glacier-national-park",
+  "name": "Glacier National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Welcome to Glacier National Park\n\nCome and experience Glacier's pristine forests, alpine meadows, rugged mountains, and spectacular lakes. With over 700 miles of trails, Glacier is a hiker's paradise for adventurous visitors seeking wilderness and solitude. Relive the days of old through historic chalets, lodges, transportation, and stories of Native Americans. Explore Glacier National Park and discover what awaits you.",
+   "link": "https://www.nps.gov/glac/",
+   "coordinates": [
+    -113.99508,
+    48.52769
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "glacier-bay-national-park",
+  "name": "Glacier Bay National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "The marine wilderness of Glacier Bay National Park and Preserve includes tidewater glaciers, snow-capped mountain ranges, ocean coastlines, deep fjords, and freshwater rivers and lakes. This diverse land and seascape hosts a mosaic of plant communities and a variety of marine and terrestrial wildlife and presents many opportunities for adventuring ( learning ( about this unique and powerful place.",
+   "link": "https://www.nps.gov/glba/planyourvisit/index.htm)and",
+   "coordinates": [
+    -135.86157,
+    58.44675
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "grand-canyon-national-park",
+  "name": "Grand Canyon National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "A powerful and inspiring landscape, the Grand Canyon overwhelms our senses through its immense size; 277 river miles (446km) long, up to 18 miles (29km) wide, and a mile (1.6km) deep.",
+   "link": "https://www.nps.gov/grca/",
+   "coordinates": [
+    -112.13638,
+    36.05696
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "grand-teton-national-park",
+  "name": "Grand Teton National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Located in northwestern Wyoming, Grand Teton National Park preserves a spectacular landscape rich with majestic mountains, pristine lakes and extraordinary wildlife. The abrupt vertical rise of the jagged Teton Range contrasts with the horizontal sage-covered valley and glacial lakes at their base, creating world-renowned scenery that attracts nearly four million visitors per year.",
+   "link": "https://www.nps.gov/grte/",
+   "coordinates": [
+    -110.71685,
+    43.65727
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "great-basin-national-park",
+  "name": "Great Basin National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "In the shadow of 13,063-foot Wheeler Peak, 5,000 year old bristlecone pine trees grow on rocky glacial moraines. Come to Great Basin National Park to experience the solitude of the desert, the smell of sagebrush after a thunderstorm, the darkest of night skies, and the beauty of Lehman Caves. Far from a wasteland, the Great Basin is a diverse region that awaits your discovery.",
+   "link": "https://www.nps.gov/grba/",
+   "coordinates": [
+    -114.21954,
+    39.00558
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "great-sand-dunes-national-park",
+  "name": "Great Sand Dunes National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Alpine tundra, forests, massive dunes, grasslands, and wetlands are all protected as elements of the Great Sand Dunes natural system.",
+   "link": "https://www.nps.gov/grsa/",
+   "coordinates": [
+    -105.51192,
+    37.73261
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "great-smoky-mountains-national-park",
+  "name": "Great Smoky Mountains National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "A Wondrous Diversity of Life\n\nRidge upon ridge of forest straddles the border between North Carolina and Tennessee in Great Smoky Mountains National Park. World renowned for its diversity of plant and animal life, the beauty of its ancient mountains, and the quality of its remnants of Southern Appalachian mountain culture, this is America’s most visited national park.",
+   "link": "https://www.nps.gov/grsm/",
+   "coordinates": [
+    -83.30538,
+    35.51539
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "guadalupe-mountains-national-park",
+  "name": "Guadalupe Mountains National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Welcome to Guadalupe Mountains National Park\n\nGuadalupe Mountains National Park safeguards the world's finest example of a fossilized reef, a surprisingly complex and unique assemblage of flora and fauna, and West Texas' only legally designated wilderness. Here, one can experience solitude, tranquility, and the joy of finding plants and animals whose mastery of survival renews our sense of wonder.",
+   "link": "https://www.nps.gov/gumo/",
+   "coordinates": [
+    -104.85352,
+    31.93352
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "haleakala-national-park",
+  "name": "Haleakala National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Haleakala National Park\n\nThis special place vibrates with stories of ancient and modern Hawaiian culture and protects the bond between the land and its people. The park also cares for endangered species some of which exist nowhere else. Come visit this special place - renew your spirit of adventure amid stark volcanic landscapes, sub-tropical rain forest and the unforgettable experience of hiking the backcountry.",
+   "link": "https://www.nps.gov/hale/",
+   "coordinates": [
+    -156.24664,
+    20.75938
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "hawaii-volcanoes-national-park",
+  "name": "Hawaii Volcanoes National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Hawai‘i Volcanoes National Park\n\nHawai‘i Volcanoes National Park displays the results of 70 million years of volcanism, migration, and evolution -- processes that thrust a bare land from the sea and clothed it with unique ecosystems, and a distinct human culture. The park highlights two of the world's most active volcanoes, and offers insights on the birth of the Hawaiian Islands and views of dramatic volcanic landscapes.",
+   "link": "https://www.nps.gov/havo/",
+   "coordinates": [
+    -155.25732,
+    19.4294
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "hot-springs-national-park",
+  "name": "Hot Springs National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Hot Springs in the Middle of Town\n\nPeople have used the hot springs here for more than two hundred years to treat illnesses and to relax. Both rich and poor came for the baths, and a town built up around the Hot Springs Reservation to accommodate them. Together nicknamed \"The American Spa,” Hot Springs National Park today surrounds the north end of the city of Hot Springs, Arkansas.",
+   "link": "https://www.nps.gov/hosp/",
+   "coordinates": [
+    -93.05343,
+    34.51373
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "indiana-dunes-national-park",
+  "name": "Indiana Dunes National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -87.06356,
+    41.65862
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "isle-royale-national-park",
+  "name": "Isle Royale National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "none",
+   "description": "A Superior Wilderness\n\nIsle Royale’s physical isolation and primitive wilderness challenged human use for centuries; ironically today it has become the Island’s main attraction. Accessible only by boat or seaplane, visitors come to experience this island park through hiking its trails, paddling its inland waterways, exploring its rugged coast, or venturing into the depth of its shipwrecks.",
+   "link": "https://www.nps.gov/isro/index.htm",
+   "coordinates": [
+    -89.15785,
+    47.91163
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "joshua-tree-national-park",
+  "name": "Joshua Tree National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "A Desert Park\n\nViewed from the road, this desert park only hints at its vitality. Closer examination reveals a fascinating variety of plants and animals that make their home in this land shaped by strong winds, unpredictable torrents of rain, and climatic extremes. Dark night skies, a rich cultural history, and surreal geologic features add to the attraction of this place. Come see for yourself!",
+   "link": "https://www.nps.gov/jotr/",
+   "coordinates": [
+    -115.81981,
+    33.74735
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "katmai-national-park",
+  "name": "Katmai National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Katmai National Park & Preserve\n\nKatmai National Monument was created in 1918 to preserve the famed Valley of Ten Thousand Smokes, a spectacular forty square mile, 100 to 700 foot deep ash flow deposited by Novarupta Volcano. A National Park & Preserve since 1980, today Katmai is still famous for volcanoes, but also for brown bears, pristine waterways with abundant fish, remote wilderness, and a rugged coastline.",
+   "link": "https://www.nps.gov/katm/",
+   "coordinates": [
+    -155.7791,
+    58.55169
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kenai-fjords-national-park",
+  "name": "Kenai Fjords National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Kenai Fjords National Park\n\nAt the tip of the Kenai Peninsula lies a land where the ice age still lingers. In Kenai Fjords, glaciers, earthquakes, and ocean storms are the architects. Ice worms, bears and whales make their home in this land of constant change. Native Alutiiq used these resources to nurture a life entwined with the sea. Explore this site to discover Kenai Fjords, its history, science and remote splendor.",
+   "link": "https://www.nps.gov/kefj/",
+   "coordinates": [
+    -149.4349,
+    60.10521
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kings-canyon-national-park",
+  "name": "Kings Canyon National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "A LAND OF GIANTS\n\nThese two parks testify to nature's size, beauty, and diversity: Immense mountains, rugged foothills, deep canyons, vast caverns, and the world’s largest trees!\n\nThe parks lie in the southern Sierra Nevada, east of the San Joaquin Valley. Activities vary greatly by season and elevation - which ranges from 1300' to 14,494' (see Climate below).",
+   "link": "https://www.nps.gov/seki/",
+   "coordinates": [
+    -118.66874,
+    36.79212
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kobuk-valley-national-park",
+  "name": "Kobuk Valley National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "none",
+   "description": "Wilderness Adventure\n\nCaribou, sand dunes, the Kobuk River, Onion Portage - just some of the facets of Kobuk Valley National Park. Half a million caribou migrate through, their tracks crisscrossing sculpted dunes. The Kobuk River is an ancient and current path for people and wildlife. For 9000 years, people came to Onion Portage to harvest caribou as they swam the river. Even today, that rich tradition continues.",
+   "link": "https://www.nps.gov/kova/",
+   "coordinates": [
+    -159.06301,
+    67.39137
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "lake-clark-national-park",
+  "name": "Lake Clark National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Lake Clark National Park and Preserve\n\nLake Clark National Park and Preserve was created to protect scenic beauty (volcanoes, glaciers, wild rivers and waterfalls), populations of fish and wildlife, watersheds essential for red salmon, and the traditional lifestyle of local residents.\n\nLake Clark's spectacular scenery provides a true wilderness experience for those who visit.",
+   "link": "https://www.nps.gov/lacl/",
+   "coordinates": [
+    -154.321,
+    60.20081
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "lassen-volcanic-national-park",
+  "name": "Lassen Volcanic National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Lassen Volcanic National Park\n\nTo visit Lassen Volcanic National Park is to witness a brief moment in the ancient battle between the earth shaping forces of creation and destruction in Northern California. Nestled within Lassen’s peaceful forests and untouched wilderness, hissing fumaroles and boiling mud pots still shape and change the land, evidence of Lassen’s long fiery and active past.",
+   "link": "https://www.nps.gov/lavo/",
+   "coordinates": [
+    -121.53426,
+    40.4375
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mammoth-cave-national-park",
+  "name": "Mammoth Cave National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "none",
+   "description": "A Grand, Gloomy and Peculiar Place\n\nMammoth Cave National Park preserves the cave system and a part of the Green River valley and hilly country of south central Kentucky. This is the world's longest cave system, with more than 365 miles explored. Early guide Stephen Bishop called the cave a \"grand, gloomy and peculiar place,\" but its vast chambers and complex labyrinths have earned its name: Mammoth.",
+   "link": "https://www.nps.gov/maca/",
+   "coordinates": [
+    -86.1002,
+    37.18658
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mesa-verde-national-park",
+  "name": "Mesa Verde National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Mesa Verde National Park\n\nMesa Verde, Spanish for green table, offers a spectacular look into the lives of the Ancestral Pueblo people who made it their home for over 700 years, from A.D. 600 to A.D. 1300. Today, the park protects over 4,000 known archeological sites, including 600 cliff dwellings. These sites are some of the most notable and best preserved in the United States.",
+   "link": "https://www.nps.gov/meve/",
+   "coordinates": [
+    -108.49806,
+    37.25798
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mount-rainier-national-park",
+  "name": "Mount Rainier National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Mount Rainier National Park\n\nA Source of Inspiration\n\nLearn about glaciers. Discover life in a rainforest. Hike the Wonderland Trail. Explore subalpine ecology. Watch clouds shroud the mountain and disappear. Visit a rustic historic building. Dream about climbing to the summit. Study geology. Experience a mountain meadow. Listen to a glacier crack. Observe the wildlife...and wonder!",
+   "link": "https://www.nps.gov/mora/",
+   "coordinates": [
+    -121.73969,
+    46.78413
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "national-park-of-american-samoa",
+  "name": "National Park of American Samoa",
+  "region": "us-parks",
+  "original": {
+   "policy": "none",
+   "description": "American Samoa\n\nSamoa, a chain of mountainous islands clothed in tropical rainforest, is ringed with rugged cliffs, glistening beaches, and biologically rich coral reefs.\n\nThe Samoan village leaders and the U.S. Congress have set aside the finest samples of the islands' land and seascapes as a national park.",
+   "link": "https://www.nps.gov/npsa/",
+   "coordinates": [
+    -170.7009,
+    -14.27933
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "north-cascades-national-park",
+  "name": "North Cascades National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "North Cascades National Park Service ComplexJagged peaks, deep valleys, cascading waterfalls and over 300 glaciers adorn the North Cascades National Park Service Complex. Three park units in this mountainous region are managed as one and include North Cascades National Park, Ross Lake, and Lake Chelan National Recreation Areas. These complementary protected lands are united by a contiguous overlay of Stephen Mather Wilderness.",
+   "link": "https://www.nps.gov/noca/",
+   "coordinates": [
+    -121.26426,
+    48.66621
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "olympic-national-park",
+  "name": "Olympic National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "A Land of Contrasts and Variety\n\nHere you will find Pacific Ocean beaches, rain forest valleys, glacier-capped peaks and a stunning variety of plants and animals. Roads provide access to the outer edges of the park, but the heart of Olympic is wilderness; a primeval sanctuary for humans and wild creatures alike.",
+   "link": "https://www.nps.gov/olym/",
+   "coordinates": [
+    -123.43114,
+    48.10068
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "petrified-forest-national-park",
+  "name": "Petrified Forest National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Petrified Forest National Park\n\nWith one of the world's largest and most colorful concentrations of petrified wood, multi-hued badlands of the Painted Desert, historic structures, archeological sites, and displays of 225 million year old fossils, this is a surprising land of scenic wonders and fascinating science.",
+   "link": "https://www.nps.gov/pefo/",
+   "coordinates": [
+    -109.78248,
+    35.06626
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "pinnacles-national-park",
+  "name": "Pinnacles National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "An Ancient Volcanic Field\n\nRising out of the chaparral-covered Gabilan Mountains, east of central California's Salinas Valley, are the spectacular remains of an ancient volcanic field. Massive monoliths, spires, sheer-walled canyons and talus passages define millions of years of erosion, faulting and tectonic plate movement.",
+   "link": "https://www.nps.gov/pinn",
+   "coordinates": [
+    -121.14704,
+    36.4938
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "redwood-national-park",
+  "name": "Redwood National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "none",
+   "description": "More Than Redwoods\n\nStand at the base of a coast redwood and the huckleberry bushes tower over you. Watch statuette Roosevelt elk grazing in the prairies. Observe the tail of a female Chinook salmon heave skyward as she makes a nest for her eggs. Whether a morning or night person, you can hear theendangered ( marbled murrelets' keer across the treetops as they fly from sea to mossy nest.",
+   "link": "https://www.nps.gov/redw/index.htm#CP_JUMP_12796)",
+   "coordinates": [
+    -124.09006,
+    41.28571
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "rocky-mountain-national-park",
+  "name": "Rocky Mountain National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "From lush valleys to craggy peaks\n\nThis living showcase of the grandeur of the Rocky Mountains, with elevations ranging from 8,000 feet in the wet, grassy valleys to 14,259 feet at the weather-ravaged top of Longs Peak, provides visitors with opportunities for countless breathtaking experiences and adventures.",
+   "link": "https://www.nps.gov/romo/",
+   "coordinates": [
+    -105.5608,
+    40.36639
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "saguaro-national-park",
+  "name": "Saguaro National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Welcome to Saguaro National Park\n\nEnormous cacti, silhouetted by the setting sun, for most of us the Giant Saguaro is the universal symbol of the American West. And yet, these majestic plants are only found in a small portion of the United States. Saguaro National Park protects some of the most impressive forests of these sub-tropical giants, on the edge of the modern City of Tucson.",
+   "link": "https://www.nps.gov/sagu/",
+   "coordinates": [
+    -111.19702,
+    32.25358
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sequoia-national-park",
+  "name": "Sequoia National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "A LAND OF GIANTS\n\nThese two parks testify to nature's size, beauty, and diversity: Immense mountains, rugged foothills, deep canyons, vast caverns, and the world’s largest trees!\n\nThe parks lie in the southern Sierra Nevada, east of the San Joaquin Valley. Activities vary greatly by season and elevation - which ranges from 1300' to 14,494' (see Climate below).",
+   "link": "https://www.nps.gov/seki/",
+   "coordinates": [
+    -118.73423,
+    36.6044
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "shenandoah-national-park",
+  "name": "Shenandoah National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Shenandoah, a wilderness oasis in the busy east . . .\n\nGazing across the horizon from the peaks of Shenandoah National Park it’s hard to believe you are just 75 miles from the bustle of our nation’s capital. Take Skyline Drive along the crest of the mountains through the woods and past spectacular vistas. Hike in the shade of oak trees along the Appalachian Trail, discover the stories from Shenandoah’s past, or just relax in the wonder of wilderness.",
+   "link": "https://www.nps.gov/shen/",
+   "coordinates": [
+    -78.20463,
+    38.87152
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "theodore-roosevelt-national-park",
+  "name": "Theodore Roosevelt National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Theodore Roosevelt National Park\n\nTheodore Roosevelt first came to the badlands in September 1883 on a hunting trip. While here he became interested in the cattle business and invested in the Maltese Cross Ranch. He returned the next year and established the Elkhorn Ranch. Years later he stated several times, \"I never would have been President if it had not been for my experiences in North Dakota.\"",
+   "link": "https://www.nps.gov/thro/",
+   "coordinates": [
+    -103.52539,
+    46.91656
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "virgin-islands-national-park",
+  "name": "Virgin Islands National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "American Paradise\n\nVirgin Islands National Park’s hills, valleys and beaches are breath-taking. However, within its 7,000 plus acres on the island of St. John is the complex history of civilizations - both free and enslaved - dating back more than a thousand years, all who utilized the land and the sea for survival.",
+   "link": "https://www.nps.gov/viis/",
+   "coordinates": [
+    -64.79376,
+    18.33188
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "voyageurs-national-park",
+  "name": "Voyageurs National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Explore the Lakes of the North Woods\n\nNearly 200 years ago voyageurs paddled birch bark canoes full of animal pelts and trade goods through this area on their way to Lake Athabaska, Canada.\n\nToday, people explore the park by houseboat, motorboat, canoe and kayak.\n\nVoyageurs is a water-based park where you must leave your car and take to the water to fully experience the lakes, islands and shorelines of the park.",
+   "link": "https://www.nps.gov/voya/",
+   "coordinates": [
+    -92.85037,
+    48.43481
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wind-cave-national-park",
+  "name": "Wind Cave National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Wind Cave National Park\n\nOne of the world's longest and most complex caves and 28,295 acres of mixed-grass prairie, ponderosa pine forest, and associated wildlife are the main features of the park. The cave is well known for its outstanding display of boxwork, an unusual cave formation composed of thin calcite fins resembling honeycombs. The park's mixed-grass prairie is one of the few remaining and is home to native wildlife such as bison, elk, pronghorn, mule deer, coyotes, and prairie dogs.",
+   "link": "https://www.nps.gov/wica/",
+   "coordinates": [
+    -103.47853,
+    43.55606
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wrangell-st-elias-national-park",
+  "name": "Wrangell-St Elias National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": "Wrangell-St. Elias National Park & Preserve\n\nThe Chugach, Wrangell, and Saint Elias ranges converge here in what is often referred to as the \"mountain kingdom of North America.\" The largest unit of the National Park System, this spectacular wilderness includes the continent's largest assemblage of glaciers, and greatest collection of peaks above 16,000 feet, including 18,008’ Mount St. Elias, the second highest peak in the United States.",
+   "link": "https://www.nps.gov/wrst/",
+   "coordinates": [
+    -142.24266,
+    61.20794
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "yellowstone-national-park",
+  "name": "Yellowstone National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "roads",
+   "description": "Welcome to Yellowstone National Park!\n\nEstablished in 1872, Yellowstone National Park is America's first national park. Located in Wyoming, Montana, and Idaho, it is home to a large variety of wildlife including grizzly bears, wolves, bison, and elk. Preserved within Yellowstone National Park are Old Faithful and a collection of the world's most extraordinary geysers and hot springs, and the Grand Canyon of the Yellowstone.",
+   "link": "https://www.nps.gov/yell/",
+   "coordinates": [
+    -110.55733,
+    44.39296
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "yosemite-national-park",
+  "name": "Yosemite National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Not just a great Valley... but a shrine to human foresight, strength of granite, power of glaciers, the persistence of life, and the tranquility of the High Sierra.\n\nYosemite National Park, one of the first wilderness parks in the United States, is best known for its waterfalls, but within its nearly 1,200 square miles, you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much more.",
+   "link": "https://www.nps.gov/yose/",
+   "coordinates": [
+    -119.59077,
+    37.74656
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "zion-national-park",
+  "name": "Zion National Park",
+  "region": "us-parks",
+  "original": {
+   "policy": "trails",
+   "description": "Utah's First National Park\n\nMassive canyon walls ascend toward a brilliant blue sky. To experience Zion, you need to walk among the towering cliffs, or challenge your courage in a small narrow canyon. These unique sandstone cliffs range in color from cream, to pink, to red. They could be described as sand castles crowning desert canyons.",
+   "link": "https://www.nps.gov/zion/",
+   "coordinates": [
+    -112.97949,
+    37.20953
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "banff-national-park",
+  "name": "Banff National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -115.92806,
+    51.49685
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "bruce-peninsula-national-park",
+  "name": "Bruce Peninsula National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -81.52483,
+    45.2284
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "cape-breton-highlands-national-park",
+  "name": "Cape Breton Highlands National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -60.7686,
+    46.81351
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "elk-island-national-park",
+  "name": "Elk Island National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -112.83666,
+    53.58298
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "forillon-national-park",
+  "name": "Forillon National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -64.25676,
+    48.83343
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "fundy-national-park",
+  "name": "Fundy National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -65.03163,
+    45.61378
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "georgian-bay-islands-national-park",
+  "name": "Georgian Bay Islands National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -79.86851,
+    44.87422
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "glacier-national-park-of-canada",
+  "name": "Glacier National Park of Canada",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -117.52976,
+    51.33529
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "grasslands-national-park-of-canada",
+  "name": "Grasslands National Park of Canada",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -107.42133,
+    49.1251
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gros-morne-national-park",
+  "name": "Gros Morne National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -57.75576,
+    49.65202
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gulf-islands-national-park-reserve",
+  "name": "Gulf Islands National Park Reserve",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -123.15204,
+    48.78051
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gwaii-haanas-national-park-reserve-and-haida-heritage-site",
+  "name": "Gwaii Haanas National Park Reserve and Haida Heritage Site",
+  "region": "canada-parks",
+  "original": {
+   "policy": "none",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -131.55823,
+    52.46827
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ivvavik-national-park",
+  "name": "Ivvavik National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -139.83398,
+    69.09406
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "jasper-national-park",
+  "name": "Jasper National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -117.95429,
+    52.87338
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kejimkujik-national-park-seaside",
+  "name": "Kejimkujik National Park Seaside",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -65.30023,
+    44.35042
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kluane-national-park-and-reserve",
+  "name": "Kluane National Park and Reserve",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -139.5,
+    60.75
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kootenay-national-park",
+  "name": "Kootenay National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -115.95921,
+    50.97694
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kouchibouguac-national-park",
+  "name": "Kouchibouguac National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -64.96494,
+    46.79564
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "la-mauricie-national-park",
+  "name": "La Mauricie National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "roads",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -73,
+    46.83333
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mingan-archipelago-national-park-reserve",
+  "name": "Mingan Archipelago National Park Reserve",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -63.59199,
+    50.2458
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mount-revelstoke-national-park",
+  "name": "Mount Revelstoke National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -118,
+    51.08333
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "naats-ihch-oh-national-park-reserve",
+  "name": "Nááts'ihch'oh National Park Reserve",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -128.17613,
+    62.51661
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "nahanni-national-park-reserve-of-canada",
+  "name": "Nahanni National Park Reserve of Canada",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -125.50047,
+    61.5007
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "pacific-rim-national-park-reserve",
+  "name": "Pacific Rim National Park Reserve",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -125.15636,
+    48.79193
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "point-pelee-national-park",
+  "name": "Point Pelee National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -82.51844,
+    41.96277
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "prince-albert-national-park",
+  "name": "Prince Albert National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -106.38889,
+    53.92569
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "prince-edward-island-national-park",
+  "name": "Prince Edward Island National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -63.07354,
+    46.41585
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "pukaskwa-national-park",
+  "name": "Pukaskwa National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -85.88821,
+    48.24568
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "riding-mountain-national-park",
+  "name": "Riding Mountain National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -100.22195,
+    50.8553
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "rouge-national-urban-park",
+  "name": "Rouge National Urban Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -79.22315,
+    43.93768
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sable-island-national-park",
+  "name": "Sable Island National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "none",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -59.91317,
+    43.93044
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "terra-nova-national-park-visitor-center",
+  "name": "Terra Nova National Park Visitor Center",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -53.94941,
+    48.57963
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "thousand-islands-national-park",
+  "name": "Thousand Islands National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -76.05093,
+    44.34258
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "torngat-mountains-national-park-reserve-of-canada",
+  "name": "Torngat Mountains National Park Reserve of Canada",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -64.10898,
+    59.18041
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "tuktut-nogait-national-park",
+  "name": "Tuktut Nogait National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -121.81268,
+    68.7498
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ukkusiksalik-national-park-of-canada",
+  "name": "Ukkusiksalik National Park of Canada",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -90.4655,
+    65.76956
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "vuntut-national-park",
+  "name": "Vuntut National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -139.86479,
+    68.39085
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wapusk-national-park",
+  "name": "Wapusk National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -93.1583,
+    57.78613
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "waterton-lakes-national-park",
+  "name": "Waterton Lakes National Park",
+  "region": "canada-parks",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -113.91667,
+    49.08333
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wood-buffalo-national-park-of-canada",
+  "name": "Wood Buffalo National Park of Canada",
+  "region": "canada-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -112.8764,
+    59.4395
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-de-la-gaspesie",
+  "name": "Parc national de la Gaspésie",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -66.12243,
+    48.94742
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-du-bic",
+  "name": "Parc national du Bic",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -68.80493,
+    48.35478
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-du-lac-temiscouata",
+  "name": "Parc national du Lac-Témiscouata",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -68.84791,
+    47.69689
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-de-frontenac",
+  "name": "Parc national de Frontenac",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.16273,
+    45.84046
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-du-mont-megantic",
+  "name": "Parc national du Mont-Mégantic",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.12594,
+    45.42329
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-du-mont-orford",
+  "name": "Parc national du Mont-Orford",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -72.18816,
+    45.32278
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-de-la-yamaska",
+  "name": "Parc national de la Yamaska",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -72.61604,
+    45.42822
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-des-iles-de-boucherville",
+  "name": "Parc national des Îles-de-Boucherville",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -73.46853,
+    45.59869
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-d-oka",
+  "name": "Parc national d'Oka",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -74.06048,
+    45.47393
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-de-plaisance",
+  "name": "Parc national de Plaisance",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -75.10857,
+    45.59894
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-du-mont-tremblant",
+  "name": "Parc national du Mont-Tremblant",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -74.5101,
+    46.26117
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-de-la-jacques-cartier",
+  "name": "Parc national de la Jacques-Cartier",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.36959,
+    47.17545
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-des-grands-jardins",
+  "name": "Parc national des Grands-Jardins",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -70.21917,
+    47.69033
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-des-hautes-gorges-de-la-riviere-malbaie",
+  "name": "Parc national des Hautes-Gorges-de-la-Rivière-Malbaie",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -70.42949,
+    47.85453
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-du-fjord-du-saguenay",
+  "name": "Parc national du Fjord-du-Saguenay",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -70.33531,
+    48.30074
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-de-la-pointe-taillon",
+  "name": "Parc national de la Pointe-Taillon",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.87314,
+    48.67803
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "parc-national-d-aiguebelle",
+  "name": "Parc national d'Aiguebelle",
+  "region": "quebec-parks",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -78.74897,
+    48.51045
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sawtooth-national-forest",
+  "name": "Sawtooth National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "targhee-national-forest",
+  "name": "Targhee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "caribou-national-forest",
+  "name": "Caribou National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "humboldt-national-forest",
+  "name": "Humboldt National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "uinta-national-forest",
+  "name": "Uinta National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "inyo-national-forest",
+  "name": "Inyo National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mendocino-national-forest",
+  "name": "Mendocino National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sequoia-national-forest",
+  "name": "Sequoia National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "toiyabe-national-forest",
+  "name": "Toiyabe National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wasatch-national-forest",
+  "name": "Wasatch National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "cache-national-forest",
+  "name": "Cache National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "angeles-national-forest",
+  "name": "Angeles National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "cleveland-national-forest",
+  "name": "Cleveland National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "eldorado-national-forest",
+  "name": "Eldorado National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "klamath-national-forest",
+  "name": "Klamath National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "lassen-national-forest",
+  "name": "Lassen National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "los-padres-national-forest",
+  "name": "Los Padres National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "modoc-national-forest",
+  "name": "Modoc National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "six-rivers-national-forest",
+  "name": "Six Rivers National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "plumas-national-forest",
+  "name": "Plumas National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "san-bernardino-national-forest",
+  "name": "San Bernardino National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "trinity-national-forest",
+  "name": "Trinity National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mt-baker-national-forest",
+  "name": "Mt. Baker National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "siskiyou-national-forest",
+  "name": "Siskiyou National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "umpqua-national-forest",
+  "name": "Umpqua National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "conecuh-national-forest",
+  "name": "Conecuh National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "tuskegee-national-forest",
+  "name": "Tuskegee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "daniel-boone-national-forest",
+  "name": "Daniel Boone National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "oconee-national-forest",
+  "name": "Oconee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "deschutes-national-forest",
+  "name": "Deschutes National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gifford-pinchot-national-forest",
+  "name": "Gifford Pinchot National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "malheur-national-forest",
+  "name": "Malheur National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "snoqualmie-national-forest",
+  "name": "Snoqualmie National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mt-hood-national-forest",
+  "name": "Mt. Hood National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ochoco-national-forest",
+  "name": "Ochoco National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "olympic-national-forest",
+  "name": "Olympic National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "rogue-river-national-forest",
+  "name": "Rogue River National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "siuslaw-national-forest",
+  "name": "Siuslaw National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "umatilla-national-forest",
+  "name": "Umatilla National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wallowa-national-forest",
+  "name": "Wallowa National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "whitman-national-forest",
+  "name": "Whitman National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "okanogan-national-forest",
+  "name": "Okanogan National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "roosevelt-national-forest",
+  "name": "Roosevelt National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "pike-national-forest",
+  "name": "Pike National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "san-juan-national-forest",
+  "name": "San Juan National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "shoshone-national-forest",
+  "name": "Shoshone National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "white-river-national-forest",
+  "name": "White River National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sitgreaves-national-forest",
+  "name": "Sitgreaves National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "carson-national-forest",
+  "name": "Carson National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "cibola-national-forest",
+  "name": "Cibola National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "coronado-national-forest",
+  "name": "Coronado National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kaibab-national-forest",
+  "name": "Kaibab National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "lincoln-national-forest",
+  "name": "Lincoln National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "santa-fe-national-forest",
+  "name": "Santa Fe National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "tonto-national-forest",
+  "name": "Tonto National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "boise-national-forest",
+  "name": "Boise National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "bridger-national-forest",
+  "name": "Bridger National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "dixie-national-forest",
+  "name": "Dixie National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "fishlake-national-forest",
+  "name": "Fishlake National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "payette-national-forest",
+  "name": "Payette National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "tongass-national-forest",
+  "name": "Tongass National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kaniksu-national-forest",
+  "name": "Kaniksu National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "apalachicola-national-forest",
+  "name": "Apalachicola National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "holly-springs-national-forest",
+  "name": "Holly Springs National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "delta-national-forest",
+  "name": "Delta National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "tombigbee-national-forest",
+  "name": "Tombigbee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "homochitto-national-forest",
+  "name": "Homochitto National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "st-francis-national-forest",
+  "name": "St. Francis National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "pisgah-national-forest",
+  "name": "Pisgah National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "uwharrie-national-forest",
+  "name": "Uwharrie National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "nantahala-national-forest",
+  "name": "Nantahala National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "croatan-national-forest",
+  "name": "Croatan National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "francis-marion-national-forest",
+  "name": "Francis Marion National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "davy-crockett-national-forest",
+  "name": "Davy Crockett National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "chippewa-national-forest",
+  "name": "Chippewa National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "hoosier-national-forest",
+  "name": "Hoosier National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "chequamegon-national-forest",
+  "name": "Chequamegon National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "allegheny-national-forest",
+  "name": "Allegheny National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "white-mountain-national-forest",
+  "name": "White Mountain National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "coeur-d-alene-national-forest",
+  "name": "Coeur D Alene National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gallatin-national-forest",
+  "name": "Gallatin National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "clearwater-national-forest",
+  "name": "Clearwater National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "grand-mesa-national-forest",
+  "name": "Grand Mesa National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "medicine-bow-national-forest",
+  "name": "Medicine Bow National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "rio-grande-national-forest",
+  "name": "Rio Grande National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "san-isabel-national-forest",
+  "name": "San Isabel National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "apache-national-forest",
+  "name": "Apache National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "coconino-national-forest",
+  "name": "Coconino National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gila-national-forest",
+  "name": "Gila National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "prescott-national-forest",
+  "name": "Prescott National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ashley-national-forest",
+  "name": "Ashley National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "teton-national-forest",
+  "name": "Teton National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "manti-la-sal-national-forest",
+  "name": "Manti-La Sal National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "shasta-national-forest",
+  "name": "Shasta National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sierra-national-forest",
+  "name": "Sierra National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "stanislaus-national-forest",
+  "name": "Stanislaus National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "tahoe-national-forest",
+  "name": "Tahoe National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wenatchee-national-forest",
+  "name": "Wenatchee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "willamette-national-forest",
+  "name": "Willamette National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "colville-national-forest",
+  "name": "Colville National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "talladega-national-forest",
+  "name": "Talladega National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "william-b-bankhead-national-forest",
+  "name": "William B. Bankhead National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "chattahoochee-national-forest",
+  "name": "Chattahoochee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "cherokee-national-forest",
+  "name": "Cherokee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "osceola-national-forest",
+  "name": "Osceola National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ocala-national-forest",
+  "name": "Ocala National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kisatchie-national-forest",
+  "name": "Kisatchie National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "de-soto-national-forest",
+  "name": "De Soto National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "bienville-national-forest",
+  "name": "Bienville National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ouachita-national-forest",
+  "name": "Ouachita National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sumter-national-forest",
+  "name": "Sumter National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sabine-national-forest",
+  "name": "Sabine National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "sam-houston-national-forest",
+  "name": "Sam Houston National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "angelina-national-forest",
+  "name": "Angelina National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "el-yunque-national-forest",
+  "name": "El Yunque National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "huron-national-forest",
+  "name": "Huron National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "manistee-national-forest",
+  "name": "Manistee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "mark-twain-national-forest",
+  "name": "Mark Twain National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ottawa-national-forest",
+  "name": "Ottawa National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "shawnee-national-forest",
+  "name": "Shawnee National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "superior-national-forest",
+  "name": "Superior National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "hiawatha-national-forest",
+  "name": "Hiawatha National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "nicolet-national-forest",
+  "name": "Nicolet National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "wayne-national-forest",
+  "name": "Wayne National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "green-mountain-national-forest",
+  "name": "Green Mountain National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "monongahela-national-forest",
+  "name": "Monongahela National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "chugach-national-forest",
+  "name": "Chugach National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "bitterroot-national-forest",
+  "name": "Bitterroot National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "st-joe-national-forest",
+  "name": "St. Joe National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "flathead-national-forest",
+  "name": "Flathead National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "custer-national-forest",
+  "name": "Custer National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "kootenai-national-forest",
+  "name": "Kootenai National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "lewis-clark-national-forest",
+  "name": "Lewis & Clark National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "helena-national-forest",
+  "name": "Helena National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "lolo-national-forest",
+  "name": "Lolo National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "nezperce-national-forest",
+  "name": "Nezperce National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "bighorn-national-forest",
+  "name": "Bighorn National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "black-hills-national-forest",
+  "name": "Black Hills National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "gunnison-national-forest",
+  "name": "Gunnison National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "uncompahgre-national-forest",
+  "name": "Uncompahgre National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "routt-national-forest",
+  "name": "Routt National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "nebraska-national-forest",
+  "name": "Nebraska National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "samuel-r-mckelvie-national-forest",
+  "name": "Samuel R. McKelvie National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "arapaho-national-forest",
+  "name": "Arapaho National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "status": "pending"
+ },
+ {
+  "id": "fremont-national-forest",
+  "name": "Fremont National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -121.31362,
+    42.93736
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "winema-national-forest",
+  "name": "Winema National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -121.81363,
+    42.93735
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "salmon-national-forest",
+  "name": "Salmon National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -114.5012,
+    45.25019
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "challis-national-forest",
+  "name": "Challis National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -114.75119,
+    44.25019
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "george-washington-national-forest",
+  "name": "George Washington National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -79.16642,
+    38.5004
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "ozark-national-forest",
+  "name": "Ozark National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -93.50526,
+    35.71758
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "jefferson-national-forest",
+  "name": "Jefferson National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -80.66645,
+    37.2504
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "finger-lakes-national-forest",
+  "name": "Finger Lakes National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -76.78968,
+    42.51063
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "beaverhead-national-forest",
+  "name": "Beaverhead National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -113.00115,
+    45.5002
+   ]
+  },
+  "status": "pending"
+ },
+ {
+  "id": "deerlodge-national-forest",
+  "name": "Deerlodge National Forest",
+  "region": "us-forests",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -112.33418,
+    46.08326
+   ]
+  },
+  "status": "pending"
+ }
+]

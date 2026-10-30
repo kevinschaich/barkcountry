@@ -1,0 +1,36 @@
+- [Skip to main content](https://parks.canada.ca/pn-np/nl/mealy/visit/map#wb-cont)
+- [Skip to "About government"](https://parks.canada.ca/pn-np/nl/mealy/visit/map#wb-info)
+- [Switch to basic HTML version](https://parks.canada.ca/pn-np/nl/mealy/visit/map?wbdisable=true)
+
+# Maps and brochures
+
+## Akami-Uapishkᵁ-KakKasuak-Mealy Mountains National Park Reserve
+
+For reliable hiking maps of the Akami-Uapishkᵁ-KakKasuak-Mealy Mountains National Park Reserve, the 1:50,000 scale National Topographic System (NTS) maps series are recommended. There are 25 maps that cover the national park reserve. A complete list of maps and their NTS map numbers are listed below. Visitors should determine which maps they require and obtain the appropriate maps before exploring the national park reserve.
+
+[**View Park Map**](https://pcweb2.azureedge.net/-/media/pn-np/nl/mealy/visit/MMNPR-Basemap-web.jpg)
+
+[**Download NTS Map Index (pdf 4.6MB)**](https://pcweb2.azureedge.net/-/media/pn-np/nl/mealy/visit/MMNPR-Basemap-NTS.pdf)
+
+For a general route planning or reconnaissance type map, the following 1:250,000 scale topographical maps are also available. These maps have less detail than the 1:50,000 scale maps but they cover more area. There are four maps that cover the park.
+
+_**1:250,000 scale NTS maps**_
+
+- 13B - Pakut-Shipu
+- 13G - Lake Melville
+- 13H - Cartwright
+- 13I - Groswater Bay
+
+### A word regarding the NTS maps and GPS receivers
+
+Many hikers use handheld GPS devices in conjunction with the NTS maps to navigate. Many of the NTS maps use an older datum called North American Datum 1927 (Nad27). GPS receivers utilize the World Geodetic System 84 (WGS 84) datum. If your map utilizes a datum other than WGS-84 you must transform the GPS coordinates to the datum used by your map, or you may incur a navigational error in excess of 200 meters. For more information regarding map datums search for “Map Datum” on the [Natural Resources Canada Web site](https://natural-resources.canada.ca/home).
+
+### **Where to obtain maps**
+
+Please refer to the [Map section](https://natural-resources.canada.ca/maps-tools-and-publications/maps/22020) of the [Natural Resources Canada website](https://natural-resources.canada.ca/home) for more information, including [where to obtain topographic maps](https://natural-resources.canada.ca/maps-tools-and-publications/maps/topographic-maps/10995). Digital versions of the 1:50,000 NTS maps are also available on the Natural Resources Canada Web site by using the [Geogratis search tool](https://geogratis.gc.ca/).
+
+## Related links
+
+- [Getting here](https://parks.canada.ca/pn-np/nl/mealy/visit/visit2)
+
+Date modified : 2025-06-11

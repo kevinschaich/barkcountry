@@ -1,0 +1,38 @@
+{
+ "id": "haleakala-national-park",
+ "name": "Haleakalā National Park",
+ "policy": "roads",
+ "policyReason": "Dogs are allowed only in parking lots, on roads and paved paths.",
+ "summary": "Dogs are allowed only in parking lots, on roads and paved paths.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed on a leash no longer than 6 feet within the campground and on the roads within campground boundaries.",
+   "url": "https://www.nps.gov/hale/planyourvisit/kipahulu-campground.htm"
+  },
+  {
+   "quote": "Dogs are not permitted on trails.",
+   "url": "https://www.nps.gov/hale/planyourvisit/kipahulu-campground.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on trails or at Hosmer Grove Campground.",
+   "url": "https://www.nps.gov/hale/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Allowed in the Kīpahulu campground.",
+   "url": "https://www.nps.gov/hale/planyourvisit/kipahulu-campground.htm"
+  },
+  {
+   "text": "Do not bring dogs into buildings.",
+   "url": "https://www.nps.gov/hale/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/hale",
+ "petsUrl": "https://www.nps.gov/hale/planyourvisit/pets.htm",
+ "coordinates": [
+  -156.15515,
+  20.7204
+ ],
+ "coordinatesSource": "Wikidata Q1137640"
+}

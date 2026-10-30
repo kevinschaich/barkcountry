@@ -1,0 +1,27 @@
+{
+ "id": "ozark-national-forest",
+ "name": "Ozark National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may use trails under verbal or physical restraint.",
+ "summary": "Dogs may use trails under verbal or physical restraint.",
+ "excerpts": [
+  {
+   "quote": "On trails, dogs must be under verbal or physical restraint at all times.",
+   "url": "https://www.fs.usda.gov/r08/ozark-stfrancis/about-area/faqs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash in campgrounds, picnic areas, parking areas and trailheads.",
+   "url": "https://www.fs.usda.gov/r08/ozark-stfrancis/about-area/faqs"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/osfnf",
+ "petsUrl": "https://www.fs.usda.gov/r08/ozark-stfrancis/about-area/faqs",
+ "coordinates": [
+  -93.50526,
+  35.71758
+ ],
+ "coordinatesSource": "original map",
+ "unit": "Ozark-St. Francis National Forests"
+}

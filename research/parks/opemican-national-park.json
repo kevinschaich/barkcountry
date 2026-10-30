@@ -1,0 +1,34 @@
+{
+ "id": "opemican-national-park",
+ "name": "Opémican National Park",
+ "policy": "trails",
+ "policyReason": "Dogs are allowed on all canoe-camping routes and one campground loop.",
+ "summary": "Dogs are allowed on all canoe-camping routes and one campground loop.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis dans tous nos parcours de canot-camping.",
+   "url": "https://www.sepaq.com/pq/ope/index.dot"
+  },
+  {
+   "quote": "dogs are generally allowed on the summer trails from early May to late October.",
+   "url": "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs are allowed on all canoe-camping routes.",
+   "url": "https://www.sepaq.com/pq/ope/index.dot"
+  },
+  {
+   "text": "Boucle des Draveurs campground allows dogs; Boucle des Cageux does not.",
+   "url": "https://www.sepaq.com/pq/ope/index.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/ope/index.dot",
+ "petsUrl": null,
+ "coordinates": [
+  -79.1025,
+  46.885
+ ],
+ "coordinatesSource": "Wikidata Q15395907"
+}

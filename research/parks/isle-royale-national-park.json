@@ -1,0 +1,34 @@
+{
+ "id": "isle-royale-national-park",
+ "name": "Isle Royale National Park",
+ "policy": "none",
+ "policyReason": "Only service dogs are allowed on Isle Royale; no pets, even on boats in park waters.",
+ "summary": "Only service dogs are allowed on Isle Royale; no pets, even on boats in park waters.",
+ "excerpts": [
+  {
+   "quote": "Only service dogs are allowed on Isle Royale.",
+   "url": "https://www.nps.gov/isro/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on boats within park waters, 4.5 miles out into Lake Superior.",
+   "url": "https://www.nps.gov/isro/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Service dogs need a permit before the trip.",
+   "url": "https://www.nps.gov/isro/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Leashed pets allowed outdoors at the Houghton Visitor Center.",
+   "url": "https://www.nps.gov/isro/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/isro",
+ "petsUrl": "https://www.nps.gov/isro/planyourvisit/pets.htm",
+ "coordinates": [
+  -88.9092899,
+  47.9958654
+ ],
+ "coordinatesSource": "Wikidata Q163515"
+}

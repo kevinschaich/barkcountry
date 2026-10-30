@@ -1,0 +1,26 @@
+{
+ "id": "theodore-roosevelt-national-park",
+ "name": "Theodore Roosevelt National Park",
+ "policy": "roads",
+ "policyReason": "Dogs are not permitted on trails within the park.",
+ "summary": "Dogs are not permitted on trails within the park.",
+ "excerpts": [
+  {
+   "quote": "While dogs are not permitted on trails within the park, there are nearby trails where you can take your dogs for some exercise.",
+   "url": "https://www.nps.gov/thro/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "The Maah Daah Hey Trail outside the park allows pets.",
+   "url": "https://www.nps.gov/thro/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/thro/index.htm",
+ "petsUrl": "https://www.nps.gov/thro/planyourvisit/pets.htm",
+ "coordinates": [
+  -103.45,
+  46.966666666
+ ],
+ "coordinatesSource": "Wikidata Q1137669"
+}

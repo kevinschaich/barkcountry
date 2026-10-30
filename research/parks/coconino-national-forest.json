@@ -1,0 +1,26 @@
+{
+ "id": "coconino-national-forest",
+ "name": "Coconino National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed in most areas.",
+ "summary": "Leashed dogs are allowed in most areas.",
+ "excerpts": [
+  {
+   "quote": "Pets are typically allowed in most areas of the Coconino National Forest.",
+   "url": "https://www.fs.usda.gov/r03/coconino/about-area/faqs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be leashed and controlled; pack out pet waste.",
+   "url": "https://www.fs.usda.gov/r03/coconino/about-area/faqs"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/coconino",
+ "petsUrl": "https://www.fs.usda.gov/r03/coconino/about-area/faqs",
+ "coordinates": [
+  -111.764444444,
+  34.7575
+ ],
+ "coordinatesSource": "Wikidata Q1105434"
+}

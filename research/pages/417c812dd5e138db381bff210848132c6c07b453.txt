@@ -1,0 +1,1399 @@
+# GALLATIN NATIONAL FOREST
+
+# PROPOSED TRAVEL MANAGEMENT PLAN
+
+# FINAL ENVIRONMENTAL IMPACT STATEMENT
+
+## SUMMARY
+
+### PURPOSE AND NEED FOR ACTION
+
+#### Introduction
+
+This document is a summary of the Final Environmental Impact Statement (FEIS) which discloses
+the potential environmental consequences of implementing alternatives for managing public access 
+and travel within the Gallatin National Forest, Montana.  The Final EIS will be used in conjunction 
+with public comment, legal requirements and other information to establish a Travel Management 
+Plan for the Forest.  The Travel Management Plan will identify and establish opportunities for
+public recreation use and access using the Forest’s road and trail system.  For each road and trail it 
+will specify the types of uses that are appropriate including passenger car pleasure driving, high
+clearance vehicle use, ATV use, motorcycle use, biking, horseback riding, snowmobiling, hiking
+and skiing.  The Plan will also address off-route travel.  The Plan will establish travel management 
+goals, objectives, standards and guidelines for the Forest as a whole and specific sub-areas referred 
+to as Travel Planning Areas (TPAs).  In general, goals and objectives provide a basis for future sitespecific action proposals for management of the transportation system while standards and 
+guidelines identify sideboards (or limitations) within which those actions must be designed.
+
+In conjunction with the proposed Travel Management Plan, current direction in the Gallatin 
+National Forest Land and Resource Management Plan (Forest Plan) pertaining to management of 
+the transportation system is proposed to be removed through amendment.<sup>1</sup>
+
+The FEIS has been prepared as required by the National Environmental Policy Act (NEPA), The 
+Council on Environmental Quality Regulations for implementing NEPA provisions (40 CFR 1500), 
+the National Forest Management Act and its accompanying regulations, as well as applicable Forest
+Service Manuals, Handbooks and other higher-level direction.  This Summary is intended to 
+provide an overview of the issues and alternatives considered in the FEIS and a broad comparison
+
+<sup>1</sup>In the Draft EIS, amendment of the Gallatin National Forest Land and Resource Management Plan (Forest Plan) was 
+proposed to remove existing direction pertaining to the management of travel and incorporate the Travel Management
+Plan as part of the Forest Plan.  In the past few years Agency thinking has evolved to the point that Forest Plans are
+strategic documents, they do not make final agency action decisions.  This thinking culminated in the revision, in
+January of 2005, of the regulations for implementing the National Forest Management Act (NFMA) at 36 CFR 219. 
+The Forest Service no longer proposes to incorporate the route designation decisions and programmatic direction of the 
+Travel Management Plan as part of the Forest Plan.  Instead, the Travel Management Plan would be a stand-alone
+document.  In summary, the revised regulations at 36 CFR 219 direct that Forest Plans no longer make final agency 
+decisions.  The proposed Travel Management Plan would make final agency decisions (e.g. appropriate uses of roads 
+and trails) and therefore would not be consistent with the principles of a revised Forest Plan.
+
+---
+
+of the potential consequences of those alternatives at a forest-wide scale.  For brevity this Summary
+does not describe specific details of the alternatives or the analysis of potential effects that may
+occur in specific areas.
+
+#### Background
+
+The Gallatin National Forest’s road and trail system was created over time; influenced by a number 
+of factors including land ownership patterns, use of Forest resources, legislation, recreation demand 
+and changes in public attitudes.  Public recreation use of this system has grown significantly and the
+types of uses enjoyed are more varied than they were 20, 50 and 100 years ago.  There was no grand 
+plan that led to the development of roads and trails nor the types of uses we see on them today.  It is 
+a reflection of the needs and desires of our culture throughout the history of the Forest.
+
+Much of the Forest, outside of what is currently Wilderness, was and is in a checkerboard 
+ownership pattern with alternating sections of public and private land.  These private inholdings 
+originated as part of the construction grants that Congress made to the Northern Pacific Railway 
+Company in the late 1800s and early 1900s.  Other private inholdings exist due to patented mining 
+claims and tracts acquired through the 1906 Forest Homestead Act.
+
+From the mid-1880s to 1910, the prominent uses of the Forest and private inholdings were for
+timber harvest (railroad tie hacking), livestock grazing, and mineral extraction.  Along with this 
+came the need for road and trail access, particular in the more accessible portions of tributaries to 
+the Gallatin and Yellowstone Rivers and in the Hebgen Lake Basin area.  Automobiles were first 
+permitted in Yellowstone National Park in 1915 and this led to additional recreation use along 
+access routes to the Park.  From about 1910 to 1930, dude ranches became common further adding
+to the development and use of the trail system.  During the 1930s, the concepts of “wilderness” or
+“primitive” areas began to emerge.  This led to the establishment of the Spanish Peaks, the 
+Absaroka, and the Beartooth Primitive Areas.  The post-WWII era saw increased demands for wood 
+products and this coupled with advances in machinery led to pressure for more rapid development 
+of road systems into undeveloped forested backcountry.  Railroad land and other private inholdings
+were being harvested and this required road systems to be developed across the checkerboard 
+National Forest lands.  The cost-share road construction program began and continued into the
+1980s.  In the 1950s, grazing was declining and outfitter-guide operations for big game hunting 
+began to expand.  Horse travel in the backcountry grew accordingly.  Development for timber 
+harvest continued but public interest in the protection of other non-commodity resources and 
+preservation of undeveloped land grew in the 1960s.  This decade brought the passage of the 
+Multiple Use-Sustained Yield Act, the Wilderness Act and the National Environmental Policy Act.
+Throughout the 1970s and 1980s, timber harvest on the Gallatin National Forest became more and 
+more controversial, while recreation use of the trail system continued to grow.  The Absaroka-
+Beartooth Wilderness was established in 1978 and the Lee Metcalf Wilderness was established in 
+1983, providing a permanent prohibition on mechanized use or development in these areas. 
+Snowmobiling became popular, particularly in the West Yellowstone area, during the 1970s and use 
+levels have grown to this day.
+
+Up until the 1980s, public recreation use and travel on the Gallatin National Forest was not
+considered something that required much management control.  It was not controversial and 
+National Forest System lands and resources seemed capable of handling the variety of uses enjoyed by the public, including off-route vehicle use.  Since that time, increasing demand, new information 
+on the potential effects to resources and diverse personal value sets have brought more attention and 
+concern as to how the public uses the Forest.  There has never been a comprehensive analysis or
+management plan for travel on the Gallatin National Forest.  The Forest Service believes that the 
+demands for recreation opportunities are now reaching the point of exceeding the capability of the 
+land to provide them.  A Travel Management Plan is needed to effectively offer a variety of quality 
+recreation opportunities consistent with achieving management goals and objectives for other 
+resources.
+
+#### General Location and Geographic Setting
+
+The Gallatin National Forest contains approximately 1.8 million acres of National Forest System 
+land and is located along the northern and western boundaries of Yellowstone National Park in 
+southwest Montana (see Figure 1).  The Forest spans portions of Madison, Gallatin, Park, Meagher, 
+Sweetgrass and Carbon Counties.  Offices are located in the cities of Bozeman, Livingston, Big 
+Timber, Gardiner and West Yellowstone.  The Gallatin National Forest includes the Bridger, 
+Bangtail, Crazy, Absaroka, Beartooth, Gallatin and Madison Mountain Ranges.  Major rivers
+include the Gallatin, Madison and Yellowstone Rivers.
+
+Included in the Gallatin National Forest are the Lee Metcalf Wilderness Area and the Absaroka-
+Beartooth Wilderness Area covering approximately 716,000 acres.  Also included are the Cabin 
+Creek Recreation and Wildlife Management Area (approximately 37,000 acres) and the 
+Hyalite/Porcupine-Buffalo Horn Wilderness Study Area (approximately 155,000 acres).  In addition
+to these areas, approximately 704,000 acres of National Forest land have been inventoried as 
+roadless.  The remaining Forest lands have been mostly roaded and developed for mineral entry and 
+timber production.
+
+### Proposed Action
+
+The U.S. Forest Service, Gallatin National Forest, is proposing to adopt a management plan for 
+public access and travel within the Gallatin National Forest.  The proposed Travel Management 
+Plan would identify and establish opportunities for public recreation use and access using the 
+Forest’s road and trail system.  For each road and trail, it would specify the types of uses that would 
+be allowed and managed for.  Specified uses include passenger car pleasure driving, high clearance 
+vehicle use, ATV use, motorcycle use, biking, horseback riding, snowmobiling, hiking, skiing and 
+snowshoeing.  The Travel Plan would also establish goals, objectives and standards that provide 
+guidance for future management activities related to public access and travel.  The Final EIS 
+discloses the results of evaluating seven possible alternatives.  These are described in Chapter 2 of 
+the EIS and also in a separate document, “Detailed Description of the Alternatives.”  In general, the 
+actions proposed under the proposed alternatives are as follows.
+
+#### Establishment of Forest-wide Goals, Objectives, Standards and Guidelines for Travel Management
+
+As part of the Travel Management Plan, the Forest Service proposes to adopt broad goals, 
+objectives, standards and guidelines for travel management that would apply Forest-wide.  “Goals” describe, in general terms, the desired results to be achieved through implementation of the other 
+direction provided by the Travel Management Plan.  “Objectives” are statements identifying a 
+measurable target for the planning period designed to move toward achieving goals.  For travel 
+planning, Forest-wide objectives identify desired measurable targets for activities, use levels, or 
+quality of experience.  “Standards” are binding limitations placed on management activities, not 
+covered by law or regulation, that are designed to maintain a specified minimum level of resource 
+protection.  Proposed standards would establish sideboards within which future road and trail 
+construction, reconstruction, decommissioning or maintenance must take place.  Management 
+activities must be designed to be consistent with a standard unless the Travel Management Plan is
+changed.  “Guidelines” are preferable or advisable limits placed on management activities. 
+Guidelines are similar to standards except they are non-binding.  Future road and trail construction, 
+reconstruction, decommissioning or maintenance activities can deviate from a guideline.  A 
+guideline is used to direct management activities when there could be variability in specific 
+situations such that a standard becomes too rigid.  The specific goals, objectives, standards and 
+guidelines proposed under Alternatives 2 through 7-Modified (7-M) are described in the document, 
+“Detailed Description of the Alternatives.” Alternative 1 would not adopt proposed forest-wide 
+direction.
+
+#### Establishment of Travel Planning Area Goals, Objectives, Standards and Guidelines for Travel Management
+
+To facilitate clarity the Gallatin National Forest was geographically divided into 39 Travel Planning 
+Areas (TPAs) (Figure 1).  For each of these areas, the Forest Service proposes a unique set of goals, 
+objectives, standards and guidelines.  Goals and objectives would serve the same purpose as they do 
+Forest-wide except that they are tailored to apply to specific locations.  Goals and objectives set
+desired results and measurable targets to be achieved with travel management activities within the
+TPA.
+
+Similarly, standards and guidelines established for TPAs would serve the same purpose as Forestwide standards and guidelines, but again they are unique to that area.  Standards and guidelines 
+would be used to set sideboards on future projects and activities related to travel in order to ensure
+protection of various resources.  At the TPA-scale, standards and/or guidelines are proposed due to 
+a unique resource protection need in that area.
+
+The specific TPA goals, objectives, standards and guidelines proposed under Alternatives 2 through 
+7-M are described in the document, “Detailed Description of the Alternatives.”  Alternative 1 would 
+not adopt proposed TPA direction.
+
+#### Designation of the Modes of Travel Permissible and Managed for in Specific Areas and on Specific Roads and Trails of the Gallatin National Forest
+
+The Forest Service is proposing to identify and regulate the means of public travel across the 
+Gallatin National Forest, including travel that occurs on specific roads and trails.  In summary, this
+proposal contains the following components:
+
+---
+
+##### Motorized Use
+
+The proposed action would restrict summer motorized use to designated routes.  Snowmobiling 
+would be permitted off-route unless specifically restricted.
+
+##### Passenger Car Travel
+
+The proposal would designate up to 422 miles of the Gallatin National Forest road network for 
+passenger car travel.  This proposal includes seasonal restrictions that would be designed to protect 
+facilities as well as other resources.  The Forest’s central arterial road system may be nominated as
+Potential Public Forest Service Roads (PFSRs).  A PFSR is a National Forest road that may serve a
+variety of purposes (similar to a county road) where the construction and maintenance is paid for 
+out of the Federal Highway Trust Fund.  The PFSRs are identified on the summer motorized 
+alternative maps.
+
+##### 4 x 4 High-Clearance Vehicle Travel
+
+The proposal would designate up to 420 miles of the Gallatin National Forest road network for 4 x 4 
+high-clearance vehicles.  This is in addition to 320 miles of road that would also be designated for
+passenger car travel.  Seasonal restrictions would be adopted to protect road facilities and other 
+resources.
+
+##### ATV Travel
+
+The proposal would designate up to 390 miles of Gallatin National Forest road and 285 miles of 
+trail for ATV use.  Passenger car roads would also be available for properly licensed ATVs and 
+riders.  Seasonal restrictions would be adopted to protect road and trail facilities and other 
+resources.
+
+##### Motorcycle Travel
+
+The proposal would designate up to 470 miles of trail for motorcycle use.  Additionally, trails 
+designated for ATVs and roads designated for high-clearance vehicles are also available for
+motorcycle use.  Passenger car roads would be open to properly licensed motorcycles and riders. 
+Seasonal restrictions would be adopted to protect road and trail facilities and other resources.
+
+##### Mountain Bike Riding
+
+The proposal would emphasize mountain bike use on up to 1,335 miles of trail.  This includes trails
+that are also open to motorcycles and trail open to ATVs.  For the most part, the proposal would not 
+restrict mountain bike use elsewhere except in Wilderness areas and during the spring when trail 
+facilities are wet, soft and prone to damage.  Consideration is being given, in some alternatives, to 
+prohibiting or limiting mountain bike use within the Hyalite/Porcupine-Buffalo Horn Wilderness 
+Study Area, recommended wilderness, and on short trail segments that lead to designated 
+Wilderness.
+
+---
+
+Figure 1. Project Area Map including  
+                 TPA Boundaries
+
+---
+
+##### Horseback Riding
+
+Generally, the proposal would allow use of pack and saddle stock anywhere on the Forest, but it 
+would not be emphasized on roads and some trails open to ATVs.  Consideration is being given to 
+restricting use during the spring when facilities are wet, soft and prone to damage.  Year-round 
+restrictions are also being considered in the steep, rocky, high-elevation terrain of the Beartooth 
+Plateau and on the Lava Lake, Pine Creek and Sunlight trails.
+
+##### Hiking
+
+The proposal would allow hiking/walking anywhere on the Forest at any time of year, however 
+certain trails would be designated as non-motorized to provide for quiet, primitive and semiprimitive experiences.
+
+##### Snowmobiling
+
+The proposal would designate up to 520 miles of marked and groomed snowmobile trail and 
+snowmobile use would be legally permissible off-route on up to 960,000 acres.  In contrast, 
+consideration is also being given to restricting snowmobile use on up to 584,000 acres excluding 
+designated Wilderness that is already restricted by law.
+
+##### Cross-country Skiing and Snowshoeing
+
+The proposal would designate up to 260 miles of marked and groomed ski trail across the Gallatin
+National Forest.  Otherwise, no consideration is being given to restricting skiing or snowshoeing 
+anywhere on the Forest.
+
+##### Small Aircraft Landing Strips
+
+Alternatives 3 and 7-M include an objective (Forest-wide Objective A-6) to consider potential
+future proposals to authorize locations for landing/take-off of backcountry aircraft (airplanes and 
+helicopters).  Landing/take-off locations that are authorized would be constructed and maintained
+by site users.  Proposals would be processed in accordance with regulations for occupancy and use 
+of National Forest System lands.  Use would be regulated by special use authorization  If the 
+objective was adopted into the Travel Plan, future site-specific analysis under NEPA would be 
+required before any sites are approved, constructed or permitted for landing and take-off.  Table 1 
+displays the general locations where the Montana Pilots Association desires airstrips.
+
+**Table 1.  Desired general locations of backcountry airstrips.**
+**Name Location and Description**
+
+| Name | Location and Description |
+| --- | --- |
+| Bangtail Cabin Area | This area is located in Sections 7 and 8, T.1 S., R.8 E. of the Bridger Bangtail Range to the north of Bangtail Cabin. |
+| Bishop Park Area | This area is located in Sections 31 and 36, T.1 N., R.7 E. of the Bridger Bangtail Range southwest of Bishop Park. |
+| Upper Shields Area | This area is located in Sections 15 and 16, T.5 N., R.11 E. of the Shields River drainage in the northern end of the Crazies. |
+| Porcupine Cabin Area | This area is located in Section 10, T.4 N., R.10 E. of the Crazies just to the north of Porcupine Cabin. |
+| Bald Ridge Area | This area is located in Section 2, T.4 N., R.10 E. of the Crazies northeast of the Porcupine Cabin. |
+| Horse Butte Peninsula | This area is located in Section 15, T.13 S., R.4 E. of Horse Butte Peninsula as it juts into Hebgen Lake. |
+| South Plateau Area | This area is located in Section 21, T.15 S., R.5 E. on the Idaho border of the Madison Plateau south of West Yellowstone. |
+| Ferrell Lake Area | This area is located in Sections 25 and 26, T.7 S., R.6 E. on the north shore of Ferrell Lake in the lower Tom Miner Basin. |
+
+The types of opportunities proposed for each specific route under the seven alternatives are 
+described in tables under the direction for each Travel Planning Area in the document, “Detailed
+Description of the Alternatives.”  They are also displayed on the separate alternative maps that are
+available electronically.
+
+#### Adoption of Programmatic Direction (Goals, Objectives, Guidelines) for “Access”
+
+Within the proposed forest-wide programmatic direction presented in Chapter I of the “Detailed 
+Description of the Alternatives”, the Forest Service proposes a goal, objectives, and guidelines that 
+emphasize acquiring and protecting public and/or administrative access to all Gallatin National 
+Forest land.  One proposed objective includes a table and map that identifies specific locations and 
+the type of access that would be desired.  For Alternative 7-M refer to Goal B, Objectives B-1 
+through B-3, and Guidelines B-4 to B-9 in Chapter I of the “Detailed Description of the 
+Alternatives”.
+
+#### Amendment to Remove Specific Management Direction from the Existing Gallatin National Forest Land and Resource Management Plan
+
+The proposed Forest Plan amendment would remove certain existing Gallatin Forest Plan standards 
+and guidelines applicable to roads, trails and travel management.  A list of these standards and
+guidelines and the reason for removal is provided in Appendix A of the Final EIS.
+
+#### Development of a Monitoring Plan Associated with Travel Management
+
+In conjunction with the proposed actions described above the Forest is developing a monitoring 
+plan that, over time, will:
+
+1) Facilitate the gathering of information to periodically evaluate progress toward meeting the
+established goals and objectives of the Travel Management Plan and whether implementation is
+occurring as prescribed.
+
+2) Facilitate the gathering of information to periodically assess whether the actual effects of the 
+Travel Management Plan are consistent with those predicted in this EIS, and if not, to help
+determine what, if anything, should be changed in the Travel Management Plan to correct any 
+problems.
+
+---
+
+The monitoring plan is described in Appendix B of the Final EIS.
+
+### Need and Purpose
+
+#### Need for a Gallatin National Forest Travel Management Plan
+
+In general, the road and trail system and recreation use on the Gallatin National Forest have evolved 
+incrementally over many decades based on site-specific demands and capabilities.  There has never 
+been a comprehensive evaluation on whether it is the best way to provide for these demands in 
+conjunction with other resource uses and land stewardship needs.  Due to the trends in recreation 
+use and travel on the Forest, the acquisition of new land into public ownership, and the many 
+resource and environmental protection issues that have emerged, it is appropriate for the Gallatin
+National Forest to develop a travel management plan.
+
+#### Purpose for a Gallatin National Forest Travel Management Plan
+
+The purpose for the proposed Gallatin National Forest Travel Management Plan is to:
+
+1) Provide for public access and recreation travel on the Gallatin National Forest considering both 
+the quantity and quality of opportunities provided.
+
+2) Bring area, road and trail use into compliance with laws, regulations, and other higher-level 
+management direction.
+
+3) Establish objectives and/or restrictions to correct any unacceptable resource damage that is 
+occurring due to the use of Forest roads, trails and areas open to cross-country travel.
+
+4) Provide for public understanding of the types of use and season of use allowed for each road and 
+trail.
+
+5) Remove outdated, ineffective, and/or unclear existing Forest Plan standards and other direction 
+applicable to road and trail management.
+
+6) Identify administrative access routes to facilitate management of a variety of resources on the 
+Gallatin National Forest.
+
+#### Decisions To Be Made
+
+Decisions that are to be made through the travel planning process are as follows:
+
+1) To decide whether to adopt proposed Forest-wide goals, objectives, standards and guidelines for 
+recreation and travel management of the Gallatin National Forest (Chapter I of the “Detailed
+Description of the Alternatives”).
+
+2) To decide whether to adopt proposed travel planning area direction including travel planning 
+area goals and objectives, standards and guidelines for specific areas of the Gallatin National 
+Forest (Chapter II of the “Detailed Description of the Alternatives”).
+
+3) To determine the types of uses and season of use that are appropriate for each road and trail 
+(including potential new routes) on the Gallatin National Forest considering other resource 
+impacts and the quantity and quality of recreation opportunities provided (Chapter II of the 
+“Detailed Description of the Alternatives, Alternative Route-by-Route Management”).  The types of travel to be considered include the use of passenger cars, 4 x 4s, ATVs, motorcycles, 
+mountain bikes, pack and saddle stock, foot, snowmobiles, skis and snowshoes.
+
+4) To decide whether to restrict summer motorized uses (cars, trucks, SUVs, ATVs and 
+motorcycles) to specific routes designated for such use.
+
+5) To decide what areas, if any, should be restricted (either permanently or seasonally) to 
+snowmobile, mountain bike, or pack and saddle stock use.
+
+6)  To decide whether to amend the Gallatin Forest Plan to remove certain existing standards 
+applicable to road and trail management (Chapter III of the “Detailed Description of the 
+Alternatives”).
+
+#### The Scoping Process
+
+The first step in preparing an EIS on a proposed action is to determine what issues should be 
+considered.  To do this, the National Environmental Policy Act (NEPA) outlines a process termed
+“scoping” (40 CFR 1501.7).  This is an open process designed to determine the potential issues 
+associated with the proposed action.  The scoping process involves soliciting comments from other 
+agencies, organizations and individuals, as well as early evaluation of the action by Forest Service 
+specialists.
+
+Public involvement opportunities began with release of the “Starting Benchmark” proposed Travel 
+Management Plan in August 2002.  Written and verbal comments were accepted on the Benchmark
+until November 22, 2002.  Public involvement events occurring during this time included open 
+houses in area communities and meetings with interested groups and individuals.  Approximately 
+1,600 comments were received.
+
+Formal public involvement continued in August 2003 when six draft alternatives were released for
+review and comment.  Written comments were accepted until October 3, 2003.  Again, at this stage, 
+open houses were held in area communities to provide opportunities to discuss the alternatives with
+Forest Service representatives.  Approximately 3,200 comments were received.
+
+#### The Draft EIS Comment Period
+
+The Draft EIS was published in February 2005.  Written and electronic comments were accepted 
+until September 2, 2005, including 2 extensions.  Ten open houses were held in area communities 
+and 80 other face-to-face meetings were held with interested groups and individuals. Approximately 
+2,000 written comments and 8,000 electronic comments were received.
+
+Forest Service responses to comments received are posted on the Gallatin National Forest website at 
+http://www.fs.fed.us/r1/gallatin/travel_planning.  Copies of meeting notes, written comments
+received and the content analysis for the comment periods are included in the project file.
+
+#### Significant Issues
+
+One purpose of scoping is to determine the significant issues that should be analyzed in depth 
+within an EIS (40 CFR 1501.7).  The significant issues become the focus of interdisciplinary 
+interaction and alternative development.
+
+---
+
+On June 13, 2003, the interdisciplinary team of Forest Service specialists met to develop a list of 
+issues to consider as being potentially affected by human travel within the Gallatin National Forest.
+The public comments received on the Benchmark and initial evaluations by Forest Service 
+specialists were used to identify these issues.  On October 30, 2003, the interdisciplinary team again 
+met to modify and update this list of issues based on comments received on the draft alternatives. 
+No additional significant issues were identified during the comment period for the Draft EIS.  This 
+list of issues outlines the subject matter addressed in Chapter 3 of this Final EIS.
+
+The following issues are discussed in detail within the Final EIS:
+
+1. **Bald Eagle.**  Bald eagles may be affected by a variety of human activities that cause
+disturbance.  Responses of eagles may range from abandonment of nest sites to temporary 
+avoidance (temporal and spatial) of human activities.  Responses may also vary depending on type, 
+intensity, duration, timing, predictability and location of human activities.  Individual pairs may 
+respond differently to human disturbances because some bald eagles are more tolerant than others. 
+Generally, eagles are most sensitive to human activities during the nest building, egg laying, and 
+incubation periods, which are normally from February 1 to May 30.  Human travel is capable of 
+causing disturbance to bald eagles under the right circumstances.  Refer to Chapter 3 of the Final 
+EIS for a discussion of the potential effects of the travel alternatives on the endangered bald eagle 
+(particularly around Hebgen Lake during the winter months).
+
+2. **Big Game (Ungulates).**  Various types of travel may cause disturbance and displacement of 
+some big game species from important summer and winter habitat, resulting in lower big game
+populations.  Management of motorized travel on the Forest could also affect the vulnerability of 
+elk to hunting, leading to low mature bull elk numbers and possibly restricted hunting opportunities.  
+Refer to Chapter 3 of the Final EIS for a discussion of the potential effects of the travel alternatives 
+on big game and big game habitat.
+
+3. **Biological Diversity and Ecological Sustainability.**  Implementation of the Travel
+Management Plan must maintain viable populations of wildlife species on the Gallatin National
+Forest.  The question is, in what ways can travel management influence the viability of wildlife 
+species?  The direct effect of roads and trails may isolate populations of some species into 
+metapopulations and affect species viability, however this is much more likely to occur with major 
+highways not under the jurisdiction of the Forest Service.  The most likely threat to viability that
+could be caused by the Forest Service transportation system is damage to wildlife movement 
+corridors in areas not currently covered by recovery plans and other direction for threatened and 
+endangered and other species.  In addition, biodiversity could be affected by transportation routes 
+passing through old growth or other rare habitats such as willow, aspen, cottonwood and whitebark 
+pine.  Refer to Chapter 3 of the Final EIS for a discussion of the potential effects of the travel 
+alternatives on biological diversity and sustainability.
+
+4. **Cultural Resources.**  This issue concerns the potential effects that travel management under
+the seven alternatives may have on the scientific, traditional, cultural and intrinsic values of 
+archeological, cultural and historical sites on the Gallatin National Forest.  More specifically there 
+was concern that off-route motorized use could result in damage of archaeological, scientific, 
+historical and other significant sites. The Gallatin National Forest has over 900 recorded historical and archaeological sites.  Investigations reveal on the average of 30 new sites recorded each year. 
+Site densities can reach as high as 10 or more per 600 acres.  Many Forest Service trails follow 
+historic and even prehistoric routes, thus increasing the potential for motorized use to overlap or 
+bisect historic and prehistoric sites.  In addition, motorized use in high-elevation areas of the Crazy 
+Mountains (i.e., portions of the Ibex and East Crazies Travel Planning Areas (TPAs)) could have an 
+adverse effect to certain areas of traditional importance to the Crow Tribe.  New or significant
+increases in motorized use would affect their ability to conduct traditional practices in these high 
+elevation zones of the Crazy Mountains.  Refer to Chapter 3 of the Final EIS for a discussion of the 
+potential effects of the travel alternatives on cultural resources.
+
+5. **Social and Economic Impacts.**  The Greater Yellowstone Area, of which the Gallatin National 
+Forest is a part, is mountainous and offers abundant recreation and tourism opportunities.  The
+summer and winter recreation opportunities such as skiing and fishing help attract business and 
+labor to this area.  The three counties most affected by the National Forest are Gallatin, Park and 
+Sweetgrass.  The largest and fastest growing sectors of the economies of these counties are the 
+services and retail trade sectors.  Construction and manufacturing sectors are also growing.  While
+agriculture has been a historically important sector and still is, its relative size has decreased as 
+other sectors increase.  The effect of travel and recreation on the Gallatin Forest is tied indirectly 
+and in various degrees to all these economic sectors.  Refer to Chapter 3 of the Final EIS for a 
+discussion of the potential social and economic effects of the travel alternatives.
+
+6. **Enforcement.**  During scoping for revision of the Gallatin National Forest Travel Plan, numerous 
+comments were received regarding the agency’s ability to enforce travel management restrictions. 
+There is wide skepticism among some users about the ability to make travel management 
+restrictions effective, due to the perceived limited ability of the agency to enforce restrictions.  The 
+bulk of enforcement-related comments were tied to motorized uses of the Forest.  Refer to Chapter 
+3 of the Final EIS for a discussion of this issue.
+
+7. **Fisheries and Aquatic Life.**  Travel routes and various modes of travel on roads and trails 
+proposed in the Travel Management Plan may negatively impact aquatic habitat and biota, 
+including sensitive fish and amphibian species.   In most cases, the actual use, or mode of travel 
+(e.g., motorized versus non-motorized) is inconsequential.  Rather, it is the facility (i.e., road or 
+trail) that has potential to impact aquatic habitat and biota.  However, some uses have higher 
+potential to disturb soils and increase erosion potential on roads and trails versus other uses.  Refer 
+to Chapter 3 of the Final EIS for a discussion of this issue.
+
+8. **Forest Plan Amendments to Remove Existing Standards related to Travel Management.**
+The Forest Service is proposing to remove current Forest Plan direction in lieu of that proposed in 
+the Travel Plan.  The proposal to remove these existing standards would not directly result in 
+ground disturbance or environmental effect.  However, because some of these standards limit
+management activity or require maintenance of specific conditions, there is concern that their 
+removal from the Forest Plan would allow the Forest Service to pursue actions that would result in 
+greater adverse environmental effect.  Refer to Chapter 3 of the Final EIS for a discussion of this 
+issue.
+
+---
+
+9.  **General Wildlife.**  Various types of travel may affect a variety of wildlife species not otherwise 
+specifically addressed in this EIS.  Refer to Chapter 3 of the Final EIS for a discussion of this issue.
+
+10. **Grizzly Bear.**  The issue of travel management is important to the conservation of the grizzly 
+bear, a species currently listed as threatened under the Endangered Species Act.  The grizzly bear is 
+known to be sensitive to the effects of access management, especially as related to motorized use. 
+Grizzly bears tend to avoid areas used by motorized vehicles.    In addition, the subject of the effect
+of snowmobiling on denning and emerging grizzly bears was considered.  Refer to Chapter 3 of the 
+Final EIS for a discussion of the potential effects of the travel alternatives on the threatened grizzly 
+bear and its habitat.
+
+11.  **Transportation System Implementability.**  The Gallatin National Forest transportation
+system consists of over 2,100 miles of road and 2,800 miles of summer and winter trails.  The
+transportation system provides recreation opportunities within the National Forest, provides access 
+for forest management and protection, and provides access to private land inholdings.  This issue 
+concerns the potential effects of the Travel Plan decision on the transportation system of roads and 
+trails.  It addresses the schedule, costs and physical changes necessary to implement each of the 
+Travel Plan alternatives.  Refer to Chapter 3 of the Final EIS for a discussion of the estimated
+differences between alternatives.
+
+12. **Invasive Weeds.**    Invasive weeds are plants that are either legally declared “noxious” 
+weeds by the State of Montana, or other non-native plants that are aggressively spreading
+throughout the ecosystem.  Invasive weeds can significantly alter the native plant species 
+composition resulting in a decrease in habitat quality for wildlife and livestock, an increase in
+sediment levels of streams, and a decrease in aesthetic/recreational quality.  Human travel, 
+particularly motorized travel, can transport weed seed and thereby create new areas of infestation. 
+Refer to Chapter 3 of the Final EIS for a discussion of the potential effects of the travel alternatives 
+on the spread of invasive weeds.
+
+13. **Lynx.**  The Canada lynx was listed as a threatened species under the Endangered Species Act in 
+March 2000.  Lynx have been documented, historically and currently, throughout the Rocky 
+Mountains of Montana.  The effects to lynx have been identified as an issue as it relates to the 
+existing transportation plan and proposed Travel Plan alternatives.  Research suggests that the
+presence of roads can negatively affect lynx and lynx habitat, directly and indirectly.  In addition, 
+lynx are a prey specialist, largely dependent on snowshoe hares, and usually occur in the habitats 
+where snowshoe hares are most abundant (Claar et al 1999).  Lynx are specially adapted to survival
+in deep soft snow regions, such as the higher elevations in the northern Rocky Mountains.  Physical 
+adaptations to deep snow give lynx a competitive advantage over other predators, which include the 
+coyote, bobcat, and cougar.  Outside of deep snow areas, these generalist predators are believed to 
+exclude lynx through effective competition for food resources.  There is a concern that compacted 
+snow routes allow these other predators access up into areas that are normally the exclusive winter 
+range of the lynx.   Refer to Chapter 3 of the Final EIS for a discussion of the potential effects of the 
+travel alternatives on lynx and lynx habitat.
+
+14. **Migratory Birds.**  Many bird species are protected under the Migratory Bird Treaty Act (16 
+USC 703-711).  A January 2001 Executive Order requires agencies to ensure that environmental analyses evaluate the effects of federal actions and agency plans on migratory birds, with emphasis 
+on species of concern.  Over 200 species of migratory birds inhabit the Gallatin National Forest at 
+some stage in their life cycle (Cherry 1993).  Migratory birds are very diverse and include raptors, 
+waterfowl, shore birds, game birds and songbirds.  Human access and travel can affect migratory 
+birds primarily through disturbance.  Refer to Chapter 3 of the Final EIS for a discussion of the 
+potential effects of the travel alternatives on migratory birds.
+
+15. **Noise.**  Travel management decisions have the potential to change the types of vehicles that use 
+certain areas of the Forest. An issue raised during scoping for the benchmark proposal, and again 
+during the comment period for the six draft alternatives was the impact that noise from off-highway 
+vehicles (OHVs), snowmobiles and other motorized vehicles have on the quality of people’s 
+recreation experience.  Noise from motorcycles, ATVs and snowmobiles in particular can detract 
+from the natural setting some users have come to the Forest to enjoy.  Refer to Chapter 3 of the 
+Final EIS for a discussion of how the travel alternatives differ in terms of the noise that may be 
+generated from motorized travel.
+
+16. **Recreation.** Issues surrounding the way that people recreate on public lands have been growing 
+as populations increase and more people with divergent interests compete for finite recreation 
+resources.  During the comment period associated with the release of the Travel Plan Benchmark in 
+2002, and then during review of the draft alternatives in 2003, several common themes regarding 
+recreation issues surfaced.  Motorized recreationists feel that their opportunities to enjoy the Forest 
+have been greatly restricted over the last 35 years.  Non-motorized recreationists feel that expanding 
+motorized use on the Forest’s trail system is decreasing the quality of their trail and traditional 
+backcountry experiences, noting that the noise and odors associated with motorized equipment are
+particularly offensive to them.  Non-motorized recreationists specifically identified a shortfall in
+segregated non-motorized trail opportunities in the front-country, close to population centers, both 
+in the winter for cross country skiing and in the summer for hiking and biking.  Conflicts between 
+recreationists seeking different recreation experiences and types of settings have been increasing. 
+Refer to Chapter 3 of the Final EIS for a discussion of the variations in recreation opportunity and 
+quality of experience provided among the Travel Plan alternatives.
+
+17. **Riparian Areas.**  Riparian zones are diverse, dynamic and complex habitats.  They provide
+habitat for a variety of species including rare and threatened species, and are sites of biological and 
+physical interaction at the terrestrial/aquatic interface.  Riparian cover types make up less than 0.5% 
+of all land area in the Northern Region of the Forest Service yet tends to incur a disproportionate 
+amount of human activity.  Roads and trails passing through or parallel to riparian areas can affect 
+many wildlife species both directly and indirectly.  Many roads are located along streams, resulting 
+in direct loss of these habitats when built in riparian zones.  Riparian areas that have roads or trails
+directly adjacent to these important areas likely cause some species to be displaced or disturbed due
+to human use.  Streams tend to be desirable places to camp and recreate, which can result in indirect 
+effects of trampling of vegetation, concentration of human activities and subsequent wildlife
+displacement.  Refer to Chapter 3 of the Final EIS for a discussion of how the Travel Plan 
+alternatives may affect riparian habitats.
+
+18.   **Roadless Areas.**  Travel Plan revision proposals would make changes to how recreationists 
+use certain roads and trails.  Some facilities would have to be physically changed to accommodate a different use (for example a single-track trail currently being used by motorcycles may be converted 
+to a double-track trail dedicated to ATV and motorcycle use).  These changes in use may have an 
+effect on certain characteristics of roadless lands on the Gallatin Forest.  There is an identified
+concern over motorized recreation within roadless lands and the potential that motorized activities 
+like snowmobiling or riding ATVs have to diminish roadless character and/or negatively impact the 
+potential for future designation of some roadless areas as Wilderness.  Degradation of roadless land
+values, regardless of their suitability for future designation as Wilderness, has also been identified 
+as a concern relative to changing recreational uses.  Refer to Chapter 3 of the Final EIS for a 
+discussion of the potential effects of the Travel Plan alternatives on roadless areas, including the 
+Hyalite/Porcupine-Buffalo Horn Wilderness Study Area, the Gallatin Petrified Forest and other
+special areas.
+
+19.  **Soils.**  Recreational users can affect soil and vegetation productivity, cause soil compaction and 
+soil erosion.  Sediment from roads and trails may impact water quality of Forest streams, thus 
+affecting human, fish and wildlife health.  In addition, the widening of trails or off-route travel can 
+reduce forest/grassland productivity for wildlife and livestock.  Trails with eroding treads also 
+eventually become financial burdens to maintain.  Refer to Chapter 3 of the Final EIS for a 
+discussion of how the Travel Plan alternatives can affect soils.
+
+20.  **Watershed Management (Water Quality).**  Roads can increase sediment levels and are the 
+predominant non-natural sediment source in most managed forested watersheds including the
+Gallatin Forest.  Trails generally have reduced sediment impacts since trail prisms are much
+narrower than roads and cut and fill slopes are smaller. Most streams of the Gallatin Forest are 
+classified by the State of Montana as B-1. Waters classified as B-1 are suitable for drinking,
+culinary and food processing purposes after conventional treatment; bathing, swimming and 
+recreation; growth and propagation of salmonid fishes and associated aquatic life; waterfowl and 
+furbearers; and agricultural and industrial water supply.  This issue concerns the potential 
+sedimentation effects of road and trail use under the alternatives on streams and water quality. 
+Refer to Chapter 3 of the Final EIS for a discussion of how the Travel Plan alternatives and 
+cumulative impacts from timber harvest and fire can affect sediment levels.
+
+21. **Wilderness, Wilderness Study Areas, and recommended Wilderness.**  Travel Plan decisions 
+regarding the use of trails and dispersed areas have the potential to affect Wilderness qualities, and 
+characteristics of recommended Wilderness and Wilderness Study Areas (WSAs).  There is concern 
+that accreting motorized and mechanized recreation use of trails and areas in recommended 
+Wilderness and WSAs are detrimental to qualities that make them suitable for future Wilderness 
+designation.  Three specific concerns were raised:
+
+1) The physical impacts that motorized vehicles are having on trails that were originally designed 
+for hiking or stock (single-track trails becoming double track, erosion, spread of weeds, etc.).
+
+2) Increasing noise and volume of traffic (affecting opportunities for solitude and a primitive 
+recreation experience).
+
+3) The precedent that establishing motorized use in an area has on future potential for designation
+as Wilderness.  Refer to Chapter 3 of the Final EIS for a discussion of the potential effects of the 
+travel alternatives on Wilderness, WSAs, and recommended Wilderness.
+
+---
+
+22. **Wolverine.**  The wolverine *(Gulo gulo)* is a mid-sized forest carnivore that persists at low
+densities across the Gallatin Forest.  In this area, wolverines are classified as a Forest Service 
+Sensitive Species, which are those species identified by the Regional Forester for which population
+viability is a concern.  Implementation of travel management decisions would directly influence the
+spatial and temporal distribution of human activities on national forest lands.  Human activities, 
+including motorized and non-motorized access and associated recreation, can directly, indirectly
+and cumulatively influence wolverine distribution, reproduction and survival, and thus has the 
+potential to affect wolverine populations in the Gallatin Forest.  Refer to Chapter 3 of the Final EIS
+for a discussion of the potential effects of the Travel Plan alternatives on wolverine and wolverine
+habitat.
+
+23.  **Wolves.**  Wolves were reintroduced to the Greater Yellowstone Area in 1995, and were 
+designated a “non-essential experimental” population under Section 10 of the Endangered Species 
+Act.  After reintroduction, gray wolves quickly colonized areas of the Gallatin Forest adjacent to 
+Yellowstone National Park (YNP).  Whether various modes of travel could affect the wolf or wolf 
+habitat is of interest in travel planning.  Refer to Chapter 3 of the Final EIS for a discussion of the 
+potential effects of this issue.
+
+#### Other Issues
+
+NEPA provides for the identification and elimination from detailed study those issues which are not 
+significant or which have been covered by prior environmental review, thus narrowing the 
+discussion of those issues to a brief statement as to why they will not have a significant effect on the 
+human environment or by providing reference to their coverage elsewhere (40 CFR 1501.7(3)). 
+The following issues were evaluated but found not to be significant to decisions regarding human 
+travel on the Gallatin Forest.
+
+24. Air Quality.
+
+25. Research Natural Areas.
+
+26. Energy Consumption.
+
+27. Extractive Uses (Access for Timber Harvest, Mining and Grazing).
+
+28. Fire (Risk of Ignition).
+
+29. Fire/Fuels Management.
+
+30. Fragmentation (of Wildlife Habitat).
+
+31. Lands (Private Land Value).
+
+32. Public Safety.
+
+33. Rare Plants.
+
+34. Sensitive Wildlife.
+
+35. Snags/Down Woody Debris (As habitat for wildlife).
+
+36. Subnivian Small Mammals (Animals dwelling and/or foraging under snow).
+
+37. Tourism.
+
+38. Water (Snow) Chemistry.
+
+### Summary of Alternatives Studied in Detail
+
+The descriptions of the seven alternatives studied in detail within this EIS are long and complex,
+and therefore they are described in their entirety within a separate document entitled, “Detailed
+
+---
+
+Description of the Alternatives.”  This section summarizes these alternatives by discussing the 
+components and guiding themes used to develop them and by providing forest-wide comparisons of 
+the opportunities that would be provided under each.
+
+#### Guiding Themes
+
+Based on the resource evaluation of the proposed action (i.e. Starting Benchmark) and the public
+comments provided, the following themes emerged for developing the alternatives.  For the most 
+part, the issues and concerns over effects focused on motorized uses.  Therefore, the ranges of 
+alternatives vary mostly on the amount of motorized use opportunity provided.  Alternative 1 is the 
+least restrictive and Alternative 6 is the most restrictive.  Note that these were not used as rigid
+parameters for specific variations among the alternatives.
+
+##### Alternative 1 – no action
+
+This alternative is required under NEPA, plus it reflects a large share of the comments received. 
+There were many who stated that they like the Travel Plan the way it was before the January 2001 
+Montana/Dakota OHV decision and that the Benchmark proposal was overly restrictive, particularly 
+on motorized uses.  This alternative reflects the consequences of no change to the Travel 
+Management Plan outlined on the 1999 Gallatin National Forest Recreation Visitor Map.  It would 
+not further restrict summer motorized use to designated routes.  Existing snowmobile and seasonal 
+restrictions would remain unchanged.  Current Gallatin National Forest Plan direction would not be 
+amended.
+
+Alternative 1 has been identified as the alternative that best satisfies the NEPA requirement to study 
+the alternative of “no action” [40 CFR 1508.14(d)].  It reflects the types of uses displayed as legal
+on the 1999 Gallatin National Forest Recreation Visitor map.  It does not however exactly depict 
+what is currently occurring, or what would occur should the Forest Service fail to reach a decision. 
+Differences include:
+
+1) Alternative 1 would allow off-route OHV travel that is currently prohibited via the January 2001 
+Montana/Dakota OHV decision.
+
+2) Many trails displayed on the Visitor Map as legally open to ATVs, and included in Alternative 
+1, are not available to ATV riders due to tread width, slope, terrain, and/or trail grade and 
+configuration.  These trails are also not currently legally open because of the Regional 
+Forester’s Montana/Dakota OHV Decision.  If Alternative 1 were to be the selected alternative, 
+the Travel Management Plan would include objectives to reconstruct these trails to 
+accommodate ATVs in the future.  Failure to reach a decision would not establish such
+objectives.
+
+3) Failure to reach a decision on a proposed Forest Travel Management Plan would not preclude 
+establishing specific area and route restrictions nor restrict possible future proposals for road 
+and trail construction, reconstruction, maintenance and decommissioning.
+
+##### Alternative 2
+
+This alternative generally takes the current Travel Management Plan (i.e., the 1999 Gallatin 
+National Forest Recreation Visitor Map as modified by the 2001 Montana/Dakota OHV decision) 
+and focuses on incorporating mitigation to respond to issues rather than opting for some uses over others on specific routes.  Visitor information, education, law enforcement and monitoring are key 
+components to this alternative.  Reconstruction of routes to accommodate a new use would be kept 
+to a minimum but would be adopted as needed for routes currently receiving that type of use.  It 
+would adopt the policy of closed unless designated open for motorized uses of roads and trails.  In 
+addition, changes have been made that are in response to higher authorities such as law, regulation 
+or national policy.  Some new seasonal restrictions would also be adopted.  For the most part, 
+Alternative 2 includes the Forest-wide and area-specific goals, objectives, standards and guidelines 
+prescribed for the other alternatives and would amend the Forest Plan to remove current direction
+relative to travel management.
+
+The purpose and need for a proposed travel management plan includes an objective to provide 
+opportunities for public recreation use and travel and an objective to manage use to correct 
+unacceptable resource effects and damage.  Alternative 2 is designed to correct the resource 
+problems to the extent possible while retaining as much of the existing opportunities as possible.
+
+##### Alternative 3
+
+This alternative was developed in response to many of the comments received from motorized users 
+on the Benchmark proposal.  It would reinstate many of the popular motorcycle trails and, to a 
+lesser extent, ATV trails that were restricted under the Benchmark.  Alternative 3 identifies new 
+trail routes that would be opened to motorized use, primarily to create loop opportunities and 
+prevent the temptation to proceed beyond trail ends.  The area legally available for snowmobile use
+would be approximately 80% of what is currently legally available.  Additional marked and 
+groomed snowmobile and ski routes are also proposed under this alternative.  The number of 
+existing open roads would not increase but objectives would be adopted to upgrade some
+backcountry (4x4 only) roads such they could accommodate passenger car travel.  Horse and 
+mountain bike opportunities are not prohibited but these uses would be emphasized on some routes 
+while simply allowed on others.  Seasonal restrictions would also be adopted.  Alternative 3 
+includes the Forest-wide and area-specific goals, objectives, standards and guidelines prescribed for 
+the other alternatives and would amend the Forest Plan to remove current direction relative to travel 
+management.
+
+##### Alternative 4
+
+This alternative is similar to the Benchmark proposal developed for scoping in August 2002.  In 
+general, this alternative was designed to establish a management plan for OHV use.  It restricts 
+motorized use to designated routes, which reduces some of the opportunity ATV and motorcycle 
+users have today to ride on non-system trails.  However, this alternative would designate 
+approximately 180 miles of existing single-track motorcycle trail to combined ATV/motorcycle use.  
+Objectives would be adopted to bring this trail up to ATV standard.  New trail connectors would 
+also be proposed, similar to Alternative 3, to create loop opportunities.  Alternative 4 would provide 
+about 90% of the OHV trail opportunity provided under Alternative 2 but the amount of trail that 
+allows motorcycles without ATVs would decline over 50%.  The area legally available for 
+snowmobile use would be approximately 80% of what is currently legally available.  Additional 
+marked and groomed snowmobile and ski routes are also proposed under this Alternative.  The 
+number of existing open roads would not increase but objectives would be adopted to upgrade some
+backcountry (4x4 only) road such that it could accommodate passenger car travel.  Horse and 
+mountain bike opportunities generally would not be limited but these uses would be emphasized on some routes while simply allowed on others.  This alternative, however, would preclude mountain 
+bike use on the Hyalite and East Fork of Hyalite Trails.  Seasonal restrictions would also be adopted 
+on routes throughout the Forest.  Alternative 4 includes the Forest-wide and area-specific goals, 
+objectives, standards and guidelines prescribed for the other alternatives and would amend the 
+Forest Plan to remove current direction relative to travel management.
+
+##### Alternative 5
+
+This alternative is more restrictive than Alternative 4 for both summer and winter motorized uses, 
+particularly in areas providing rich wildlife habitat, areas with other resource concerns, and travel 
+management areas that are very popular for non-motorized recreation.  Alternative 5 would provide
+about 70% of the OHV trail opportunity provided under Alternative 2.  The area legally available 
+for snowmobile use would be approximately 65% of what is currently legally available.  The
+amount of marked or groomed snowmobile or ski trails would remain close to what it is today. 
+Overall, the amount of open road, particularly high clearance vehicle roads would decline 
+somewhat.  The shift to non-motorized use is focused on trails.  Mountain biking would be
+restricted beyond Alternative 4 in some areas including the Hyalite/Porcupine-Buffalo Horn WSA. 
+Horse use is generally managed as in Alternatives 2 through 4, but the length of seasonal
+restrictions applied to various uses are greater for many Forest trails.  Alternative 5 includes the 
+Forest-wide and area-specific goals, objectives, standards and guidelines prescribed for the other
+alternatives and would amend the Forest Plan to remove current direction relative to travel 
+management.
+
+##### Alternative 6
+
+Alternative 6 responds to a significant number of comments received and reflects a position that 
+heavy restrictions on motorized use are needed to protect wildlife habitat, retain the primitive
+character of unroaded lands and maintain other resource values.  Under this alternative, motorized 
+use would be precluded in the Hyalite/Porcupine-Buffalo Horn Wilderness Study Area (WSA), the
+Lionhead recommended wilderness and in other inventoried roadless areas.  In roaded areas there is 
+a goal to reduce the amount of road open to passenger cars and 4x4s.  ATV and motorcycle use is 
+largely removed from the trail system.  There would be more area closures on snowmobile use than 
+in the other alternatives.  More restrictions are placed on mountain bikes in certain areas including
+the WSA.  Horse use would be managed similar to the other alternatives but there would be some
+additional seasonal restrictions imposed as a potential solution to correct resource damage and 
+reduce maintenance costs.  Alternative 6 includes the Forest-wide and area-specific goals,
+objectives, standards and guidelines prescribed for the other alternatives and would amend the 
+Forest Plan to remove current direction relative to travel management.
+
+##### Alternative 7-Modified
+
+Alternative 7-Modified (7-M) was the Forest Service “preferred alternative” as of January 2006.  It 
+was modified from Alternative 7 through consideration of the analysis disclosed in the Draft EIS, 
+the recommendations of district rangers and Forest Service specialists, and the comments received 
+on the Draft EIS.  The following is a comparison of Alternative 7-M to current travel management.
+
+The total amount of public open system road would remain generally unchanged (approx. 740 
+miles), however there would be a shift of about 10% of this system from road currently only 
+suitable for high clearance vehicles to road that would accommodate passenger cars.  Currently about 325 miles of road are considered suitable for passenger cars, and under Alternative 7-M it 
+would increase to 400 miles.  This alternative also includes objectives to close and restore nonsystem and user-built roads.
+
+ATV opportunities provided on trails would be reduced from 281 miles to 145 miles (about 50%) 
+and motorcycle opportunities on trails would be reduced from 457 miles to 279 miles (about 40%). 
+In general, the reduction in trail opportunity would be shifted to and managed for on administrative 
+and backcountry roads.  Currently, many trails (outside of Wilderness) are shared between 
+motorized and non-motorized users.
+
+The amount of area open to snowmobile use (outside of Wilderness) would decrease from about 
+84% of the Forest to about 53%.  In contrast, the miles of marked and groomed trail would rise
+about 20% from the current situation.
+
+Stock use would generally be allowed on and off-trail although some seasonal and yearlong 
+restrictions would be applied to specific trails.
+
+There would be some restrictions on mountain bikes on trails outside of Wilderness, primarily in the 
+Hyalite/Porcupine-Buffalo Horn WSA and on short routes leading into Wilderness.  The trails in 
+Hyalite Creek and the East Fork of Hyalite Creek would remain open to bicycles.  Hiking and crosscountry skiing would not be restricted.
+
+Alternative 7-M includes Forest-wide and area-specific goals, objectives, standards and guidelines 
+(programmatic direction) and would amend the Forest Plan to replace current direction relative to 
+travel management.  In addition to the proposed programmatic direction, travel management under 
+Alternative 7-M would follow current direction applicable to the management of grizzly bear and 
+lynx.  At the time of this EIS publication, the applicable direction is based on Memorandums of 
+Understanding (MOU’s) and Conservation Agreements with the United States Fish and Wildlife
+Service (USFWS).  See MOU, Conservation Strategy (ICST 2003:12-13), the USFWS Biological 
+Opinion on Access (1995), and Canada Lynx Conservation Agreement (2005).
+
+Appendix C of the Final EIS provides a general comparison of how Alternative 7-M of this FEIS 
+differs from Alternative 7 of the Draft EIS.
+
+### Comparison of Opportunities by Alternative
+
+The following tables provide a general comparison of the opportunities to be provided under the 
+seven alternatives studied in detail.  While Forest-wide summary tables are useful, they often do not 
+accurately reflect true differences among alternatives.  It is important to understand that the 
+following tables are designed to portray the opportunity for a recreational experience.  The “miles 
+of opportunity” displayed are not the same as miles of route where use is allowed.  It should also be
+understood that roads and trails are not allocated to a single use, so the values in the columns cannot 
+be added or proportioned to the total miles of route available on the Forest.  The potential effects of 
+the Travel Plan alternatives on recreation opportunities are best portrayed by the Recreation issue of 
+Chapter 3 of the Final EIS and by reviewing the proposed route-by-route management direction 
+disclosed for each Travel Planning Area in the “Detailed Description of the Alternatives.”
+
+---
+
+**Table 2. Summary of summer opportunities by miles (approximate).**
+
+| Recreation Opportunity | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pleasure Driving |  |  |  |  |  |  |  |
+| Miles of Road | 309 | 314 | 421 | 415 | 397 | 401 | 400 |
+| Emphasized for passenger car use. Other uses allowed include any licensed vehicle, motorcycle or ATV plus mountain biking. Hiking and stock use are not prohibited, but they are not encouraged. |  |  |  |  |  |  |  |
+| Backcountry Roads (4x4) |  |  |  |  |  |  |  |
+| Miles of Road | 417 | 411 | 354 | 360 | 326 | 289 | 347 |
+| Emphasized for 4X4 driving. Other uses allowed include any licensed vehicle, motorcycle, or ATV. Some roads may be dual designated for unlicensed ATV and motorcycle use. Hiking and stock use are allowed. |  |  |  |  |  |  |  |
+| ATV and Motorcycle |  |  |  |  |  |  |  |
+| Miles on Road | 77 | 73 | 372 | 342 | 308 | 285 | 389 |
+| Miles on Trail | 680 | 281 | 225 | 234 | 130 | 51 | 145 |
+| Total Miles | 757 | 354 | 597 | 576 | 438 | 336 | 534 |
+| ATV and motorcycle use is emphasized on these roads and trails. Mountain biking is also emphasized on many of these routes while all other uses are allowed but not encouraged. |  |  |  |  |  |  |  |
+| Motorcycle |  |  |  |  |  |  |  |
+| Miles on Road | 3 | 8 | 14 | 7 | 9 | 0 | 17 |
+| Miles on Trail | 71 | 458 | 393 | 194 | 149 | 0 | 279 |
+| Total Miles | 74 | 466 | 407 | 201 | 158 | 0 | 296 |
+| Motorcycles are emphasized on these roads and trails while ATVs are prohibited. These are in addition to the miles of road and trail listed above under ATV and motorcycle. Mountain bikes are also emphasized on some of these routes and other non-motorized uses are allowed. |  |  |  |  |  |  |  |
+| Mountain Bike (Use Emphasized) |  |  |  |  |  |  |  |
+| Miles on Road | 1,071 | 1,071 | 509 | 496 | 488 | 488 | 545 |
+| Miles on Trail | 1,315 | 1,269 | 787 | 743 | 609 | 599 | 769 |
+| Total Miles | 2,386 | 2,340 | 1,296 | 1,239 | 1,097 | 1,087 | 1,314 |
+| These roads and trails are emphasized for mountain bikes and in some cases, there is a dual emphasis with motorized road or trail use. All these trails allow foot and horse use but horse use may not be encouraged. |  |  |  |  |  |  |  |
+| Mountain Bike (Use Allowed) |  |  |  |  |  |  |  |
+| Miles on Road | 880 | 880 | 1,453 | 1,467 | 1,475 | 1,474 | 1,371 |
+| Miles on Trail | 18 | 17 | 447 | 473 | 353 | 341 | 400 |
+| Total Miles | 898 | 897 | 1,900 | 1,940 | 1,828 | 1,815 | 1,771 |
+| These roads and trails are emphasized for other uses such as hiking, stock use, or motorized use, but mountain biking is also allowed. Many of these roads are revegetated. |  |  |  |  |  |  |  |
+| Pack and Saddle Stock (Use Emphasized) |  |  |  |  |  |  |  |
+| Miles on Trail | 2,115 | 2,034 | 1,766 | 1,750 | 2,018 | 2,034 | 1,767 |
+| These trails are emphasized for horse use and generally have a dual emphasis with hiking. These are both inside and outside Wilderness. Other uses are also allowed and in some cases these trails are shared with motorcycle use. |  |  |  |  |  |  |  |
+| Pack and Saddle Stock (Use Allowed) |  |  |  |  |  |  |  |
+| Miles on Trail | 1 | 81 | 342 | 354 | 99 | 109 | 331 |
+| These are managed for other emphasis such as motorcycle, ATV, or mountain biking, but horses are allowed. |  |  |  |  |  |  |  |
+| Hiking (Use Emphasized) |  |  |  |  |  |  |  |
+| Miles on Trail | 2,109 | 2,000 | 2,046 | 2,036 | 2,054 | 2,114 | 2,008 |
+| Hiking (Use Allowed) |  |  |  |  |  |  |  |
+| Miles on Trail | 1 | 115 | 137 | 147 | 126 | 63 | 149 |
+
+---
+
+**Table 3.  Summary of winter opportunities in miles (approximate).**
+
+| Recreation Opportunity | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pleasure Driving (Plowed Road) |  |  |  |  |  |  |  |
+| Miles of Plowed Road | 160 | 168 | 174 | 166 | 171 | 169 | 168 |
+| Snowmobiling |  |  |  |  |  |  |  |
+| Miles of Groomed Trail | 320 | 333 | 374 | 347 | 336 | 327 | 346 |
+| Miles of Marked Trail | 80 | 80 | 146 | 136 | 85 | 87 | 134 |
+| Total Miles | 400 | 413 | 520 | 483 | 421 | 414 | 480 |
+| Cross-country Skiing |  |  |  |  |  |  |  |
+| Miles of Groomed Trail | 48 | 50 | 71 | 79 | 52 | 54 | 52 |
+| Miles of Marked Trail | 166 | 160 | 180 | 179 | 152 | 181 | 174 |
+| Total Miles | 214 | 210 | 251 | 258 | 204 | 235 | 226 |
+
+**Table 4. Summary of snowmobile area restrictions by acre.**
+
+| Recreation Opportunity | Alt. 1 Acres | Alt. 2 Acres | Alt. 3 Acres | Alt. 4 Acres | Alt. 5 Acres | Alt. 6 Acres | Alt. 7-M Acres |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Yearlong Closure |  |  |  |  |  |  |  |
+| Wilderness | 717,369 | 717,369 | 717,369 | 717,369 | 717,369 | 717,369 | 717,369 |
+| Non-Wilderness | 179,267 | 184,838 | 376,241 | 430,900 | 541,800 | 583,409 | 498,857 |
+| Seasonal Closure * |  |  |  |  |  |  |  |
+| Wilderness | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Non-Wilderness | 91,767 | 109,437 | 93,720 | 76,677 | 142,043 | 36,907 | 77,908 |
+| No Restrictions |  |  |  |  |  |  |  |
+| Wilderness | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Non-Wilderness | 953,969 | 948,398 | 756,995 | 702,336 | 591,436 | 549,827 | 634,379 |
+| * Seasonal restrictions are displayed under the route-by-route management section. |  |  |  |  |  |  |  |
+
+---
+
+**Table 5.  Forest-wide summary of facilities by miles (approximate).**
+
+| Alt. 1 Miles | Alt. 2 Miles | Alt. 3 Miles | Alt. 4 Miles | Alt. 5 Miles | Alt. 6 Miles | Alt. 7-M Miles |
+| --- | --- | --- | --- | --- | --- | --- |
+| MILES OF ROAD |  |  |  |  |  |  |
+| Passenger Car Roads (Non-PFSR)1 |  |  |  |  |  |  |
+| 321 | 326 | 196 | 193 | 175 | 179 | 208 |
+| Passenger Car (PFSR)1 |  |  |  |  |  |  |
+| 0 | 0 | 226 | 224 | 224 | 224 | 192 |
+| Backcountry Roads1 |  |  |  |  |  |  |
+| 417 | 412 | 354 | 360 | 326 | 289 | 347 |
+| Project Roads – open to all trail uses including motorized uses |  |  |  |  |  |  |
+| 36 | 36 | 103 | 94 | 86 | 66 | 106 |
+| Project Roads – motorized uses prohibited; all other uses not prohibited |  |  |  |  |  |  |
+| 804 | 804 | 732 | 741 | 775 | 798 | 704 |
+| Administrative Use Roads – open to all trail uses including motorized uses |  |  |  |  |  |  |
+| 30 | 30 | 98 | 77 | 90 | 97 | 89 |
+| Administrative Use Roads – motorized uses prohibited; all other uses not prohibited |  |  |  |  |  |  |
+| 355 | 355 | 255 | 276 | 289 | 312 | 270 |
+| User-Built Roads2 |  |  |  |  |  |  |
+| 160 | 160 | 100 | 100 | 100 | 100 | 160 |
+| New Roads to be Constructed |  |  |  |  |  |  |
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| TOTAL ROAD MILES |  |  |  |  |  |  |
+| 2,123 | 2,123 | 2,064 | 2,065 | 2,065 | 2,065 | 2,076 |
+| MILES OF TRAIL - SUMMER |  |  |  |  |  |  |
+| Existing Trails – Open to most uses including motorized |  |  |  |  |  |  |
+| 748 | 737 | 563 | 382 | 248 | 39 | 386 |
+| New Trails to be Constructed – Open to most uses including motorized |  |  |  |  |  |  |
+| 1 | 1 | 55 | 46 | 31 | 13 | 39 |
+| Existing Trails – Open to most uses excluding motorized |  |  |  |  |  |  |
+| 1,359 | 1,370 | 1,545 | 1,726 | 1,860 | 2,070 | 1,722 |
+| New Trails to be Constructed – Open to most uses excluding motorized |  |  |  |  |  |  |
+| 0 | 0 | 59 | 57 | 48 | 48 | 0 |
+| TOTAL TRAIL MILES |  |  |  |  |  |  |
+| 2,108 | 2,108 | 2,222 | 2,211 | 2,187 | 2,170 | 2,147 |
+| MILES OF TRAIL - WINTER3 |  |  |  |  |  |  |
+| Existing Trails – Open to most uses including motorized |  |  |  |  |  |  |
+| 400 | 400 | 400 | 400 | 400 | 400 | 480 |
+| New Trails to be Constructed – Open to most uses including motorized |  |  |  |  |  |  |
+| 0 | 13 | 121 | 82 | 21 | 14 | 0 |
+| Existing Trails – Open to most uses excluding motorized |  |  |  |  |  |  |
+| 246 | 240 | 246 | 246 | 234 | 246 | 260 |
+| New Trails to be Constructed – Open to most uses excluding motorized |  |  |  |  |  |  |
+| 0 | 0 | 44 | 51 | 0 | 24 | 0 |
+| TOTAL TRAIL MILES |  |  |  |  |  |  |
+| 646 | 653 | 811 | 779 | 655 | 684 | 740 |
+| 1 PFSR = Public Forest Service Roads. Road miles include dual designated ATV and motorcycle routes. 2 User-built roads in Alternatives 3 through 7-M include short spur roads next to main roads that access dispersed areas. 3 Most winter trails including new trails are located on existing summer roads and trails. |  |  |  |  |  |  |
+
+---
+
+### Comparison of Alternatives Studied in Detail by Significant Issue
+
+Table 6 is a general comparison of the seven Travel Plan alternatives studied in detail as they relate 
+to the significant issues identified earlier in this chapter.  Because the proposed Travel Management 
+Plan is large and complex, this section is not a substitute for the detailed disclosure of 
+environmental consequences contained in Chapter 3.  This section is intended to provide a Forestwide overview and may not be indicative of the potential effects that may occur in specific Travel 
+Planning Areas.
+
+**Table 6.  Summary comparison of alternatives Forest-wide, by significant issue.**
+
+**ISSUE 1: BALD EAGLE**
+
+The potential effect to bald eagles is an issue focused around Hebgen Lake.  The greatest concern would be disturbance
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Area closed to snowmobile use <400 m of bald eagle nests. | 12% | 12% | 12% | 12% | 55% | 55% | 13% |
+| Area closed to snowmobile use <800 m of bald eagle nests. | 5% | 5% | 5% | 5% | 49% | 49% | 8% |
+| Miles of summer travel route <400 m of bald eagle nests. | 1.6 | 1.6 | 1.6 | 1.6 | 1.6 | 1.6 | 1.1 |
+| Miles of summer travel route <800 m of bald eagle nests. | 7.6 | 7.6 | 7.6 | 7.6 | 7.5 | 7.5 | 5.7 |
+
+###### ISSUE 2: BIG GAME
+
+Maintenance of big game habitat is an issue across the Gallatin National Forest.  In terms of the impacts of the Travel Plan
+alternatives, the lower the travel route density and the greater the area restrictions on snowmobile use within winter range
+the higher the big game habitat value. 
+**Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Open motorized route density (mi/sq mi). | 0.73 | 0.73 | 0.79 | 0.73 | 0.68 | 0.61 | 0.70 |
+| Amount of secure elk habitat. | 55% | 60% | 62% | 62% | 63% | 64% | 62% |
+| Winter travel route density in elk winter range. | 0.2 | 0.2 | 0.3 | 0.3 | 0.2 | 0.2 | 0.3 |
+| Winter travel route density in moose winter range. | 0.4 | 0.4 | 0.5 | 0.4 | 0.4 | 0.4 | 0.4 |
+| Amount of bighorn sheep winter range closed to snowmobile use. | 48% | 48% | 67% | 78% | 78% | 78% | 78% |
+| Amount of mountain goat winter range closed to snowmobile use. | 68% | 68% | 85% | 85% | 94% | 86% | 88% |
+
+---
+
+###### ISSUE 3: BIODIVERSITY
+
+impede wildlife migration between mountain ranges and beyond Forest boundaries (corridors).  Three key areas
+Interstate 90, railroads, etc. create the greatest barriers to wildlife movement but motorized route density can be an
+indicator of how Travel Plan alternatives provide for biodiversity.  In general, the lower the motorized route density
+the better, however, total densities of 1.25 mi/sq mi are considered adequate and seasonal restrictions in some
+alternatives, particularly in the fall, can also help provide for wildlife movement.
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Bear Canyon (Motorized trails mi/sq mi) | 0.43 | 0.46 | 0.46 | 0.46 | 0.06 | 0.06 | 0.40 |
+| Bear Canyon (Total of all motorized routes including non-FS routes, mi/sq mi) | 1.22 | 1.24 | 1.24 | 1.24 | 0.84 | 0.84 | 1.18 |
+| North Bridgers (Open motorized routes mi/sq mi) | 1.4 | 0.85 | 0.85 | 0.85 | 0.85 | 0.85 | 0.85 |
+| Lionhead (All open motorized routes including non-FS, mi/sq mi) | 0.84 | 0.54 | 0.54 | 0.54 | 0.47 | 0.49 | 0.46 |
+| Lionhead (All motorized trails mi/sq mi) | 0.37 | 0.34 | 0.32 | 0.28 | 0.12 | 0.02 | 0.14 |
+| Lionhead (All motorized routes, total mi/sq mi) | 1.2 | 0.9 | 0.8 | 0.8 | 0.6 | 0.5 | 0.6 |
+
+**ISSUE 4: CULTURAL RESOURCES**
+
+There are three facets of the issue regarding potential impacts to cultural resources: 1) ATV use on trails not built to
+ATV standards in areas of high site density, 2) Motorized use in certain areas of the Crazies that have traditional 
+importance to the Crow, 3) New access into areas with cultural resources increases impacts.  
+**Measurement Indicator Alt. Alt. Alt. Alt. Alt. Alt. Alt.**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Summer Motorized: Forest-wide ATV use on trails through areas of high site density – increases potential for impacts in some study areas. | Yes | No | No | No | No | No | No |
+| Summer Motorized: Areas in Crazies important to traditional practices of the Crow – increases potential for impacts in some study areas. | Yes | No | No | No | No | No | No |
+| Winter Motorized: Areas in the Crazies important to traditional practices of the Crow – increases potential for impacts in some study areas. | Yes | Yes | No | No | No | No | No |
+| Summer Motorized: New access development into areas with intact cultural resources – increases potential for impacts in some study areas. | Yes | Yes | Yes | Yes | No | No | No |
+
+---
+
+|||||ISSUE 5: SOCIAL AND ECONOMIC IMPACTS|||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+||The largest and fastest growing sectors of the economy in the Gallatin Forest vicinity are the services and retail trade sectors. Construction and manufacturing sectors are also growing. While agriculture has been a historically important sector and still is, its relative size has decreased as other sectors increase. The effect of travel and recreation on the Gallatin Forest is tied indirectly and in various degrees to all these economic sectors, but the Travel Plan alternatives do not vary to a degree that there would be measurable differences.||||||||||||
+||Measurement Indicator||||Alt. 1|Alt. 2|Alt. 3|Alt. 4|Alt. 5|Alt. 6|Alt. 7-M||
+
+Economic sector growth continues? Yes Yes Yes Yes Yes Yes Yes
+
+## ISSUE 6: ENFORCEMENT
+
+Enforcement of proposed travel management decisions is a concern to many individuals. Several factors influence how difficult a given alternative would be to enforce: topography, final configuration of road and trail opportunities, remoteness, clarity of new regulations, availability of information to the public about closures, mix of recreation opportunities provided, etc. A ranking system was developed to score each alternative relative to its “enforce-ability.” Alternatives with a low score would have more enforcement problems than an alternative with a higher score. **Measurement Indicator**
+
+||Alt. 1|Alt. 2|Alt. 3|Alt. 4|Alt. 5|Alt. 6|Alt. 7-M|
+|---|---|---|---|---|---|---|---|
+|“Enforce-ability” score – the higher||||||||
+|the score, the more enforceable the alternative.|85|110|128|140|141|135|144|
+|Acres of non-Wilderness terrain most vulnerable to OHV trespass. Acres of desirable snowmobile terrain proposed to be closed to snowmobiles.|256,042|221,045|218,817|206,350|199,426|157,047|201,766|
+
+367,186 370,128 424,144 436,664 470,206 488,247 448,300 Includes desirable terrain in wilderness.
+
+## ISSUE 7: FISHERIES
+
+Use of roads or trails (modes of travel) are generally inconsequential to fisheries. Rather, the facility (i.e., road or trail) has the potential to impact aquatic habitat and biota. The management direction proposed in Alternatives 2 through 7-M relating to water quality and fisheries provide guidance for future actions that should maintain and/or improve fisheries habitat. **Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M** Alternative includes proposed goals, objectives, standards and guidelines to maintain/improve fisheries habitat, effectively reducing existing No Yes Yes Yes Yes Yes Yes direct, indirect, and cumulative effects representing an improvement from current conditions. Results in sediment delivery reductions in all No Yes Yes Yes Yes Yes Yes TPAs.
+
+# Gallatin National Forest Travel Plan FEIS Summary
+
+---
+
+###### ISSUE 8: FOREST PLAN AMENDMENTS
+
+The proposal to amend the Forest Plan to replace certain Forest Plan standards with the proposed Travel Plan would 
+not directly result in ground disturbance or environmental effect.  The majority of standards being replaced do not 
+provide binding limitations on management activity.  There is some public concern over removing the Forest Plan
+standards for “elk effective cover” (HEI) and Recreation Opportunity Spectrum (ROS).  
+**Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of standards removed. | 0 | 119 | 119 | 119 | 119 | 119 | 119 |
+| Removes the HEI standard (USDA 1987: II-18; 6.a.4). | No | Yes | Yes | Yes | Yes | Yes | Yes |
+| Removes Management Area standards specifying ROS. | No | Yes | Yes | Yes | Yes | Yes | Yes |
+
+###### ISSUE 9: GENERAL WILDLIFE
+
+Several species of wildlife are addressed as separate issues within this FEIS. However, many other species can also
+be affected by human travel.  In general, wildlife prefers habitat where human activity and disturbance is minimized.
+One measurement indicator that can be used to compare alternatives is the percent of core area that would remain, or
+in other words, the habitat not affected by motorized and motorized/non-motorized routes combined.  
+**Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Forest-wide percent of core area not affected by motorized routes. | 58 | 65 | 66 | 70 | 73 | 79 | 70 |
+| Forest-wide percent of core area not affected by motorized/non-motorized routes combined. | 32 | 34 | 34 | 34 | 34 | 35 | 36 |
+
+---
+
+**ISSUE 10: GRIZZLY BEAR**
+
+In general, motorized use is an issue because motorized access routes have been shown to displace grizzly bears from
+habitat and make less area available to bears.  Summer motorized use was analyzed primarily by calculating the 
+percent secure habitat (non-motorized) by alternative for each subunit.  The Gallatin National Forest has three Grizzly
+Bear Subunits “in need of improvement”: Gallatin #3, Madison #2 and Henry’s Lake #2.  Snowmobiling is also an
+issue in relation to denning grizzly bears and those that emerge from denning while snowmobiling is ongoing in the
+<u>spring.</u> 
+**Percent Secure Habitat by Grizzly Bear Subunit**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Boulder/Slough #1 | 96.3 | 96.3 | 96.4 | 96.4 | 96.7 | 96.9 | 96.6 |
+| Boulder/Slough #2 | 100 | 100 | 100 | 99.8 | 100 | 100 | 100 |
+| Crandall/Sunlight #1 | 96.0 | 96.3 | 96.1 | 96.1 | 96.7 | 96.7 | 96.3 |
+| Crandall/Sunlight #2 | 99.7 | 99.7 | 99.7 | 99.7 | 99.7 | 99.7 | 99.7 |
+| Lamar #1 | 93.9 | 94.5 | 94.4 | 94.4 | 95.2 | 95.1 | 94.5 |
+| Hellroaring/Bear #1 | 75.1 | 79.5 | 81.3 | 81.3 | 81.3 | 81.3 | 80.4 |
+| Hellroaring/Bear #2 | 98.1 | 98.5 | 98.5 | 99.0 | 99.0 | 99.0 | 99.7 |
+| Gallatin #3 | 54.4 | 59.4 | 60.1 | 62.2 | 71.8 | 81.0 | 70.2 |
+| Hilgard #1 | 75.0 | 78.6 | 78.6 | 81.1 | 81.7 | 89.2 | 81.1 |
+| Hilgard #2 | 78.7 | 81.8 | 81.8 | 81.3 | 82.9 | 90.2 | 83.1 |
+| Madison #1 | 75.4 | 79.1 | 82.2 | 83.2 | 83.4 | 89.6 | 83.7 |
+| Madison #2 | 66.7 | 71.7 | 71.7 | 71.7 | 71.7 | 71.7 | 71.8 |
+| Plateau #1 | 92.1 | 93.8 | 93.8 | 93.8 | 93.8 | 93.8 | 93.8 |
+| Henry's Lake #2 | 52.7 | 57.7 | 57.7 | 58.8 | 64.5 | 67.5 | 62.5 |
+| Mile and Sheep Creeks (outside PCA) | 74.6 | 77.3 | 77.3 | 77.7 | 87.6 | 87.6 | 87.7 |
+| Absaroka/Beartooth (north of PCA) | 73.8 | 75.8 | 75.8 | 80.6 | 83.5 | 83.6 | 78.9 |
+| Gallatin/Madison (north of PCA) | 49.1 | 52.6 | 52.6 | 57.2 | 59.1 | 60.2 | 57.0 |
+
+Percent Seasonal or Yearlong Snowmobile Closure by Grizzly Bear Subunit or Other Area Outside of the Recovery Zone
+
+| Winter Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Percent of Absaroka-Beartooth Mountain Range closed to snowmobiles. | 74 | 74 | 75 | 75 | 77 | 75 | 75 |
+| Percent of Gallatin Mountain Range closed to snowmobiles. | 27 | 27 | 49 | 61 | 70 | 72 | 72 |
+| Percent of Henrys Mountain Range closed to snowmobiles. | 24 | 24 | 29 | 31 | 36 | 43 | 21 |
+| Percent of Madison Mountain Range closed to snowmobiles. | 5 | 50 | 59 | 60 | 6 | 92 | 69 |
+| Additional percent of the Absaroka-Beartooth Mountain Range closed seasonally to snowmobiles. | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Additional percent of the Gallatin Mountain Range closed seasonally to snowmobiles. | 5 | 5 | 5 | 0 | 0 | 0 | 0 |
+| Additional percent of the Henrys Mountain Range closed seasonally to snowmobiles. | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+| Additional percent of the Madison Mountain Range closed seasonally to snowmobiles. | 17 | 23 | 18 | 18 | 35 | 4 | 13 |
+
+---
+
+###### ISSUE 11: IMPLEMENTABILITY
+
+This issue is focused on the schedule, costs and physical changes necessary to implement the Travel Plan.  For the
+
+through 7-M relate to the proposed plowing of the Hyalite Road.
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Estimated costs* – summer non-motorized trails. | $341 | $330 | $634 | $618 | $658 | $704 | $704 |
+| Estimated costs* – summer motorized trails. | $3,233 | $1,222 | $1,235 | $1,216 | $706 | $308 | $818 |
+| Estimated costs* – summer motorized roads. | $147 | $147 | $155 | $155 | $145 | $138 | $150 |
+| Estimated costs of plowing roads and parking areas. ** | $23 | $85 | $119 | $102 | $64 | $85 | $85 |
+
+###### ISSUE 12: INVASIVE WEEDS
+
+Invasive weeds can significantly alter the native plant species composition of an area resulting in decreased habitat 
+quality for wildlife and livestock, an increase in sediment levels of streams, and reduced aesthetic quality.  Weeds can 
+spread when vehicles pass through infested sites and travel on to other areas.  The majority of mapped weeds on the
+Gallatin Forest are adjacent to motorized travel routes. The measurement indicators below provide a relative 
+comparison of the alternatives in terms of the risk of invasive weed spread Forest-wide.
+**Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Total acres of motorized route corridors (100 feet on both sides of route). | 70,738 | 70,840 | 75,442 | 69,905 | 66,361 | 59,802 | 57,914 |
+| Total acres of snowmobile access. | 959,349 | 953,730 | 761,872 | 707,213 | 585,625 | 551,780 | 639,758 |
+| Acres of existing weeds within 100 feet of motorized routes. | 2,400 | 2,398 | 2,352 | 2,337 | 2,327 | 2,310 | 2,338 |
+| Acres at High Risk to leafy spurge and intersected with Forest Service motorized routes. | 20,111 | 20,160 | 21,667 | 19,899 | 18,865 | 16,703 | 16,157 |
+
+**ISSUE 13:  LYNX**
+
+Lynx were listed as a “threatened” species under the Endangered Species Act in March 2000.  Direction for
+evaluating federal actions relative to lynx habitat is provided in the Canada Lynx Conservation Assessment and
+Strategy (LCAS) (Ruediger et al. 2000).  The following indicators allow for a comparison of how well each Travel
+Plan alternative meets this strategy.
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of Lynx Analysis Units that would have a summer open motorized route density of >2.0 miles/sq.mi. | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Number of Lynx Analysis Units with an increase in groomed or marked over-the-snow routes. | Baseline (0) | 2 | 12 | 10 | 6 | 8 | 12 |
+| Number of LAUs that are NOT in compliance with the LCAS. | Baseline (0) | 2 | 9 | 6 | 0 | 1 | 0 |
+| Alternative meets the LCAS (Y or N). | Y | N | N | N | Y | N | Y |
+| Number of Lynx Analysis Units that do NOT meet LCAS direction for habitat connectivity. | N/A | 0 | 0 | 0 | 0 | 0 | 0 |
+
+---
+
+|||ISSUE 14: MIGRATORY BIRDS||
+|---|---|---|---|
+|||Migratory birds were considered a significant issue for travel management planning due to the level of public interest, the legal mandates to consider effects of federal actions on migratory bird species, the number of migratory bird species inhabiting the Gallatin Forest and the wide variety of habitats occupied by birds. Most habitat alterations associated with Forest travel facilities have already occurred. The Travel Plan alternatives do construction, relocation or major reconstruction of travel facilities, therefore there is little difference in effects among them. The alternatives would appreciably curtail the potential for adverse impacts to migratory birds and their habitat by restricting summer motorized use to designated routes and eliminating numerous user-built routes and project- associated roads. In addition, Alternatives 2 through 7-M would incorporate Forest-wide goals, objectives, standards|not propose|
+|and guidelines that would facilitate cons|ervation of migrato|ry bird habitat.||
+|Measurement Indicator|Alt. 1|Alt. 2 Alt. 3 Alt. 4|Alt. 5 Alt. 6 Alt. 7-M|
+
+Alternative restricts motorized uses to designated routes and discourages No Yes Yes Yes Yes Yes Yes <u>new user-built routes.</u> Alternative adopts goals, objectives, standards and guidelines that would facilitate conservation of migratory No Yes Yes Yes Yes Yes Yes bird habitat by affording additional protection for important nesting areas and key habitat types.
+
+## ISSUE 15: NOISE
+
+Noise associated with motorized vehicles using Forest roads and trails is a concern for some recreationists. The following shows the total number of acres of ROS classes (see Chapter 3, Issue 16: Recreation) that are potentially affected by noise from motorized vehicles in summer or winter (Rural, Roaded Natural, Semi-primitive Motorized), and those acres of ROS classes where summer or winter motorized vehicle use would be prohibited (Semi-primitive Non Motorized, and Primitive). This is a gross estimation of the potential area where noise may be an issue. Many other factors like terrain, vegetative and snow cover, atmospheric conditions, etc. affect how far noise travels. In reality, the number of acres where noise from motorized vehicles would be audible is less than the total number of acres shown under motorized ROS classes. **Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M** Land area (acres) that would be potentially affected by noise from summer 796,691 799,956 739,843 692,345 641,924 556,512 678,914 motorized vehicles (open to motorized). Land area (acres) that would be closed to summer 1,052,536 1,049,271 1,109,433 1,115,937 1,207,312 1,282,768 1,170,313 motorized vehicles. Land area (acres) that would be potentially affected by 935,299 933,002 813,528 757,683 656,101 633,535 714,574 noise from winter motorized vehicles. Land area (acres) that would be closed to winter motorized 914,725 916,999 1,036,518 1,092,359 1,193,973 1,216,508 1,134,788 vehicles.
+
+# Gallatin National Forest Travel Plan FEIS Summary
+
+---
+
+###### ISSUE 16: RECREATION
+
+Recreation use projections indicate that the largest future demand for supply of recreation opportunities would be for activities that typically occur in non-motorized settings. Off-road driving as a recreation activity is also projected to grow. The amount of area or length of road/trail necessary to provide a quality half-day to day-long motorized recreation opportunity is much larger than required by most quiet trails activities. Projections for winter recreation are similar with the demand for cross-country skiing growing faster than the demand for snowmobiling, however more land is required to supply snowmobiling opportunities. This disparity leads to a difficult equation in balancing the much faster growing demand for quiet trails activities, with the more land-hungry demand for off-road driving opportunities. Local demographic trends indicate that population growth anticipated proximate to the Gallatin Forest will continue to place competing pressures on limited supplies of recreation opportunities associated with roads, trails and the backcountry. The “Recreation Opportunity Spectrum” (ROS) can be an indicator of the change to recreation settings for each alternative. The most pronounced difference in ROS inventory between alternatives both in summer and in winter is in the Semi-Primitive Non-Motorized (SPNM) and Semi-Primitive Motorized (SPM) classes. Alternatives 1 and 2 would provide the most SPM opportunities (the least area restricted to snowmobiles and OHVs) and Alternative 6 would provide the most SPNM opportunities, in both summer and winter.
+
+| Summer ROS Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Rural acres. | 68,384 | 68,384 | 68,384 | 68,382 | 68,408 | 68,263 | 68,409 |
+| Roaded Natural acres. | 341,381 | 341,380 | 345,285 | 345,040 | 345,085 | 345,085 | 345,354 |
+| Semi-Primitive Motorized acres. | 386,926 | 390,192 | 326,174 | 278,922 | 228,431 | 153,164 | 265,151 |
+| Semi-Primitive Non-Motorized acres. | 327,476 | 324,239 | 387,141 | 429,080 | 478,327 | 521,029 | 444,133 |
+
+| Summer ROS Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Primitive acres. | 725,060 | 725,032 | 722,292 | 727,857 | 728,985 | 761,739 | 726,184 |
+
+| Winter ROS Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Rural acres. | 68,208 | 68,208 | 68,256 | 68,255 | 68,206 | 68,206 | 68,256 |
+| Roaded Natural acres. | 104,459 | 109,341 | 113,383 | 107,356 | 109,148 | 105,831 | 107,676 |
+| Semi-Primitive Motorized acres. | 762,632 | 755,453 | 631,889 | 582,072 | 478,747 | 459,498 | 538,641 |
+| Semi-Primitive Non-Motorized acres. | 202,530 | 204,804 | 319,140 | 374,981 | 476,571 | 499,127 | 417,390 |
+| Primitive acres. | 712,195 | 712,195 | 717,378 | 717,378 | 717,402 | 717,381 | 717,378 |
+
+---
+
+**ISSUE 17:  RIPARIAN**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Number of TPAs where over 30% of effective riparian habitat has been lost to roads and trails. | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+| Alternative includes new parallel routes along riparian areas opposite existing routes (i.e., routes parallel to Fairy Lake Road and Hyalite Road). | No | No | Yes | Yes | No | No | No |
+| Potential for alternative to result in increased impacts to riparian areas. | High | Moderate | Low | Low | Low | Low | Low |
+
+###### ISSUE 18: ROADLESS AREAS
+
+Direct effects to inventoried roadless character from travel management decisions are largely confined to decisions
+that would physically change trails within roadless.  There are no proposals in any alternative to construct new roads 
+in roadless areas.  The primary direct effect to roadless character would be a result of changing existing single-track 
+trails to double-track width trails through implementation of an alternative to accommodate ATVs.
+
+*Alternative 1 (no action) would allow ATVs on approximately 420 miles of trail within roadless areas.  This
+represents the miles of trail on the 1999 Travel Map that were not restricted to motorized vehicles.  Only about 158
+miles of those trails are currently useable by ATVs (as represented by Alternative 2).  Most of these trails would need 
+some heavy maintenance or reconstruction to meet minimum engineering standards for ATV routes.  Unless that work
+is done, ATVs would likely only use a small fraction of the total trail miles available. 
+**Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4** <u><strong>Alt. 5 Alt. 6 Alt. 7-M</strong></u>
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Miles of single-track trail converted to double-track within roadless areas. | * | * | 6 | 17 | 0 | 0 | 0 |
+| Total miles of ATV trail within roadless areas. | 420 | 158 | 87 | 101 | 37 | 0 | 46 |
+
+---
+
+**ISSUE 19:  Soils**
+
+soils in horse-use areas.  Together, they indicate the effects of travel planning alternatives.
+
+the least effects, having the greatest restrictions on all sensitive uses.  The remainders (Alternative 2, 3, 4, 5, and 7-M)
+are similar in terms of soil and vegetation impacts.  Among these, Alternative 2 has somewhat greater effects because
+no restrictions are placed on horse use.
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Total Miles of Existing Motorized Trail on Sensitive Soil | 79.94 | 69.05 | 62.25 | 52.71 | 41.89 | 2.54 | 42.89 |
+| Acres accessible for motorized off-road and trail use | 256,041.79 | 221,044.89 | 218,816.97 | 206,350.02 | 199,425.94 | 157,047.46 | 191,676.00 |
+| Acres Accessible for Motorized Off-road and Trail Use on Sensitive Soil | 53,717.73 | 47,571.01 | 45,865.03 | 42,949.55 | 42,184.57 | 27,533.22 | 40,128.90 |
+| Acres Accessible for Motorized Off-road and Trail Use on High Alpine Vegetation | 46,018.30 | 41,640.77 | 43,911.56 | 39,574.58 | 37,693.64 | 11,918.35 | 36,527.50 |
+| Acres Sensitive Vegetation Closed to Horses | 0.0 | 0.0 | 17,856.12 | 17,501.84 | 19,208.19 | 19,208.19 | 18,943.28 |
+
+**ISSUE 20:  WATERSHED MANAGEMENT (WATER QUALITY)**
+
+Forest-wide sediment levels among alternatives are not projected to vary greatly since most of the existing sediment level is
+from natural sources.  The largest change due to travel management is in non-motorized trail sediment, which increases
+from an estimated 59 tons/year in Alternative 1 to 73 tons/year in Alternative 7-M and to 92 tons/year in Alternative 6. 
+Motorized trail sediment decreases from Alternative 1 at 182 tons/year to 8 tons/year in Alternative 6.  The shift from
+motorized trail sediment to non-motorized trail sediment is due the reduction in motorized trail miles from Alternative 1 to
+Alternative 6. 
+Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Non-motorized trail sediment tons/year. | 59 | 59 | 65 | 74 | 82 | 92 | 73 |
+| Motor trail sediment ton/year. | 182 | 146 | 123 | 88 | 55 | 8 | 92 |
+| Road sediment tons/year. | 1,777 | 1,757 | 1,762 | 1,762 | 1,762 | 1,762 | 1,740 |
+| Total sediment ton/year. | 41,547 | 41,490 | 41,447 | 41,451 | 40,428 | 40,390 | 41,432 |
+
+---
+
+||ISSUE 21: WILDERNESS, WILDERNESS STUDY AREA, RECOMMENDED WILDERNESS|||||||||
+|---|---|---|---|---|---|---|---|---|---|
+||The Gallatin National Forest includes two designated Wilderness Areas: the Lee Metcalf Wilderness and the Absaroka-Beartooth Wilderness. Concerns regarding resource impacts from the use of recreational livestock on trails, and cross-country are the key travel management issues in Wilderness. All motorized/mechanized uses are prohibited by law. The Gallatin National Forest also includes the Hyalite/Porcupine-Buffalo Horn (HPBH) Wilderness Study Area (WSA). The Montana Wilderness Study Act of 1977 directs the agency to maintain existing Wilderness characteristics of study areas until Congress either designates the areas as Wilderness or removes them from the study category. Lastly, the 1987 Forest Plan recommended two additional areas be designated as Wilderness: Lionhead and Republic Mountain. Portions snowmobiling, and motorcycle travel. In summary, issues over management of travel in the WSA and in recommended Wilderness focus on mechanized uses.||of both areas are currently open to a variety of motorized uses, including|||||||
+||Measurement Indicator||Alt. 1|Alt. 2|Alt. 3|Alt. 4|Alt. 5|Alt. 6|Alt. 7-M|
+||HPBH WSA-Will the|||||||||
+
+alternative maintain Wilderness characteristics No No No No Yes Yes Yes relative to travel management, circa 1977? Recommended Wilderness – Does the alternative allow Yes Yes Yes Yes No No No motorized uses? Recommended Wilderness – How well would the alternative preserve Poor Poor Poor Better Best Best Best Wilderness characteristics for future designation? Designated Wilderness – How well would the alternative preserve Poor Poor Better Better Best Better Better Wilderness character by addressing impacts from <u>stock?</u>
+
+# Gallatin National Forest Travel Plan FEIS Summary
+
+---
+
+###### ISSUE 22: WOLVERINE
+
+Roads and trails provide human access into wolverine habitat. Therefore, access route densities were assumed to reflect potential for human impacts to wolverines and their habitat. Non-motorized use can affect wolverines, but since such use is not restricted to designated routes under any alternative, it is difficult to quantify. It was determined that motorized access route density is the best available representation of summertime human disturbance factors. Winter access was considered to have the greatest potential for adverse impacts on wolverines, since environmental conditions are more extreme, food sources can be limited, and energy demands are highest during this time. Trapping season for wolverines occurs during winter, so winter access has the most potential to contribute to direct mortalities of wolverines. Winter is also the reproductive season for wolverines so travel management during this time has significant implications for maintaining adequate secure reproductive habitat and facilitating recruitment to sustainable wolverine populations.
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Percent acres of low (<= 0.7 mi/sq mi.) summer motorized route density. | 36% | 39% | 46% | 54% | 63% | 67% | 58% |
+| Percent acres of moderate (0.8 – 2.7 mi/sq mi) summer motorized route density. | 59% | 56% | 49% | 43% | 35% | 31% | 40% |
+| Percent acres of high (> 2.7 mi/sq mi) summer motorized route density. | 5% | 5% | 5% | 3% | 2% | 2% | 2% |
+| Percent female denning habitats open to dispersed snowmobile use. | 42% | 42% | 32% | 28% | 21% | 20% | 25% |
+| Percent general winter habitats open to dispersed snowmobile use. | 52% | 51% | 41% | 38% | 32% | 30% | 34% |
+
+**ISSUE 23:  WOLF**
+
+Wolves were reintroduced to the Greater Yellowstone Area in 1995, and were designated a “non-essential 
+experimental” population under Section 10 of the Endangered Species Act.  After reintroduction, gray wolves quickly 
+colonized areas of the Gallatin Forest adjacent to Yellowstone National Park.  Effects to wolf habitat would vary 
+across the Forest, but on a Forest-wide scale, summer open motorized route density can be a general indicator of the 
+potential effects of travel management (the lower the route density the better).  
+**Measurement Indicator Alt. 1 Alt. 2 Alt. 3 Alt. 4 Alt. 5 Alt. 6 Alt. 7-M**
+
+| Measurement Indicator | Alt. 1 | Alt. 2 | Alt. 3 | Alt. 4 | Alt. 5 | Alt. 6 | Alt. 7-M |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Open motorized route density. | 0.73 | 0.73 | 0.79 | 0.73 | 0.68 | 0.61 | 0.70 |

@@ -1,0 +1,30 @@
+{
+ "id": "parc-national-du-lac-temiscouata",
+ "name": "Lac-Témiscouata National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on certain trails and on the L’Épinoche shuttle ferry.",
+ "summary": "Leashed dogs are allowed on certain trails and on the L’Épinoche shuttle ferry.",
+ "excerpts": [
+  {
+   "quote": "Dogs are admitted in L'Épinoche shuttle ferry and on certain trails",
+   "url": "https://www.sepaq.com/pq/tem/index.dot?language_id=1"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs may ride L'Épinoche shuttle ferry.",
+   "url": "https://www.sepaq.com/pq/tem/index.dot?language_id=1"
+  },
+  {
+   "text": "The campground sector near Lac Témiscouata is open to dogs under conditions.",
+   "url": "https://www.sepaq.com/pq/tem/index.dot?language_id=1"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/tem/index.dot?language_id=1",
+ "petsUrl": null,
+ "coordinates": [
+  -68.7917,
+  47.7366
+ ],
+ "coordinatesSource": "Wikidata Q1748065"
+}

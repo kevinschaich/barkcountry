@@ -1,0 +1,21 @@
+{
+ "id": "midewin-national-tallgrass-prairie",
+ "name": "Midewin National Tallgrass Prairie",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome on the trails.",
+ "summary": "Leashed dogs are welcome on the trails.",
+ "excerpts": [
+  {
+   "quote": "Dogs are welcome at Midewin as long as they are kept on a maximum 6-foot leash and on a trail.",
+   "url": "https://www.fs.usda.gov/media/251130"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/midewin",
+ "petsUrl": "https://www.fs.usda.gov/media/251130",
+ "coordinates": [
+  -88.11213,
+  41.37672
+ ],
+ "coordinatesSource": "Wikidata Q6842169"
+}

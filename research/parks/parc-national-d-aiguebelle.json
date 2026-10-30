@@ -1,0 +1,30 @@
+{
+ "id": "parc-national-d-aiguebelle",
+ "name": "Aiguebelle National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed in some campgrounds and, as in other Sépaq parks, on designated summer trails.",
+ "summary": "Leashed dogs are allowed in some campgrounds and, as in other Sépaq parks, on designated summer trails.",
+ "excerpts": [
+  {
+   "quote": "Dogs kept on a leash are autorised.",
+   "url": "https://www.sepaq.com/pq/aig/index.dot?language_id=1"
+  },
+  {
+   "quote": "dogs are generally allowed on the summer trails from early May to late October.",
+   "url": "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs on leash are allowed at Ojibway campground and in the Barlow RV area.",
+   "url": "https://www.sepaq.com/pq/aig/index.dot?language_id=1"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/aig/index.dot?language_id=1",
+ "petsUrl": null,
+ "coordinates": [
+  -78.749,
+  48.5104
+ ],
+ "coordinatesSource": "Wikidata Q1327757"
+}

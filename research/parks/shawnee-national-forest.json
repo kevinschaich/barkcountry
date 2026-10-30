@@ -1,0 +1,21 @@
+{
+ "id": "shawnee-national-forest",
+ "name": "Shawnee National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome; leash in developed areas.",
+ "summary": "Dogs are welcome; leash in developed areas.",
+ "excerpts": [
+  {
+   "quote": "Dogs are welcome in the Shawnee National Forest; however, they must be leashed or restrained in developed recreation areas such as campgrounds, picnic areas and on d",
+   "url": "https://www.fs.usda.gov/r09/shawnee/safety-ethics"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/shawnee",
+ "petsUrl": "https://www.fs.usda.gov/r09/shawnee/safety-ethics",
+ "coordinates": [
+  -88.6667,
+  37.5
+ ],
+ "coordinatesSource": "Wikidata Q591413"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "great-smoky-mountains-national-park",
+ "name": "Great Smoky Mountains National Park",
+ "policy": "trails",
+ "policyReason": "Pets may walk only the Gatlinburg and Oconaluftee River trails, plus campgrounds, picnic areas and roads.",
+ "summary": "Pets may walk only the Gatlinburg and Oconaluftee River trails, plus campgrounds, picnic areas and roads.",
+ "excerpts": [
+  {
+   "quote": "Additionally, pets are permitted on two walking paths: the Gatlinburg Trail and the Oconaluftee River Trail.",
+   "url": "https://www.nps.gov/grsm/faqs.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed in campgrounds, picnic areas, parking areas and along roads.",
+   "url": "https://www.nps.gov/grsm/faqs.htm"
+  },
+  {
+   "text": "No other trails or backcountry.",
+   "url": "https://www.nps.gov/grsm/faqs.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/grsm",
+ "petsUrl": "https://www.nps.gov/grsm/planyourvisit/pets.htm",
+ "coordinates": [
+  -83.425,
+  35.611111111
+ ],
+ "coordinatesSource": "Wikidata Q464004"
+}

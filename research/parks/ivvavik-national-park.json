@@ -1,0 +1,26 @@
+{
+ "id": "ivvavik-national-park",
+ "name": "Ivvavik National Park",
+ "policy": "everywhere",
+ "policyReason": "The park regulations allow leashed dogs; no area bans are listed.",
+ "summary": "Dogs are allowed on a leash at all times.",
+ "excerpts": [
+  {
+   "quote": "All dogs and other domestic animals must be kept on a leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/yt/ivvavik/visit/visit6/regs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be on a leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/yt/ivvavik/visit/visit6/regs"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/yt/ivvavik",
+ "petsUrl": null,
+ "coordinates": [
+  -139.525,
+  69.5197
+ ],
+ "coordinatesSource": "Wikidata Q200590"
+}

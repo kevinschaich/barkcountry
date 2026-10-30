@@ -1,0 +1,34 @@
+{
+ "id": "everglades-national-park",
+ "name": "Everglades National Park",
+ "policy": "roads",
+ "policyReason": "Leashed pets are allowed in parking lots, campgrounds and along roads, not on trails.",
+ "summary": "Leashed pets are allowed in parking lots, campgrounds and along roads, not on trails.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed (6-foot (2 m) leash) in parking lots and frontcountry campgrounds, but not on trails, in backcountry campsites, or in wilderness areas.",
+   "url": "https://www.nps.gov/ever/faqs.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on trails, backcountry campsites or wilderness.",
+   "url": "https://www.nps.gov/ever/faqs.htm"
+  },
+  {
+   "text": "Campgrounds, parking lots and roadsides only.",
+   "url": "https://www.nps.gov/ever/planyourvisit/camping.htm"
+  },
+  {
+   "text": "Keep pets well back from shorelines; alligators can attack.",
+   "url": "https://www.nps.gov/ever/faqs.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/ever",
+ "petsUrl": "https://www.nps.gov/ever/planyourvisit/pets.htm",
+ "coordinates": [
+  -80.6875,
+  25.3125
+ ],
+ "coordinatesSource": "Wikidata Q274131"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "pukaskwa-national-park",
+ "name": "Pukaskwa National Park",
+ "policy": "everywhere",
+ "policyReason": "Pets are allowed on a leash under 3 m.",
+ "summary": "Pets are allowed on a leash under 3 m.",
+ "excerpts": [
+  {
+   "quote": "Pets must be kept on a leash of less than three metres, at all times, for their own protection and for the protection of others.",
+   "url": "https://parks.canada.ca/pn-np/on/pukaskwa/visit/services/info"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash under 3 m at all times.",
+   "url": "https://parks.canada.ca/pn-np/on/pukaskwa/visit/services/info"
+  },
+  {
+   "text": "No veterinary service within 300 km.",
+   "url": "https://parks.canada.ca/pn-np/on/pukaskwa/visit/services/info"
+  },
+  {
+   "text": "Pets are welcome at the oTENTik site, leashed and never unattended.",
+   "url": "https://parks.canada.ca/pn-np/on/pukaskwa/activ/camping/otentik"
+  },
+  {
+   "text": "Some areas are closed to pets; check notices at trailheads.",
+   "url": "https://parks.canada.ca/pn-np/on/pukaskwa/visit/comportements-guidelines"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/on/pukaskwa",
+ "petsUrl": "https://parks.canada.ca/pn-np/on/pukaskwa/visit/services/info",
+ "coordinates": [
+  -85.916666666,
+  48.25
+ ],
+ "coordinatesSource": "Wikidata Q283482"
+}

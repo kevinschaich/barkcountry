@@ -1,0 +1,42 @@
+{
+ "id": "parc-national-de-la-jacques-cartier",
+ "name": "Jacques-Cartier National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed only in La Vallée sector, on several trails, campgrounds and a picnic area.",
+ "summary": "Leashed dogs are allowed only in La Vallée sector, on several trails, campgrounds and a picnic area.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis uniquement dans le secteur de la Vallée, du côté est de la rivière Jacques-Cartier et jusqu'au pont de la rivière Sautauriski.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Only La Vallée sector, east of the river up to the Sautauriski bridge.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot"
+  },
+  {
+   "text": "Summer trails (May 1 to Nov 30): La Tourbière, L’Éperon, L’Aperçu, Les Coulées, La Rivière-Sautauriski, La Rivière-Cachée, La Mésange.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot"
+  },
+  {
+   "text": "Winter trails: La Tourbière, La Rivière-Cachée, La Mésange and chemin de la Vallée km 10 to 12.5.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot"
+  },
+  {
+   "text": "Camping La Bétulaie, Espace VR de La Vallée, group camp Les Érables; picnic area Les Deux-Rivières.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot"
+  },
+  {
+   "text": "No dogs on the water or in any boat.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/jac/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot",
+ "coordinates": [
+  -71.35,
+  47.3333
+ ],
+ "coordinatesSource": "Wikidata Q1631583"
+}

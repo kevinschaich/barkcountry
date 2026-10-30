@@ -1,0 +1,30 @@
+{
+ "id": "nahanni-national-park-reserve-of-canada",
+ "name": "Nahanni National Park Reserve",
+ "policy": "everywhere",
+ "policyReason": "The park only requires dogs to be leashed and lists no bans.",
+ "summary": "Dogs are allowed on a leash at all times; Parks Canada suggests leaving them home in bear country.",
+ "excerpts": [
+  {
+   "quote": "Dogs can provoke defensive behaviour in bears.",
+   "url": "https://parks.canada.ca/pn-np/nt/nahanni/securite-safety/ours_bears/security-safety"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Keep dogs leashed at all times; dogs can provoke bears.",
+   "url": "https://parks.canada.ca/pn-np/nt/nahanni/securite-safety/ours_bears/security-safety"
+  },
+  {
+   "text": "Hang or store pet food away from your tent.",
+   "url": "https://parks.canada.ca/pn-np/nt/nahanni/securite-safety/ours_bears/security-safety"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nt/nahanni",
+ "petsUrl": null,
+ "coordinates": [
+  -125.50047,
+  61.5007
+ ],
+ "coordinatesSource": "original map"
+}

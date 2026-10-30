@@ -1,0 +1,30 @@
+{
+ "id": "yosemite-national-park",
+ "name": "Yosemite National Park",
+ "policy": "trails",
+ "policyReason": "Pets are allowed on paved valley paths and the Wawona Meadow Loop, not hiking trails.",
+ "summary": "Pets are allowed on paved valley paths and the Wawona Meadow Loop, not hiking trails.",
+ "excerpts": [
+  {
+   "quote": "While dogs are generally allowed on paved trails on the floor of Yosemite, they must be leashed and their excrement must be disposed of in waste receptacles.",
+   "url": "https://www.nps.gov/yose/blogs/when-our-decisions-endanger-our-pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on trails including Vernal Fall, even if carried; Wawona Meadow Loop is open to pets.",
+   "url": "https://www.nps.gov/yose/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No exceptions for carried pets.",
+   "url": "https://www.nps.gov/yose/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/yose",
+ "petsUrl": "https://www.nps.gov/yose/planyourvisit/pets.htm",
+ "coordinates": [
+  -119.5375,
+  37.7425
+ ],
+ "coordinatesSource": "Wikidata Q180402"
+}

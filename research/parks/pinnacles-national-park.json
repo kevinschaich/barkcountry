@@ -1,0 +1,26 @@
+{
+ "id": "pinnacles-national-park",
+ "name": "Pinnacles National Park",
+ "policy": "roads",
+ "policyReason": "Pets are allowed in campgrounds, paved roads and parking lots, but not on trails or in caves.",
+ "summary": "Pets are allowed in campgrounds, paved roads and parking lots, but not on trails or in caves.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed on trails, in the caves, or in other wilderness areas of Pinnacles to protect wildlife and the environment.",
+   "url": "https://www.nps.gov/pinn/frequently-asked-questions.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Campground, paved roads and parking lots only.",
+   "url": "https://www.nps.gov/pinn/planyourvisit/camp.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/pinn",
+ "petsUrl": "https://www.nps.gov/pinn/planyourvisit/pets.htm",
+ "coordinates": [
+  -121.167,
+  36.4869
+ ],
+ "coordinatesSource": "Wikidata Q1783768"
+}

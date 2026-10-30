@@ -1,0 +1,38 @@
+{
+ "id": "parc-national-de-frontenac",
+ "name": "Frontenac National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed in parts of the park, never in the Sud sector and not in Saint-Daniel in winter.",
+ "summary": "Leashed dogs are allowed in parts of the park, never in the Sud sector and not in Saint-Daniel in winter.",
+ "excerpts": [
+  {
+   "quote": "Notez que les chiens sont interdits en tout temps au secteur Sud et qu'ils ne sont pas admis au secteur Saint-Daniel en période hivernale, soit du 1er novembre au 30 avril.",
+   "url": "https://www.sepaq.com/pq/fro/index.dot?language_id=2"
+  },
+  {
+   "quote": "dogs are generally allowed on the summer trails from early May to late October.",
+   "url": "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs in the Sud sector at any time; none in Saint-Daniel from November 1 to April 30.",
+   "url": "https://www.sepaq.com/pq/fro/index.dot?language_id=2"
+  },
+  {
+   "text": "Dogs allowed at Baie-des-Sables and Rivière-aux-Bluets campgrounds, not at Baie-aux-Rats-Musqués.",
+   "url": "https://www.sepaq.com/pq/fro/index.dot?language_id=2"
+  },
+  {
+   "text": "Beach access no. 4 is open to dogs; leashed dogs allowed at the boat ramp.",
+   "url": "https://www.sepaq.com/pq/fro/index.dot?language_id=2"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/fro/index.dot?language_id=2",
+ "petsUrl": null,
+ "coordinates": [
+  -71.2167,
+  45.8667
+ ],
+ "coordinatesSource": "Wikidata Q1625209"
+}

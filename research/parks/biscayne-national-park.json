@@ -1,0 +1,34 @@
+{
+ "id": "biscayne-national-park",
+ "name": "Biscayne National Park",
+ "policy": "roads",
+ "policyReason": "Pets may visit only the Convoy Point grounds and developed areas of Elliott Key; no trails are open to them.",
+ "summary": "Leashed pets may visit the Convoy Point grounds and developed areas on Elliott Key, but not Boca Chita Key.",
+ "excerpts": [
+  {
+   "quote": "On Elliott Key pets on a leash are permitted within developed areas only.",
+   "url": "https://www.nps.gov/bisc/planyourvisit/camping.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not allowed on Boca Chita Key, including boats docked in its harbor.",
+   "url": "https://www.nps.gov/bisc/planyourvisit/camping.htm"
+  },
+  {
+   "text": "Not inside the visitor center.",
+   "url": "https://www.nps.gov/thingstodo/become-a-biscayne-b-a-r-k-ranger.htm"
+  },
+  {
+   "text": "Never leave pets in a parked car.",
+   "url": "https://www.nps.gov/bisc/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/bisc",
+ "petsUrl": "https://www.nps.gov/bisc/planyourvisit/pets.htm",
+ "coordinates": [
+  -80.18096924,
+  25.50185493
+ ],
+ "coordinatesSource": "Wikidata Q866080"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "siskiyou-national-forest",
+ "name": "Siskiyou National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Dogs are welcome in the campground.",
+   "url": "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/union-creek-campground"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Campgrounds: dogs on leash.",
+   "url": "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/union-creek-campground"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r06/rogue-siskiyou",
+ "petsUrl": null,
+ "coordinates": [
+  -123.9386878,
+  42.062333
+ ],
+ "coordinatesSource": "OpenStreetMap: Siskiyou National Forest, North Fork Smith River Trail, Curry County, Oregon, Un"
+}

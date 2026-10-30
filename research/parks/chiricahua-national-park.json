@@ -1,0 +1,38 @@
+{
+ "id": "chiricahua-national-park",
+ "name": "Chiricahua National Park",
+ "policy": "trails",
+ "policyReason": "The park page allows leashed pets on the lower canyon trails only.",
+ "summary": "Leashed pets may use the lower canyon trails, but no trails above 5,500 feet.",
+ "excerpts": [
+  {
+   "quote": "Pets on leashes are allowed on the lower canyon trails",
+   "url": "https://www.nps.gov/chir/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Pets are not permitted on any trails above 5,500 feet (including Massai Point Nature, Echo Canyon, Heart of the Rocks, Natural Bridge, and Sugarloaf Trails).",
+   "url": "https://www.nps.gov/chir/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed on Bonita Creek, Faraway Ranch, Silver Spur Meadow and the campground connector trails.",
+   "url": "https://www.nps.gov/chir/learn/management/lawsandpolicies.htm"
+  },
+  {
+   "text": "No trails above 5,500 ft, including Echo Canyon and Heart of the Rocks.",
+   "url": "https://www.nps.gov/chir/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Coronado National Forest trails allow pets.",
+   "url": "https://www.nps.gov/chir/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/chir/",
+ "petsUrl": "https://www.nps.gov/chir/planyourvisit/pets.htm",
+ "coordinates": [
+  -109.357,
+  32.0057
+ ],
+ "coordinatesSource": "Wikidata Q1074719"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "crater-lake-national-park",
+ "name": "Crater Lake National Park",
+ "policy": "trails",
+ "policyReason": "Leashed pets may use a few trails and plowed roads, but not Cleetwood Cove Trail or the lake.",
+ "summary": "Leashed pets may use a few trails and plowed roads, but not Cleetwood Cove Trail or the lake.",
+ "excerpts": [
+  {
+   "quote": "Hikers may only be in possession of one leashed pet per person on trails.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Pets must be leashed and in physical control of the hiker at all times.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Only on these designated trails:",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "All hiking and designated ski trails/routes except for those listed above.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "One leashed pet per hiker on trails.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Trails open to pets: Lady of the Woods, Godfrey Glen, Annie Spur, Grayback Drive and the Pacific Crest Trail; all other trails are closed.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No pets on Cleetwood Cove Trail, even carried.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No pets in Crater Lake or any stream or water.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not in visitor centers, the lodge or other public buildings.",
+   "url": "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/crla",
+ "petsUrl": "https://www.nps.gov/crla/planyourvisit/pets.htm",
+ "coordinates": [
+  -122.148055555,
+  42.911944444
+ ],
+ "coordinatesSource": "Wikidata Q239304"
+}

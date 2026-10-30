@@ -1,0 +1,42 @@
+{
+ "id": "bruce-peninsula-national-park",
+ "name": "Bruce Peninsula National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are welcome in the park, on a 3 m (9 ft) leash.",
+ "summary": "Leashed pets are welcome in the park, on a 3 m (9 ft) leash.",
+ "excerpts": [
+  {
+   "quote": "Pets are welcome to visit the park.",
+   "url": "https://parks.canada.ca/pn-np/on/bruce/securite-safety/faune-wildlife"
+  },
+  {
+   "quote": "Pets must be on a leash at all times – maximum length 3 m/9 ft.",
+   "url": "https://parks.canada.ca/pn-np/on/bruce/securite-safety/faune-wildlife"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash no longer than 3 m (9 ft) at all times.",
+   "url": "https://parks.canada.ca/pn-np/on/bruce/securite-safety/faune-wildlife"
+  },
+  {
+   "text": "Never leave pets unattended at campsites or in vehicles; leaving a pet in a hot car is illegal.",
+   "url": "https://parks.canada.ca/pn-np/on/bruce/securite-safety/regle_regu"
+  },
+  {
+   "text": "Poison ivy is dense along trails; pets can carry its oil to people.",
+   "url": "https://parks.canada.ca/pn-np/on/bruce/securite-safety/faune-wildlife"
+  },
+  {
+   "text": "Store pet food and bowls in a hard-sided vehicle at Cyprus Lake campground.",
+   "url": "https://parks.canada.ca/pn-np/on/bruce/activ/camping/cyprus"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/on/bruce",
+ "petsUrl": "https://parks.canada.ca/pn-np/on/bruce/securite-safety/faune-wildlife",
+ "coordinates": [
+  -81.6142,
+  45.2389
+ ],
+ "coordinatesSource": "Wikidata Q991459"
+}

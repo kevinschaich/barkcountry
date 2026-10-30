@@ -1,0 +1,34 @@
+{
+ "id": "black-canyon-of-the-gunnison-national-park",
+ "name": "Black Canyon of the Gunnison National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs may walk the Rim Rock and Chasm View Nature trails, overlooks, campgrounds and roads.",
+ "summary": "Leashed dogs may walk the Rim Rock and Chasm View Nature trails, overlooks, campgrounds and roads.",
+ "excerpts": [
+  {
+   "quote": "Leashed dogs are permitted on the Rim Rock Trail, Chasm View Nature Trail, picnic areas, campgrounds, parking lots, and paths to overlooks.",
+   "url": "https://www.nps.gov/blca/planyourvisit/pets2.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Only the Rim Rock Trail and the North Rim Chasm View Nature Trail allow pets.",
+   "url": "https://www.nps.gov/blca/planyourvisit/pets2.htm"
+  },
+  {
+   "text": "No pets on other trails, inner canyon routes, wilderness, or ski and snowshoe trails.",
+   "url": "https://www.nps.gov/blca/planyourvisit/pets2.htm"
+  },
+  {
+   "text": "Allowed in picnic areas, campgrounds, parking lots, overlook paths and open roads.",
+   "url": "https://www.nps.gov/blca/planyourvisit/pets2.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/blca",
+ "petsUrl": "https://www.nps.gov/blca/planyourvisit/pets2.htm",
+ "coordinates": [
+  -107.7275,
+  38.58
+ ],
+ "coordinatesSource": "Wikidata Q305880"
+}

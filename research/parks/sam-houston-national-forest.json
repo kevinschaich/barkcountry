@@ -1,0 +1,21 @@
+{
+ "id": "sam-houston-national-forest",
+ "name": "Sam Houston National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome; leash in developed areas.",
+ "summary": "Dogs are welcome; leash in developed areas.",
+ "excerpts": [
+  {
+   "quote": "A: Yes! Pets are welcome but must be kept on a leash in developed recreational areas.",
+   "url": "https://www.fs.usda.gov/r08/texas/about-area/faqs"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/r08/texas",
+ "petsUrl": "https://www.fs.usda.gov/r08/texas/about-area/faqs",
+ "coordinates": [
+  -95.1325,
+  30.58444444
+ ],
+ "coordinatesSource": "Wikipedia: Sam Houston National Forest"
+}

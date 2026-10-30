@@ -1,0 +1,34 @@
+{
+ "id": "joshua-tree-national-park",
+ "name": "Joshua Tree National Park",
+ "policy": "roads",
+ "policyReason": "Pets must stay within 100 feet of roads, picnic areas and campgrounds; no hiking trails.",
+ "summary": "Pets must stay within 100 feet of roads, picnic areas and campgrounds; no hiking trails.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed on hiking trails, in the backcountry, or in park buildings.",
+   "url": "https://www.nps.gov/jotr/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Never more than 100 ft from a road, picnic area or campground.",
+   "url": "https://www.nps.gov/jotr/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Paved Oasis of Mara and Keys View trails allow pets.",
+   "url": "https://www.nps.gov/jotr/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Carried pets count too.",
+   "url": "https://www.nps.gov/jotr/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/jotr",
+ "petsUrl": "https://www.nps.gov/jotr/planyourvisit/pets.htm",
+ "coordinates": [
+  -115.819308,
+  33.748381
+ ],
+ "coordinatesSource": "Wikidata Q735202"
+}

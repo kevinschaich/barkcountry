@@ -1,0 +1,38 @@
+{
+ "id": "hawaii-volcanoes-national-park",
+ "name": "Hawaiʻi Volcanoes National Park",
+ "policy": "roads",
+ "policyReason": "Leashed pets are allowed on roads such as Mauna Loa Road and in most parking areas, not in many other areas.",
+ "summary": "Leashed pets are allowed on roads such as Mauna Loa Road and in most parking areas, not in many other areas.",
+ "excerpts": [
+  {
+   "quote": "Dogs and other pets are not allowed in many areas of the park for safety reasons, and for the protection of threatened and endangered native species.",
+   "url": "https://www.nps.gov/havo/learn/news/20210225_nr_park-unleashes-bark-ranger-program.htm"
+  },
+  {
+   "quote": "All trails, including backcountry trails.",
+   "url": "https://www.nps.gov/havo/learn/news/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed on Mauna Loa Road and most parking areas, always leashed.",
+   "url": "https://www.nps.gov/havo/learn/news/20210225_nr_park-unleashes-bark-ranger-program.htm"
+  },
+  {
+   "text": "Pets are banned from many areas to protect nēnē and other species.",
+   "url": "https://www.nps.gov/havo/learn/news/pets.htm"
+  },
+  {
+   "text": "Prohibited on all trails, in undeveloped areas and wilderness, backcountry campgrounds, ʻĀinahou, Kīpuka Nēnē and all of Hilina Pali Road.",
+   "url": "https://www.nps.gov/havo/learn/news/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/havo/index.htm",
+ "petsUrl": "https://www.nps.gov/havo/planyourvisit/pets.htm",
+ "coordinates": [
+  -155.12361,
+  19.40083
+ ],
+ "coordinatesSource": "Wikidata Q205952"
+}

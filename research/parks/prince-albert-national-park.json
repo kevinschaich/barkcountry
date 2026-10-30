@@ -1,0 +1,38 @@
+{
+ "id": "prince-albert-national-park",
+ "name": "Prince Albert National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are welcome, including on most beaches outside buoyed swimming areas.",
+ "summary": "Leashed pets are welcome, including on most beaches outside buoyed swimming areas.",
+ "excerpts": [
+  {
+   "quote": "Pets are part of the family and are welcome in Prince Albert National Park.",
+   "url": "https://parks.canada.ca/pn-np/sk/princealbert/activ/experiences/chien-dog"
+  },
+  {
+   "quote": "For visitors who do choose to bring domestic animals to Prince Albert National Park, they must be on a leash and under physical control at all times.",
+   "url": "https://parks.canada.ca/pn-np/sk/princealbert/activ/experiences/chien-dog"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs are allowed on most beaches, outside buoyed swimming areas.",
+   "url": "https://parks.canada.ca/pn-np/sk/princealbert/activ/experiences/chien-dog"
+  },
+  {
+   "text": "All five frontcountry campgrounds and 15 backcountry campgrounds are pet-friendly.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  },
+  {
+   "text": "Keep pets leashed; bears have had encounters with pets in Waskesiu and at Kingsmere Lake.",
+   "url": "https://parks.canada.ca/pn-np/sk/princealbert/info/courriel-email"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/sk/princealbert",
+ "petsUrl": "https://parks.canada.ca/pn-np/sk/princealbert/activ/experiences/chien-dog",
+ "coordinates": [
+  -106.37,
+  53.9633
+ ],
+ "coordinatesSource": "Wikidata Q1122878"
+}

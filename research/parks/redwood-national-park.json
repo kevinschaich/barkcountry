@@ -1,0 +1,38 @@
+{
+ "id": "redwood-national-park",
+ "name": "Redwood National Park",
+ "policy": "trails",
+ "policyReason": "The pets page opens three named beaches to leashed pets, and a beach counts as trails, not roads.",
+ "summary": "Leashed pets may visit Freshwater, Gold Bluffs and Crescent beaches, campgrounds, picnic areas and roads, but no trails.",
+ "excerpts": [
+  {
+   "quote": "Freshwater Beach, Gold Bluffs Beach, and Crescent Beach.",
+   "url": "https://www.nps.gov/redw/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "For the safety of your pet and the preservation of park wildlife, pets are not permitted on trails.",
+   "url": "https://www.nps.gov/redw/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed in campgrounds, on beaches, in picnic areas and on roads.",
+   "url": "https://www.nps.gov/redw/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not at ranger-led programs.",
+   "url": "https://www.nps.gov/redw/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Smith River NRA trails allow leashed pets.",
+   "url": "https://www.nps.gov/redw/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/redw/index.htm",
+ "petsUrl": "https://www.nps.gov/redw/planyourvisit/pets.htm",
+ "coordinates": [
+  -124.058333,
+  41.529167
+ ],
+ "coordinatesSource": "Wikidata Q191824"
+}

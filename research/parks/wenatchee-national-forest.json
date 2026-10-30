@@ -1,0 +1,27 @@
+{
+ "id": "wenatchee-national-forest",
+ "name": "Wenatchee National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may use most trails; banned in the Enchantments.",
+ "summary": "Dogs may use most trails; banned in the Enchantments.",
+ "excerpts": [
+  {
+   "quote": "Dogs must be leashed on trails listed in Exhibit F",
+   "url": "https://www.fs.usda.gov/r06/okanogan-wenatchee/alerts/alpine-lakes-wilderness-restrictions-forestwide-or-multi-district"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs in the Enchantment Permit Area and Ingalls Lake area.",
+   "url": "https://www.fs.usda.gov/r06/okanogan-wenatchee/wilderness"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r06/okanogan-wenatchee",
+ "petsUrl": "https://www.fs.usda.gov/r06/okanogan-wenatchee/alerts/alpine-lakes-wilderness-restrictions-forestwide-or-multi-district",
+ "coordinates": [
+  -120.7619454,
+  47.7352784
+ ],
+ "coordinatesSource": "OpenStreetMap: Wenatchee National Forest, Thomson Road, Chelan County, Washington, United State",
+ "unit": "Okanogan-Wenatchee National Forest"
+}

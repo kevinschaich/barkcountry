@@ -1,0 +1,42 @@
+{
+ "id": "big-bend-national-park",
+ "name": "Big Bend National Park",
+ "policy": "roads",
+ "policyReason": "Your pet can only go where your car can go; no trails, off-road areas or the river.",
+ "summary": "Your pet can only go where your car can go; no trails, off-road areas or the river.",
+ "excerpts": [
+  {
+   "quote": "Your pet can only go where your car can go.",
+   "url": "https://www.nps.gov/bibe/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Activities with pets are limited in Big Bend: they are not allowed on trails, off roads, or along the river.",
+   "url": "https://www.nps.gov/bibe/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on trails, off roads or on the river.",
+   "url": "https://www.nps.gov/bibe/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No more than 30 feet from a road, picnic area or campground.",
+   "url": "https://www.nps.gov/bibe/planyourvisit/service-animals.htm"
+  },
+  {
+   "text": "Pets cannot cross into Mexico at Boquillas.",
+   "url": "https://www.nps.gov/bibe/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No pets at the hot springs.",
+   "url": "https://www.nps.gov/bibe/faqs.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/bibe/",
+ "petsUrl": "https://www.nps.gov/bibe/planyourvisit/pets.htm",
+ "coordinates": [
+  -103.25,
+  29.25
+ ],
+ "coordinatesSource": "Wikidata Q1427197"
+}

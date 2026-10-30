@@ -1,0 +1,38 @@
+{
+ "id": "ottawa-national-forest",
+ "name": "Ottawa National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Are allowed on a leash in both the Wilderness/Recreation area, can be off leash during hunting seasons.",
+   "url": "https://www.fs.usda.gov/r09/ottawa/recreation/sylvania-wilderness-backcountry-camping"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Sylvania Wilderness and Recreation Area: dogs on a 6-ft leash (forest orders), except while hunting in season.",
+   "url": "https://www.fs.usda.gov/r09/ottawa/alerts/wilderness-order-forest-order-09-07-21-07"
+  },
+  {
+   "text": "Sylvania perimeter area forest order: dogs on a 6-ft leash and never unattended.",
+   "url": "https://www.fs.usda.gov/r09/ottawa/alerts/sylvania-perimeter-area-forest-order-09-07-21-06"
+  },
+  {
+   "text": "No dogs at Clark Lake beach and swimming area.",
+   "url": "https://www.fs.usda.gov/r09/ottawa/recreation/sylvania-wilderness-backcountry-camping"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r09/ottawa",
+ "petsUrl": null,
+ "coordinates": [
+  -89.24318,
+  46.45274
+ ],
+ "coordinatesSource": "Wikidata Q7109216"
+}

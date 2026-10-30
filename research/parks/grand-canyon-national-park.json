@@ -1,0 +1,38 @@
+{
+ "id": "grand-canyon-national-park",
+ "name": "Grand Canyon National Park",
+ "policy": "trails",
+ "policyReason": "Leashed pets may walk trails above the South Rim, but never below the rim.",
+ "summary": "Leashed pets may walk trails above the South Rim, but never below the rim.",
+ "excerpts": [
+  {
+   "quote": "On the South Rim, leashed pets are allowed on trails above the rim.",
+   "url": "https://www.nps.gov/grca/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Never below the rim.",
+   "url": "https://www.nps.gov/grca/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No pets on shuttle buses.",
+   "url": "https://www.nps.gov/grca/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Yavapai Lodge has the only pet-friendly rooms in the park.",
+   "url": "https://www.nps.gov/grca/planyourvisit/pets.htm"
+  },
+  {
+   "text": "A kennel near Maswik Lodge boards dogs and cats.",
+   "url": "https://www.nps.gov/grca/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/grca",
+ "petsUrl": "https://www.nps.gov/grca/planyourvisit/pets.htm",
+ "coordinates": [
+  -112.122,
+  36.0553
+ ],
+ "coordinatesSource": "Wikidata Q220289"
+}

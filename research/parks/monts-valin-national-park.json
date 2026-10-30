@@ -1,0 +1,34 @@
+{
+ "id": "monts-valin-national-park",
+ "name": "Monts-Valin National Park",
+ "policy": "trails",
+ "policyReason": "Sépaq allows dogs on two trails (Pic-de-la-Tête-de-Chien and Lac-des-Pères), summer and winter, and not in the campground or picnic area.",
+ "summary": "Dogs are allowed on two trails, Pic-de-la-Tête-de-Chien and Lac-des-Pères, but not in campgrounds or picnic areas.",
+ "excerpts": [
+  {
+   "quote": "Le Pic-de-la-Tête-de-Chien<br>Le Lac-des-Pères",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-monts-valin.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer and winter trails: Pic-de-la-Tête-de-Chien and Lac-des-Pères.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-monts-valin.dot"
+  },
+  {
+   "text": "No dogs in the campground or picnic area.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-monts-valin.dot"
+  },
+  {
+   "text": "Dogs are generally admitted on summer trails from early May to late October.",
+   "url": "https://www.sepaq.com/animaux/"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/mva/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-monts-valin.dot",
+ "coordinates": [
+  -70.8,
+  48.6167
+ ],
+ "coordinatesSource": "Wikidata Q1395482"
+}

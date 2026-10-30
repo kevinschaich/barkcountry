@@ -1,0 +1,38 @@
+{
+ "id": "parc-national-de-la-yamaska",
+ "name": "Yamaska National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on two trails (La Forestière, La Rivière) year-round, two campgrounds and picnic areas.",
+ "summary": "Leashed dogs are allowed on two trails (La Forestière, La Rivière) year-round, two campgrounds and picnic areas.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis dans le parc.",
+   "url": "https://www.sepaq.com/pq/yam/"
+  },
+  {
+   "quote": "L'accès des chiens est cependant limité à certains endroits, selon certaines conditions.",
+   "url": "https://www.sepaq.com/pq/yam/"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Trails (summer and winter): La Forestière and La Rivière.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-yamaska.dot"
+  },
+  {
+   "text": "Campgrounds Les Grives and Les Bruants; picnic areas near the rental centre and P2.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-yamaska.dot"
+  },
+  {
+   "text": "Dogs allowed in boats at the beach rental centre; personal boats only at Savage-Mills.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-yamaska.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/yam/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-yamaska.dot",
+ "coordinates": [
+  -72.6164,
+  45.4297
+ ],
+ "coordinatesSource": "Wikidata Q1329151"
+}

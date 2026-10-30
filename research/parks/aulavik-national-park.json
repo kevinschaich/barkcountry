@@ -1,0 +1,26 @@
+{
+ "id": "aulavik-national-park",
+ "name": "Aulavik National Park",
+ "policy": "everywhere",
+ "policyReason": "The park regulations allow leashed dogs; no area bans are listed.",
+ "summary": "Dogs are allowed on a leash at all times.",
+ "excerpts": [
+  {
+   "quote": "All dogs and other domestic animals must be kept on a leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/nt/aulavik/visit/regs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be on a leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/nt/aulavik/visit/regs"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nt/aulavik",
+ "petsUrl": null,
+ "coordinates": [
+  -119.919,
+  73.7003
+ ],
+ "coordinatesSource": "Wikidata Q771612"
+}

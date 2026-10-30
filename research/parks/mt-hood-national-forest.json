@@ -1,0 +1,21 @@
+{
+ "id": "mt-hood-national-forest",
+ "name": "Mt. Hood National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed within sight and voice control.",
+ "summary": "Dogs are allowed within sight and voice control.",
+ "excerpts": [
+  {
+   "quote": "Yes, but all dogs must be within sight of the owner and in complete voice control.",
+   "url": "https://www.fs.usda.gov/r06/mthood/about-area"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/r06/mthood",
+ "petsUrl": "https://www.fs.usda.gov/r06/mthood/about-area",
+ "coordinates": [
+  -121.70388889,
+  45.37055556
+ ],
+ "coordinatesSource": "Wikipedia: Mt. Hood National Forest"
+}

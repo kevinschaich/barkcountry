@@ -1,0 +1,26 @@
+{
+ "id": "sable-island-national-park",
+ "name": "Sable Island National Park Reserve",
+ "policy": "none",
+ "policyReason": "Parks Canada lists pets among the things not permitted on Sable Island.",
+ "summary": "Pets are not permitted on Sable Island.",
+ "excerpts": [
+  {
+   "quote": "To help protect this fragile ecosystem, the following are not permitted on Sable Island: pets",
+   "url": "https://parks.canada.ca/pn-np/ns/sable/visit/preparez-prepare"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on Sable Island (also no drones or metal detectors).",
+   "url": "https://parks.canada.ca/pn-np/ns/sable/visit/preparez-prepare"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/ns/sable",
+ "petsUrl": null,
+ "coordinates": [
+  -59.906944444,
+  43.935277777
+ ],
+ "coordinatesSource": "Wikidata Q4133141"
+}

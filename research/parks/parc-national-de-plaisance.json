@@ -1,0 +1,34 @@
+{
+ "id": "parc-national-de-plaisance",
+ "name": "Plaisance National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed at the Chutes du Moulin site and in some sectors, not in the campground’s shower and dump-station sector.",
+ "summary": "Leashed dogs are allowed at the Chutes du Moulin site and in some sectors, not in the campground’s shower and dump-station sector.",
+ "excerpts": [
+  {
+   "quote": "Notez que les chiens tenus en laisse sont admis sur le site des Chutes du Moulin.",
+   "url": "https://www.sepaq.com/pq/pla/index.dot"
+  },
+  {
+   "quote": "Les chiens sont admis dans le parc.",
+   "url": "https://www.sepaq.com/pq/pla/index.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leashed dogs allowed at the Chutes du Moulin site.",
+   "url": "https://www.sepaq.com/pq/pla/index.dot"
+  },
+  {
+   "text": "No dogs in the campground sector with showers and the dump station.",
+   "url": "https://www.sepaq.com/pq/pla/index.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/pla/index.dot",
+ "petsUrl": null,
+ "coordinates": [
+  -75.1333,
+  45.6
+ ],
+ "coordinatesSource": "Wikidata Q1630760"
+}

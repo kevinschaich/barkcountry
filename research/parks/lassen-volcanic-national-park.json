@@ -1,0 +1,34 @@
+{
+ "id": "lassen-volcanic-national-park",
+ "name": "Lassen Volcanic National Park",
+ "policy": "roads",
+ "policyReason": "Pets are allowed in developed areas: campgrounds, picnic areas, paved roads and parking areas.",
+ "summary": "Pets are allowed in developed areas: campgrounds, picnic areas, paved roads and parking areas.",
+ "excerpts": [
+  {
+   "quote": "Pets are not permitted on any hiking trail, in the park backcountry (including snow-covered roads or trails), in any body of water, or inside visitor centers or other park facilities.",
+   "url": "https://www.nps.gov/lavo/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No trails, backcountry, water or buildings.",
+   "url": "https://www.nps.gov/lavo/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Allowed overnight in developed campgrounds.",
+   "url": "https://www.nps.gov/lavo/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Unplowed roads with snow are off limits.",
+   "url": "https://www.nps.gov/lavo/learn/management/compendium.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/lavo",
+ "petsUrl": "https://www.nps.gov/lavo/planyourvisit/pets.htm",
+ "coordinates": [
+  -121.4275,
+  40.498055555
+ ],
+ "coordinatesSource": "Wikidata Q1163542"
+}

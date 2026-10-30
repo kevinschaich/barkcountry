@@ -1,0 +1,46 @@
+{
+ "id": "parc-national-de-la-gaspesie",
+ "name": "Gaspésie National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on two summer trails (La Lucarne, La Chute-Sainte-Anne), one campground and picnic areas, May to October.",
+ "summary": "Leashed dogs are allowed on two summer trails (La Lucarne, La Chute-Sainte-Anne), one campground and picnic areas, May to October.",
+ "excerpts": [
+  {
+   "quote": "Prenez note que les chiens sont admis du début mai jusqu'à la fin octobre.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot"
+  },
+  {
+   "quote": "La Lucarne",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trails: La Lucarne and La Chute-Sainte-Anne.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot"
+  },
+  {
+   "text": "Camping de la Rivière and Espace VR de la Vallée (summer only).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot"
+  },
+  {
+   "text": "Picnic areas near Camping de la Rivière, La Boussole and La Grande-Fosse lookout.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot"
+  },
+  {
+   "text": "No water access and no winter trails.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot"
+  },
+  {
+   "text": "Pets are not allowed at Gîte du Mont-Albert or Auberge de montagne des Chic-Chocs.",
+   "url": "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/gas/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot",
+ "coordinates": [
+  -66.2333,
+  48.9333
+ ],
+ "coordinatesSource": "Wikidata Q2051988"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "san-juan-national-forest",
+ "name": "San Juan National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome; keep them under control.",
+ "summary": "Dogs are welcome; keep them under control.",
+ "excerpts": [
+  {
+   "quote": "Dogs are always welcome on the San Juan National Forest.",
+   "url": "https://www.fs.usda.gov/r02/sanjuan/safety-ethics/hiking-and-camping-dogs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Store dog food in bear-resistant containers.",
+   "url": "https://www.fs.usda.gov/r02/sanjuan/safety-ethics/hiking-and-camping-dogs"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/sanjuan",
+ "petsUrl": "https://www.fs.usda.gov/r02/sanjuan/safety-ethics/hiking-and-camping-dogs",
+ "coordinates": [
+  -107.672,
+  37.5553
+ ],
+ "coordinatesSource": "Wikidata Q643618"
+}

@@ -1,0 +1,31 @@
+{
+ "id": "clearwater-national-forest",
+ "name": "Clearwater National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome; keep them on a 6-ft leash or under control by day.",
+ "summary": "Dogs are welcome; keep them on a 6-ft leash or under control by day.",
+ "excerpts": [
+  {
+   "quote": "Please follow the guidelines below to ensure your pets remain welcome to visit the Forest in the future:",
+   "url": "https://www.fs.usda.gov/r06/umpqua/recreation/clearwater-falls-campground"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "By day keep dogs on a leash of 6 ft or less or otherwise under control.",
+   "url": "https://www.fs.usda.gov/r06/umpqua/recreation/clearwater-falls-campground"
+  },
+  {
+   "text": "Leave vicious or unusually noisy dogs at home.",
+   "url": "https://www.fs.usda.gov/r06/umpqua/recreation/clearwater-falls-campground"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/nezperceclearwater/",
+ "petsUrl": "https://www.fs.usda.gov/r06/umpqua/recreation/clearwater-falls-campground",
+ "coordinates": [
+  -115.16,
+  46.5511
+ ],
+ "coordinatesSource": "Wikidata Q5130951",
+ "unit": "Nez Perce-Clearwater National Forests"
+}

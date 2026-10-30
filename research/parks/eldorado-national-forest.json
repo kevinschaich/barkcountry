@@ -1,0 +1,30 @@
+{
+ "id": "eldorado-national-forest",
+ "name": "Eldorado National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome.",
+ "summary": "Leashed dogs are welcome.",
+ "excerpts": [
+  {
+   "quote": "Yes, your pets are welcome to join in your adventures.",
+   "url": "https://www.fs.usda.gov/r05/eldorado/about-area/faqs"
+  },
+  {
+   "quote": "DOGS MUST BE ON A LEASH.",
+   "url": "https://www.fs.usda.gov/r05/eldorado/about-area/faqs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets in swimming areas.",
+   "url": "https://www.fs.usda.gov/r05/eldorado/natural-resources/forest-management/general-rules"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/eldorado",
+ "petsUrl": "https://www.fs.usda.gov/r05/eldorado/about-area/faqs",
+ "coordinates": [
+  -120.333,
+  38.7503
+ ],
+ "coordinatesSource": "Wikidata Q577753"
+}

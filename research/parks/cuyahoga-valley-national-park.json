@@ -1,0 +1,34 @@
+{
+ "id": "cuyahoga-valley-national-park",
+ "name": "Cuyahoga Valley National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are allowed on over 100 miles of trails and the Towpath Trail.",
+ "summary": "Leashed pets are allowed on over 100 miles of trails and the Towpath Trail.",
+ "excerpts": [
+  {
+   "quote": "Dogs can go on most of the trails in the park, but they must remain on a leash.",
+   "url": "https://www.nps.gov/cuva/faqs.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on the East Rim mountain bike trails.",
+   "url": "https://www.nps.gov/cuva/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No pets at Virginia Kendall Hills during sledding.",
+   "url": "https://www.nps.gov/cuva/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Only service animals in buildings and on the scenic railroad.",
+   "url": "https://www.nps.gov/cuva/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/cuva",
+ "petsUrl": "https://www.nps.gov/cuva/planyourvisit/pets.htm",
+ "coordinates": [
+  -81.549722222,
+  41.241666666
+ ],
+ "coordinatesSource": "Wikidata Q152820"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "yoho-national-park",
+ "name": "Yoho National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are allowed, including in the backcountry; some areas are closed to them.",
+ "summary": "Leashed pets are allowed, including in the backcountry; some areas are closed to them.",
+ "excerpts": [
+  {
+   "quote": "Pets are welcome in the backcountry but must be leashed at all times.",
+   "url": "https://parks.canada.ca/pn-np/bc/yoho/activ/arrierepays-backcountry"
+  },
+  {
+   "quote": "All domestic animals must be kept on a leash at all times and all fecal waste must be picked up and removed to garbage receptacles.",
+   "url": "https://parks.canada.ca/pn-np/bc/yoho/visit/regs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Some areas are closed to pets; check notices at trailheads.",
+   "url": "https://parks.canada.ca/pn-np/bc/yoho/visit/regs"
+  },
+  {
+   "text": "Unattended tied-up animals may be impounded.",
+   "url": "https://parks.canada.ca/pn-np/bc/yoho/visit/regs"
+  },
+  {
+   "text": "Check yourself and your pet for ticks after hiking.",
+   "url": "https://parks.canada.ca/pn-np/bc/yoho/activ/randonnee-hike"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/bc/yoho",
+ "petsUrl": "https://parks.canada.ca/pn-np/bc/yoho/visit/regs",
+ "coordinates": [
+  -116.487,
+  51.3953
+ ],
+ "coordinatesSource": "Wikidata Q828404"
+}

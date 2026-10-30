@@ -1,0 +1,30 @@
+{
+ "id": "gallatin-national-forest",
+ "name": "Gallatin National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Control pets at all times.",
+   "url": "https://www.fs.usda.gov/r01/custergallatin/safety-ethics/leave-no-trace-custer-gallatin-nf"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pack out pet waste.",
+   "url": "https://www.fs.usda.gov/r01/custergallatin/safety-ethics"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r01/custergallatin",
+ "petsUrl": null,
+ "coordinates": [
+  -110.8635106,
+  46.0675256
+ ],
+ "coordinatesSource": "OpenStreetMap: Gallatin National Forest, Gallatin County, Montana, United States"
+}

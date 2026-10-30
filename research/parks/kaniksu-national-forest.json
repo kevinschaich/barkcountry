@@ -1,0 +1,30 @@
+{
+ "id": "kaniksu-national-forest",
+ "name": "Kaniksu National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Dogs are not allowed in any of our cabins, lookouts or historic recreation areas that are available for reservation.",
+   "url": "https://www.fs.usda.gov/r01/idahopanhandle/recreation/avery-creek-cabin"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs in rental cabins, lookouts or reservable historic sites.",
+   "url": "https://www.fs.usda.gov/r01/idahopanhandle/recreation/avery-creek-cabin"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r01/idahopanhandle",
+ "petsUrl": null,
+ "coordinates": [
+  -116.152,
+  48.317
+ ],
+ "coordinatesSource": "Wikidata Q6363198"
+}

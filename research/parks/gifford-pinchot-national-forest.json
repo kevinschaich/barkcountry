@@ -1,0 +1,26 @@
+{
+ "id": "gifford-pinchot-national-forest",
+ "name": "Gifford Pinchot National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs on a 6-ft leash may hike and backpack.",
+ "summary": "Dogs on a 6-ft leash may hike and backpack.",
+ "excerpts": [
+  {
+   "quote": "Many hikers enjoy taking their dog along on the trail, whether for a day hike or backpacking.",
+   "url": "https://www.fs.usda.gov/r06/giffordpinchot/safety-ethics/dogs-national-forest"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs may not chase game animals.",
+   "url": "https://www.fs.usda.gov/r06/giffordpinchot/safety-ethics/dogs-national-forest"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/giffordpinchot",
+ "petsUrl": "https://www.fs.usda.gov/r06/giffordpinchot/safety-ethics/dogs-national-forest",
+ "coordinates": [
+  -121.756,
+  46.189
+ ],
+ "coordinatesSource": "Wikidata Q670490"
+}

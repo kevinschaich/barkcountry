@@ -1,0 +1,26 @@
+{
+ "id": "siuslaw-national-forest",
+ "name": "Siuslaw National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed; some beaches are closed to them.",
+ "summary": "Dogs are allowed; some beaches are closed to them.",
+ "excerpts": [
+  {
+   "quote": "Yes, dogs are allowed within these guidelines:",
+   "url": "https://www.fs.usda.gov/r06/siuslaw/about-area/faqs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Some beach areas are closed to dogs.",
+   "url": "https://www.fs.usda.gov/r06/siuslaw/about-area/faqs"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/siuslaw/",
+ "petsUrl": "https://www.fs.usda.gov/r06/siuslaw/about-area/faqs",
+ "coordinates": [
+  -123.917,
+  44.3333
+ ],
+ "coordinatesSource": "Wikidata Q1165341"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "kootenai-national-forest",
+ "name": "Kootenai National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Pets are welcome, but must be leashed.",
+   "url": "https://www.fs.usda.gov/r01/kootenai/recreation/ross-creek-cedars"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Ross Creek Cedars: leashed pets welcome.",
+   "url": "https://www.fs.usda.gov/r01/kootenai/recreation/ross-creek-cedars"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r01/kootenai",
+ "petsUrl": null,
+ "coordinates": [
+  -115.46666667,
+  48.18333333
+ ],
+ "coordinatesSource": "Wikipedia: Kootenai National Forest"
+}

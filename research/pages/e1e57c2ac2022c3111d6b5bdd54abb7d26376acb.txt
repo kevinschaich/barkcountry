@@ -1,0 +1,159 @@
+[Skip to main content](https://www.fs.usda.gov/r04/manti-lasal/planning#main-content)
+
+![Dot gov](https://www.fs.usda.gov/themes/custom/wfs/package/dist/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A **.gov** website belongs to an official government organization in the United States.
+
+
+![Https](https://www.fs.usda.gov/themes/custom/wfs/package/dist/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** ( LockLocked padlock
+) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+
+Alerts and Fire Danger Status
+
+Alerts:
+
+[View All Alerts](https://www.fs.usda.gov/r04/manti-lasal/alerts) 🡪
+
+[Fire & Fuels Seasonal Hiring Open Oct 30- Nov 12, 2026](https://www.fs.usda.gov/r04/manti-lasal/alerts/fire-fuels-seasonal-hiring-open-oct-30-nov-12-2026) [Ferron Ranger District Rescinding Order, Black Canyon Fire](https://www.fs.usda.gov/r04/manti-lasal/alerts/ferron-ranger-district-rescinding-order-black-canyon-fire)
+
+Fire Danger Status
+
+LowSanpete and Ferron/Price Ranger Districts
+
+LowMoab and Monticello Ranger Districts
+
+[Utah Fire Info](https://utah-fire-info-utahdnr.hub.arcgis.com/) [Black Canyon Fire Updates (InciWeb)](https://inciweb.wildfire.gov/incident-information/utmlf-black-canyon)
+
+![](https://www.fs.usda.gov/sites/nfs/files/styles/hero/public/r04/manti-lasal/image/Planning-Hero.JPG?h=15a17414&itok=0DfJmGWK)
+
+![Print Icon](https://www.fs.usda.gov/themes/custom/wfs/img/usa-icons/print.svg)
+
+T
+
+T
+
+T
+
+- [Animals and Plants](https://www.fs.usda.gov/r04/manti-lasal/animals-plants)
+- [Fire](https://www.fs.usda.gov/r04/manti-lasal/fire)
+- [Forest Products](https://www.fs.usda.gov/r04/manti-lasal/forest-products)
+- [Natural Resources](https://www.fs.usda.gov/r04/manti-lasal/natural-resources)
+- [Planning](https://www.fs.usda.gov/r04/manti-lasal/planning)
+- [Projects](https://www.fs.usda.gov/r04/manti-lasal/projects)
+- [Wilderness](https://www.fs.usda.gov/r04/manti-lasal/wilderness)
+
+# Planning
+
+### **Forest Plan Revision**
+
+Using years of your input, the Manti-La Sal planning team has completed the draft revised forest plan and associated DEIS. The comment period on these documents is now closed. If you would still like to share information with us about these documents please email us at [**mlnfplanrevision@usda.gov**](mailto:mlnfplanrevision@usda.gov), however you will not have standing as an objector.
+
+## What is a forest plan?
+
+Forest plans are legally required documents that establish broad, long-range, general management direction to maintain or achieve desired conditions. Together, desired conditions and objectives describe what actions Forest Service managers intend to implement across the Manti-La Sal landscape while still providing sustainable usage by individuals and communities. As forest and community needs change, forest plans should be amended or revised to respond to these changes and incorporate the latest scientific knowledge and understanding of land management. View all Forest Plan documents, events, and information by visiting the [**Forest Plan Project Page**](https://www.fs.usda.gov/r04/manti-lasal/projects/50121).
+
+## What is the forest plan revision process?
+
+The process of revising a forest plan includes the following steps: assessment, preliminary identification of the need to change the plan based on the assessment, development of a proposed plan, consideration of the environmental effects of the proposal (environmental impact statement), providing an opportunity to comment on the proposed plan and environmental effects analysis, providing an opportunity to object before the proposal is approved, and, finally, approval of the plan revision.
+
+## Comment Periods and Other Engagements
+
+The most recent comment period concerning the Manti-La Sal National Forest plan was for the Draft Environmental Impact Statement (DEIS) and Draft Forest Plan. This comment period was open from August 18, 2023 to November 16, 2023. Once the comment period closes, forest officials organize and respond to the comments. Currently, the comments received are being used to create the final forest plan and environmental impact statement. Errors that were discovered or pointed out via comments concerning the DEIS and Draft Forest Plan will be corrected and the team will continue to work with Cooperating Agencies, Nations, Tribes, and Pueblos to fine tune the final plan. The team hopes to have a final plan and draft Record of Decision in 2025.
+
+## Helpful Links
+
+- View all Forest Plan documents, events, and information by visiting the [**Forest Plan Project Page**](https://www.fs.usda.gov/r04/manti-lasal/projects/50121)
+- To read other public comments, please visit the [public reading room](https://cara.fs2c.usda.gov/Public/ReadingRoom?Project=50121).
+- If you have questions or otherwise would like to communicate with the forest team, please contact us at [mlnfplanrevision@usda.gov](mailto:mlnfplanrevision@usda.gov).
+- Watch a recording from our previous engagements Forest Plan Revision Media Page.
+- [View the Federal Register Notice of Intent](https://www.federalregister.gov/documents/2021/08/25/2021-18309/manti-la-sal-national-forest-utah-revision-of-the-manti-la-sal-national-forest-land-management-plan)
+- [View the 2012 Planning Rule](https://www.fs.usda.gov/managing-land/planning-rule)
+- [Bears Ears National Monument Information](https://www.fs.usda.gov/visit/national-monuments/bears-ears-national-monument)
+
+## Read all plan and analysis documents
+
+You are an important part of the revision process. Your input matters! Forest plans should reflect the diverse interests and desires of the people who use the forest—even when they don’t agree.
+
+- Read the proposed forest plan and draft environmental impact statement, [**and all other Forest Plan documents here**](https://usfs-public.app.box.com/v/PinyonPublic/folder/158198731812).
+- Review the [regional forester species of conservation concern (SCC) list](https://usfs-public.app.box.com/v/PinyonPublic/file/1280739390122).
+- Download the [geospatial data](https://usfs-public.box.com/s/oey4mim5sc2icroitr1lnis80lb2f2tw). To access these files, you must have ESRI ArcGIS Pro software on your device.
+- View the [interactive map for the plan and draft environmental impact statement, here](https://usfs.maps.arcgis.com/apps/instant/sidebar/index.html?appid=36968405dfa24277aa22780a33a659d5&center=-110.4963;38.7969&level=8&hiddenLayers=cfe947741fda463fab36e4438238bacd;8d17751618fb4c73b67278ed2d135d68;a12002a014f94c2a8048728a0da20090;5e1b50d40ab94efba5773ba509d34b99;1eff7c75c0f64c96b340ea8be9a1603f;99e8887e4ba345aaa1865a69e8e11a63;918b0da45eb14d6bb0c9e2690c4fa817;92d0d866b57648af9c18c5be2c7d79cc;c8727f18d4b7425198a42d7174096289;d11699ad4c4247eaabed788959d6edf1;f153a2d9c14443c696ab1fe835662928;3cb6ef7dd52b4fd8ba0a01bd46242333;943b9ff6439f4e10b08cdb16e00e98b0;1696eb0150764258a47b10ce388a4aa8;ee4252c2ad374569bb089b68f17bc87f;a956ff3a2a2c4d2dbe10453c5dd406e4;48173aeb2cc647ccb35a493785f4059c;30215e33bf9e46d694edb92c68b36515;35a9f10013f84f06ac54ba5d8c41550a;2345bef26b214b4b829d908af361c7e0;6ba13a5a464d41c69cb7fa804abf15da;5fd018aea1594eeab4148696e4c27ec5;a2a60952f57b4a73b387bc87c4cf70e7;c543d890a15f49c293e63b91100575d8;f68b7e652b134de5adf3125693d67abd;a8f03bc7a4be418bbc3af14030ee1af0;095da1d803b34df7bc4540c6d0534a25;0ec38004feda465d9a76327307f7c74a;a1acad93d37a4fae945d4fc27d8a40c9;496e862355ca468f909772b5241bee36;c58a7c45a117419da5b4d0b0929a1caa;d03078da1f114967ba3ade52fbb9c52f;bcb548c0ef7a49f38de6ada9fecdb7e9;f645ba4356f54fc0ae9113eaa78701e8;c2594ac6ee1340a2810c06324b208429;c46888a83dcb43e693e0ef536c245907;742e6ede969742b6904f783631a974f2;3b1ea75f58b548b3ae8698b00566e1a2).
+- Read the [Federal Register Notice of Availability.](https://usfs-public.app.box.com/s/ujsoy1snbors3gzvjcienz9enqgudkh9/file/1284116670486)
+- Read the [Legal notice proof published in ETV News August 23, 2023.](https://usfs-public.app.box.com/s/ujsoy1snbors3gzvjcienz9enqgudkh9/file/2050205670955)
+
+## Planning Timeline
+
+### Assessment
+
+**Below are the milestones of the Assessment timeline for the forest plan**
+
+- **7/16/2016:** The Forest initiated the Forest Plan Revision by publishing a notice of intent (NOI) to conduct assessment.
+- **6/22/2017-7/30/2017:** 30-Day review period of the draft assessment took place
+- **9/17/2018-11/7/2018:** Review period for assessment report took place; after a public comment period and many collaborative efforts with the public, 10 Nations, Tribes, and Pueblos, and cooperating agencies, the Forest finalized the Assessment Report in October 2018.
+- **10/1/2020-12/24/2020:** Pre-scoping period took place
+
+**View the assessment materials**
+
+- [2018 Assessment Report, Maps and all Appendices](https://usfs-public.app.box.com/v/PinyonPublic/folder/290427954657)
+- [Assessment in Federal Register](https://www.federalregister.gov/documents/2016/07/29/2016-17949/assessment-report-of-ecological-social-and-economic-conditions-trends-and-sustainability-for-the)
+
+### Draft Plan and Proposed Action
+
+After collaborating with the public, cooperating agencies, and ten Nations, Tribes, and Pueblos, the Forest initiated the National Environmental Policy Act (NEPA) process with the following actions:
+
+- **8/25/2021:** A Notice of Intent (NOI) to prepare an Environmental Impact Statement (EIS) for revision of the Manti-La Sal National Forest Land Management Plan were released.
+- **8/25/2021-10/25/2021:** The NOI initiated a 60-day public comment period for preliminary need for change and proposed action.
+- **10/1/2020:** A pre-scoping period in which all documents were available to the public began on October 1, 2020 and concluded with the close of the 60-day comment period.
+
+**View the associated NOI materials**
+
+- [Draft Forest Plan](https://usfs-public.app.box.com/v/PinyonPublic/file/933753458535)
+- [All Draft Forest Plan Appendices](https://usfs-public.app.box.com/v/PinyonPublic/folder/158855763468)
+- [Geospatial (GIS) Data for Scoping](https://www.fs.usda.gov/media/201744)
+- Manti-La Sal Enterprise Data Warehouse Geospatial (GIS) Data
+- [Federal Register Notice of Intent](https://usfs-public.app.box.com/v/PinyonPublic/file/933754587206)
+- [ETV News legal notice proof](https://usfs-public.app.box.com/v/PinyonPublic/file/933753307644)
+
+### NOA of DEIS and Draft Plan
+
+At this stage, the Notice of Availability (NOA) of the Draft Environmental Impact Statement (DEIS) and draft Forest Plan were posted.
+
+- **8/18/2023-11/16/2023:** A 90-day comment period and other engagement opportunities took place for the NOA of the DEIS and draft Forest Plan.
+
+## Plan Component Definitions
+
+### Desired Condition
+
+A desired condition is a description of specific social, economic, and/or ecological characteristics of the plan area, or a portion of the plan area, toward which management of the land and resources should be directed. Desired conditions must be described in terms that are specific enough to allow progress toward their achievement to be determined, but do not include completion dates (36 CFR 219.7(e)(1)(i)).
+
+### Objective
+
+An objective is a concise, measurable, and time-specific statement of a desired rate of progress toward a desired condition or conditions. Objectives should be based on reasonably foreseeable budgets (36 CFR 219.7(e)(1)(ii)).
+
+### Standard
+
+A standard is a mandatory constraint on project and activity decision making, established to help achieve or maintain the desired condition or conditions, to avoid or mitigate undesirable effects, or to meet applicable legal requirements (36 CFR 219.7(e)(1) (iii)).
+
+### Guideline
+
+A guideline is a constraint on project and activity decision making that allows for departure from its terms, so long as the purpose of the guideline is met (§ 219.15(d)(3)). Guidelines are established to help achieve or maintain a desired condition or conditions, to avoid or mitigate undesirable effects, or to meet applicable legal requirements (36 CFR 219.7(e)(1)(iv)).
+
+### Suitability of Lands
+
+Specific lands within a plan area will be identified as suitable for various multiple uses or activities based on the desired conditions applicable to those lands. The plan will also identify lands within the plan area as not suitable for uses that are not compatible with desired conditions for those lands. The suitability of lands need not be identified for every use or activity. Suitability identifications may be made after consideration of historic uses and of issues that have arisen in the planning process. Every plan must identify those lands that are not suitable for timber production (§ 219.11). (36 CFR 219.7(e)(1)(v)).
+
+### Goal
+
+Goals are optional plan components, that may be included but are not required. Goals are broad statements of intent, other than desired conditions, usually related to process or interaction with the public. Goals are expressed in broad, general terms, but do not include completion dates.
+
+_Last updated_
+_March 2, 2026_
+
+[Return to top](https://www.fs.usda.gov/r04/manti-lasal/planning#)

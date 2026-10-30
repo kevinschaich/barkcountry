@@ -1,0 +1,31 @@
+{
+ "id": "bridger-national-forest",
+ "name": "Bridger National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may use the trails; some Jackson trails require a 6-ft leash in winter.",
+ "summary": "Dogs may use the trails; some Jackson trails require a 6-ft leash in winter.",
+ "excerpts": [
+  {
+   "quote": "The Forest Order requires all dogs to be leashed with a tether no longer than six feet, from Dec. 1 to May 1, on designated trails and parking areas on the Jackson Ranger District",
+   "url": "https://www.fs.usda.gov/r04/bridger-teton/alerts/dog-leash-order-jackson-ranger-district"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dec. 1 to May 1: 6-ft leash on designated Jackson Ranger District trails and parking areas.",
+   "url": "https://www.fs.usda.gov/r04/bridger-teton/alerts/dog-leash-order-jackson-ranger-district"
+  },
+  {
+   "text": "Keep dogs out of closed winter wildlife range.",
+   "url": "https://www.fs.usda.gov/r04/bridger-teton/newsroom/releases/btnf-wildlife-winter-restrictions-begin-december-1-dog-leash"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r04/bridger-teton",
+ "petsUrl": "https://www.fs.usda.gov/r04/bridger-teton/alerts/dog-leash-order-jackson-ranger-district",
+ "coordinates": [
+  -110.7,
+  42.8
+ ],
+ "coordinatesSource": "Wikidata Q4966630",
+ "unit": "Bridger-Teton National Forest"
+}

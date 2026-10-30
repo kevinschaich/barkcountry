@@ -1,0 +1,30 @@
+{
+ "id": "allegheny-national-forest",
+ "name": "Allegheny National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed on hiking trails.",
+ "summary": "Leashed dogs are allowed on hiking trails.",
+ "excerpts": [
+  {
+   "quote": "Dogs are allowed on hiking trails, as long as they are kept on a leash.",
+   "url": "https://www.fs.usda.gov/r09/allegheny/recreation/jakes-rocks-overlook"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Tracy Ridge: pets not allowed on beaches or in the water.",
+   "url": "https://www.fs.usda.gov/sites/nfs/files/r09/allegheny/publication/Tracy%20Ridge%20Recreation%20Area.pdf"
+  },
+  {
+   "text": "Campgrounds: keep dogs on a 6-ft leash outside the tent, in the tent at night, and store dog food in bear-resistant containers.",
+   "url": "https://www.fs.usda.gov/r09/allegheny/recreation/dewdrop-campground"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/allegheny/",
+ "petsUrl": "https://www.fs.usda.gov/r09/allegheny/recreation/jakes-rocks-overlook",
+ "coordinates": [
+  -79.0212,
+  41.65219
+ ],
+ "coordinatesSource": "Wikidata Q448940"
+}

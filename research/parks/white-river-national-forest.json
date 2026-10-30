@@ -1,0 +1,34 @@
+{
+ "id": "white-river-national-forest",
+ "name": "White River National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Pets must be leashed to protect wildlife and the experience of other visitors.",
+   "url": "https://www.fs.usda.gov/r02/whiteriver/recreation/holy-cross-wilderness-white-river"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Eagles Nest Wilderness order: dogs on a leash under 6 ft (working and hunting dogs excepted).",
+   "url": "https://www.fs.usda.gov/r02/whiteriver/alerts/eagles-nest-wilderness-occupancy-and-use"
+  },
+  {
+   "text": "Holy Cross Wilderness order: dogs on a 6-ft leash.",
+   "url": "https://www.fs.usda.gov/r02/whiteriver/alerts/holy-cross-wilderness-prohibitions-0"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/main/whiteriver",
+ "petsUrl": null,
+ "coordinates": [
+  -106.8925,
+  39.56072
+ ],
+ "coordinatesSource": "Wikidata Q2566990"
+}

@@ -1,0 +1,34 @@
+{
+ "id": "lake-clark-national-park",
+ "name": "Lake Clark National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are permitted in the park and preserve, though the park urges leaving them home.",
+ "summary": "Leashed pets are permitted in the park and preserve, though the park urges leaving them home.",
+ "excerpts": [
+  {
+   "quote": "Leashed pets are permitted in the park and preserve.",
+   "url": "https://www.nps.gov/lacl/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets must be leashed at all times; bury scat in a 6-inch cathole or pack it out.",
+   "url": "https://www.nps.gov/lacl/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Wolves, foxes and coyotes will kill loose dogs, especially in denning season.",
+   "url": "https://www.nps.gov/lacl/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Kennels in Anchorage, Soldotna, Kenai, Kasilof, Homer and Anchor Point can board dogs.",
+   "url": "https://www.nps.gov/lacl/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/lacl/",
+ "petsUrl": "https://www.nps.gov/lacl/planyourvisit/pets.htm",
+ "coordinates": [
+  -153.41666667,
+  60.96666667
+ ],
+ "coordinatesSource": "Wikipedia: Lake Clark National Park"
+}

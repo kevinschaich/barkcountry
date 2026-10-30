@@ -1,0 +1,46 @@
+{
+ "id": "parc-national-du-mont-orford",
+ "name": "Mont-Orford National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on several trails year-round, some campground loops and two beaches.",
+ "summary": "Leashed dogs are allowed on several trails year-round, some campground loops and two beaches.",
+ "excerpts": [
+  {
+   "quote": "Notez que les chiens sont admis dans certains sentiers, du 1er mai au 30 novembre.",
+   "url": "https://www.sepaq.com/pq/mor/"
+  },
+  {
+   "quote": "Les chiens sont admis dans le parc.",
+   "url": "https://www.sepaq.com/pq/mor/"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trails: Ruisseau-David, Ruisseau-des-Chênes, Boucle du Mont-Chauve, Boucle-des-Trois-Étangs, Étang-Fer-de-Lance, La Cavalière.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-orford.dot"
+  },
+  {
+   "text": "Winter trails (Dec 1 to Apr 30): Ruisseau-David and Boucle du Mont-Chauve.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-orford.dot"
+  },
+  {
+   "text": "Lac-Stukely (Frêne, Cèdre) and Lac-Fraser (Colvert, Branchu, Bernache) campground loops.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-orford.dot"
+  },
+  {
+   "text": "Dogs allowed in rented or personal boats at the Stukely and Fraser rental centres.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-orford.dot"
+  },
+  {
+   "text": "No dogs at Étang aux Cerises or the Pic aux Corbeaux climbing site.",
+   "url": "https://www.sepaq.com/pq/mor/"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/mor/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-orford.dot",
+ "coordinates": [
+  -72.2167,
+  45.3333
+ ],
+ "coordinatesSource": "Wikidata Q1147629"
+}

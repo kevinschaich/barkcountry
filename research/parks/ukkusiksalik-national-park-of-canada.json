@@ -1,0 +1,30 @@
+{
+ "id": "ukkusiksalik-national-park-of-canada",
+ "name": "Ukkusiksalik National Park",
+ "policy": "everywhere",
+ "policyReason": "The park guidelines allow pets and sled dogs under control; no area bans are listed.",
+ "summary": "Pets and sled dogs are allowed under physical control.",
+ "excerpts": [
+  {
+   "quote": "At all times, pets and sled dogs must be kept under physical control.",
+   "url": "https://parks.canada.ca/pn-np/nu/ukkusiksalik/securite-safety/comportements-guidelines"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets and sled dogs must be under physical control at all times.",
+   "url": "https://parks.canada.ca/pn-np/nu/ukkusiksalik/securite-safety/comportements-guidelines"
+  },
+  {
+   "text": "Never leave a pet unattended.",
+   "url": "https://parks.canada.ca/pn-np/nu/ukkusiksalik/securite-safety/comportements-guidelines"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nu/ukkusiksalik",
+ "petsUrl": "https://parks.canada.ca/pn-np/nu/ukkusiksalik/securite-safety/comportements-guidelines",
+ "coordinates": [
+  -90.4655,
+  65.76956
+ ],
+ "coordinatesSource": "original map"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "glacier-bay-national-park-and-preserve",
+ "failed": {
+  "why": "duplicate of glacier-bay-national-park",
+  "urls": [
+   "https://nps.gov/glba",
+   "https://www.nps.gov/glba/planyourvisit/pets.htm",
+   "https://www.nps.gov/glba/planyourvisit/accessibility.htm"
+  ]
+ }
+}

@@ -1,0 +1,9 @@
+{
+ "id": "katmai-national-park-and-preserve",
+ "failed": {
+  "why": "duplicate of katmai-national-park",
+  "urls": [
+   "https://nps.gov/katm"
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "umatilla-national-forest",
+ "name": "Umatilla National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Respect dog rules—many beaches and wilderness zones prohibit dogs.",
+   "url": "https://www.fs.usda.gov/r06/umatilla/newsroom/releases/forest-service-encouraging-safe-recreation-over-labor-day-weekend"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Expect livestock guardian dogs in grazing areas.",
+   "url": "https://www.fs.usda.gov/r06/umatilla/natural-resources/range"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/umatilla/",
+ "petsUrl": null,
+ "coordinates": [
+  -118.183,
+  45.6333
+ ],
+ "coordinatesSource": "Wikidata Q688553"
+}

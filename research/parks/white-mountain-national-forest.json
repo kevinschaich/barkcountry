@@ -1,0 +1,21 @@
+{
+ "id": "white-mountain-national-forest",
+ "name": "White Mountain National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome; leash in developed areas.",
+ "summary": "Dogs are welcome; leash in developed areas.",
+ "excerpts": [
+  {
+   "quote": "Yes. Dogs are welcome in the White Mountain National Forest",
+   "url": "https://www.fs.usda.gov/r09/whitemountain/about-area/faqs"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/r09/whitemountain",
+ "petsUrl": "https://www.fs.usda.gov/r09/whitemountain/about-area/faqs",
+ "coordinates": [
+  -71.4,
+  44.1
+ ],
+ "coordinatesSource": "Wikidata Q2566939"
+}

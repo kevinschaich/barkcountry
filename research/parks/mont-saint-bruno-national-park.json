@@ -1,0 +1,38 @@
+{
+ "id": "mont-saint-bruno-national-park",
+ "name": "Mont-Saint-Bruno National Park",
+ "policy": "trails",
+ "policyReason": "Sépaq allows dogs on three trails (Seigneurial, Petit-Duc, Grand-Duc) and three picnic areas; this entry is Mont-Saint-Bruno (Wikidata Q2051996), previously scraped with Boucherville pages.",
+ "summary": "Dogs are allowed on three trails, Le Seigneurial, Le Petit-Duc and Le Grand-Duc, and in three picnic areas.",
+ "excerpts": [
+  {
+   "quote": "Le Seigneurial<br>Le Petit-Duc<br>Le Grand-Duc",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-saint-bruno.dot"
+  },
+  {
+   "quote": "Aires de pique-nique (Les Étangs, Mémorial, du Moulin)",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-saint-bruno.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer and winter trails: Le Seigneurial, Le Petit-Duc, Le Grand-Duc.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-saint-bruno.dot"
+  },
+  {
+   "text": "Picnic areas: Les Étangs, Mémorial, du Moulin.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-saint-bruno.dot"
+  },
+  {
+   "text": "No dogs on the water (nautical access).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-saint-bruno.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/msb/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-saint-bruno.dot",
+ "coordinates": [
+  -73.3167,
+  45.55
+ ],
+ "coordinatesSource": "Wikidata Q2051996"
+}

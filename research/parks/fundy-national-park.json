@@ -1,0 +1,38 @@
+{
+ "id": "fundy-national-park",
+ "name": "Fundy National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed at picnic areas, campgrounds and along the many trails.",
+ "summary": "Leashed dogs are allowed at picnic areas, campgrounds and along the many trails.",
+ "excerpts": [
+  {
+   "quote": "You can have your dog with you at picnic areas and camping areas, and along the many trails in the Park.",
+   "url": "https://www.pc.gc.ca/pn-np/nb/fundy/visit/animaux-pets"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets must be leashed and never left unattended.",
+   "url": "https://www.pc.gc.ca/pn-np/nb/fundy/visit/animaux-pets"
+  },
+  {
+   "text": "No pets in campground kitchen shelters or washrooms, at Bennett Lake beach, the swimming pool or the golf course.",
+   "url": "https://www.pc.gc.ca/pn-np/nb/fundy/visit/regles-rules"
+  },
+  {
+   "text": "Some areas are closed to pets; check notices at trailheads.",
+   "url": "https://www.pc.gc.ca/pn-np/nb/fundy/visit/regles-rules"
+  },
+  {
+   "text": "Discourage barking, especially in campgrounds.",
+   "url": "https://www.pc.gc.ca/pn-np/nb/fundy/visit/animaux-pets"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/nb/fundy",
+ "petsUrl": "https://www.pc.gc.ca/pn-np/nb/fundy/visit/animaux-pets",
+ "coordinates": [
+  -64.953888888,
+  45.595277777
+ ],
+ "coordinatesSource": "Wikidata Q1474238"
+}

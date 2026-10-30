@@ -1,0 +1,30 @@
+{
+ "id": "samuel-r-mckelvie-national-forest",
+ "name": "Samuel R. McKelvie National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Dogs must be under the owner's control at all times.",
+   "url": "https://www.fs.usda.gov/r02/nebraska/recreation/steer-creek-campground"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Steer Creek Campground: dogs under control.",
+   "url": "https://www.fs.usda.gov/r02/nebraska/recreation/steer-creek-campground"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/recarea/nebraska/recarea/?recid=30324",
+ "petsUrl": null,
+ "coordinates": [
+  -101.039722222,
+  42.711388888
+ ],
+ "coordinatesSource": "Wikidata Q3079091"
+}

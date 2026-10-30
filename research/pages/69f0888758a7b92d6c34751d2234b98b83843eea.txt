@@ -1,0 +1,1670 @@
+United States 
+Department of
+Agriculture
+
+Forest 
+Service
+
+August 2005
+
+# Black-tailed Prairie Dog
+
+# Conservation and Management on the Nebraska National Forest and Associated
+
+**Units**
+
+## Nebraska National Forest Service and Associated
+
+**Including Land and Resource Management**
+**Plan Amendment _2_**
+
+**_(This amendment was erroneously numbered 1. Amendment 1 was 
+completed in 2003.)_**
+
+**USDA Forest Service**
+
+**Rocky Mountain Region**
+
+**Nebraska National Forest**
+
+## Record of Decision
+
+Prairie Dog
+
+---
+
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its 
+programs and activities on the basis of race, color, national origin, gender, religion, 
+age, disability, political beliefs, sexual orientation, or marital or family status. (Not all 
+prohibited bases apply to all programs.) Persons with disabilities who require 
+alternative means for communication of program information (Braille, large print, 
+audiotape, etc.) should contact USDA's TARGET Center at (202) 720-2600 (voice 
+and TDD). To file a complaint of discrimination, write USDA, Director, Office of Civil 
+Rights, Room 326-W, Whitten Building, 14th and Independence Avenue, SW, 
+Washington, DC 20250-9410 or call (202) 720-5964 (voice and TDD). USDA is an 
+equal opportunity provider and employer.
+
+---
+
+##### RECORD OF DECISION
+
+**for**
+
+##### BLACK-TAILED PRAIRIE DOG CONSERVATION AND MANAGEMENT NEBRASKA NATIONAL FOREST FINAL ENVIRONMENTAL IMPACT STATEMENT
+
+**Lead Agency:**
+
+**USDA Forest Service**
+
+**Rocky Mountain Region**
+
+**Nebraska National Forest**
+
+**Responsible Official:**
+
+**Donald J. Bright**
+**Forest Supervisor**
+**Nebraska National Forest**
+
+**Cooperating Agencies: USDA Animal and Plant Health Inspection Service;**
+**State of South Dakota**
+
+---
+
+Black-tailed Prairie Dog Conservation and Record of Decision Management on the Nebraska National Forest
+
+### Table of Contents
+
+Introduction..................................................................................................................... 5
+Decision and Rationale................................................................................................... 7
+My Decision................................................................................................................ 7
+Rationale for Decision.............................................................................................. 12
+Other Alternatives Considered...................................................................................... 16
+Public Involvement....................................................................................................... 17
+Changes Between Draft and Final................................................................................ 19
+Consistency and Compliance with Other Laws, Regulations....................................... 19
+National Environmental Policy Act (NEPA)............................................................ 20
+National Forest Management Act (NFMA).............................................................. 21
+Endangered Species Act (ESA)................................................................................ 21
+The Animal Damage Control Act............................................................................. 22
+Clean Water Act........................................................................................................ 22
+Flood Plains and Wetlands (Executive Orders 11988 and 11990)........................... 22
+National Historic Preservation Act, as amended (NHPA)........................................ 23
+Environmental Justice (Executive Order 12898)...................................................... 23
+Stipulated Settlement Agreement for Civil Action No. 04-F-1960 (BNB).............. 23
+Monitoring and Research.............................................................................................. 24
+Implementation and Appeal Rights.............................................................................. 25
+Implementation......................................................................................................... 25
+Administrative Review or Appeal Opportunities..................................................... 25
+Appeals filed under 36 CFR Part 215....................................................................... 25
+Appeals filed under 36 CFR Part 251 Subpart C...................................................... 26
+Where to File a 36 CFR 215 Appeal......................................................................... 27
+Where to File a 36 CFR 251 Appeal......................................................................... 27
+Obtaining Additional Information............................................................................ 28
+Signature....................................................................................................................... 28
+Supplement 1 - Maps.................................................................................................... 29
+Supplement 2 - Implementation Plan............................................................................ 31
+Supplement 3 - LRMP Amendment 2.......................................................................... 40
+
+---
+
+### INTRODUCTION
+
+Since the 1960’s, the Forest Service has been challenged to balance our duty to conserve  
+both prairie dog habitat and our agricultural heritage, both vital attributes of the national 
+grasslands we manage for the public.  Through the late 1960s and early 1970s, Forest 
+Service prairie dog plans called for colonies to be limited to approximately 3,000 acres 
+through annual use of prairie dog rodenticide.   Rodenticide use was halted for several 
+years with the issuance of Presidential Executive Order 11643 in 1972 that banned use of 
+chemical toxicants on federal lands that pose secondary poisoning risks to non-target 
+species.  In 1978, rodenticide use resumed when the Forest Service issued an 
+environmental impact statement and prairie dog plan (USDA Forest Service 1978) that 
+prescribed use of a newly developed rodenticide formulation (2 percent zinc phosphide 
+on steam-rolled oats, EPA Label Registration No. 6704-74) along with vegetation 
+management through livestock grazing adjustments in the project area.   By then, prairie 
+dog colonies had expanded ten-fold, almost to 30,000 acres.  The new direction 
+prescribed retention of approximately 5,200 acres (minimum) of active colonies.  The 
+remaining colony acreage was prescribed for potential rodenticide application to reduce 
+prairie dog populations and to maintain forage for permitted livestock on the national 
+grasslands.  Rodenticide use was also prescribed to help reduce prairie dog conflicts 
+along national grassland property boundaries with neighboring landowners.  By the time 
+this direction was fully implemented in 1981, the acreage of active prairie dog colonies 
+combined with those recently treated with rodenticide totaled almost 44,000 acres.
+
+The 1978 prairie dog direction was amended in 1981 (USDA Forest Service 1981) by 
+further reducing the minimum acreage of active colonies to be retained (no rodenticide) 
+to approximately 3,100 to address continued prairie dog encroachment along property 
+boundaries. This direction remained in effect until 1989 when the direction was once 
+again modified, primarily in response to the recent discovery and successful captive 
+propagation of the endangered black-footed ferret in Wyoming. The Forest Service, with 
+new information on black-footed ferrets and the possibility of future ferret 
+reintroductions, developed a new plan in 1989 (USDA Forest Service 1989) to increase 
+the colony retention acreage from 3,100 acres up to 8,000 acres, mostly located in the 
+Conata Basin area of the Buffalo Gap National Grassland.  Annual black-footed ferret 
+releases in Conata Basin were initiated in 1994 under the 1989 prairie dog direction and a 
+separate black-footed ferret reintroduction FEIS (U.S. Fish and Wildlife Service et al. 
+1994).  In 2002, the Forest revised its Land and Resource Management Plan (LRMP) that 
+provided further guidance for managing the habitat for prairie dogs, black-footed ferret, 
+livestock use and other needs.  The 2002 LRMP and this ROD continue to direct 
+management of National Grassland habitat for the black-footed ferret in the Conata 
+Basin.
+
+The LRMP and 2002 ROD provide programmatic direction for conserving and managing 
+black-tailed prairie dogs on the national grasslands and forests in the project area.  This 
+direction prescribes use of lethal and non-lethal tools to regulate and manage prairie dog 
+populations.   For example, rodenticide can be used on the national grasslands and forests 
+to reduce or eliminate prairie dog populations posing health and safety risks or causing 
+damage to facilities.  The 2002 direction involves a small number of prairie dog colonies 
+and results in minimal rodenticide use.  The larger and more extensive issue is encroachment of prairie dog colonies from national grasslands onto adjoining private or
+tribal agricultural lands, where ranchers and farmers are concerned about losses in 
+agricultural production, costs of managing prairie dogs, effects on land values, and risks 
+to health and safety.  The Forest Service decided in the LRMP to defer this larger issue 
+until the States of Nebraska and South Dakota completed ongoing prairie dog 
+management planning.  The Forest Service also indicated that it would consult statewide 
+prairie dog plans, once they were released and available, for further guidance on how best 
+to respond to unwanted colonization of adjoining agricultural lands (Guideline H-2 in 
+Chapter 1 of the LRMP).  The ROD specifically stated:
+
+“As part of being a good neighbor, we will implement management practices such 
+as livestock grazing, land exchange, and prescribe fire that will likely contribute to the 
+increase of prairie dog populations and to reduce conflicts with adjacent landowners.  So 
+as to not place a disproportionate share of prairie dogs on national forest system lands, I 
+will work with the states of Nebraska and South Dakota in the preparation of the Statewide prairie dog conservation plan, pursuant to 36 CFR 219.7.  I intend to implement the 
+State-wide conservation plan to the extent allowable by law and policy in providing 
+direction for the control of unwanted colonization of prairie dog onto private lands.  
+Should the State-wide conservation plan conflict with provisions of this LRMP, I will 
+propose an amendment to make the LRMP consistent with the State-wide conservation 
+plan.”
+
+Other events have set the stage for further modifications to prairie dog conservation and 
+management direction, including:
+
+[Image: Image100]In 1998, the black-tailed prairie dog was petitioned for listing and protection under 
+the Endangered Species Act (ESA).  In 2000, the U.S. Fish and Wildlife Service 
+designated the black-tailed prairie dog as a candidate for possible listing as a 
+threatened species under ESA protection (U.S. Fish and Wildlife Service 2000).  The 
+USFWS had concluded that listing of this species for federal protection under the 
+Endangered Species Act was “warranted”.  During this period, there was considerable 
+interest by affected States to maximize black-tailed prairie dog conservation on public 
+land to prevent the need to list this species so as to reduce pressure on private 
+agricultural lands to otherwise potentially expand prairie dogs.  The Forest Service 
+followed by issuing national guidance to limit use of prairie dog rodenticide to 
+situations involving public health and safety risks and damage to facilities.   This 
+direction was incorporated into the revised Land and Resource Management Plan 
+(LRMP) and 2002 Record of Decision.
+
+[Image: Image104]The Chief of the Forest Service rescinded the national guidance in February, 2004, 
+and encouraged all field units to use existing agency authorities, including direction 
+and guidance in LRMPs, to further the conservation and management of black-tailed 
+prairie dogs on national grasslands and forests.  In August, 2004, the U.S. Fish and 
+Wildlife Service concluded from updated population information and the extent of 
+range-wide management planning ongoing for the species especially since conferral 
+of candidate status, that the species was not likely to become endangered in the 
+foreseeable future and removed it from the candidate list.
+
+---
+
+[Image: Image104]The recent drought in South Dakota and Nebraska has led to accelerated expansion of 
+prairie dog colonies, and increased complaints about unwanted colonization of lands 
+adjoining national grasslands.  In response to these complaints and a request by the 
+Governor of South Dakota, application of prairie dog rodenticide (2% zinc phosphide, 
+EPA Label Registration No. 56228-14) in selected colonies was conducted by the 
+State of South Dakota on private lands and by the USDA Animal and Plant Health 
+Inspection Service – Wildlife Services (APHIS-WS) on the Buffalo Gap National 
+Grassland in 2004.  Prior to the initiation of rodenticide use, a lawsuit was filed by 
+several conservation/environmental organizations.  A stipulated settlement agreement 
+was reached that allowed emergency rodenticide use.  As part of the stipulated 
+settlement agreement, no further use of rodenticide would occur until the completion 
+of an environmental impact statement (EIS) and LRMP amendment addressing a 
+long-term solution for management of prairie dog colonies.
+
+### DECISION AND RATIONALE
+
+#### My Decision
+
+The Forest Service has evaluated three alternatives for reducing unwanted prairie dog 
+colonization of private or tribal lands from adjoining national grasslands.  Based upon my 
+careful review of the Black-tailed Prairie Dog Conservation and Management Final 
+Environmental Impact Statement (FEIS), LRMP and associated LRMP Record of 
+Decision (ROD), my decision is to select and implement Alternative 3 and related 
+Appendix B Implementation Plan, as described in the FEIS.  This ROD describes my 
+decision and rationale, including the Implementation Plan (see Supplement 2 of this 
+ROD).  Although Alternatives 1 and 3 are likely the most environmentally preferred 
+alternatives, Alternative 1 does not address an immediate relief for adjoining landowners 
+in most boundary encroachment areas. I find Alternative 3 to be environmentally 
+acceptable, addressing the issues while balancing environmental concerns.  I also have 
+decided to amend the Nebraska National Forest LRMP as described in Appendix C in the 
+FEIS and Supplement 3 in this ROD.
+
+In summary, Alternative 3 is prairie dog conservation concurrent with population 
+regulation and management through non-lethal methods and expanded rodenticide use 
+along property boundaries. The boundary management zones are set at 0.25 mile on the 
+Fort Pierre National Grassland and 0.5 mile on the Buffalo Gap and Oglala National 
+Grasslands.  Supplement 1 of this decision illustrates boundary management zones for 
+each unit.  Although the Land and Resource Management Plan (LRMP) already identifies 
+vegetation management and other non-lethal tools for managing prairie dogs, this 
+decision provides additional direction for their use. This alternative prescribes an 
+adaptive management concept using a full suite of tools, including expanded rodenticide 
+use and vegetation management, through livestock grazing coordination, to manage and 
+reduce selected prairie dog colonies along national grassland property boundaries.
+
+---
+
+Adaptive management is defined as a type of natural resource management in which 
+decisions are made as part of an ongoing process.  Adaptive management involves 
+testing, monitoring, evaluating, and incorporating new knowledge into management 
+approaches based on scientific findings and the needs of society.  Results are used to 
+adapt management actions based on site-specific conditions and knowledge.  These 
+management actions may range from short-term to long-term (i.e. rodenticide use to 
+vegetation management to land adjustments).  The initial management actions are 
+prescribed to likely achieve desired conditions in a timely manner.  Adaptive 
+management provides forward thinking (i.e. drought issues) and if monitoring shows that 
+desired conditions are not being met, then an alternate set of management actions would 
+be implemented to achieve the desired results.
+
+In response to public comments about concerns over managing for too little or too much 
+prairie dog habitat, I have included in this record of decision a minimum desired range of 
+prairie dog colony acres identified for each grassland unit.  This lower end of the range 
+describes the minimum biological conditions desired to maintain many species associated 
+with prairie dogs while the upper end falls within the projected growth of prairie dog 
+colonies as analyzed in the FEIS. This biological analysis demonstrates how the needs of 
+prairie dogs and associated species including black-footed ferret have been provided.  At 
+the same time, I believe this range provides for a reasonable balance of these biological 
+considerations with the socio-economic concerns and needs of dependent ranchers and 
+farmers.  This desired condition does not require any specific future action and does not
+represent criteria for rodenticide use. Any site-specific decision in the future would be 
+based on analysis specific to that project level decision.
+
+| Grassland Unit | Minimum Desired Acreage of Prairie Dog Colonies |
+| --- | --- |
+| Buffalo Gap N.G. – within Conata Basin | 12,500 to 19,000 |
+| Buffalo Gap N.G. – outside Conata Basin | 4,500 to 6,500 |
+| Fort Pierre N.G. | 1,000 to 1,400 |
+| Oglala N.G. | 1,000 to 1,800 |
+
+I have made my decision after careful consideration of the scientific reviews and public 
+comments on the Draft Environmental Impact Statement (DEIS) and the Final EIS 
+prepared pursuant to the National Environmental Policy Act (NEPA).
+
+In reaching this decision, I have carefully considered the issues, including several major 
+ones.  They include:
+
+Ø Unwanted prairie dog colonization on adjoining private or tribal lands and effects 
+on landowners and their property,
+
+Ø Importance of prairie dogs and these public lands, especially the 
+Conata Basin and Smithwick Black-footed Ferret Reintroduction 
+Area, to the recovery of the endangered black-footed ferret and our 
+partners in the recovery program,
+
+Ø Public support for continuing prairie dog colony expansion vs. public desires to 
+limit prairie dog colony expansion,
+
+---
+
+Ø Information provided by the South Dakota Black-Tailed Prairie Dog 
+Conservation and Management Plan which addresses black-footed ferret 
+reintroductions.  File correspondence involving this issue indicates that as a 
+condition of State support for the reintroduction of black-footed ferrets, the State 
+of South Dakota required that the prairie dog acreages in the Conata Basin 
+remain between 8,000 and 12,000 acres.
+
+My decision is subject to the following terms, conditions and requirements:
+
+Rodenticide use along boundaries under Alternative 3 will be the first course of action to
+reduce encroachment (as defined) in response to complaints from adjoining landowners 
+that can demonstrate colonization on their lands along property boundaries or imminent 
+(1 to 2 years) colonization and that a national grassland colony is a significant contributor 
+to the colonization.
+
+An on site evaluation by Forest Service officials, in coordination with other entities 
+(including landowners) will consider various questions set forth in the Implementation 
+Plan of this decision (see Supplement 2) for determining encroachment of prairie dogs 
+and the need to implement various boundary zone management options.
+
+These on-site evaluation reports will be submitted to the respective district ranger for 
+final resolution and retained in the official files at the respective district office.   After 
+reviewing each evaluation report, the district ranger will develop a set of actions 
+consistent with this decision for addressing each complaint and additional documentation 
+as to how those actions were carried out.  Additional site-specific NEPA will be initiated 
+where analysis suggests that probable action is outside the scope of this decision.  The 
+colonies are routinely measured on a 3-year cycle.  After each cycle the evaluation will 
+be updated.  We expect to be in contact with adjoining landowners and to routinely be in 
+the field between these 3-year monitoring cycles.  If a colony seems to be responding 
+differently than projected we will initiate a more in-depth analysis.  We do not have to 
+wait three years to make modifications in our actions if the results are not being achieved.
+
+Though all prairie dog colonies within the boundary management zones are assumed to 
+be treated with rodenticide for analysis purposes, I want to clarify that the establishment 
+of boundary management zones does not imply that rodenticide will be applied to all 
+prairie dog colonies within the zones.  As mentioned above, rodenticide use along 
+boundaries under Alternative 3 will be the first course of action for those colonies where 
+an adjoining landowner is complaining about colonization of their lands.  The Forest 
+Service does not have to wait to take action until after colonization occurs on adjoining 
+lands.  Alternative 3 states that rodenticide use can be considered if encroachment on the 
+adjoining lands is likely (imminent) within the next 1 to 2 years. However, if a colony is 
+less than the ¼ mile (Fort Pierre National Grassland) or ½ mile (Oglala and Buffalo Gap 
+National Grasslands) from the private-federal lands boundary, is not moving towards 
+private or tribal lands and thus is not causing encroachment, we will scale back our 
+treatments to use non-lethal tools such as boundary fencing and grazing modifications as 
+necessary.
+
+As part of being a good neighbor, in those cases where the boundary management zone 
+does not properly address continued encroachment issues onto private or tribal property, 
+we will implement an immediate site-specific evaluation report to determine what further action is needed. We will consider the use of all management tools and analyze 
+poisoning back to a distance of 1 mile on federal lands in order to reach the goals of the 
+good neighbor policy. Landowners experiencing persistent encroachment or imminent 
+encroachment after treatment may request consideration of a 1-mile boundary 
+management zone.
+
+Alternative 3 gives greater emphasis to the use of third party solutions as a management 
+tool.  Third party solutions involve participation by other government agencies or private 
+organizations to provide innovative solutions to help conserve prairie dogs while 
+reducing conflicts and offsetting financial hardships.  These solutions include but are not 
+limited to financial incentives, conservation agreements and easements with willing 
+landowners, and other tools identified in the national black-tailed prairie dog 
+conservation assessment and strategy.
+
+The Forest Service, in cooperation with the States of South Dakota and Nebraska, will 
+encourage the development of third party solutions. We will not seek to increase prairie 
+dog acres above current levels unless third party solutions are in place, consistent with 
+the LRMP.
+
+I will use, where appropriate and conditions allow, vegetation management tools to 
+increase forage and/or visual barriers along the boundary management zone. Numerous 
+respondents during public involvement expressed doubts about the effectiveness of 
+vegetation management, through livestock grazing coordination, in reducing colony 
+expansion and encroachment onto adjoining lands.  We acknowledge that during low 
+precipitation periods (drought) or in areas where shortgrass species dominate, vegetation 
+management will be less effective, especially in the more western portions of the project 
+area.  However, the Forest Service has photographical records demonstrating 
+effectiveness of vegetation management in limiting and reducing colony expansion and 
+encroachment in the project area.   There’s also a limited amount of published research 
+that also demonstrates some effectiveness of vegetation management in the project area.  
+In response to those who questioned the value and effectiveness of vegetation 
+management, we will be more selective where vegetation management fencing is used 
+and have scaled back in the FEIS on the amount of fencing we originally proposed in the 
+draft EIS (DEIS).  However, the Forest Service remains committed to emphasizing 
+vegetation management at those locations where it will be most effective and where we 
+have chronic encroachment problems.   It is an important tool for enhancing the longterm effectiveness of prairie dog management in many areas and for reducing future 
+rodenticide use and costs.  I recognize that any one management tool by itself will not 
+always be 100% effective.  However, the combination of these management tools can be 
+effective under the right conditions.  With rodenticides being the most effective tool in 
+reducing prairie dog populations, other less effective tools alone, such as vegetation 
+management, when combined with rodenticides become increasingly effective.
+
+We remain committed to assessing site-specific needs for vegetation management 
+adjustments, through livestock grazing coordination, prior to authorizing rodenticide use 
+in boundary management zones. These adjustments, though on a temporary basis, may 
+cause financial hardship for some permitted livestock producers on an annual basis. The 
+reduction of forage utilization by permitted livestock in the boundary management zones 
+most likely will result in an increase in vegetation. This will create additional forage as a minimum, and possibly, a visual obstruction depending on several environmental factors. 
+The forage will provide a food source for prairie dogs on federal lands thus slowing 
+encroachment onto private or tribal lands. When environmental conditions permit taller 
+growth, visual barriers are formed and conditions become unfavorable for prairie dogs to 
+move through this vegetation thus reducing the extent or degree of colony expansion.
+
+Many of the comments referenced the interior portions (those areas outside of the 
+boundary management zones) and the effects that no control is having on rangeland 
+health, soil erosion, etc.  The Forest Service recognizes the need to further address longterm conservation and management of black-tailed prairie dog colonies located in interior 
+portions of the national grasslands, but we simply are not there yet.   More analyses and 
+on-the-ground coordination with all stakeholders are needed to identify the extent of the 
+problem as well as acceptable and effective strategies.  Vegetation management fencing 
+and adjustments in livestock grazing under this decision are for immediate and short-term 
+needs in the most problematic areas.  We will also be more responsive and timely in 
+making livestock grazing adjustments in the boundary management zones, especially in 
+Conata Basin, during low precipitation years and/or early stages of drought and more 
+cautious at returning stocking after drought.   Therefore, modifications in livestock 
+grazing to facilitate non-lethal management of prairie dogs over the long-term will be 
+made as needed during either 1) the allotment management planning process, or 2) a 
+stand-alone analysis and decision for prairie dog interior management (including both 
+lethal and non-lethal management).
+
+The Forest Service acknowledges the contentiousness of the prairie dog shooting issue, 
+especially in Conata Basin and the Smithwick areas (black-footed ferret reintroduction 
+habitat) of South Dakota. If shooting can be effectively used to reduce encroachment 
+from selected colonies, rodenticide use in selected colonies in the boundary management 
+zones could be reduced or deferred. As indicated in the FEIS, the Forest Service defers 
+decisions on prairie dog shooting restrictions on national grasslands outside active blackfooted ferret reintroduction habitat to the States.  We share responsibility with the States 
+for managing fish and wildlife resources.  Both agencies involve each other in their 
+decision-making processes.  The Forest Service has the responsibility and authority to 
+make sure that state actions on Forest Service lands are consistent with Federal law, 
+policy, or LRMPs.  In the Forest Service’s 1994 Record of Decision for black-footed 
+ferret reintroduction in Conata Basin, the Forest Service determined we may restrict 
+shooting in reintroduction habitat, after consulting with the U.S. Fish and Wildlife 
+Service. For further information on the current regulations please consult the South 
+Dakota Game, Fish & Park, Nebraska Game and Parks Commission and/or the Forest 
+Service District Offices.
+
+Regarding the Smithwick reintroduction habitat, the Forest Service is committed to 
+issuing prairie dog shooting restrictions in the management area to help facilitate 
+development of black-footed ferret reintroduction habitat.  However, we are deferring 
+this action until meaningful progress is made in initiating a cooperative black-footed 
+ferret reintroduction plan for this area, in conjunction with adjoining landowners and 
+local, state and tribal governments.  Coordination with tribal government is especially 
+important for this area because of the large colony complex (over 75,000 acres) adjacent 
+to the Smithwick area on the Pine Ridge Indian Reservation.  Coordination with Fall
+
+---
+
+River County will also be a critical component in ferret reintroduction planning for the 
+Smithwick area.
+
+The current Forest Service shooting restriction in Conata Basin will be modified to allow 
+limited and closely regulated shooting in selected colonies along the national grassland 
+boundary.  This shooting restriction will be modified under an adaptive management 
+framework. It is hoped that regulated shooting can be effective in reducing encroachment 
+from selected colonies and thus reduce rodenticide use, but if this does not occur, the 
+original shooting closure will be promptly reinstated.
+
+Numerous comments were received that suggested the Forest Service improperly 
+expanded the project area to include the National Forest System (NFS) lands in Nebraska, 
+which includes the Oglala National Grassland, given the lack of a prairie dog 
+conservation and management plan by the State of Nebraska.   The lack of a Nebraska 
+prairie dog plan does not preclude the Forest Service from addressing prairie dog 
+conservation and management on the national grasslands and forests in Nebraska at this 
+time. Direction in the LRMP does not preclude the Forest Service from including 
+Nebraska in the project area.  We recognize the need to act at this time to assure balanced 
+and integrated prairie dog management guidance across the administrative unit of the 
+Nebraska National Forest in both states. On-site evaluations and reviews of landowner 
+complaints in Nebraska will likely be conducted through coordination with landowners 
+and interagency staff, including staff from the State of Nebraska.  We have also 
+considered input provided by the State of Nebraska in their response to the DEIS while 
+preparing the FEIS.  Also, if the State of Nebraska eventually issues a prairie dog plan, 
+the Forest Service will consult the state plan at that time.
+
+It should also be noted that the issues associated with prairie dog management along 
+property boundaries are essentially the same in both Nebraska and South Dakota.  As 
+indicated above, both states recently completed extensive public involvement efforts 
+regarding prairie dog conservation and management, and I have carefully reviewed the 
+issues identified during both efforts.
+
+#### Rationale for Decision
+
+The rationale for my decision is based on several issues.  The foremost issue is prairie 
+dog encroachment from national forest system lands to adjacent private or tribal lands.  I 
+believe Alternative 3 provides the best balance for conservation and management of the 
+black-tailed prairie dog and associated resources while being as effective and efficient as 
+possible, demonstrating a commitment to the “good neighbor” and “no tolerance” 
+concepts.  My decision has seriously considered the other issues identified during the 
+public involvement process.
+
+The American public deserves to know the National Grasslands have limits of goods and 
+services that can be provided. This includes prairie dogs, associated black-footed ferret 
+habitat, and livestock grazing that occurs in these areas. I recognize the conflict within 
+many decisions made to balance the uses on the land.  I have also tried to understand the 
+social and economic impacts of conflicting uses such as grazing and prairie dogs. I’ve 
+struggled to achieve a management balance that recognizes the likely impacts to black- footed ferret recovery, sustaining adequate prairie dog colonies, and finally to livestock 
+grazing and ranching stability.
+
+This decision takes into account public comments, social/political and economic 
+concerns, the land base and its capabilities, and current science.
+
+My decision demonstrates that the needs of ranchers and farmers impacted by prairie 
+dogs and needs of prairie dogs and associated species are inextricably linked.  We fully 
+support the long-term survival of the black-footed ferret and our action is highly 
+influenced by the needs of this unique endangered species while recognizing the need to 
+be a good neighbor to our adjacent landowners.
+
+We will implement and monitor the ¼ mile boundary management zone on the Fort 
+Pierre National Grassland, and the ½ mile boundary management zone on Oglala and 
+Buffalo Gap National Grasslands using all the tools, including but not limited to 
+poisoning under the conditions outlined.  I believe this will allow us to catch up with our 
+management and demonstrate we can reduce encroachment with the ¼ and ½ mile or less 
+boundary management zone and maintain satisfactory prairie dog acreage on National 
+Grasslands.
+
+Our goal is to be good neighbors, and in sharing the “no tolerance” concept, we intend to 
+implement an aggressive control policy using all available management tools in dealing 
+with the unwanted colonization on adjacent private or tribal lands while at the same time 
+insuring we provide habitat for prairie dogs and related species.  If we find there are 
+certain colonies that are chronic encroachment problems we will implement an
+immediate site-specific evaluation report, with landowners input, to determine what 
+further action is needed.  We will consider the use of all management tools and analyze 
+poisoning back to a distance of 1 mile on federal lands in order to reach the goals of the 
+good neighbor policy. My rationale for this is that monitoring demonstrates that we have 
+considerably expanded prairie dog populations over time, and have the capability and 
+flexibility to manage for fewer prairie dogs along private or tribal land boundaries.  The 
+Forest has also learned much about black-footed ferret recovery and we have through our 
+years of monitoring and testing of predictive models, a sense of what it takes to maintain 
+a healthy population of black-footed ferrets that my decision reflects.  I am confident that 
+very few, if any, situations will arise that will need this additional analysis and NEPA, 
+that we can maintain a reasonable acreage of prairie dog habitat without encroaching on 
+private or tribal adjacent lands.
+
+The Forest Service has demonstrated its commitment to black-footed ferret and prairie 
+dog conservation as evidenced by the most successful national recovery efforts to date for 
+the endangered black-footed ferret and a remarkable comeback for prairie dogs on this 
+Forest’s National Grasslands. But for the support of local people, this would not likely 
+have occurred.   However, expanding prairie dog populations without limits comes with 
+high social and environment costs that are inextricably linked.   For example, the LRMP 
+makes it clear that if the Forest Service were to only emphasize conservation for prairie 
+dogs, the unacceptable tradeoff would be the loss of habitat for some other wildlife 
+species, and impacts to other resources.
+
+The LRMP is centrally designed around a desirable range of vegetative structure 
+conditions that will maintain the biodiversity potential of these grasslands while providing for important agricultural based goods and services, equally vital to this 
+nation’s welfare.  If prairie dog populations expand to the point of being considered a 
+nuisance by local citizens, this not only threatens potential support for this and other 
+related species, but impacts private landowner interests affecting relationships that are 
+vital in the Forest Service carrying out it’s land stewardship responsibilities.  My 
+decision, which I believe is in the best interests of our neighboring landowners and 
+prairie dogs, is to reduce encroachment (as defined) onto private or tribal lands where the 
+adjacent landowner does not want them. Further, in response to those commentors 
+advocating more prairie dog acres and those wanting less, I have clarified a minimum 
+desired acreage of prairie dogs which is in keeping with the LRMP’s original focus on 
+maintaining a diversity of vegetation on the Grasslands.
+
+The LRMP identified that the National Grasslands would manage for black-footed ferrets 
+and more prairie dog colonies and acres than in the past. I have identified the minimum 
+desired range of prairie dog colony acres, which includes Conata Basin. This desired 
+acreage in Conata Basin is based on acreage-density needs to maintain a 200 ferret family 
+rating on Federal lands capable of supporting at least 100 breeding adults. We have not 
+achieved the highest prairie dog densities except in continued high-rainfall years, thus the 
+need to be above 12,500 acres. I also recognize the potential to provide many more acres 
+of black-footed ferret habitat.  We received extensive comments from the public to 
+provide this greater level of black-footed ferret habitat and the ESA under section 7(a)(1) 
+requires that Federal Agencies utilize their authorities for the conservation of federally 
+listed species.
+
+The State of South Dakota’s Prairie Dog Conservation and Management Plan points to 
+SDCL 41-11-15 which limits the participation of the State Departments of Agriculture 
+and Game, Fish & Parks in the reintroduction of black-footed ferrets if certain conditions 
+are not met. One of those 5 conditions noted in this state statute states “The existing U.S. 
+Forest Service prairie dog management plan for the Conata Basin, Buffalo Gap National 
+Grasslands shall be directly adhered to, and if future increases in prairie dog acres are 
+needed, a funding mechanism shall be established to provide financial compensation to 
+landowners suffering lost income”. Due to this statute requirement, coupled with 
+substantial public comments during the formulation of the State Conservation and 
+Management Plan, it is the State’s position that an incentive program for Conata Basin 
+must be in place prior to management actions that would raise the stated minimum 
+acreage of prairie dog colonies within Conata Basin above the minimum 12,500 acres.
+
+The Revised LRMP has superseded the prairie dog management plan referenced in the 
+State legislation.  The LRMP Record of Decision states “As part of being a good 
+neighbor, we will implement management practices such as livestock grazing, land 
+exchange, and prescribe fire that will likely contribute to the increase of prairie dog 
+populations and to reduce conflicts with adjacent landowners.  So as to not place a 
+disproportionate share of prairie dogs on national forest system lands, I will work with 
+the states of Nebraska and South Dakota in the preparation of the State-wide prairie dog 
+conservation plan, pursuant to 36 CFR 219.7.  I intend to implement the State-wide 
+conservation plan to the extent allowable by law and policy in providing direction for the 
+control of unwanted colonization of prairie dog onto private lands.  Should the State-wide conservation plan conflict with provisions of this LRMP, I will propose an amendment to 
+make the LRMP consistent with the State-wide conservation plan”.
+
+I have carefully considered the State of South Dakota’s Prairie Dog Conservation and 
+Management Plan and incorporated applicable elements of this Plan into Alternative 2 
+and 3, to the extent allowable by law and policy while providing for multiple use 
+objectives. We have pursued and/or implemented the following options available to us to 
+meet the above direction:
+
+Ø The Forest Service has provided comprehensive input for consideration to the 
+State Plan during public review on multiple occasions.
+
+Ø The Forest Service has agreed with most major objectives (20 of 24 objectives) of 
+the South Dakota State Prairie Dog Conservation and Management Plan (see 
+FEIS Appendix H).
+
+Ø The Forest Service has proposed an amendment to the LRMP in both Alternatives 
+2 and 3 (see FEIS Appendix C).
+
+Ø The National Forest Management Act regulations (36 CFR Part 219.19) also 
+identify the need to select “management indicator species” to help estimate the 
+effects of management activities on other species of major biological 
+communities.  Black-tailed prairie dog colonies and the diversity of wildlife 
+species found in them certainly represent a major biological community on the 
+national grasslands in the project area, and the black-tailed prairie dog, itself, was 
+identified in the LRMP as the management indicator species for the community.
+In order to meet MIS objectives set forth in the LRMP, the width and certain 
+management requirements within the boundary management zone were adjusted.
+
+Ø The ESA under section 7(a)(1) requires that Federal Agencies utilize their 
+authorities for the conservation of federally listed species.  The black-footed ferret 
+minimum threshold for Conata Basin is maintaining a 200 ferret family rating on 
+Federal lands capable of supporting at least 100 breeding adults.  Alternative 3 
+provides a strong probability that these thresholds can be met even if low prairie 
+dog densities are experienced due to low precipitation periods (drought) across 
+the entire Conata Basin ferret area.
+
+The U.S. Forest Service and Nebraska National Forest specifically, support the States of 
+South Dakota and Nebraska being proactive and developing their own prairie dog 
+conservation plans. We have provided such letters of support to both States. Currently 
+Nebraska is working towards a State prairie dog management plan.  Components of the 
+South Dakota prairie dog conservation plan have been incorporated to the extent possible 
+through this Amendment, while meeting the overall multiple use objectives established in 
+the LRMP.
+
+We recognize the profit-orientated objectives on private lands, especially on agricultural 
+private lands.  National Forests and Grasslands have different objectives than most 
+private lands. Multiple-use of Federal lands, with a variety of laws and regulations, 
+expectations and outcomes, has guided us to another end point. We are still in strong 
+agreement to be good neighbors and to limit our activities so they don’t impact another person’s property. On National Grasslands our management is determined through full 
+and open public processes and review, which we have completed here.
+
+### OTHER ALTERNATIVES CONSIDERED
+
+Alternative 1 is our current management following current LRMP direction for prairie 
+dog conservation and management that relies primarily on non-lethal management tools, 
+such as landownership adjustment, vegetation management, and live-trapping and 
+relocation of prairie dogs.  My rational for not selecting Alternative 1 is this alternative 
+shows an increase in prairie dog acreage across the planning area, especially during the 
+recent drought, and we have found that our current management does not address an 
+immediate relief for adjoining landowners in most boundary encroachment areas.
+
+Alternative 2 expands the use of rodenticide, along with non-lethal management tools, to 
+reduce and manage prairie dog populations along national grassland boundaries.  Under 
+this alternative, rodenticide and limited shooting can be authorized in boundary 
+management zones that are up to 1-mile wide along national grassland boundaries.  All 
+rodenticide use in these zones would be in response to complaints after on-site 
+evaluations.  My rationale for not selecting Alternative 2 is as follows:
+
+Ø This alternative raises viability concerns for the prairie dog and burrowing owl on 
+the Fort Pierre and Oglala Geographic Areas. If you assume that all prairie dog 
+colonies within these zones would eventually be treated with rodenticide because 
+of encroachment issues, prairie dog populations on the Buffalo Gap (outside 
+Conata Basin), Oglala, and Fort Pierre National Grasslands would be severely
+reduced or extirpated (1,200 acres, 80 acres and 0 acres respectively).  Adverse 
+determinations for the burrowing owl and black-tailed prairie dog on the Fort 
+Pierre and Oglala National Grasslands are documented in the Biological
+Evaluation (Appendix E of the DEIS).  Both of these species are designated 
+“sensitive” by Region 2 of the Forest Service.  Under USDA Departmental 
+Regulation 9500-4, National Forest Management Act regulations (36 CFR Part 
+219) and Forest Service Manual 2670, the Forest Service is to provide habitat on 
+the national grasslands and forests for viable populations of all existing native 
+wildlife species.  As prescribed in Forest Service Manual 2670, it is also the 
+policy of the Forest Service to avoid or minimize impacts to sensitive species.
+
+It’s important to point out that the adverse biological determinations for blacktailed prairie dog and the burrowing owl were based on concerns regarding the 
+viability of local populations of these species on the Fort Pierre and Oglala 
+National Grasslands.   The adverse determinations were not based on concerns 
+over a loss of species viability (rangewide) or a trend towards federal listing for 
+either of the species.  It is highly unlikely that the potential loss of 1,340 and 
+2,140 acres of prairie dog colonies on the Fort Pierre and Oglala National 
+Grasslands, respectively, would result in a loss of species viability or a trend 
+towards federal listing for either species.
+
+Ø The National Forest Management Act regulations (36 CFR Part 219.19) also 
+identify the need to select “management indicator species” to help estimate the 
+effects of management activities on other species of major biological communities.  Black-tailed prairie dog colonies and the diversity of wildlife 
+species found in them certainly represent a major biological community on the 
+national grasslands in the project area, and the black-tailed prairie dog, itself, was 
+identified in the LRMP as the management indicator species for the community. 
+In order to meet MIS objectives set forth in the LRMP, the width and certain 
+management requirements within the boundary management zone were adjusted.
+
+Ø The ESA under section 7(a)(1) requires that Federal Agencies utilize their 
+authorities for the conservation of federally listed species.  The black-footed ferret 
+minimum threshold for Conata Basin is maintaining a 200 ferret family rating on 
+Federal lands capable of supporting at least 100 breeding adults.  Alternative 3 
+provides a strong probability that these thresholds can be met even if low prairie 
+dog densities are experienced due to low precipitation periods (drought) across 
+the entire Conata Basin ferret area.
+
+### PUBLIC INVOLVEMENT
+
+We have met one-on-one and/or attended meetings with various government agencies, 
+elected officials, State and County officials, environmental representatives, and private 
+landowners.  I have considered all the comments, issues and discussions made during this 
+participation process.  However, it should be recognized that participation in this process 
+does not automatically equal full agreement by the Forest Service and those other entities.  
+Comments submitted are considered with many other factors and together are seriously 
+evaluated to provide basis for my decision(s).
+
+A Notice of Intent (NOI) to prepare a DEIS was published in the Federal Register on 
+November 1, 2004.  On November 5, 2004, letters were sent to over 2,000 parties, 
+including Federal, state, and local agencies; elected officials; environmental and public 
+interest groups; Native American tribes; landowners in the vicinity of the project; local 
+libraries, media; and other stakeholders in the region who had indicated an interest in the 
+project.  This outreach informed them of the NOI and the 30-day comment period (see 
+Chapter 4, 4.2, Distribution List).  Since then, Forest Service officials have met or 
+contacted various individuals, groups, tribes, state agencies, local agencies, and other 
+federal agencies with an interest in prairie dog conservation and management on NFS 
+lands.  This includes officials from USDA Animal and Plant Health Inspection Service 
+and the State of South Dakota, both cooperating agencies as indicated in the Federal 
+Register in a December 10, 2004, correction to the earlier Notice of Intent.   The State of 
+Nebraska elected not to formally participate as a “cooperating agency” but still has the 
+opportunity to fully participate and provide recommendations and comments.
+
+The Draft EIS was filed with the U.S. Environmental Protection Agency on February 
+22<sup>nd</sup>, 2005, and a Notice of Availability that the DEIS was available for review and 
+comment was published on March 4, 2005.  The same day, letters were sent to 
+appropriate federal, state, and local agencies; elected officials; Native American tribes; 
+newspapers; public libraries; media; and other interested parties informing them of the 
+DEIS and comment period.  The comment period on the Draft EIS closed on April 18<sup>th</sup>, 
+2005.  Over 14,000 comment letters and emails were received from federal, state, and local agencies, as well as interested organizations, and individuals.  The content of the 
+letters and emails was analyzed to systematically identify substantive comments for 
+which a written response was needed.  The written comments and responses to them are 
+included in Chapter 5 of the FEIS.
+
+Commentors on the Draft EIS expressed concerns that were grouped into 10 categories, 
+plus a miscellaneous category.  The greatest number of comments related to the (1) 
+analysis already conducted, or yet needed, to support a decision.  Other focused topics 
+included: (2) boundary management zones, or “buffers,” (3) black-footed ferrets, (4) 
+economics, (5) grazing, (6) law, regulation and policy, (7) private land issues, (8) 
+resource damage, (9) rodenticide use, and (10) shooting.
+
+Communications Plan--A communication plan was drafted in November, 2004 that 
+identified key stakeholders and assigned Forest staff to make personal contacts with each 
+to discuss the purpose and need for the EIS and possible alternatives.  Key stakeholders 
+included South Dakota and Nebraska elected officials at the federal and state levels as 
+well as locally elected officials (county commissioners) in those counties containing 
+lands within the project area.  In addition, Forest staff personally contacted the directors 
+of the Departments of Agriculture in each state and the Game, Fish and Parks (SD) and 
+Game and Parks Commission (NE).
+
+Personal contacts with the Oglala Sioux and Lower Brule Tribal chairpersons were 
+assigned to the appropriate Buffalo Gap and Fort Pierre National Grassland rangers, 
+while district staff individually contacted grazing permittees.  A representative of the 
+parties to the lawsuit to stop rodenticide use in the fall of 2004 was also identified and 
+contacted individually.
+
+The States of South Dakota and Nebraska recently completed public involvement 
+programs addressing prairie dog conservation and management across each state.   
+Comments from both efforts have been analyzed and documented, and Forest Service 
+officials have also reviewed this information to better understand the issues, from a 
+statewide perspective. The Nebraska and South Dakota public involvement information is 
+available for review at the Forest Supervisor’s Office in Chadron, Nebraska.
+
+The State of South Dakota, as a cooperating agency, represented the individuals and 
+counties that participated in their process. This occurred through the State developing a 
+state prairie dog conservation plan, with full public involvement and legislation. Other 
+ways also included numerous field and office collaborative sessions both one-on-one and 
+with other individuals, agencies and groups.
+
+The Fall River County (South Dakota) Commission submitted “The Fall River County 
+Prairie Dog Conservation Act for National Grasslands” and requested that the Forest 
+Service consider the Act as an alternative.   The Act specified a one-mile prairie dog free 
+zone and limitations on prairie dog colony acreages on national grasslands.  Two items 
+occurred with respect to this request. Fall River County submitted their alternative to the 
+State during their legislative process and as part of the State public involvement process. 
+The State Conservation plan was modified with this, and other, input.  In addition to 
+carefully considering the concerns of the Counties, I looked to the States as also a 
+recognized representative of the counties, and looked to the State to offer and modify any 
+input from counties to us. Secondly, through direct discussions with the county, that included several commission and one-on-one meetings, as well as phone calls, we 
+recognized most of the proposed county alternative was covered in one or more of the 
+three alternatives.
+
+USDA Animal and Plant Health Inspection Service (APHIS) also suggested additional 
+alternatives.  One of the alternatives would have expanded the possible use of lethal 
+control (rodenticide) to all national forest system lands in Nebraska, rather than limiting it 
+to only the Oglala National Grassland.   Another suggested APHIS alternative was for the 
+environmental impact statement to address and evaluate management of prairie dogs on 
+adjoining lands.
+
+The Forest Service has a long history and considerable experience in prairie dog 
+conservation and management on national grasslands and forests in South Dakota and 
+Nebraska.   This includes working with many interested individuals, conservation and 
+industry organizations, landowner associations, tribes and government agencies.   As a 
+result, the issues associated with this proposed action are well understood and 
+documented.   In addition, the recent revision of the LRMP provided another opportunity 
+for public involvement and for the agency to listen, document and consider public, tribal 
+and agency comments relating to prairie dog conservation and management.   Forest 
+Service officials, including members of the FEIS interdisciplinary team, have considered 
+this information in the development and evaluation of the proposed actions and 
+alternatives.
+
+Other key interactions that have influenced my decisions include collaborative meetings 
+with conservation groups, ranchers and USFWS, including attending a public symposium 
+on the long-term efforts to re-introduce the endangered black-footed ferret.  The Forest 
+Service commitment to this effort has and continues to be strong, now and in the future. 
+This was further strengthened in the LRMP with the Management Area (MA) 3.63 
+designating prairie dogs and ferrets priority, but not exclusive use, of two key areas on 
+the Buffalo Gap National Grassland. While we have been successful in expanding ferrets 
+and prairie dogs, the reason for my decision is these expansions, exacerbated in part by 
+drought, have impacted our neighbors and their agricultural based livelihood.
+
+### CHANGES BETWEEN DRAFT AND FINAL
+
+Key changes and/or additions between draft and final are briefly described in the FEIS 
+for each chapter and appendix.  Minor corrections of typographical errors, formatting, 
+and changes in sentence structure for better clarification are not identified.
+
+### CONSISTENCY AND COMPLIANCE WITH OTHER LAWS, REGULATIONS
+
+I find that my decision is consistent with the wide variety of laws and policies that guide 
+the management of National Forest System lands.  These include, but are not limited to, 
+the National Environmental Policy Act, National Forest management Act, Endangered
+
+---
+
+Species Act, National Historic Preservation Act, Clean Water Act, and Clean Air Act.  In 
+this section some of the more important laws pertinent to this decision are discussed.
+
+#### National Environmental Policy Act (NEPA)
+
+NEPA requires that Federal agencies prepare detailed statements on proposed actions that 
+significantly affect the quality of the human environment. The requirement is designed to 
+serve two major functions:  (1) to provide decision makers with a detailed accounting of 
+the likely environmental effects of a proposed action prior to its adoption, and (2) to 
+inform the public of, and allow comment on, such efforts.
+
+The Black-tailed Prairie Dog Conservation and Management Final Environmental Impact 
+Statement (FEIS) has compiled and generated an enormous amount of information 
+relevant to the effects of each of the alternatives considered in the Final EIS. Such 
+information builds on the data, analysis, and public involvement set forth in the 
+documents prior to this Final EIS, which include the 2002 ROD and 2001 LRMP and 
+FEIS.  All substantive comments, written and oral, made on the Draft EIS have been 
+summarized and responded to in Chapter 5 of the Final EIS. Over the course of analysis, 
+this public involvement has lead to changes in the alternatives.
+
+I find that the environmental analysis and public involvement process complies with each 
+of the major elements of the requirements set forth by the CEQ for implementing NEPA 
+(40 CFR 1500-1508).
+
+First, the Final EIS considered a broad range of reasonable alternatives. Numerous 
+options within alternatives were considered as discussed in the Final EIS. Alternatives 
+presented in the Final EIS encompass a broad range of responses to issues including (1) 
+Unwanted prairie dog colonization on adjoining private or tribal lands and effects on 
+landowners and their property, (2) Importance of prairie dogs and these public lands, 
+especially the Conata Basin Black-footed Ferret Reintroduction Area, to the recovery of 
+the endangered black-footed ferret and to the partners in the recovery program, and (3) 
+Prairie dog colonies as habitat for grassland wildlife and biodiversity conservation.
+
+Second, the Final EIS reflects consideration of cumulative effects of the alternatives by 
+evaluating past, present, and reasonably foreseeable future actions in the planning area. 
+Moreover, although other Federal and non-Federal lands are outside the scope of this 
+decision, effects from their management have been considered in the Final EIS to a 
+degree appropriate for a NEPA document of this scale.
+
+Third, the Final EIS makes use of the best available information. Application of a 
+geographic information system (GIS) was used to evaluate complex spatial effects 
+resulting from implementation of the alternatives.  A model was employed to better 
+understand the predicted prairie dog acreages to the year 2012.
+
+Finally, a science review was conducted.  This review demonstrated to me that of all the 
+known available scientific information was considered and correctly interpreted, and the 
+management conclusions were supported by the scientific information.  It is important to 
+note that a great deal of our knowledge about black-footed ferrets and prairie dogs is 
+locally derived and relied upon and cited by managers throughout the nation, including
+
+---
+
+Black-tailed Prairie Dog Conservation and Record of Decision Management on the Nebraska National Forest
+
+the US Fish and Wildlife Service.  All of these tools, taken together, constitute use of the 
+best available information.
+
+#### National Forest Management Act (NFMA)
+
+The 1982 Planning regulations provided guidance for implementation of the National 
+Forest Management Act when the LRMP was promulgated in 2001.  The 1982 
+regulations have now been superseded by regulations published in the Federal Register 
+on January 5, 2005 (2005 Planning Rule). 36 C.F.R. 219.14(d) allows the Forest to elect 
+to conduct this amendment under the provisions of the former 1982 NFMA planning rule 
+as modified by 36 CFR 219.14(f).   Provision 36 CFR 219.14(d) (the new 2005 Planning 
+Rule) describes how the new rule applies to LRMP amendments, such as this decision, 
+during transition.  During the transition period, proposals must be either consistent with 
+the current LRMP and or contemplate an amendment, the latter being the case for this 
+decision.
+
+Additionally, the 2005 Planning Rule modifies the MIS concept during transition to the 
+new rule stating:
+
+(f) Management indicator species.  For units with plans developed, amended, or 
+revised using the provisions of the planning rule in effect prior to November 9, 
+2000 [the 1982 Rule], the Responsible Official may comply with any obligations 
+relating to management indicator species by considering data and analysis relating 
+to habitat unless the plan specifically requires population monitoring or 
+population surveys for the species.   Site-specific monitoring or surveying of a 
+proposed project or activity area is not required, but may be conducted at the 
+discretion of the Responsible Official, 36 CFR 219.14(f).
+
+The LRMP, including this amendment, is governed by the MIS concept of the 2005 rule 
+(36 CFR 219.14(f)).  Under the 2005 Planning Rule, there is no obligation to collect or 
+analyze data regarding MIS at the project level.  The existing LRMP requires that for 
+each management indicator species the following be determined: 1) the acres and 
+distribution of potential habitat; 2) the current condition and trend of key habitats; and 3) 
+the long-term population trends and the relationships between long-term trend and 
+changes in habitat quality and quantity as a result of management activities. No further 
+obligations are imposed by the regulations beyond what is required by the plan.
+
+My decision complies with the NFMA planning rule (36 CFR 219.14).  There are aspects 
+of my decision to select alternative 3 that necessitate amending the LRMP.   A 
+comparison between the current LRMP and Amendment 2 <sup>a</sup> to the LRMP can be found in 
+Appendix I of the FEIS.  My decision does not constitute a significant amendment under 
+NFMA.  Rationale for this conclusion can be found in Appendix J of the FEIS.
+
+#### Endangered Species Act (ESA)
+
+Consultation requirements under Section 7 of the ESA, as amended have been completed 
+with the Fish and Wildlife Service (FWS). The Fish and Wildlife Service has reviewed
+
+a
+This amendment was erroneously numbered 1. Amendment 1 was completed in 2003.
+
+---
+
+the Biological Assessment for the proposed, threatened and endangered species under 
+their regulatory jurisdiction.  In their April 21, 2005 letter responding to the Draft EIS, 
+the FWS submitted its finding that Alternative 3 provides the best responses to prairie 
+dog encroachment issues, provided that the Forest Service’s commitment to foster blackfooted ferret recovery continues, the unregulated shooting issues are addressed at 
+Smithwick, adequate monitoring of prairie dog and ferret populations are used to guide 
+lethal control efforts, and coordination occurs with the resource agencies as described in 
+the Draft EIS.
+
+The Forest Service has worked in conjunction with the FWS incorporating models and 
+determining thresholds for the black-footed ferret in the Conata Basin ferret area. In their 
+June 28, 2005 letter responding to the Biological Assessment (BA) and proposed Final 
+EIS, and draft ROD, transmitted electronically for review on May 27, 2005 and June 20, 
+2005 respectively, the FWS submitted its concurrence with the Forest Service’s 
+determination that the Amendment is not likely to jeopardize the continued existence of 
+the black-footed ferret.  The FWS also concurred with the Forest Service’s determination 
+that the Amendment may affect, but is not likely to adversely affect, the bald eagle and 
+whooping crane based on the rationale provided in the BA.  Their concurrence is specific 
+to the BA and supporting documents.  Copies of correspondence between each agency 
+are included in the administrative record.
+
+#### The Animal Damage Control Act
+
+The Animal Damage Control Act of March 2, 1931, as amended, (7 U.S.C. 426-426c) 
+authorizes the Secretary of Agriculture to provide animal damage management services, 
+to maintain technical expertise for evaluating and recommending animal damage 
+management techniques, and to perform animal damage research.  The Secretary has 
+delegated this authority to the Animal and Plant Health Inspection Service (APHIS) and 
+the Animal Damage Control program in APHIS is specifically responsible for ADM 
+activities.
+
+The Forest Service and APHIS - Animal Damage Control program along with the States, 
+cooperate under the Animal Damage Control Act of 1931, as amended, to manage animal 
+damage on National Forest System lands.  These activities include actions to provide 
+wildlife damage management through direct control, as well as technical assistance to 
+achieve desired management objectives.
+
+#### Clean Water Act
+
+Full implementation of this decision is expected to maintain and improve water quality 
+and satisfies all State water quality requirements. This finding is based on the standards 
+and guidelines followed in the LRMP, the application of Best Management Practices of 
+the Soil and Water Conservation Handbook specifically designed to protect water quality, 
+and the discussion of water quality and beneficial uses contained in the Final EIS.
+
+#### Flood Plains and Wetlands (Executive Orders 11988 and 11990)
+
+These Executive Orders require Federal agencies to avoid, to the extent possible, shortand long term effects resulting from the occupancy and modification of flood plains, and the modification or destruction of wetlands. Standards and guidelines are provided for 
+soil, water, wetlands, and riparian areas to minimize effects to flood plains and wetlands. 
+They incorporate the Best Management Practices of the Soil and Water Conservation 
+Handbook. The standards and guidelines apply to all floodplains and wetlands where less 
+restrictive management might otherwise occur.
+
+#### National Historic Preservation Act, as amended (NHPA)
+
+All undertakings (as defined in 36 CFR part 800.16[y]) are conducted in accordance with 
+Section 106 of the National Historic Preservation Act, as amended (NHPA).  Heritage 
+resources listed on or eligible to the NRHP are avoided during the implementation phase 
+of any new ground-disturbing project proposed on the Forest.  If a resource cannot be 
+avoided, mitigation measures are applied to resolve any potential adverse effects to the 
+resource.
+
+The present condition of heritage resources on the Forest is on course with the desired 
+condition described in the LRMP (Goal 2b, Heritage Sites, and Standards and Guidelines, 
+section N, Heritage Resources).
+
+#### Environmental Justice (Executive Order 12898)
+
+Executive Order 12898, "Federal Actions to Address Environmental Justice in Minority 
+Populations and Low-Income Populations," requires that Federal agencies make
+achieving environmental justice part of their mission by identifying and addressing, as 
+appropriate, disproportionately high and adverse human health and environmental effects 
+of their programs, policies, and activities on minority populations and low-income 
+populations.
+
+A qualitative assessment of environmental justice considerations was conducted based on 
+the information in the Final EIS described above. My conclusion is that the risk of such 
+disproportionate effects on minority or low-income populations from implementation of 
+this decision would be very low.
+
+#### Stipulated Settlement Agreement for Civil Action No. 04-F-1960 (BNB)
+
+A recent civil action (No. 04-F-1960 (BNB) filed in the fall of 2004 by several 
+organizations was settled through a stipulated settlement agreement October 15, 2004.  
+The following clauses in the stipulated settlement agreement addressed the Forest Service 
+amending the LRMP for prairie dog management on the Buffalo Gap National Grassland 
+(BGNG):
+
+Ø By Notice of Intent, the Forest Service will commence the process for 
+amending the LRMP for the BGNG to address a long-term solution for the 
+management of prairie dog colonies on the BGNG.
+
+Ø As part of the process of amending the LRMP, the Forest Service will 
+prepare an environmental impact statement (EIS).  Consistent with 
+government-wide regulations, public notice and an opportunity for public 
+comment shall be provided.
+
+---
+
+Ø The EIS will consider non-lethal alternatives, such as erecting fencing to 
+allow a grass buffer to grow to address prairie dog management in the 
+BGNG.
+
+Ø With the exception of the aforementioned clause, nothing in this agreement 
+shall prejudice, prejudge, or otherwise affect the process for or content of 
+the EIS or ROD issued in conjunction with the amendment of the LRMP.
+
+I find that my decision is consistent and complies with the stipulated settlement 
+agreement for Civil Action No. 04-F-1960 (BNB).
+
+### MONITORING AND RESEARCH
+
+Effective implementation of this decision requires a commitment to do the necessary 
+monitoring and research in a timely manner to help ensure compliance with the terms, 
+conditions, and purposes of this decision.   Prairie dog conservation objectives are 
+included in the LRMP for several geographic areas within the project area, and we need 
+to monitor the effects of this decision on the progress in meeting the LRMP objectives.
+
+We also identified in Supplement 2 - Implementation Plan of this decision, the need to 
+monitor prairie dogs in Conata Basin and Smithwick black-footed ferret reintroduction 
+habitat areas.   We will continue the following monitoring activities to support the blackfooted ferret program:
+
+Ø Monitor acreages of active black-tailed prairie dog colonies.  This information is 
+used to determine trends in active colony acreages to reflect long-term trends in 
+prairie dog populations.  In most areas, this is a reasonably safe assumption.
+
+Ø We will supplement colony acreage information with active prairie dog burrow 
+density information to estimate prairie dog populations and trend.  This will help 
+ensure a sufficient habitat and prey base for a self-sustaining black-footed ferret 
+population.
+
+Ø And, in Conata Basin black-footed ferret area, we will monitor ferret populations.
+
+I have selected an alternative that relies heavily on an adaptive management approach.
+To maximize the effectiveness of an adaptive management strategy, we will continue to 
+look for opportunities in monitoring and research studies needed to reduce uncertainty 
+and increase knowledge and effectiveness of achieving our objectives.  In this manner, 
+on-the-ground management activities can be modified in a timely manner to increase 
+effectiveness.   I have identified the following specific areas where I will seek 
+opportunities with Forest Service or other research or science branches to enhance 
+knowledge to support effective long-term adaptive management of prairie dogs:
+
+Ø Evaluate and quantify soil erosion rates on and off prairie dog colonies,
+
+Ø Evaluate the effectiveness of vegetation management zones in reducing 
+encroachment,
+
+Ø Evaluate the effectiveness of regulated shooting in reducing encroachment.
+
+---
+
+Black-tailed Prairie Dog Conservation and Record of Decision Management on the Nebraska National Forest
+
+Ø Continue to coordinate and share information on the status and health of prairie 
+dog colonies and the black-footed ferret reintroduction program with state and 
+federal agencies, as well as non-government partners.
+
+I will ask my staff to identify and initiate potential partnerships to help fund and conduct 
+these or similar studies.   There are obviously many other studies that could potentially 
+enhance our abilities to more effectively conserve and manage prairie dogs.
+
+### IMPLEMENTATION AND APPEAL RIGHTS
+
+#### Implementation
+
+Pursuant to **36 CFR Part 215,** if no appeal is filed within the 45 day time period, 
+implementation of this decision may occur on, but not before, 5 business days from the 
+close of the appeal filing period.  If an appeal is received, implementation may occur on, 
+but not before, the 15<sup>th</sup> business day following the date of the last appeal disposition.
+
+Pursuant to **36 CFR Part 251 Subpart C,** if no appeal is filed, implementation of this 
+decision may occur on, but not before, 5 business days from the close of the appeal filing 
+period. If an appeal is received, implementation may occur during the appeal process, 
+unless the Reviewing Officer grants a stay (§251.91).
+
+#### Administrative Review or Appeal Opportunities
+
+This decision is subject to administrative review (appeal) pursuant to 36 Code of Federal 
+Regulations (CFR) Part 215.  This decision is also subject to administrative review under 
+36 CFR Part 251 Subpart C by term grazing permit holders or applicants (§251.86). 
+However, term grazing permit holders or applicants must choose to appeal under either 
+36 CFR 251 or 215, but not both (§251.85).
+
+<u>Notices of Appeal that do not meet the content requirements of 36 CFR 215.14 or 36</u> 
+<u>C.F.R. 251.90 as appropriate will be dismissed.</u>
+
+#### Appeals filed under 36 CFR Part 215
+
+Appeals filed under 36 CFR, Part 215, must be filed (regular mail, fax, email, handdelivery, or express delivery) with the Appeal Deciding Officer at the address shown 
+below.
+
+The office business hours for those submitting hand-delivered appeals are: 8:00 a.m. to 
+5:00 p.m. Monday through Friday, excluding holidays. Electronic appeals must be 
+submitted in a format such as an email message, rich text format (.rtf), or Word (.doc) to
+the e-mail address shown below. In cases where no identifiable name is attached to an 
+electronic message, a verification of identity will be required. A scanned signature is one 
+way to provide verification.
+
+Appeals, including attachments, must be filed with the Appeal Deciding Officer within 
+45 days from the publication date of this notice in the Omaha World Herald and Rapid 
+City Journal, the newspapers of record. Attachments received after the 45 day appeal
+
+---
+
+Black-tailed Prairie Dog Conservation and Record of Decision Management on the Nebraska National Forest
+
+period will not be considered. The publication date in the Omaha World Herald and 
+Rapid City Journal is the exclusive means for calculating the time to file an appeal.  
+Those wishing to appeal this decision should not rely upon dates or timeframe 
+information provided by any other source.
+
+Individuals or organizations that submitted substantive comments during the comment 
+period specified at 215.6 may appeal this decision.  The notice of appeal must meet the 
+appeal content requirements at 36 CFR 215.14.
+
+#### Appeals filed under 36 CFR Part 251 Subpart C
+
+Appeals filed under 36 CFR Part 251 Subpart C (including attachments) must be in 
+writing and filed with the Reviewing Officer within 45 days following the date on the 
+notice of the written decision (§251.88). Attachments received after the 45-day appeal 
+period will not be considered.
+
+It is an appellant’s responsibility to provide sufficient activity-specific evidence and 
+rationale, focusing on the decision, to show why the Deciding Officer’s decision should 
+be reversed (§251.90).  The Deciding Officer is willing to meet with applicants and 
+holders to hear and discuss any concerns or issues related to the decision (§251.93).
+
+Appeals filed under 36 CFR 251 Subpart C must have a copy of the appeal 
+simultaneously sent to the Deciding Officer (§251.88).
+
+An appellant may also include in the notice of appeal a request for oral presentation 
+(§251.97) or a request for stay of implementation of the decision pending decision on the 
+appeal (§251.91).
+
+---
+
+Black-tailed Prairie Dog Conservation and Record of Decision Management on the Nebraska National Forest
+
+#### Where to File a 36 CFR 215 Appeal
+
+<u>Mail:</u>
+USDA Forest Service
+Rocky Mountain Region
+Attn: Appeal Deciding Officer
+PO Box 25127
+Lakewood, CO 80225
+Fax: (303) 275-5134
+
+<u>Delivery:</u>
+USDA Forest Service
+Rocky Mountain Region
+Attn: Appeal Deciding Officer
+740 Simms Street
+Golden, CO 80401-4720
+Hours: Mon-Fri 7:30 am – 4:30 pm
+Email: appeals-rocky-mountainregional-office@fs.fed.us
+
+#### Where to File a 36 CFR 251 Appeal
+
+<u>Mail or Delivery only:</u>
+
+USDA Forest Service
+
+Rocky Mountain Region
+
+Appeal Reviewing Officer
+
+Attention: Rick Cables, Regional
+
+Forester
+
+PO Box 25127
+
+Lakewood, CO 80225
+
+or
+
+740 Simms Street
+
+Golden, CO 80401-4720
+
+Fax: (303) 275-5134
+
+<u>Simultaneously send a copy of the</u>
+
+<u>appeal to the:</u>
+
+Deciding Officer
+
+Nebraska National Forest
+
+Attention: Donald J. Bright, Forest
+
+Supervisor
+
+125 North Main St.
+
+Chadron, NE 69337-2118
+
+Fax: (308) 432-0309)
+
+---
+
+#### Obtaining Additional Information
+
+The Final EIS for Black-tailed Prairie Dog Conservation and Management on the Nebraska 
+National Forest has been placed in the public files of the Nebraska National Forest and is 
+available for public inspection at:
+
+Nebraska National Forest
+125 N. Main Street
+Chadron, Nebraska 69337
+Phone:  (308) 432-0300
+
+In addition, copies (or an executive summary) of the Final EIS have been mailed to Federal, 
+state, and local agencies; elected officials; Native American tribes; newspapers; public libraries; 
+and individuals who provided comments on the draft EIS, or requested the Final EIS.
+
+### SIGNATURE
+
+<u>&#95;/s/ Donald J. Bright&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;</u>
+
+**DONALD J. BRIGHT**
+
+<u>&#95;&#95;August 3, 2005&#95;&#95;&#95;&#95;&#95;&#95;&#95;</u>
+
+Forest Supervisor
+
+**DATE**
+
+Nebraska National Forest
+
+---
+
+Black-tailed Prairie Dog Conservation and Record of Decision Management on the Nebraska National Forest
+
+### SUPPLEMENT 1 - MAPS
+
+This product is reproduced from geospatial information prepared by the U.S. Department of Agriculture.  
+GIS data and product accuracy may vary.  They may be: developed for sources of differing accuracy, 
+accurate at only certain scales, based on modeling or interpretation, incomplete while being created or 
+revised, etc.  Using GIS products for purposes other than those, for which they were created, may yield 
+inaccurate or misleading results.  This information was released on February 22, 2005.  The Forest 
+Service reserves the right to correct, update, modify, or replace, GIS products "based on new inventories, 
+new or revised information, and if necessary in conjunction with other federal, state or local public 
+agencies or the public in general as required by policy or regulation.  Previous recipients of the products 
+may not be notified unless required by policy or regulation."  For more information, contact Supervisors 
+Office, Nebraska National Forest, 308-432-0300.
+
+---
+
+**_August 2005_**
+**_Record of Decision_**
+
+**_Black-tailed Prairie Dog Conservation and_**
+**_Management on the Nebraska National Forest_**
+
+##### [ Blank Page]
+
+---
+
+### SUPPLEMENT 2 - IMPLEMENTATION PLAN
+
+##### IMPLEMENTATION PLAN
+
+##### BLACK-TAILED PRAIRIE DOG CONSERVATION AND MANAGEMENT
+
+**Summary Description:**  Prairie Dog Conservation Concurrent with Population Regulation and 
+Management through Non-Lethal Methods and Expanded Rodenticide Use along Property 
+Boundaries (0.25 Mile Boundary Management Zone – Fort Pierre National Grassland; and 0.5 
+Mile Boundary Management Zone – Oglala and Buffalo Gap National Grasslands).
+
+**Conservation.** Most LRMP direction for prairie dog conservation is implemented as funding, 
+staffing and priorities allow.  Modifications are made to some conservation measures prescribed 
+in the LRMP including the shooting and rodenticide prohibitions in black-footed ferret 
+reintroduction habitat (Management Areas 3.63).
+
+Priority conservation activities implemented under this action include:
+
+Ø Expansion of the prairie dog colony complex in the Conata Basin black-footed ferret 
+reintroduction habitat (Management Area 3.63),
+
+Ø Identification and implementation of opportunities for landownership adjustment to 
+facilitate prairie dog population expansion,
+
+Ø Modified prairie dog shooting closure in Conata Basin black-footed ferret reintroduction 
+habitat,
+
+Ø Establishment and intensive management of prairie dog colony complexes on Fort Pierre 
+and Oglala National Grasslands,
+
+Ø Third party solutions with willing landowners.
+
+The LRMP also prescribes development of black-footed ferret reintroduction habitat on the 
+Buffalo Gap National Grassland near Smithwick, South Dakota.  Under this action, successful 
+establishment of a prairie dog colony complex that is large enough to support a ferret 
+reintroduction in this area may take more than 10 years or may require conservation agreements 
+for additional active colony acreage on adjoining lands.
+
+The colony complexes mentioned above, one each on the Fort Pierre and Oglala National 
+Grasslands, need to meet design criteria specified in the LRMP to help ensure long-term 
+persistence of prairie dog populations on those areas.  The complex criteria are a minimum of 
+1,000 acres in at least 10 colonies located no greater than 6 miles apart (inter-colony distance).   
+These criteria closely follow recommendations presented in the Multi-State Conservation Plan 
+for the Black-tailed Prairie Dog (Luce 1999 and 2003).
+
+**Boundary Management.** LRMP direction to manage prairie dog populations using non-lethal 
+management tools is implemented as appropriate and where it would be most effective over the 
+long-term.  Rodenticide use in boundary management zones is added under this action as a 
+primary tool for use on prairie dog colonies that encroach onto adjoining agricultural lands.  
+Encroachment is defined as a national grassland colony that extends across a private or tribal property boundary or would likely cross a property boundary within 1 to 2 years. By stopping 
+colonies just before they encroach on an adjoining landowner, the number of chronic problem 
+areas likely to develop and the amount of rodenticide and other management actions requested 
+and needed in the future should be substantially reduced.
+
+Some questions to consider for determining encroachment of prairie dogs and need to implement 
+various boundary zone management options:
+
+Ø To what extent is the prairie dog colony on national grassland contributing to unwanted 
+colonization of the adjoining lands?
+
+Ø Has the colony on national grassland expanded onto the adjoining lands and are the 
+colonized areas on the national grasslands and adjoining lands contiguous?
+
+Ø If the colony has not expanded across the property boundary, will it likely do so within 
+the next year or two?
+
+Ø Is the landowner willing to consider third party solutions to help resolve the complaint?
+
+Ø Are there opportunities for a possible landownership adjustment for long-term resolution 
+of the complaint?
+
+Ø Are local range conditions on the national grasslands suitable for vegetation management 
+activities through livestock grazing coordination to assist long-term management of the 
+colony?
+
+Ø Will (or has) rodenticide use occur on adjacent private or tribal property, and will our
+(Forest Service) rodenticide use actions be effective?
+
+These on-site evaluation reports through coordination with other entities (including landowners) 
+will be submitted to the respective district ranger for final resolution and retained in the official 
+files at the respective district office.   After reviewing each evaluation report, the district ranger 
+will develop a set of actions consistent with this decision for addressing each complaint and 
+additional documentation as to how those actions were carried out.  Additional site-specific 
+NEPA will be initiated where analysis suggests that probable action is outside the scope of this 
+decision.  The colonies are routinely measured on a 3-year cycle.  After each cycle the evaluation
+will be updated.
+
+Based on site-specific conditions and knowledge, the above questions and associated evaluation 
+reports are used to adapt management actions.  These management actions may range from 
+short-term to long-term (i.e. rodenticide use to vegetation management to land adjustments).  The 
+initial management actions are prescribed to likely achieve desired conditions in a timely 
+manner.  Adaptive management provides forward thinking (i.e. drought issues) and if monitoring 
+shows that desired conditions are not being met, then an alternate set of management actions 
+would be implemented to achieve the desired results.
+
+More detailed information on how prairie dog management tools would be used in boundary 
+management zones follows:
+
+Ø Non-lethal management tools include landownership adjustment and third party 
+solutions.  On-site evaluations of complaint areas identifying opportunities for 
+landownership adjustment and third party solutions with willing landowners in 
+problematic complaint areas would be a high priority, especially in black-footed ferret habitat and the designated prairie dog colony complexes on the Fort Pierre and Oglala 
+National Grasslands. As prescribed in the LRMP, progress in initiating and completing 
+landownership adjustments with willing landowners to facilitate prairie dog conservation 
+and management would be reported in the annual LRMP Monitoring and Evaluation 
+Report. Third party solutions involve other government agencies or private organizations 
+that provide innovative solutions to help conserve prairie dogs on their lands and national 
+grasslands.   These solutions include but are not limited to financial incentives, 
+conservation agreements and easements with willing landowners, and other tools 
+identified in the national black-tailed prairie dog conservation assessment and strategy 
+(Van Pelt 1999).
+
+Ø Non-lethal methods would also be used concurrently, where appropriate, with rodenticide 
+along property boundaries to augment long-term effectiveness of rodenticides.  For 
+example, this may include the use of temporary vegetation management fencing to help 
+manage livestock grazing, including livestock removal, in boundary management zones 
+to create visual (vegetation) barriers. Fencing would be determined on a case-by-case 
+basis, taking into consideration factors such as the rate of prairie dog expansion, soils, 
+precipitation trends, and vegetative species composition.  Areas where vegetation 
+management fencing is used would also provide additional forage, especially during low 
+precipitation and drought conditions, for prairie dogs in an attempt to help reduce prairie 
+dog dispersal to other lands.  If more long-term adjustments are needed in livestock 
+grazing management to facilitate the effectiveness of prairie dog management, additional 
+environmental analyses and public disclosure may be conducted as appropriate.  Use of 
+visual and physical prairie dog barriers may also be used in selected areas.
+
+Ø Non-lethal tools may be applied along boundaries with private inholdings (private lands 
+surrounded by federal lands), small isolated tracts, especially in black-footed ferret 
+reintroduction habitat and designated prairie dog colony complexes.
+
+Ø Regulated shooting in the Conata Basin black-footed ferret habitat may be authorized in 
+the boundary management zone if minimum ferret population thresholds continue to be 
+met and the authorized level of incidental take, as specified in a Biological Opinion 
+(April 5, 1994) by the U.S. Fish and Wildlife Service for the Conata Basin black-footed 
+ferret reintroduction, is not likely to be exceeded. This would require a modification to 
+the current Forest Service shooting closure.  The intent is to help regulate prairie dog 
+populations along boundaries to reduce unwanted impacts on adjoining lands.  Regulated 
+shooting involves, but is not limited to, specifying the number of shooters, type of 
+ammunition, and season and shooting hours for selected colonies.   It also includes the 
+necessary enforcement and oversight.  The Forest Service shooting closure is retained for 
+the interior portions of Conata Basin ferret habitat.  Recreational prairie dog shooting 
+outside occupied black-footed ferret reintroduction habitat continues under State 
+regulatory authorities and helps regulate prairie dog populations in both interior and 
+boundary colonies on national grasslands.  Conata Basin colonies, as with all other 
+colonies, will be monitored on a 3-year cycle as a minimum.
+
+Ø The Forest Service shooting closure prescribed in the LRMP for black-footed ferret 
+habitat applies equally to the Smithwick ferret habitat on Buffalo Gap National 
+Grassland.  However, a Forest Service shooting closure would not be implemented in this 
+area until progress is made in initiating a cooperative ferret reintroduction plan.  A Forest
+
+---
+
+Service shooting closure would be implemented if annual increases needed to achieve 
+ferret habitat objectives are not being met.  Forest Service defers decisions on prairie dog 
+shooting restrictions on national grasslands outside active black-footed ferret 
+reintroduction habitat to the states. Smithwick colonies, as with all other colonies, will be 
+monitored on a 3-year cycle as a minimum.
+
+Ø Landownership patterns, forage productivity, and prairie dog distribution are different 
+between the Fort Pierre, Buffalo Gap and Oglala National Grasslands, so guidance on 
+rodenticide use is not consistent across the national grasslands.  This is necessary to 
+balance the need for prairie dog conservation with concerns of adjoining landowners.  
+Boundary management zones on the Buffalo Gap and Oglala National Grasslands where 
+rodenticide and other management tools could be used to reduce unwanted colonization 
+of adjoining lands extend a maximum of 0.5 miles from private or tribal property 
+boundaries into the national grasslands.   The boundary management zone on the Fort 
+Pierre National Grassland is set at a lesser width of 0.25 miles (maximum) to avoid 
+elimination of most colonies and due to the limited encroachment problems. Boundary 
+management zones are set up only along private or tribal lands and not along state school 
+lands, Badlands National Park or other federal lands.
+
+Ø Rodenticide use would occur on the national grasslands to reduce encroachment (as 
+defined) in response to valid complaints from adjoining landowners that can demonstrate 
+colonization on their lands along property boundaries or imminent (1 to 2 years) 
+colonization and that a national grassland colony is a significant contributor to the 
+colonization.  On the Buffalo Gap and Fort Pierre National Grasslands, the complaint 
+process is initiated through the State of South Dakota.  The Forest Service would 
+determine the appropriate response to each complaint involving a national grassland 
+colony after an on-site evaluation.
+
+Decisions where rodenticide use would not occur or would be limited to less than 
+specified distances may occur in response to: 1) complaints where encroachment is not 
+evident; 2) in accordance with Appendix E Biological Assessment and the USFWS letter 
+of concurrence; or 3) for other site-specific reasons.
+
+Ø Rodenticide may also be used in response to public health and safety risks and damage to 
+facilities.  This could occur along property boundaries or within interior areas of national 
+grasslands and forests.
+
+Ø Unique circumstances involving chronic colony-specific encroachment problems may 
+warrant exceeding the specified distances, but these rare exceptions would only be made 
+if additional environmental analyses and public disclosure were conducted.  For example:
+
+[Image: Image104]Rodenticide use in the Conata Basin black-footed ferret reintroduction area could 
+extend beyond the specified distance if minimum black-footed ferret population 
+thresholds continue to be met.  The minimum threshold for Conata Basin is 
+maintaining a 200 ferret family rating on Federal lands capable of supporting at 
+least 100 breeding adults, which will be monitored annually during the summer 
+prior to any control work. These thresholds, based on current information, 
+indicate that between and at a minimum 12,500 and 19,000 acres of active prairie 
+dog colonies are needed, depending on prairie dog densities, to support a longterm ferret population (Livieri and Perry 2005).
+
+---
+
+[Image: Image104]Rodenticide use on Oglala and Fort Pierre National Grasslands (0.5 and 0.25 mile 
+boundary management zones respectively) could only extend beyond the 
+specified distances if reasonable progress can be demonstrated in establishing the 
+prairie dog colony complexes prescribed in the LRMP for both areas.   
+Reasonable progress is achieved when long-term trends in active prairie dog 
+colony acreage remain above the 1996–98 colony acreages used in the LRMP 
+FEIS analyses.
+
+Prairie dog rodenticide along property boundaries is not proposed under this action on the Bessey 
+Ranger District (including the Samuel R. McKelvie National Forest) and the National Forest 
+portion of the Pine Ridge Ranger District. Only non-lethal tools would be considered to address 
+adjoining landowner complaints about encroachment on these areas.   These areas currently do 
+not support prairie dog colonies, but if colonies establish in the future along property boundaries, 
+only non-lethal methods would be considered to help address adjoining landowner complaints.  
+Any proposed use of rodenticide in these areas would require additional environmental analysis 
+and public disclosure.
+
+**Project-Level Implementation.**  The full suite of wildlife damage management tools identified 
+above would be applied under an adaptive management plan.   The successful application of this 
+plan is highly dependent on effective and timely monitoring of prairie dog colony distributions 
+and dynamics.   In the Conata Basin ferret reintroduction habitat, monitoring of prairie dog 
+densities and ferret populations and survival is also critically important for the prairie dog 
+adaptive management plan to be effective. The adaptive management tools are:
+
+Ø Third party solutions and landownership adjustments are the initial long-term tools of 
+choice to resolve prairie dog problems in complaint areas along the following emphasis 
+boundary areas: 1) inholdings in MA 3.63; 2) lands adjoining MA 3.63 with chronic 
+unwanted colonization; 3) inholdings in the Oglala and Fort Pierre prairie dog colony 
+complex areas; and 4) lands adjoining the colony complex prairie dog colonies.  Third 
+party solutions involve other government agencies or private organizations that facilitate 
+financial incentives or compensation, conservation agreements or conservation easements 
+with willing landowners.
+
+Ø If the initial tools of choice do not present a viable and timely solution for a boundary 
+complaint area, rodenticide and vegetation management are then considered primary and 
+applied as appropriate.  Rodenticide use should be considered concurrent with a 
+vegetation management evaluation and if appropriate, modifications in livestock grazing 
+strategies.
+
+Ø Live-trapping to remove prairie dogs for the black-footed ferret recovery program, or 
+relocation to a more desirable location is a secondary tool for consideration in the Conata 
+Basin ferret habitat and designated prairie dog colony complexes on the Fort Pierre and 
+Oglala National Grasslands.  Because of the expense and difficulty in finding suitable 
+prairie dog relocation sites, use of live-trapping is expected to be very limited.
+
+Ø Regulated shooting is another secondary tool to consider in selected colonies along the 
+boundaries of the Conata Basin ferret reintroduction area.
+
+Ø Visual or physical barriers have considerable non-lethal appeal but only have limited 
+effectiveness and would be utilized primarily in reoccurring complaint areas.
+
+---
+
+Ø During low precipitation periods (drought), implement light livestock grazing intensities 
+and/or other grazing modifications in complaint areas as appropriate.  During severe or 
+extended droughts, remove livestock from the national grasslands in complaint areas to 
+help reduce successful prairie dog dispersal and colony expansion and establishment.
+
+Ø Review and implement as appropriate the conservation measures common to all 
+alternatives identified below (Section 2.2.5 of the FEIS):
+
+1)  Inventory and monitor black-tailed prairie dogs and black-footed ferrets as prescribed 
+in Chapter 4 of the LRMP.
+
+2)  Avoid all significant fossil and heritage resource sites when conducting any grounddisturbing projects.  Before ground disturbing activities, a Forest Service 
+paleontologist and archeologist would be contacted to review the proposed project to 
+determine if any fossil or heritage resource surveys, reports, or actions are needed.
+
+3)  Prior to ground disturbing activities, a journey-level Forest Service biologist/botanist 
+would be contacted to review the proposed project to determine if any biological 
+surveys, reports, or actions are needed.
+
+4)  If the predicted range of prairie dog colony acreage listed in Table 3-2 of this 
+document for any national grassland is exceeded, prairie dog management would be 
+revisited.  This may involve additional public involvement and environmental 
+analysis.
+
+5)  If whooping cranes are sighted in an area where rodenticide is being applied, 
+operations will be stopped until the cranes leave the area or are hazed out of the area.  
+In addition, if rodenticide has been applied to an area where cranes have been seen, 
+the area will be watched and any cranes that come near the rodenticide will be hazed 
+until they leave the treated colony to ensure no birds are exposed to treated grain.
+
+6)  The U.S. Fish and Wildlife Service will be consulted prior to use of rodenticide or 
+shooting in a national grassland colony in the Conata Basin ferret area that is near 
+private or tribal land and within a mile of black-footed ferret habitat on Badlands 
+National Park.
+
+7)  Before any on-the-ground management activities (i.e., fencing) occur, review any 
+species at risk timing limitation direction in the LRMP.
+
+There is no additional public disclosure or site-specific analysis requirements if the management 
+tools identified above are applied within the criteria presented in the following table.  Projectlevel implementation of these tools outside the criteria may require additional public disclosure 
+and site-specific evaluation.
+
+---
+
+**TABLE**
+**Project-Level Implementation Criteria**
+
+| MANAGEMENT TOOL (AREA) | NEPA/NFMA COMPLIANCE | ESA COMPLIANCE | NHPA/PALEO COMPLIANCE |
+| --- | --- | --- | --- |
+| Rodenticide |  |  |  |
+| All NFS Lands | Compliant if colony is presenting a public health or safety risk, causing damage to a facility, and 2% zinc phosphide grain bait is applied between 10/1 and 1/31 Compliant if colony is within designated boundary management zone; encroaching or would likely encroach on adjoining lands in the near future; and 2% zinc phosphide grain bait is applied between 10/1 and 1/31 | Compliant if outside Conata Basin ferret habitat and NEPA compliant | Not required |
+| Conata Basin Ferret Habitat | See criteria above for “All NFS Lands” | Compliant if monitoring indicates that the ferret family rating of 200 is maintained or exceeded Compliant if colony is unoccupied by ferrets. If occupied consult with FWS. Requires additional ESA consultation if within a mile of ferret habitat on Badlands National Park | Not required |
+| Smithwick Ferret Habitat | See criteria above for “All NFS Lands” | No additional consultation needed prior to FWS issuing a proposed rule for reintroduction | Not required |
+| Shooting |  |  |  |
+| Conata Basin Ferret Habitat | Compliant if in boundary management zones and shooting is regulated | Compliant if within designated boundary management zones and regulated Requires additional ESA consultation if within a mile of ferret habitat on Badlands National Park | Not required |
+| Smithwick Ferret Habitat | Not required (defer to states) | Not required Consultation required once ferrets are proposed for release | Not required |
+| All Other NFS Lands | Not required (defer to states) | Not required | Not required |
+| Vegetation Management Through Livestock Grazing Coordination (includes temporary fencing to help create visual vegetation barriers) |  |  |  |
+| All NFS Lands | Compliant if adjustments are made through annual operating plans | Compliant | Requires additional review if significant soil disturbance would occur |
+| Other Visual/Physical Barriers |  |  |  |
+| All NFS Lands | Requires additional environmental analysis and public disclosure if significant soil disturbance would occur | Compliant | Requires additional review if significant soil disturbance would occur |
+| Live-trapping |  |  |  |
+| All NFS Lands | Compliant if under state and/or federal permit | Compliant if under state and/or federal permit | Not required |
+| Financial Incentives/Conservation Agreements/Third Party Solutions |  |  |  |
+| All NFS Lands | Forest Service could assist but this does not require an agency decision. Therefore, there are no NEPA/NFMA regulatory requirements. | Forest Service could assist but this does not require an agency decision. Therefore, there are no ESA consultation requirements. | Forest Service could assist but this does not require an agency decision. Also, this does not involve any soil disturbing activities. Therefore, there are no additional review requirements. |
+| Landownership Adjustment |  |  |  |
+| All NFS Lands | Requires additional environmental analysis and public disclosure | Requires additional ESA consultation | Requires additional review |
+
+---
+
+### a <em>SUPPLEMENT 3 - LRMP AMENDMENT 2</em>
+
+## SUPPLEMENT 3 - LRMP AMENDMENT 2 a
+
+The following table identifies current LRMP direction that is proposed to be deleted (left 
+column) under this action.  This current direction will be revised, replaced in whole, or have no 
+replacement direction (right column).
+
+| Item # | Delete: | Revise or Replace With: |
+| --- | --- | --- |
+| #1 | Chapter 1, F-21. Any net loss of suitable black-footed ferret habitat as a result of prairie dog poisoning or development of new facilities within colonies shall be replaced within the year. This is based on the amount of suitable habitat available prior to prairie dog dispersal in the year of the poisoning or development. Standard | Standard removed with no replacement (this standard will be addressed in the following revised standard: Chapter 3, Management Area 3.63, General – 1 (revised)). |
+| #2 | Chapter 1, F-42. Restrict prairie dog shooting where significant risks have been identified for other wildlife species or where shooting is preventing or slowing a desired prairie dog population expansion. Restrictions shall be year-long or seasonal, and dates of seasonal restrictions shall vary depending on the species at risk. Coordinate and consult with the appropriate wildlife agencies prior to implementation of restrictions. Guideline | Guideline removed with no replacement (defer to state authority for regulatory actions outside black-footed ferret habitat) |
+| #3 | Chapter 1, H-1. 1. Limit the use of rodenticides (grain baits) for reducing prairie dog populations to the following situations: ■ Public health and safety risks occur in the immediate area, ■ Damage to private and public facilities, such as cemeteries and residences. Standard | Chapter 1, H-1 (revised). 1. Limit the use of rodenticides (grain baits) for reducing prairie dog populations to the following situations: ■ Public health and safety risks occur in the immediate area, ■ Damage to private and public facilities, such as cemeteries and residences. ■ To respond to unwanted prairie dog colonization on adjoining agricultural lands. Standard |
+| #4 | Chapter 1, H-2. Consult state-wide prairie dog conservation strategies for additional guidance on the appropriate response to complaints of unwanted prairie dog colonization on adjoining agricultural lands (private, state, and tribal lands). Guideline | Chapter 1, H-2 (revised). Determine the appropriate response to complaints of unwanted colonization on adjoining agricultural lands. A suite of management tools will be considered based on site-specific evaluations. Guideline |
+
+a
+This amendment was erroneously numbered 1. Amendment 1 was completed in 2003.
+
+---
+
+| Item # | Delete: | Revise or Replace With: |
+| --- | --- | --- |
+| #5 | Chapter 1, H-4. Prohibit use of rodenticides (above-ground grain baits) for reducing prairie dog populations outside the period October 1 to December 31 to reduce risks to migratory birds. To reduce risk to other wildlife, do not use burrow fumigants in prairie dog colonies. Standard | Chapter 1, H-4 (revised). Prohibit use of rodenticides (above-ground grain baits) for reducing prairie dog populations outside the period October 1 to January 31 to reduce risks to migratory birds. To reduce risk to other wildlife, do not use burrow fumigants in prairie dog colonies. Standard (Note: Current pesticide application label allows use from July 1 to January 31) |
+| #6 | Chapter 2, Oglala National Grassland, Desired Condition | Chapter 2, Oglala National Grassland, Desired Condition |
+| #6 | Prairie Dog Colonies: These areas will be managed to maintain and enhance low structure grassland habitat on 10 to 30 percent of this geographic area to facilitate black-tailed prairie dog expansion. | Prairie Dog Habitat: These areas will be managed to maintain and enhance low structure grassland habitat as part of the 10 to 30 percent vegetative structure objective of this geographic. |
+| #7 | Chapter 2, Wall Southeast Geographic Area Management Area Prescription Allocation | Chapter 2, Wall Southeast Geographic Area Management Area Prescription Allocation |
+| #7 | Number Prescription Acres | Number Prescription Acres |
+| #7 | 1.31 Backcountry Recreation 12,0 Nonmotorized 30 | 1.31 Backcountry Recreation 12,030 Nonmotorized |
+| #7 | 3.63 Black-footed Ferret 5,13 Reintroduction 0 Habitat | 3.63 Black-footed Ferret 0 Reintroduction 0 Habitat |
+| #7 | 3.64 Special Plant and Wildlife Habitat 1,16 0 | 3.64 Special Plant and Wildlife Habitat 1,160 |
+| #7 | 6.1 Rangeland with Broad Resource 76,1 70 | 6.1 Rangeland with Broad Resource 81,300 |
+| #7 | See Appendix A FEIS – Maps, Proposed change to management area prescription 3.63 Black-footed ferret Reintroduction Habitat. | See Appendix A FEIS – Maps, Proposed change to management area prescription 3.63 Black-footed ferret Reintroduction Habitat. |
+| #8 | Chapter 3, Management Area 3.63, General - 1. Authorize only those uses and activities that do not reduce the suitability of the area as black-footed ferret reintroduction habitat. Standard | Chapter 3, Management Area 3.63, General - 1 (revised). Authorize only those uses and activities in the Conata Basin reintroduction area that do not reduce habitat below the level needed to support a long-term sustainable black-footed ferret population. Until habitat is available to support a long-term sustainable black-footed ferret population in the Smithwick reintroduction habitat, do not authorize uses and activities that would prevent annual increases in the prairie dog population. When ferrets are eventually released by the U.S. Fish and Wildlife Service, follow the same direction described above for the Conata Basin area. Standard [see item # 11] |
+| #9 | Chapter 3, Management Area 3.63 General - 2. Manage all prairie dog colonies within this Management Area as though they were occupied by black-footed ferrets, and apply all Standards and Guidelines as though black-footed ferrets occupy all colonies. Standard | Standard removed with no replacement. (This is a redundant standard, and other black-footed ferret occupancy standards have been changed). |
+| #10 | Chapter 3, Management Area 3.63 Fish and Wildlife-1. Use of rodenticides in a colony to reduce prairie dog populations may occur only after consultation and concurrence of the U.S. Fish and Wildlife Service. The conditions when prairie dog poisoning may be authorized are presented in Chapter 1. Standard | Chapter 3, Management Area 3.63 Fish and Wildlife - 1 (revised). Use of rodenticides in a colony to reduce prairie dog populations may occur only after consultation and concurrence of the U.S. Fish and Wildlife Service. Standard |
+| #11 | Chapter 3, Management Area 3.63 Recreation - 1. To help expand and maintain suitable black-footed ferret habitat, prohibit prairie dog shooting. Coordination and consultation with the state wildlife agency will occur prior to any Forest Service actions regarding prairie dog shooting restrictions. Standard | Chapter 3, Management Area 3.63 Recreation - 1 (revised). To help expand and maintain suitable black-footed ferret habitat in the Conata Basin reintroduction area, prohibit recreational prairie dog shooting. However, regulated shooting may be allowed in selected areas along property boundaries to help reduce unwanted colonization of adjoining agricultural lands. Apply this same direction to the Smithwick reintroduction habitat once progress has been made in initiating a cooperative black-footed ferret recovery plan for the area. Coordination with the state wildlife agency will occur prior to any Forest Service actions regarding prairie dog shooting closures. Standard |
+
+---
+
+**_August 2005_**
+**_Record of Decision_**
+
+**_Black-tailed Prairie Dog Conservation and_**
+**_Management on the Nebraska National Forest_**
+
+##### [Blank Page]

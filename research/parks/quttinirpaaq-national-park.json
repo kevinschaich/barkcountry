@@ -1,0 +1,26 @@
+{
+ "id": "quttinirpaaq-national-park",
+ "name": "Quttinirpaaq National Park",
+ "policy": "none",
+ "policyReason": "Pets, sled dogs and service animals are not allowed in the park (Inuit excepted).",
+ "summary": "Pets, sled dogs and service animals are not allowed in the park (Inuit excepted).",
+ "excerpts": [
+  {
+   "quote": "Pets, sled dogs, and service animals are prohibited in Quttinirpaaq National Park (not applicable to Inuit).",
+   "url": "https://parks.canada.ca/pn-np/nu/quttinirpaaq/securite-safety/comportements-guidelines"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets, sled dogs and service animals are prohibited (does not apply to Inuit).",
+   "url": "https://parks.canada.ca/pn-np/nu/quttinirpaaq/securite-safety/comportements-guidelines"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nu/quttinirpaaq",
+ "petsUrl": "https://parks.canada.ca/pn-np/nu/quttinirpaaq/securite-safety/comportements-guidelines",
+ "coordinates": [
+  -72.216666666,
+  82.216666666
+ ],
+ "coordinatesSource": "Wikidata Q1327341"
+}

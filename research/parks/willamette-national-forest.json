@@ -1,0 +1,21 @@
+{
+ "id": "willamette-national-forest",
+ "name": "Willamette National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed within the forest guidelines.",
+ "summary": "Dogs are allowed within the forest guidelines.",
+ "excerpts": [
+  {
+   "quote": "Yes, dogs are allowed within these guidelines:",
+   "url": "https://www.fs.usda.gov/r06/willamette/recreation/rules-and-guidelines"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/willamette/",
+ "petsUrl": "https://www.fs.usda.gov/r06/willamette/recreation/rules-and-guidelines",
+ "coordinates": [
+  -122.18353,
+  44.10947
+ ],
+ "coordinatesSource": "Wikidata Q3079173"
+}

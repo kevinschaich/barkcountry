@@ -1,0 +1,35 @@
+{
+ "id": "snoqualmie-national-forest",
+ "name": "Snoqualmie National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs may use trails such as the Pacific Crest Trail at Snoqualmie Pass.",
+ "summary": "Leashed dogs may use trails such as the Pacific Crest Trail at Snoqualmie Pass.",
+ "excerpts": [
+  {
+   "quote": "Dogs must be on a leash.",
+   "url": "https://www.fs.usda.gov/r06/mbs/recreation/pacific-crest-trail-snoqualmie-north-trailhead"
+  },
+  {
+   "quote": "Dogs must be on leash",
+   "url": "https://www.fs.usda.gov/r06/mbs/recreation/gold-basin-campground"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pacific Crest Trail (Snoqualmie North): dogs on a leash.",
+   "url": "https://www.fs.usda.gov/r06/mbs/recreation/pacific-crest-trail-snoqualmie-north-trailhead"
+  },
+  {
+   "text": "Gold Basin Campground: dogs on leash.",
+   "url": "https://www.fs.usda.gov/r06/mbs/recreation/gold-basin-campground"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r06/mbs",
+ "petsUrl": "https://www.fs.usda.gov/r06/mbs/recreation/pacific-crest-trail-snoqualmie-north-trailhead",
+ "coordinates": [
+  -121.378,
+  47.766
+ ],
+ "coordinatesSource": "Wikipedia: Snoqualmie National Forest",
+ "unit": "Mt. Baker-Snoqualmie National Forest"
+}

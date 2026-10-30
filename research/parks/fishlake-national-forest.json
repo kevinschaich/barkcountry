@@ -1,0 +1,30 @@
+{
+ "id": "fishlake-national-forest",
+ "name": "Fishlake National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Pets must be leashed at all times within this recreation area.",
+   "url": "https://www.fs.usda.gov/r04/fishlake/recreation/bowery-creek-campground"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Campgrounds: pets leashed.",
+   "url": "https://www.fs.usda.gov/r04/fishlake/recreation/bowery-creek-campground"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/fishlake",
+ "petsUrl": null,
+ "coordinates": [
+  -111.959,
+  38.7083
+ ],
+ "coordinatesSource": "Wikidata Q2642417"
+}

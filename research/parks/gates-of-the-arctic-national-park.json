@@ -1,0 +1,34 @@
+{
+ "id": "gates-of-the-arctic-national-park",
+ "name": "Gates of the Arctic National Park and Preserve",
+ "policy": "everywhere",
+ "policyReason": "No areas are closed to pets; keep them leashed or restrained at all times.",
+ "summary": "No areas are closed to pets; keep them leashed or restrained at all times.",
+ "excerpts": [
+  {
+   "quote": "There are no closed areas to pets in Gates of the Arctic National Park & Preserve.",
+   "url": "https://www.nps.gov/gaar/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pet closures anywhere in the park and preserve.",
+   "url": "https://www.nps.gov/gaar/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Sled dogs may be left up to 24 hours with shelter, food and water.",
+   "url": "https://www.nps.gov/gaar/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Never leave pets unattended at a public use cabin.",
+   "url": "https://www.nps.gov/gaar/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/gaar",
+ "petsUrl": "https://www.nps.gov/gaar/planyourvisit/pets.htm",
+ "coordinates": [
+  -153.3,
+  67.7833
+ ],
+ "coordinatesSource": "Wikidata Q605657"
+}

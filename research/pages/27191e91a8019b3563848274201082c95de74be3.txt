@@ -1,0 +1,30 @@
+| During hunting season, camping is permitted only in developed recreation areas, designated hunter camps, or trail camps. |  |  |  |
+| --- | --- | --- | --- |
+| Deer Processing Allowed | Map Number | Road Number | Name |
+| Developed Recreation Areas |  |  |  |
+|  | 1 | NFSR 566 | Piney Creek Horse Camp (Fee Area) |
+|  | 2 | SH 7 | Ratcliff Lake (Fee Area) |
+| Designated Hunter Camps |  |  |  |
+| ✓ | 3 | NFSR 586 | South Possum Walk |
+| ✓ | 4 | NFSR 557 | Pennington |
+| ✓ | 5 | NFSR 571 | Piney |
+| ✓ | 6 | NFSR 568 | Longleaf |
+| ✓ | 7 | NFSR 539 | Centerville |
+| ✓ | 8 | NFSR 509C | Rock Hole |
+| ✓ | 9 | NFSR 509P | Sandy Creek |
+| ✓ | 10 | FM 2262 | Slay Creek |
+| ✓ | 11 | NFSR 510A | Holly Bluff |
+| ✓ | 12 | NFSR 516 | County Line Camp |
+| ✓ | 13 | NFSR 514 | White Rock |
+|  | 14 | NFSR 514D | White Rock Horse Camp |
+| ✓ | 15 | NFSR 565 | Raines Morgan |
+| ✓ | 16 | NFSR 562 | Brushy Camp |
+| ✓ | 17 | NFSR 524A/5241 | Pine Springs |
+| ✓ | 18 | NFSR 518B | Merkel Creek |
+| ✓ | 19 | NFSR 511 | Neches Bluff #2 |
+| ✓ | 20 | NFSR 511A/5111 | Neches Bluff |
+| Trail Camps (Trail Access Only) |  |  |  |
+|  | 21 | 4 C Hiking Trail | Walnut Creek Camp |
+|  | 22 | 4 C Hiking Trail | Pond Camp |
+
+This map is a general guide and does not show exact boundaries or all roads. It is the user's responsibility to know his or her location in the forest. Users should be aware that private property exists within the Forest Service boundary. Please respect our neighbors' rights. Check with the district ranger office where you hunt regarding special regulations or boundary locations. Call District Office for facility/trail/road closures.

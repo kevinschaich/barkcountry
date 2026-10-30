@@ -1,0 +1,30 @@
+{
+ "id": "wayne-national-forest",
+ "name": "Wayne National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "If you bring your dog, it should be on a leash.",
+   "url": "https://www.fs.usda.gov/r09/wayne/recreation/opportunities/hiking"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Trails: dogs on a leash.",
+   "url": "https://www.fs.usda.gov/r09/wayne/recreation/opportunities/hiking"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/wayne/",
+ "petsUrl": null,
+ "coordinates": [
+  -82.514722222,
+  38.699444444
+ ],
+ "coordinatesSource": "Wikidata Q3079164"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "manti-la-sal-national-forest",
+ "name": "Manti-La Sal National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Dogs are allowed.",
+   "url": "https://www.fs.usda.gov/r04/manti-lasal/recreation/abajo-harts-draw-recreation-area"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs allowed at recreation areas such as Abajo/Harts Draw.",
+   "url": "https://www.fs.usda.gov/r04/manti-lasal/recreation/abajo-harts-draw-recreation-area"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r04/manti-lasal",
+ "petsUrl": null,
+ "coordinates": [
+  -111.425,
+  39.28333333
+ ],
+ "coordinatesSource": "Wikipedia: Manti-La Sal National Forest"
+}

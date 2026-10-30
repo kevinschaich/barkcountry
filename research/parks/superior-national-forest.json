@@ -1,0 +1,21 @@
+{
+ "id": "superior-national-forest",
+ "name": "Superior National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed, on a 6-ft leash in the Boundary Waters.",
+ "summary": "Dogs are allowed, on a 6-ft leash in the Boundary Waters.",
+ "excerpts": [
+  {
+   "quote": "Dogs must be on a 6-foot leash or shorter at all times.",
+   "url": "https://www.fs.usda.gov/r09/superior/newsroom/releases/clarification-and-faqs-dog-leash-rules"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/superior",
+ "petsUrl": "https://www.fs.usda.gov/r09/superior/newsroom/releases/clarification-and-faqs-dog-leash-rules",
+ "coordinates": [
+  -91.524722222,
+  47.83
+ ],
+ "coordinatesSource": "Wikidata Q3079158"
+}

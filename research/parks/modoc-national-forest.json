@@ -1,0 +1,25 @@
+{
+ "id": "modoc-national-forest",
+ "name": "Modoc National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome in campgrounds, picnic areas and on most trails.",
+ "summary": "Dogs are welcome in campgrounds, picnic areas and on most trails.",
+ "excerpts": [
+  {
+   "quote": "The Modoc National Forest is dog friendly.",
+   "url": "https://www.fs.usda.gov/r05/modoc/safety-ethics"
+  },
+  {
+   "quote": "Dogs are welcome in all campgrounds, picnic areas and on most trails.",
+   "url": "https://www.fs.usda.gov/r05/modoc/safety-ethics"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/modoc",
+ "petsUrl": "https://www.fs.usda.gov/r05/modoc/safety-ethics",
+ "coordinates": [
+  -120.944,
+  41.5036
+ ],
+ "coordinatesSource": "Wikidata Q6889555"
+}

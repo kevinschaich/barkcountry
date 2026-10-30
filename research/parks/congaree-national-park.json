@@ -1,0 +1,26 @@
+{
+ "id": "congaree-national-park",
+ "name": "Congaree National Park",
+ "policy": "everywhere",
+ "policyReason": "Pets are allowed on all trails, including the boardwalk, and in campgrounds.",
+ "summary": "Pets are allowed on all trails, including the boardwalk, and in campgrounds.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed on all trails, including the boardwalk, as well as in the campgrounds.",
+   "url": "https://www.nps.gov/cong/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Do not leave your dog unattended on trails, in vehicles or campgrounds.",
+   "url": "https://www.nps.gov/cong/faqs.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/cong",
+ "petsUrl": "https://www.nps.gov/cong/planyourvisit/pets.htm",
+ "coordinates": [
+  -80.783333333,
+  33.783333333
+ ],
+ "coordinatesSource": "Wikidata Q175688"
+}

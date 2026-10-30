@@ -1,0 +1,21 @@
+{
+ "id": "klamath-national-forest",
+ "name": "Klamath National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may use trails; 6-ft leash in developed sites and trailheads.",
+ "summary": "Dogs may use trails; 6-ft leash in developed sites and trailheads.",
+ "excerpts": [
+  {
+   "quote": "Required (max 6 feet) in developed sites, trailheads, and often",
+   "url": "https://www.fs.usda.gov/r05/klamath/recreation/beaver-creek-campground"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/klamath",
+ "petsUrl": "https://www.fs.usda.gov/r05/klamath/recreation/beaver-creek-campground",
+ "coordinates": [
+  -123.43086,
+  41.60503
+ ],
+ "coordinatesSource": "Wikidata Q6419646"
+}

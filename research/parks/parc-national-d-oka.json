@@ -1,0 +1,42 @@
+{
+ "id": "parc-national-d-oka",
+ "name": "Oka National Park",
+ "policy": "trails",
+ "policyReason": "Sépaq allows dogs on a few named trails, mainly north of route des Collines, and in three campground loops.",
+ "summary": "Dogs are allowed mainly north of route des Collines: on a few trails, three campground loops and two picnic areas.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis principalement du côté nord de la route des Collines et dans trois boucles de camping du côté sud.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trails: L'Érablière, Le Calvaire d'Oka, La Vagabonde (Route verte), Le Sommet.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot"
+  },
+  {
+   "text": "Winter trails: Le Calvaire d'Oka, Le Sommet, Le Marais (north section), Chemin des Collines.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot"
+  },
+  {
+   "text": "Camping Le Refuge loops 1–3 and parts of La Crête (summer only).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot"
+  },
+  {
+   "text": "Picnic areas: Calvaire d'Oka and Grande-Baie.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot"
+  },
+  {
+   "text": "No dogs on the water (nautical access).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/oka/information.dot",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot",
+ "coordinates": [
+  -74.030555555,
+  45.468055555
+ ],
+ "coordinatesSource": "Wikidata Q2052005"
+}

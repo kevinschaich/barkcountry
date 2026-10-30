@@ -1,0 +1,30 @@
+{
+ "id": "george-washington-national-forest",
+ "name": "George Washington National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Please, keep your pet on a leash when in a recreation area or campground.",
+   "url": "https://www.fs.usda.gov/r08/gwj/recreation/pines-campground"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets at some rental cabins, such as Sunrise Cabin.",
+   "url": "https://www.fs.usda.gov/r08/gwj/recreation/sunrise-cabin"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/gwj",
+ "petsUrl": null,
+ "coordinates": [
+  -79.36,
+  38.206666666
+ ],
+ "coordinatesSource": "Wikidata Q49329889"
+}

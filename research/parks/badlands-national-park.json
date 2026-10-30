@@ -1,0 +1,42 @@
+{
+ "id": "badlands-national-park",
+ "name": "Badlands National Park",
+ "policy": "roads",
+ "policyReason": "Pets are allowed only in developed areas and on roads, not on trails or in the backcountry.",
+ "summary": "Pets are allowed only in developed areas and on roads, not on trails or in the backcountry.",
+ "excerpts": [
+  {
+   "quote": "Pets are prohibited from hiking trails, public buildings (visitor centers), and backcountry areas, including the Sage Creek Wilderness and areas with prairie dog colonies.",
+   "url": "https://www.nps.gov/badl/planyourvisit/service-animals.htm"
+  },
+  {
+   "quote": "Leashed pets are allowed on park roads including back country dirt roads.",
+   "url": "https://www.nps.gov/thingstodo/badl-dogs-on-back-roads.htm?ref=journal"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed only in developed areas such as campgrounds and picnic areas, and on roads.",
+   "url": "https://www.nps.gov/thingstodo/hiking-badl.htm"
+  },
+  {
+   "text": "Not on trails, in buildings, in the Sage Creek Wilderness or prairie dog towns.",
+   "url": "https://www.nps.gov/badl/planyourvisit/service-animals.htm"
+  },
+  {
+   "text": "Leashed dogs may walk the backcountry dirt roads.",
+   "url": "https://www.nps.gov/thingstodo/badl-dogs-on-back-roads.htm?ref=journal"
+  },
+  {
+   "text": "Trails on the neighboring Buffalo Gap National Grassland allow pets.",
+   "url": "https://www.nps.gov/badl/planyourvisit/service-animals.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/badl",
+ "petsUrl": null,
+ "coordinates": [
+  -102.5,
+  43.75
+ ],
+ "coordinatesSource": "Wikidata Q306216"
+}

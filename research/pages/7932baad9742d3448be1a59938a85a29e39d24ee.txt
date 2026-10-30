@@ -1,0 +1,2093 @@
+PISGAH RANGER DISTRICT TRAILS
+Table of Contents:
+
+| Trail Name | Length | Rating | Trail Use | Page # |
+| --- | --- | --- | --- | --- |
+| Andy Cove Nature Trail | 0.7mi | Easy | Hiking | 3 |
+| Art Loeb Spur | 0.6mi | Difficult | Hiking | 4 |
+| Art Loeb Trail-Section 1 | 12.3mi | Difficult | Hiking | 5 |
+| Art Loeb Trail-Section 2 | 7.2mi | Difficult | Hiking | 6 |
+| Art Loeb Trail-Section 3 | 6.8mi | Difficult | Hiking | 7 |
+| Art Loeb Trail-Section 4 | 3.8mi | Difficult | Hiking | 8 |
+| Avery Creek | 3.2mi | Medium | Hiking/Biking | 9 |
+| Bad Fork | 2.0mi | Difficult | Hiking | 10 |
+| Bennett Gap | 2.9mi | Medium | Hiking/Biking(seasonal) | 11 |
+| Big Creek | 4.9mi | Difficult | Hiking/Sections open to bikes&amp; horses | 12 |
+| Biltmore Campus | 0.9mi | Easy | Hiking/wheelchair accessible | 13 |
+| Black Mountain | 9.8mi | Difficult | Hiking/Biking | 14 |
+| Boyd Branch | 0.7mi | Easy | Hiking/Biking | 15 |
+| Bradley Creek | 5.1mi | Medium | Hiking/Biking/Horses | 16 |
+| Buck Spring | 6.2mi | Medium | Hiking | 17 |
+| Buckeye Gap | 3.1mi | Difficult | Hiking | 18 |
+| Buckhorn Gap | 5.2mi | Medium | Hiking/Biking/Horses | 19 |
+| Buckwheat Knob | 1.5mi | Medium | Hiking/Biking | 20 |
+| Butter Gap | 3.4mi | Medium | Hiking/Biking | 21 |
+| Caney Bottom | 4.6mi | Medium | Hiking/Sections open to biking | 22 |
+| Case Camp Ridge | 1.7mi | Difficult | Hiking | 23 |
+| Cat Gap Bypass | 0.4mi | Easy | Hiking | 24 |
+| Cat Gap Loop | 4.4mi | Medium | Hiking/Sections open to biking(seasonal) | 25 |
+| Chestnut Cove | 0.2mi | Medium | Hiking | 26 |
+| Clawhammer Cove | 1.5mi | Medium | Hiking | 27 |
+| Club Gap | 0.8mi | Medium | Hiking/Biking | 28 |
+| Cold Mountain | 1.4mi | Difficult | Hiking | 29 |
+| Coontree Loop | 3.7mi | Medium | Hiking/Sections open to biking(seasonal) | 30 |
+| Courthouse Falls | 0.3mi | Easy | Hiking | 31 |
+| Cove Creek | 0.7mi | Easy | Hiking/Biking | 32 |
+| Daniel Ridge Loop | 4.0mi | Medium | Hiking/Biking | 33 |
+| Deer Lake Lodge | 1.4mi | Medium | Hiking/Biking/Horses | 34 |
+| Deerfield Loop | 0.8mi | Easy | Hiking/Biking | 35 |
+| Exercise Trail | 1.5mi | Easy | Hiking | 36 |
+| Explorer Loop | 3.0mi | Medium | Hiking/Biking | 37 |
+| Farlow Gap | 3.1mi | Difficult | Hiking/Biking | 38 |
+| Fletcher Creek | 2.4mi | Easy | Hiking/Biking/Horses | 39 |
+
+---
+
+| Forest Festival | 1.3mi | Easy | Hiking/wheelchair accessible | 40 |
+| --- | --- | --- | --- | --- |
+| Grassy Road | 1.0mi | Easy | Hiking/Biking | 41 |
+| Graveyard Fields | 3.2mi | Easy | Hiking | 42 |
+| Graveyard Ridge | 3.4mi | Easy | Hiking/Sections open to bikes&amp; horses | 43 |
+| Greasy Cove | 3.2mi | Difficult | Hiking | 44 |
+| Green Mountain | 5.0mi | Difficult | Hiking | 45 |
+| Hardtimes Connector | 0.9mi | Easy | Hiking/Biking/Horses | 46 |
+| Haywood Gap | 6.0mi | Difficult | Hiking | 47 |
+| Homestead | 1.0mi | Easy | Hiking/Sections open to biking | 48 |
+| Horse Cove Gap | 0.8mi | Medium | Hiking/Biking/Horses | 49 |
+| Iverstor Gap | 3.7mi | Easy | Hiking/Biking | 50 |
+| John Rock | 1.8mi | Medium | Hiking | 51 |
+| Laurel Mountain | 7.4mi | Medium | Hiking/Sections open to biking | 52 |
+| Laurel Mountain Connector | 0.3mi | Easy | Hiking/Biking | 53 |
+| Ledford | 0.6mi | Easy | Hiking/Biking | 54 |
+| Long Branch | 2.5mi | Medium | Hiking/Biking | 55 |
+| Looking Glass Rock | 3.1mi | Medium | Hiking | 56 |
+| Middle Fork | 1.5mi | Easy | Hiking/Biking/Horses | 57 |
+| Moore Cove | 0.7mi | Easy | Hiking | 58 |
+| Mount Pisgah | 1.3mi | Medium | Hiking | 59 |
+| Mountain-To-Sea | 39.7mi | Difficult | Hiking | 60 |
+| North Mills River | 1.6mi | Medium | Hiking/Biking/Horses | 61 |
+| North Slope | 3.7mi | Medium | Hiking/Biking(seasonal) | 62 |
+| Old Butt Knob | 3.6mi | Difficult | Hiking | 63 |
+| Pilot Cove-Slate Rock | 5.3mi | Medium | Hiking/Biking | 64 |
+| Pilot Rock | 3.6mi | Medium | Hiking/Sections open to biking | 65 |
+| Pine Tree Loop | 2.0 mi | Easy | Hiking/Biking | 66 |
+| Pink Beds Loop | 5.0mi | Easy | Hiking/Sections open to biking(seasonal) | 67 |
+| Poundingmill | 1.5mi | Medium | Hiking | 68 |
+| Shining Creek | 3.4mi | Difficult | Hiking | 69 |
+| Shut-in | 16.3mi | Difficult | Hiking | 70 |
+| Sleepy Gap | 0.9mi | Medium | Hiking | 71 |
+| South Mills River | 12.0mi | Difficult | Hiking/Biking/Horses | 72 |
+| Squirrel Gap | 7.5mi | Medium | Hiking/Biking/Sections open to horses | 73 |
+| Summey Cove | 2.0mi | Medium | Hiking/Biking | 74 |
+| Sycamore Cove | 3.2mi | Medium | Hiking/Biking | 75 |
+| Thrift Cove | 3.9mi | Easy | Hiking/Biking | 76 |
+| Trace Ridge | 3.1mi | Medium | Hiking/Sections open to bike&amp; horses | 77 |
+| Turkey Pen Gap | 5.5mi | Difficult | Hiking/Biking | 78 |
+| Vineyard Gap | 2.3mi | Medium | Hiking/Biking | 79 |
+| Wagon Road Gap | 0.7mi | Difficult | Hiking | 80 |
+| Wolf Branch | 1.2mi | Easy | Hiking/Biking | 81 |
+
+---
+
+# ANDY COVE NATURE TRAIL (Trail #288)
+
+## Mileage: 0.7 miles
+
+## Difficulty: Easy
+
+## Blaze: None
+
+## Trailhead Location
+
+This loop trail leaves from the Pisgah District Ranger Station/Visitor Center parking lot, located on US 276. A gray and black wooden sign marks the trailhead, but the trail may be hiked in either direction.
+
+## Trail Description
+
+First time visitors should take advantage of this nature trail, which is an easy walk for all ages. Several interpretive signs along the way point out common plants, trees and animals which can be found in the Pisgah Ranger District. By walking along boardwalks, over bridges, and even across a 30- foot long suspension bridge, you can learn about mountain laurel, rhododendron, and raccoons. The beauty of this trail changes with the seasons and the weather, so many people walk it several times each year. Come see the rhododendron blooms in July, eat sweet raspberries in August or admire the fall colors in October. Be sure to make the Andy Cove Nature Trail one of your stops when you visit the Pisgah Ranger District.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+ART LOEB SPUR   (Trail #108)
+Mileage:  0.6 miles
+
+Mileage:  0.6 miles 
+Difficulty:  Difficult
+
+Difficulty:  Difficult
+Blaze:  None
+
+Blaze:  None
+
+Trailhead Location
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn 
+right (north) onto US 276.  After 14 miles, enter the Blue Ridge Parkway 
+and turn left (south).  At milepost 420, turn right onto FS 816 (Black 
+Balsam Road) and proceed to the parking lot and trailhead at the end of the 
+road.  The Art Loeb Spur behind the gate on Ivestor Gap Trail (#101) and 
+ends at the Art Loeb Trail (#146) on the shoulder of Black Balsam Knob.
+
+Trail Description
+This is a short but steep trail, which climbs 160 feet in elevation in the
+
+Trail Description
+This is a short but steep trail, which climbs 160 feet in elevation in the 
+course of 0.6 miles.  On a clear day, the climb is certainly worth the effort, 
+with views of up to 70 miles distance.  The cold, clear weather usually 
+associated with autumn and winter enhances the view, though other times 
+of year are just as good for other reasons.  High elevations are good places 
+to escape the heat of July and the blooms of Catawba Rhododendron and 
+Flame Azalea are an attraction in mid to late June.  When hiking this trail, 
+keep in mind that you are climbing a fragile, grassy bald.  Take extra care to 
+stay on the trail and avoid shortcuts, which go straight uphill.  Keep an eye 
+open for the switchbacks, which are constructed in order to minimize 
+erosion.
+
+---
+
+# ART LOEB NAT’L RECREATION TRAIL
+
+## Section 1 (Trail # 146-1)
+
+### Mileage: 12.3 miles
+
+### Difficulty: Difficult
+
+### Blaze: White
+
+*The Art Loeb Nat’l Recreation Trail, 30.1 miles long, is named after a local hiking enthusiast. The trail* *traverses beautiful but rugged terrain from some of the lowest to some of the highest points in the* *Pisgah District. It consists of four connected sections, numbered consecutively from south to north. This* *first section runs from the Davidson River to Gloucester Gap (intersection of FS 471 and FS 475).*
+
+### Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left on US 276. Go approximately ¼ mile and turn right onto the Davidson River Campground access road; immediately turn left and park in the Art Loeb Trailhead parking lot. Go behind the gate at the end of the parking lot and follow the dirt road to a footbridge on the right. Cross the Davidson River via the bridge and immediately turn left alongside the river, downstream. (Disregard the informal trail that leads away from the river to the Job Corps Center.) The other end of this section of the Art Loeb Trail is at Gloucester Gap, where overnight parking is not recommended.
+
+### Trail Description
+
+After beginning near, then leaving, the Davidson River, Section 1 climbs steeply to Shut-In Ridge. Once there, don’t expect the hard part to be over—the trail will take you up and down knobs, along ridges and down into several gaps. Points of interest include ridge top views; Cedar Rock Mountain; and Butter Gap Shelter, where there is a spring very close by. [Note: On Section 1, in addition to white blazes, you may also see blue dots, which are leftovers from a trail designation no longer in use.]
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# ART LOEB NAT’L RECREATION TRAIL
+
+## Section 2 (Trail # 146-2)
+
+### Mileage: 7.2 miles
+
+### Difficulty: Difficult
+
+### Blaze: White
+
+*The Art Loeb Nat’l Recreation Trail, 30.1 miles long, is named after a local hiking enthusiast. The trail* *traverses beautiful but rugged terrain from some of the lowest to some of the highest points in the* *Pisgah District. It consists of four connected sections, numbered consecutively from south to north. This* *section runs from Gloucester Gap (intersection of FS 471 and 475) to FS 816 (Black Balsam Road).*
+
+### Trailhead Location
+
+It is not recommended to leave a car overnight at Gloucester Gap. To access the northern end of this section: From the Pisgah District Ranger Station/Visitor Center turn right on US 276, and proceed 14 miles to Blue Ridge Parkway; travel south to FS 816 at milepost 420. The trail can be accessed where it crosses FS 816 at the crest of a hill; paved, roadside parking is available.
+
+### Trail Description
+
+From Gloucester Gap, the trail climbs to Pilot Mountain, a former fire tower site with a 360-degree view. In mid May the north side of Pilot Mountain is abloom with Pinkshell Azalea. There is a shelter and a spring at Deep Gap. The trail then climbs to the Blue Ridge Parkway, winding through a mature, upland hardwood forest. From the parkway it is a steep climb to Silvermine Bald, where there is a transition from a hardwood forest to a spruce-fir forest. Grass balds and an abundance of Catawba Rhododendron make this a good spot to take a hike in late June when these showy shrubs bloom. Near Silvermine Bald, the Mountains-to-Sea Trail joins from the west as the Art Loeb Trail follows the ridge northeast to FS
+
+816. [Note: South of Silvermine Bald, in addition to white blazes, you may also see blue dots, which are leftovers from a trail designation no longer in use.]
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# ART LOEB NAT’L RECREATION TRAIL
+
+## Section 3 (Trail # 146-3)
+
+### Mileage: 6.8 miles
+
+### Difficulty: Difficult
+
+### Blaze: White
+
+*The Art Loeb Nat’l Recreation Trail, 30.1 miles long, is named after a local hiking enthusiast. The trail* *traverses beautiful but rugged terrain from some of the lowest to some of the highest points in the* *Pisgah District. It consists of four connected sections, numbered consecutively from south to north. This* *section runs from FS 816 (Black Balsam Road) to Deep Gap.*
+
+### Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276; proceed 14 miles to the Blue Ridge Parkway; travel south to FS 816 at milepost 420. Park at the crest of the hill on FS 816, where the trail crosses the road and paved, roadside parking is available.
+
+### Trail Description
+
+The first half of this portion of the Art Loeb Trail is perhaps the most spectacular. Black Balsam Knob and Tennent Mountain both exceed 6,000 feet in elevation. Grass balds provide outstanding views during clear weather, but at this high elevation you can expect cold, rainy weather much of the year. A beautiful 5-mile loop may be made by combining the Art Loeb Trail with the Ivestor Gap Trail (#101). At Ivestor Gap the Art Loeb Trail enters the Shining Rock Wilderness while remaining on or near the ridgeline, so additional views are available as it goes in and out of trees. Be prepared to practice map reading and compass skills, since there are no blazes or signs in the wilderness area. Wood fires are not permitted in the Wilderness, and a group size limit of 10 is enforced. These measures are in place to enhance solitude and protect the primitive character that wilderness areas are set aside for. Please help foster this by staying as quiet as possible; taking rest breaks out of sight of the trail; and, whenever possible, using existing campsites—also out of sight of the trail. This section of the Art Loeb Trail traverses a narrow alpine-like ridge aptly named The Narrows before ending at Deep Gap, where Cold Mountain Trail (# 141) can be accessed.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# ART LOEB NAT’L RECREATION TRAIL
+
+## Section 4 (Trail #146-4)
+
+### Mileage: 3.8 miles
+
+### Difficulty: Difficult
+
+### Blaze: None
+
+*The Art Loeb Nat’l Recreation Trail, 30.1 miles long, is named after a local hiking enthusiast. The trail* *traverses beautiful but rugged terrain from some of the lowest to some of the highest points in the* *Pisgah District. It consists of four connected sections, numbered consecutively from south to north. This* *final section runs from Deep Gap to the trailhead at Daniel Boone Boy Scout Camp.*
+
+### Trailhead Location
+
+Access for Section 4 is from the Daniel Boone Boy Scout Camp off of NC 215 near Bethel, NC. Please notify camp staff if you are going to leave a vehicle at the camp.
+
+### Trail Description
+
+This is a short, but very steep, section of the Art Loeb NRT that provides access to Cold Mountain via Cold Mountain Trail (#141). Since it is entirely within Congressionally-designated wilderness, you will find no signs or trail blazes—be prepared to practice map reading and compass skills. Wood fires are not permitted in the Wilderness, and a group size limit of 10 is enforced. These measures are in place to enhance solitude and protect the primitive character that wilderness areas are set aside for. Please do your part to enhance others’ wilderness experience by staying as quiet as possible; taking rest breaks out of sight of the trail; and, whenever possible, using existing campsites—also out of sight of the trail. We challenge you to minimize your impact on the land. When you leave, will others know that you have passed this way?
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# AVERY CREEK TRAIL (Trail # 327)
+
+## Mileage: 3.2 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276. Proceed ½ mile and turn right on first gravel road (FS 477, signed for Pisgah Riding Stables). Continue 2.3 miles to Avery Creek trailhead, which has room for two vehicles on left. [If this space is not available, proceed 0.3 miles further to the Buckhorn Gap (#103) trailhead, which has parking space on the right for six vehicles. Return to Avery Creek trailhead and proceed as below; or take Buckhorn Gap Trail approximately 0.6 miles to its intersection with Avery Creek Trail ( 0.5 miles upstream of the Avery Creek trailhead).]
+
+## Trail Description
+
+The first, two-mile section of the trail treats the visitor to pretty cascades and pools along Avery Creek. Approximately 0.5 miles upstream, Buckhorn Gap Trail (#103) enters from the left, overlaps Avery Creek Trail for a short distance, and then departs to the right. Avery Creek Trail continues to follow the creek for approximately another 1½ miles before leaving it and climbing moderately for the rest of its length. You will then find yourself in a mature hardwood forest of yellow poplar, red maple, and hickory trees, and will pass thru a “two-age cut,” one example of a forest management practice. The trail ends at Club Gap, where it intersects with the Buckwheat Knob (#122), Black Mountain (#127), and Club Gap (#343) trails.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BAD FORK TRAIL (Trail# 323)
+
+## Mileage: 2.0 miles
+
+## Difficulty: Difficult
+
+## Blaze: Orange
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276. After 14 miles, enter the Blue Ridge Parkway and turn right (north). Proceed approximately 11½ miles to Milepost
+
+400.3, and turn right on the short, unsigned, gravel access road for FS Roads 479/5000, which pass underneath the Parkway at Bent Creek Gap. (This access road is on the right side only, and being unsigned, is easily missed.)
+## Trail Description
+
+This trail requires a car switch if you want to avoid backtracking. Most begin from the upper end and hike downhill. The trail begins on the gravel access road mentioned above. From Bent Creek Gap, it follows the ridgeline east for ½ mile before making a very steep descent to Bad Fork. The views from this high section are nice in the winter when the leaves are off the trees as you look down the Wash Creek Valley and across to Trace Ridge. After reaching Bad Fork, the trail becomes an easy and pleasant walk for the final mile. This is a favorite spot for a picnic lunch or a relaxing rest break. As is the case of most creekside trails, many wildflowers bloom throughout the growing season and add beauty and interest for those who take time to enjoy them. Another attraction of this trail is that it is virtually unknown, and can thus provide solitude.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BENNETT GAP TRAIL (Trail #138)
+
+## Mileage: 2.9 miles
+
+## Difficulty: Moderate
+
+## Blaze: Red
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, and drive approximately 9 miles to FS 477 (Avery Creek Rd). Turn right (south) onto FS 477 for approximately 2½ miles to the parking area at Bennett Gap, where there is parking for a few cars. The trail begins at a nearby gate. Alternatively, drive ½ mile north from the Visitor Center parking lot, and turn right (north) onto FS 477; proceed approximately 1¼ miles to the southern trailhead, just short of the third bridge (a low-profile concrete bridge without railings), where there is minimal parking space; the trailhead sign is off the road, approximately 20 yards up the trail.
+
+## Trail Description
+
+This trail requires a car switch if you want to avoid backtracking. Most begin from Bennett Gap and travel downhill. This trail is mainly a ridge top trail and affords nice views of the Pisgah Ledge, Looking Glass Rock, the Avery Creek valley, and Black Mountain. The terrain and vegetation varies quite a bit as you pass through a wildlife opening, traverse rocky outcrops, drop down through two gaps and climb over Coontree Mountain. After passing Coontree Gap, the trail crosses some small streams that add an array of ferns, mosses and wildflowers to the variety of vegetation. You will notice the Bennett Gap Trail intersects the Perry Cove Trail (# 144)—be sure to follow the red blazes. In the vicinity of the southern trailhead, combinations of other trails can return you to Bennett Gap if you are interested in a longer trip.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BIG CREEK TRAIL (Trail #102)
+
+## Mileage: 4.9 miles
+
+## Difficulty: Difficult
+
+## Blaze: Yellow
+
+*******
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) on NC 280. Proceed approximately
+
+12.3 miles (past the intersection with NC 191 South) to a traffic light about 200 yards short of the intersection with NC 191 North. Here an official brown and white sign for “Nat’l Forest Recreation Area, N MILLS RIVER” directs you to your left. Turn left onto North Mills River Road, and then approximately 5 miles to Wash Creek Road (FS
+5000), near the North Mills River Campground. Turn right onto FS 5000 and proceed 2 miles to the first left turn, a gravel road. Turn left, cross the low concrete bridge, and drive to the Trace Ridge Trailhead parking area at the gated end of the road. Take the Hendersonville Reservoir Road, which is the leftmost of the two gated roads that leave the parking area. Follow the road for 1.5 miles to Spencer Branch Trail (#140), just to the right of the dam. Big Creek trail intersects Spencer Branch Trail after 100 yards. (The trail’s upper end is at the Little Pisgah Tunnel on the Blue Ridge Parkway, but there is no parking there.)
+## Trail Description
+
+The Big Creek Trail is not only pretty, but offers many reminders of the rich history of the area. Over half of the trail is on an old railroad grade, which follows Big Creek. Railroad ties and remains of railroad camps can be seen along the course of the trail. Some of the creek crossings don’t have bridges, so be prepared to get your feet wet. After leaving Big Creek, the trail climbs to the Blue Ridge Parkway, a strenuous climb of 2,000 feet in elevation over the course of approximately 2 miles; horses are not ***allowed on this section of the trail. *Near the end of the trail you will cross onto*** Parkway land, where bikes must be carried or walked. The trail ends at a service road and rock dump, through which you will have to pick your way before reaching the Parkway itself.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BILTMORE CAMPUS TRAIL (Trail #006)
+
+## Mileage: 0.9 miles
+
+## Difficulty: Easy
+
+## Blaze: None
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, then proceed 9.5 miles north to the Cradle of Forestry in America historic site. To access this trail you must enter the Cradle of Forestry site, which is generally open from early April to early November and charges a nominal fee. The Biltmore Campus Trail begins behind the site’s Forest Discovery Center.
+
+## Trail Description
+
+This is a historic tour of the Biltmore Forest School, the first school of forestry in America. There are eight buildings along this paved trail, which helps depict the life of a forestry student in the early 1900’s. You will walk past the schoolhouse (also used as a church), the commissary (also used as a community center), an 1882 ranger’s cabin, and a lodge that imitates the architecture used in the Black Forest of Germany. These historic buildings are open to the public during the Cradle of Forestry’s season, and some have taped recordings to supplement the exhibits in the Forest Discovery Center. Artisans, including a weaver, woodcarver, and toy maker, may be found practicing their trades in the summertime; annual schedules vary, so be sure to check at the information desk.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BLACK MOUNTAIN TRAIL (Trail #127)
+
+## Mileage: 9.8 miles
+
+## Difficulty: Difficult
+
+## Blaze: White
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. Proceed approximately 0.1 mile and turn left as if to enter the Ranger District’s gated Work Center; park in paved lot to right of Work Center. The trail starts on the old dirt road behind the parking lot—hike to your left.
+
+## Trail Description
+
+This is a rugged trail, but well worth the effort. Numerous trails intersect it; check your map for loop opportunities. In addition to white blazes, you may also see blue dots, which are leftovers from a trail designation no longer in use. The first mile of the trail is fairly easy, but after leaving Thrift Cove, it climbs up and over little Hickory Knob, an 800-foot elevation gain in less than a mile. From there the trail becomes more moderate as it drops down to Pressley Gap then up the shoulder of Black Mountain. A bit further, the view from the top of Clawhammer Mountain is a treat. Shortly after crossing the gravel road at Buckhorn Gap, you will come to the Buckhorn Gap trail shelter, where there is a spring. From here the trail climbs Soapstone Ridge, which offers nice views in the winter. The trail ends at Club Gap, where additional hiking opportunities exist via three other trails that may be taken out of the gap.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BOYD BRANCH TRAIL (Trail #665)
+
+## Mileage: 0.7 miles
+
+## Difficulty: Easy
+
+## Blaze: Blue
+
+## Trailhead Location
+
+This trail is in what is popularly called the Bent Creek area, near Lake Powhatan Recreation Area. Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) on NC 280. Proceed approximately 12.5 miles, to NC 191 north. Turn left (north) onto NC 191, and then proceed 7.7 miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of the Blue Ridge Parkway, signed for the Recreation Area, and at a traffic light. Turn left on Bent Creek Ranch Road and proceed 2.3 miles to the Recreation Area, but do not enter it. Turn right on FS 479 (Bent Creek Road) and proceed approximately ¾ miles to a pulloff on the right; the trailhead is approximately 150 feet further on the right.
+
+## Trail Description
+
+The trail climbs gradually in a straight line, paralleling Boyd Branch but not providing any easy access to the stream. The trail passes through managed hardwood forest, and crosses the stream (which is seasonal at this point) shortly before the trail ends at FS 479F. Numerous loop opportunities are available from this point; the shortest is to turn left on FS 479F,follow it about one mile to its end on FS 479, and then turn left on FS 479 and proceed ¼ mile to the trailhead.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BRADLEY CREEK TRAIL (Trail# 351)
+
+## Mileage: 5.1 miles
+
+## Difficulty: Moderate
+
+## Blaze: Orange
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) on US 276 for approximately 1½ miles, then turn left onto US
+
+280. Proceed east on US 280 for approximately 5.2 miles and turn left on Turkeypen Road immediately after crossing the Transylvania/Henderson County line. Start from Turkeypen Gap Trailhead, at the end of the road. (This trailhead has limited parking). Follow the South Mills River Trail (#133) to the first river crossing; Bradley Creek Trail begins here.
+## Trail Description
+
+This trail is most suited for horses, since it has so many river and creek crossings with no bridges. An old road for most of its length, it follows the South Fork of the Mills River downstream before climbing up and over Pea Gap then down to Pea Branch, Case Branch, and Bradley Creek. Scenery varies as the trail winds through wildlife fields, natural grassy openings, and hardwood and hemlock forests; past a Hendersonville Watershed reservoir; and through a deep valley before ending at Yellow Gap Road (FS
+
+1206). Several trails intersect Bradley Creek, so check your map for loop opportunities. Keep in mind that water levels in the mountains can rise quickly after a rainstorm, so take due precautions. Because of its low elevation, this trail is popular at all times of the year.
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BUCK SPRING TRAIL (Trail# 104)
+
+## Mileage: 6.2 miles
+
+## Difficulty: Medium
+
+## Blaze: White
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center, turn right (north) onto US 276. Proceed north 14 miles and go north on the Blue Ridge Parkway. Proceed past mile marker 409 to the Pisgah Inn and park in the Inn parking lot. The trail begins behind the dining room and goes southwest. Other access is from US 276 approximately 3 miles south of the Blue Ridge Parkway, where there is parking for approximately four vehicles.
+
+## Trail Description
+
+Most hike this trail from the Pisgah Inn down to US 276, which requires a car switch. With the exception of the first ½ mile, which is moderately steep, the trail is a gradual, sloping grade. The trail has 13 easy stream crossings while winding around 10 ridges. Many of these stream crossings have pretty cascades that are worth admiring. In the spring and early summer this trail is alive with the sound of songbirds, which include a variety of warblers, and vireos. Wildflowers are also abundant from April through October. This trail is truly a nature lover’s dream. The Mountains- to-Sea Trail (white-dot blazes) overlaps Buck Spring for most of its length, but if hiking down from the Pisgah Inn, it will separate from Buck Spring approximately 1 mile before reaching US 276, at a point where Buck Spring turns left and Mountains-to-Sea continues uphill. From this point, Buck Spring Trail continues on an easy sideslope to the west.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BUCKEYE GAP TRAIL (Trail# 126)
+
+## Mileage: 3.1 miles
+
+## Difficulty: Difficult
+
+## Blaze: None
+
+## Trailhead Location
+
+This trail in the Middle Prong Wilderness Area connects the Mountains-to-Sea (#440) and Haywood Gap (#142) trails. (See note below regarding wilderness areas and their signage.) From Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed 14 miles north; turn right onto access ramp for Blue Ridge Parkway, then left (south) on Parkway. Proceed south to unpaved pull-off in Haywood Gap (milepost 426.5), where Mountains-to-Sea Trail crosses Parkway. Take M-T-S Trail east a short distance to Haywood Gap trail on left, then over 2 miles on the latter trail to this trail’s northern terminus. Or, proceed about another 2¼ miles further on M-T-S to this trail’s southern terminus, on the left near the head of Buckeye Creek.
+
+## Trail Description
+
+***NOTE: This trail is in a federally designated wilderness area, which by*** ***law is managed to minimize evidence of human presence. Consequently,*** ***trails are neither signed nor blazed, and are maintained at a low level that*** ***results in their treads being difficult or impossible to see at times. An*** ***accurate map, compass, and the ability to use both are mandatory for*** ***travel in a wilderness area. Additionally, in the Shining Rock and Middle*** ***Prong Wilderness Areas, campfires are not allowed, and groups may not*** ***be larger than 10 people at any time.*** This trail initially traverses the west side of Fork Ridge; views looking west into the wilderness provide a true feeling of solitude. The trail then descends into the watershed of Grassy Ridge Branch and parallels that stream until the trail ends at the Haywood Gap Trail (#142). At this point, near the junction of Grassy Ridge Branch and the Middle Prong of the West Fork of the Pigeon River, there is sufficient level ground to camp. One may return to parking by turning south on Haywood Gap Trail, which intersects the Mountains-to-Sea Trail near the Blue Ridge Parkway, as described in “Access” above.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BUCKHORN GAP TRAIL (Trail #103)
+
+## Mileage: 5.2 miles
+
+## Difficulty: Moderate
+
+## Blaze: Orange
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on U.S. 276 for ½ mile and turn right on FS 477. Continue 2.6 miles to the trailhead, where there is parking for six vehicles on the right side of the road. The trail may also be accessed (at its opposite end) from the South Mills River Trail (#133).
+
+## Trail Description
+
+After an easy trip down to Avery Creek, use the double-blazed (orange and blue) portion of Avery Creek trail to proceed approximately 100 yards upstream and cross the creek via the footbridge. The trail then becomes fairly steep as it climbs to Buckhorn Gap. There are several stream crossings with log bridges.
+
+A beautiful side trip to Twin Falls is worth the short additional walk: At a small sign marking the beginning of Twin Falls Loop, bear to the left and proceed to the two waterfalls, which are near each other alongside the trail; the loop will return to the main trail a short distance beyond the falls.
+
+After crossing Buckhorn Gap and passing the Buckhorn Gap shelter, the trail drops gradually to its end at the South Mills River Trail (#133).
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BUCKWHEAT KNOB TRAIL (Trail# 122)
+
+## Mileage: 1.5 miles
+
+## Difficulty: Moderate
+
+## Blaze: Yellow
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, and drive for approximately 9 miles to FS 477 (Avery Creek Road). Turn right (south) onto FS 477 for approximately 2½ miles. The trail begins from Bennett Gap, where there is parking for a few cars.
+
+## Trail Description
+
+The Buckwheat Knob Trail is short, but provides one access to several other trails, including Avery creek (#327), Black Mountain (#127), and Club Gap (#343). The trail climbs steeply from Bennett Gap to the top of Buckwheat Knob. This is a pleasant area with lush grass growing underneath large hardwood trees. In the winter, there are nice views of the Avery Creek Valley and Soapstone Ridge. After passing Buckwheat Knob, the trail descends gradually to Club Gap and the intersection with the other trails. If you are mountain biking this trail, practice good ethics by not skidding down any slopes. If it is too steep to ride without skidding, please dismount and walk your bike at these points.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# BUTTER GAP TRAIL (Trail #123)
+
+### Mileage: 4.1 miles
+
+### Difficulty: Moderate
+
+### Blaze: Blue
+
+*
+
+### Trailhead Location
+
+From Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276; proceed north for approximately 3½ miles to first left turn (FS 475, signed for Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery); proceed approximately 1½ miles to Pisgah Center for Wildlife Education. Park in parking lot. Go around gate on gravel road leading uphill from Center facilities, and immediately turn right onto Cat Gap Loop (#120). Continue approximately ¾ mile to intersection with Butter Gap Trail, at Picklesimer Fields. (Other end of trail is at Butter Gap on Art Loeb Trail (#146), Section 1.)
+
+### Trail Description
+
+Most of this trail is on an easy grade, though there is a short, steep section before reaching Butter Gap. Beginning at Picklesimer Fields, the trail follows Grogan Creek for most of its length, passing an intersection with Long Branch Trail (#116)* on the way. There are some nice cascades and pools along the creek. Vegetation varies from grassy openings to pine woods and upland hardwood forests. The trail forks as it approaches Butter Gap: The left (eastern) fork, which is open to hikers only (despite the blue *coloring on the 2003 Trails Illustrated™ map, which is in error), leads to Butter Gap,* where a shelter and spring are nearby. The right (western) fork, which is open to mountain bikes, leads to FS 471D, which some riders use as part of a large loop; otherwise, they must backtrack down Butter Gap Trail. *The portion of the trail ***between Cat Gap Loop (#120) and Long Branch Trail (#116) is open to*** ***mountain bikes seasonally, from October 15 through April 15 only. This is to*** minimize safety concerns on a heavily used trail.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# CANEY BOTTOM TRAIL (Trail #361)
+
+## Mileage: 1.8 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+*******
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, proceed 3½ miles and turn left on FS 475 (signed for the Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery). Proceed approximately 1½ miles to fish hatchery, then 3 miles past it to the Cove Creek Group Camping Area. Take the road behind the gate 0.4 miles (toward the group camp), where the trail begins just before the Lower Cove Creek camping area. NOTE: Cove Creek is a fee area. Please respect the privacy of any campers by staying on the trail, which bypasses both campsites.
+
+## Trail Description
+
+Caney Bottom Trail has a moderate grade with good views of streams, cascades and waterfalls. Though all streams have log foot bridges, there are several wet areas along the trail, so wear appropriate foot gear. Shortly after bypassing the upper group camping area, and approximately 0.4 miles from the trailhead, the trail intersects Cove Creek Trail (#340), which forks to the left. *The trail is not open to bikes beyond this point; bikers must use Cove Creek Trail, which is open to bikes and ends on FS 225 (Upper Cove Creek Road). After 1.4 miles, the trail ends by again intersecting Cove Creek Trail, which can be used (if one turns left) to return to the trailhead; doing so provides a loop hike of 4.2 miles total (or approximately 5 miles if measuring from the parking lot and back to it). While most people enjoy this trail because of the beautiful streams, other attractions include large wildlife fields.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# CASE CAMP RIDGE TRAIL (Trail #119)
+
+## Mileage: 1.7 miles
+
+## Difficulty: Difficult
+
+## Blaze: Blue
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276. After approximately nine miles, turn left onto FS 475B (Headwaters Road). Proceed to Case Ridge Gap, an additional mile down this gravel road. The beginning of the trail is marked by a set of steps across from a parking area. There is adequate parking here for at least four vehicles.
+
+## Trail Description
+
+This is a strenuous trail that climbs 1,000 feet in elevation in less than two miles. Near the beginning of the trail you will climb moderately before passing through a forest management area. This is a shelterwood cut that was completed in 1991. From here the trail becomes steep, and provides excellent wintertime views of the surrounding mountains. The effects of chestnut blight are well illustrated: Chestnut stumps, a reminder of a once magnificent chestnut forest, are seen throughout the hike. The trail terminates on the Blue Ridge Parkway near Cherry Cove Overlook.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# CAT GAP BYPASS (Trail #120A)
+
+## Mileage: 0.4 miles
+
+## Difficulty: Easy
+
+## Blaze: Yellow
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276. Proceed approximately 3½ miles north to the first left turn, onto FS 475 (signed for Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery). Proceed on FS 475 approximately 1½ miles to the fish hatchery parking lot. Follow the Cat Gap Loop Trail (#120). The Cat Gap Bypass begins approximately ¾ mile after the intersection with Butter Gap Trail (#123).
+
+## Trail Description
+
+This trail shortens the Cat Gap Loop Trail by one mile, and significantly reduces the elevation changes encountered thereon. It climbs moderately through a shady hardwood forest to a gap, which is a nice campsite. From the gap, continue straight ahead onto the Cat Gap Loop Trail toward Horse Cove and the fish hatchery parking lot. (Turning right onto the Cat Gap Loop Trail from the gap will take you up to the higher portion of that trail, which you used the bypass to avoid!) Alternatively, the John Rock Trail (#365) may be taken from the same gap: It will take you to the top of John Rock, where there is a spectacular view, and then rejoin Cat Gap Loop in Horse Cove.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+CAT GAP LOOP   (Trail #120)
+Mileage:  4.4 miles
+
+Mileage:  4.4 miles 
+Difficulty:  Moderate
+Blaze:  Orange
+
+Trailhead Location
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn
+
+Trailhead Location
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn 
+right onto US 276; proceed approximately 3½ miles to FS 475 (signed for 
+Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery) and 
+turn left.  Continue 1½ miles to Pisgah Center for Wildlife Education.  The 
+trail starts from the parking lot of that facility.
+
+Pass through the gate on the gravel road near the main building; the 
+trailhead is on your right just past the bridge.  The trail crosses John Rock 
+Creek, and then soon converges with Cedar Rock Creek, where there is a 
+pleasant cascade and a popular primitive campsite on the left.  It then 
+passes Picklesimer Fields, near the intersection with Butter Gap Trail 
+(#123); early summer is a good time to see the blooms of mountain laurel in 
+this area. [*Note:  Cat Gap Loop is open (seasonally) to mountain 
+bikes, but only from the described trailhead to the intersection 
+with Butter Gap Trail.]  The trail then climbs moderately to Cat Gap to 
+join the Art Loeb Trail.  Turn left and proceed about 100 feet before leaving 
+the Art Loeb Trail and dropping steeply toward Horse Cove.  [Note:  If the 
+Art Loeb Trail is not on your itinerary, the rather uninteresting and steep 
+climb to it may be largely avoided by taking the Cat Gap Bypass (#120A), 
+which is to the left about ¾ mile from Picklesimer Fields.]  The trail then 
+becomes moderate and rocky as you pass large hemlocks and tulip poplars.  
+After crossing the gravel road in Horse Cove, the grade becomes easy.  The 
+last mile is a pleasant walk along the Davidson River to return to the 
+parking lot.  Spring is a good time to see Pink Lady’s Slippers along the 
+river.
+
+---
+
+CHESTNUT COVE TRAIL   (Trail #662)
+Mileage:  0.2 mile
+
+Mileage:  0.2 mile 
+Difficulty:  Moderate
+Blaze:  Yellow
+
+Trailhead Location
+This is a short connector between Explorer Loop Trail (#337) and FS 479M
+
+This is a short connector between Explorer Loop Trail (#337) and FS 479M 
+(South Ridge Road) in what is popularly called the Bent Creek area, near 
+Lake Powhatan Recreation Area.  Leaving the Pisgah District Ranger 
+Station/Visitor Center parking lot, turn left (south) onto US 276.  At the 
+first traffic light, turn left (east) on NC 280.  Proceed approximately 12.5 
+miles, to NC 191 north.  Turn left (north) onto NC 191, and then proceed 7.7 
+miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of the 
+Blue Ridge Parkway, signed for the Recreation Area and at a traffic light.  
+Turn left on Bent Creek Ranch Road and proceed 2.3 miles to the 
+Recreation Area.  Just before the campground, FS 479 (Bent Creek Road) is 
+nd
+on the right.  Follow FS 479 for 2 miles to the 2 gated road on the left, FS 
+479H (Cold Knob Road).  Park so as not to block the gate, and go behind it, 
+following this grass road.  (Since Explorer Loop Trail intersects this road at 
+two different points, the description below assumes you will start at the
+further of the two points; if so, you will thus bypass one Explorer Loop 
+trailhead, as well as one signed as “337A”—an unnamed connector trail that 
+can be used to shorten the loop by approximately ½ mile.)  Proceed about 
+½ mile before turning left into the woods at the second trailhead for 
+Explorer Loop.  Chestnut Cove Trail will intersect Explorer Loop after 
+approximately ¼ mile.
+
+Trail Description
+The trail heads eastward and, though very short, is very steep until it ends
+
+The trail heads eastward and, though very short, is very steep until it ends 
+at FS 479M, which is gated to vehicles.  It appears to be an old skid trail 
+connecting Forest Service roads, and has no features to speak of.
+
+---
+
+# CLAWHAMMER COVE TRAIL (Trail #342)
+
+## Mileage: 1.5 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276 for ½ mile, turning right onto Avery Creek Road (FS 477). Continue 2.3 miles to Avery Creek (#327) trailhead, which has room for two vehicles on left. [If this space is not available, proceed 0.3 miles further to the Buckhorn Gap (#103) trailhead, which has parking space on the right for six vehicles. Return to Avery Creek trailhead and proceed as follows.] This trail begins from the Avery Creek (#327) trail. Hike Avery Creek approximately ¼ mile, and Clawhammer Cove Trail begins just after crossing the footbridge.
+
+## Trail Description
+
+This is a pleasant hike that begins in a small meadow before climbing gently up Clawhammer Cove. There are some nice cascades that can be seen from the trail. Shortly after crossing the creek, the trail follows an old road up the shoulder of a ridge. For an interesting side trip, continue upstream a short way to a small waterfall. After the trail leaves the creek, the grade becomes steeper, passing through hardwood forests and crossing several wet areas. The trail ends on Clawhammer Road (FS 5058), which is a gated logging road open to hiking, biking, and equestrian use. If you turn right on the logging road, it is 2 miles back to Avery Creek Road (FS 477), where a right turn and an additional ¼ mile hike will return you to the Avery Creek trailhead.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# CLUB GAP TRAIL (Trail #343)
+
+## Mileage: 0.8 miles
+
+## Difficulty: Moderate
+
+## Blaze: Yellow
+
+## Trailhead Location
+
+From the Pisgah Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, and proceed 9 miles to FS 477 (Avery Creek Road). Turn right (south) on FS 477 and proceed approximately ¾ mile to trailhead, where minimal parking is available on left side of road.
+
+## Trail Description
+
+Club Gap Trail follows an old rocky road to its termination at Club Gap. The trail is cool and shaded, even during the hottest times of summer, and the hillsides are covered with ferns and a variety of wildflowers. Take note of the culverts along this trail, which are made of durable, decay-resistant chestnut logs. These culverts remind us of the American Chestnut tree, which dominated these forests until it succumbed to the Chestnut Blight in the 1920’s. Small saplings, or sprouts, are all that remain today of these once magnificent trees. The sprouts live for about 5-10 years before being killed back by the blight, only to resprout once again—giving hope that the American Chestnut may someday return to its former dominance. At Club Gap, there is an intersection with Black Mountain Trail (#127), Avery Creek Trail (#327), and Buckwheat Knob Trail (#122).
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# COLD MOUNTAIN TRAIL (Trail #141)
+
+## Mileage: 1.4 miles
+
+## Difficulty: Difficult
+
+## Blazes: None
+
+## Trailhead Location
+
+This trail is accessible from the Art Loeb Trail (#146) in the Shining Rock Wilderness Area: From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed 14 miles north; turn right onto access ramp for the Blue Ridge Parkway, and then left (south) on Parkway. Proceed south to FS 816 (Black Balsam Road), on the right shortly after Milepost 420. From the parking lot at the end of the road (one mile), hike to Shining Rock Gap via Ivestor Gap Trail (#101, 3.7 miles) or the Art Loeb Spur and Art Loeb Trail Section 3 (#108 and #146, approximately 3½ miles total). From that gap, continue on Art Loeb Trail Section 3 to Deep Gap (approximately 3¼ miles), where Cold Mountain Trail is on the right. (See note below regarding signage in wilderness areas.)
+
+## Trail Description
+
+***NOTE: This trail is in a federally designated wilderness area, which by*** ***law is managed to minimize evidence of human presence. Consequently,*** ***trails are neither signed nor blazed, and are maintained at a low level that*** ***results in their treads being difficult or impossible to see at times. An*** ***accurate map, compass, and the ability to use both are mandatory for*** ***travel in a wilderness area. Additionally, in the Shining Rock and Middle*** ***Prong Wilderness Areas, campfires are not allowed, and groups may not*** ***be larger than 10 people at any time.*** This trail follows a ridge line south of Cold Mountain for its first half, and then traverses to the west of the mountain before climbing to another ridge and ascending the mountain’s western flank. The top of Cold Mountain has plenty of trees on it, so the view is broken, especially in the summer months when the trees are foliated. But what can be seen is well worth the hike. A more open viewpoint—an exposed rock face on the summit’s south side—is accessible via a very short spur trail on the right side of this trail, about 20 yards short of the summit.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# COONTREE LOOP (Trail #144)
+
+## Mileage: 3.7 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276; proceed 3 miles to the Coontree Picnic Area on US 276. The trail starts across the road from the picnic area.
+
+## Trail Description
+
+This is a popular loop trail at all times of the year. There is seasonal mountain bike use on the east side of the trail from October 15 through April 15 only. The start of the trail is flat, and the actual loop begins 300 yards from the trailhead. Most choose to travel counterclockwise because of the grades. The right side follows a small branch most of the way before climbing to Coontree Gap and an intersection with the Bennett Gap Trail. Turn left here, keeping in mind that the two trails overlap for almost 1 mile. There is a steep grade as you climb up the shoulder of Coontree Mountain. In a shallow gap just before reaching the tip, the Coontree Gap Trail drops steeply to the left. The trail continues down at a generally steep grade, crossing Coontree Creek several times before returning to the trailhead.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# COURTHOUSE FALLS TRAIL (Trail #130)
+
+## Mileage: 0.3 miles
+
+## Difficulty: Easy
+
+## Blaze: Orange
+
+## Trailhead Location
+
+***Via Blue Ridge Parkway: From the Pisgah District Ranger Station/Visitor Center*** parking lot, turn right (north) onto US 276 for approximately 14 miles; turn right onto access ramp for Blue Ridge Parkway, then left (south) on Parkway. Drive 11½ miles to NC 215 south 6.7 miles and turn left on FS 140 (Courthouse Creek Road)—a gravel road immediately beyond a small concrete bridge and paralleling a stream. Go approximately 2½ miles north to Summey Cove (#129) trailhead, a small pull-off just beyond a creek crossing. (There are several bridges beforehand.) This trail is a spur off the Summey Cove Trail. Alternative route via gravel and paved roads: Drive 3½ miles north from Ranger Station, then left onto FS 475 (Davidson River Road, signed for Pisgah Center for Wildlife Education and state Fish Hatchery). Drive approximately 1½ miles (paved road) to Center for Wildlife Education and then approximately 5.3 miles beyond (via paved, then gravel road) to SR 1327 (Shoal Creek Road; paved), then SR 1328 (Clinic Road; also paved), which ends at NC 215. Turn right (north), go 2.6 miles to FS 140 on right. Proceed as above.
+
+## Trail Description
+
+Summey Cove Trail is an easy trail which initially follows an old railroad grade. This section is always wet, so wear appropriate footgear. Within ¼ mile you will start hearing the roar of the falls. Shortly beyond the falls, the Courthouse Falls Trail will be a sharp turn to your left—in a wide, smooth, sweeping, right turn of the main trail; though there may be no signs or blazes visible, two natural stone steps at the top of the trail help distinguish it. Please do not leave the main trail until you see a distinct side trail and/or trail sign; shortcutting causes erosion problems. Courthouse Falls Trail is a narrow trail which never receives much sunlight, so all log bridges and wooden steps can be slippery. It takes you to the base of a spectacular 45-foot waterfall dropping into a large, deep pool in a picturesque cove. The mist from the falls keeps this area cool, even in the middle of the summer, so it is delightful on a hot day. If you are a rockhound, you will be rewarded with small garnets that are common in the creek.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# COVE CREEK TRAIL (Trail #340)
+
+## Mileage: 2.6 miles
+
+## Difficulty: Easy
+
+## Blaze: Yellow
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, proceed 3½ miles and turn left on FS 475 (signed for the Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery). Proceed approximately 1½ miles to fish hatchery, then just past it to the intersection with FS 475B (Headwaters Road) on your right. Take FS 475B for 3 miles to FS 225 (Upper Cove Creek Road), on the left. Proceed one mile on FS 225 to the gated trailhead, on your left, where there is limited parking available. (Park so as not to obstruct the road or gate, or damage vegetation.)
+
+## Trail Description
+
+This trail is popular with bikers traveling a large road/trail loop that starts at the Pisgah Forest Fish Hatchery and incorporates FS Roads 475/475B/225, this trail, Caney Bottom Trail (#361), and the Cove Creek Group Camp access road. Attractions include streams, large wildlife fields, and a nice view of Looking Glass Rock. The trail is fairly steep for the first
+
+0.6 miles as it descends to Caney Bottom Creek, where it intersects with Caney Bottom Trail (#361). Since the latter is closed to bikes, bikers **must observe the trail signs here carefully, ensuring that they bear** right to remain on the correct trail. (From this point, or the southern intersection of the two trails, hikers may use Caney Bottom Trail as a 4.2- mile loop opportunity—the total distance from the FS 225 trailhead, including the return to it.) The trail is then rather level until its second crossing of Cove Creek, after which there is a short, moderate climb. The last mile is generally a decline to the trail’s end at its second intersection with Caney Bottom Trail, which may be used by bikers to proceed to the Cove Creek Group Camp access road and FS 475 [contrary to the 2003 trail map, which has this segment of Caney Bottom Trail colored incorrectly].
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# DANIEL RIDGE LOOP (Trail #105)
+
+## Mileage: 4.0 miles
+
+## Difficulty: Moderate
+
+## Blaze: Red
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, proceed 3½ miles and turn left on FS 475 (signed for the Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery). Proceed approximately 1½ mile to fish hatchery, then 3 miles past it to the Cove Creek Group Camping Area, and then 1 mile further to a gated road on the right with a large parking area. The trail begins here. (Do not block the gate with your vehicle.)
+
+## Trail Description
+
+Beginning at the gate, you will stay on a gravel road for 100 yards, crossing the Davidson River over a concrete bridge. Shortly thereafter, the loop bears to your left, away from the road. The trail parallels the Davidson River for ½ mile. Early in this section, a graveled, handicapped-accessible spur trail to the left leads to a primitive campsite near the river. Just before reaching an old wooden bridge, the main trail turns sharply to the right and up Lanning Branch. You will climb moderately for almost one mile before intersecting the Farlow Gap Trail, which will join from the left. Turn right and continue on Daniel Ridge Loop as it passes through a young forest and past a regeneration area, which affords a winter view of Pilot Mountain. From here the trail enters a series of wildlife fields. Keep a sharp lookout for trail blazes, since there are many turns in this section. You will eventually drop down to the gravel road you started on. Turn right on the road and it is ½ mile back to the gate. (A left turn and 100-yard walk up the gravel road will lead you to the base of a 150-foot waterfall—Jackson Falls, listed in some reference books as Daniel Ridge Falls.)
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# DEER LAKE LODGE TRAIL (Trail #664)
+
+## Mileage: 1.4 miles
+
+## Difficulty: Moderate
+
+## Blaze: Orange
+
+## Trailhead Location
+
+This trail has two parking sites, one paved site off of Forest Service road 491 and a gravel site on Forest Service road 479E. This trail is in what is popularly called the Bent Creek area, near Lake Powhatan Recreation Area. Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) on NC 280. Proceed approximately 12.5 miles, to NC 191 north. Turn left (north) onto NC 191, and then proceed 7.7 miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of the Blue Ridge Parkway, signed for the Recreation Area and at a traffic light. Turn left on Bent Creek Ranch Road and proceed approximately 1.4 miles and turn right on FS 491 (Rice Pinnacle Road). Stay on the pavement, which will bear left and end at a paved parking lot that is the northeastern terminus of the trail.
+
+## Trail Description
+
+The trail proceeds southwestward, crossing Wolf Branch and passing a small, seasonal, pond called Camp Deer Lake. There are several side trails that lead back to SR 806, but most have directional arrows that assist in staying on the correct path. This trail has several interpretive signs along it that pertain to forest management practices, and areas that demonstrate the various stages of managed woodland. The trail ends at FS 479E (Ledford Branch Road) just short of Ledford Branch; a left turn here will very quickly take one to FS 479 (Bent Creek Road). Another left turn shortly brings one back to SR 806, in the vicinity of the entrance to the Lake Powhatan Recreation Area—about ¾ of a mile from the road’s aforementioned intersection with FS 491.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# DEERFIELD LOOP (Trail #335)
+
+## Mileage: 0.8 miles
+
+## Difficulty: Easy
+
+## Blaze: Yellow
+
+## Trailhead Location
+
+This trail is in what is popularly called the Bent Creek area, near Lake Powhatan Recreation Area. Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) on NC 280. Proceed approximately 12.5 miles, to NC 191 north. Turn left (north) onto NC 191, and then proceed 7.7 miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of the Blue Ridge Parkway, signed for the Recreation Area, and at a traffic light. Turn left on Bent Creek Ranch Road and proceed 2.3 miles to the Recreation Area. Park in the beach parking lot. (You will pass a wooden, roadside sign for Deerfield Loop and Pine Tree Loop (#336), but there is no parking nearby.) Note: There is a day use fee for ***visitors not camping in the Recreation Area.***
+
+## Trail Description
+
+This is an easy loop trail that is a nice family excursion. Immediately after leaving the beach parking lot, turn left onto the trail, which is signed with a synthetic trailhead sign approximately 200 yards short of the wooden sign mentioned above. (Disregard the “Deerfield Loop” sign on the opposite side of the road, which marks a spur trail to the campground.) From here, a combination of foot trails and old forest roads form a loop that will lead you through patches of large pines, beautiful rhododendron, and past wildlife fields. These fields provide supplemental food and needed diversity of habitat for many varieties of wildlife. If you are quiet, you may catch a glimpse of a deer or flock of wild turkeys feeding in these fields. This trail intersects with Small Creek Trail (#334), and the last section overlaps with the Pine Tree Loop (#336). After reaching the road (at the wooden sign), you may turn right and proceed approximately 200 yards to the trailhead and beach parking lot; or, for a slightly longer hike, turn left and proceed approximately 200 yards to an unsigned trail on your right. Take this trail, which crosses a bridge, back to the trailhead.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+EXERCISE TRAIL   (Trail #344)
+Mileage:  1.5 miles
+
+Mileage:  1.5 miles 
+Difficulty:  Easy
+
+Difficulty:  Easy
+Blaze: Marked with signs
+
+Blaze: Marked with signs
+
+Trailhead Location
+This trail is accessible from several places.   The most common are the
+
+This trail is accessible from several places.   The most common are the 
+Pisgah District Ranger Station/Visitor Center, where the trail runs along 
+the back sides of the parking lots; or the Art Loeb Trailhead  parking lot, 
+which is ¼ mile south of the Ranger Station at the intersection of US 276 
+and the entrance road to the Davidson River Campground.
+
+Trail Description
+This is an easy loop trail that is popular with people interested in a nice
+
+This is an easy loop trail that is popular with people interested in a nice 
+stroll  through  the woods and along the Davidson River. Signs mark 
+important turns. Walking in a clockwise direction from the Ranger Station, 
+you will walk along the back sides of the parking lots, pass through a stand 
+of White Pines, then cross the highway.  (Two highway crossings and two 
+bridge crossings are the only occasions that you will be on pavement.)  
+Shortly thereafter, you will turn left onto a dirt road that parallels the 
+Davidson River, then turn right to cross the Davidson River via the twolane bridge.  (This is a congested area in summer; beware of traffic.)  At the 
+bridge’s end, turn right to parallel the river as you proceed upstream.  This 
+walk along the river is beautiful at all times of the year.  Take time to look at 
+the English Chapel, an historic wood and stone building built in 1860 that 
+still has an active congregation.  Just beyond the chapel, you will cross the 
+river and the highway again. The trail enters another stand of White Pines, 
+then crosses a small stream before returning to the Ranger Station.
+
+---
+
+EXPLORER LOOP TRAIL   (Trail #337)
+Mileage:  3.0 miles round trip
+
+Mileage:  3.0 miles round trip
+Difficulty:  Moderate
+Blaze:  Yellow
+
+Trailhead Location
+This trail is in what is popularly called the Bent Creek area, near Lake Powhatan
+
+Trailhead Location
+This trail is in what is popularly called the Bent Creek area, near Lake Powhatan 
+Recreation Area.  Leaving the Pisgah District Ranger Station/Visitor Center parking lot, 
+turn left (south) onto US 276.  At the first traffic light, turn left (east) on NC 280.  
+Proceed approximately 12.5 miles, to NC 191 north.  Turn left (north) onto NC 191, and 
+then proceed 7.7 miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of 
+the Blue Ridge Parkway, signed for the Recreation Area, and at a traffic light.  Turn left 
+on Bent Creek Ranch Road and proceed approximately 2 miles toward the Lake 
+Powhatan Recreation Area.  Just before the campground, FS 479 (Bent Creek Road) is 
+nd
+on the right. Follow FS 479 for 2 miles to the 2 gated road on the left, FS 479H (Cold 
+Knob Road). Park so as not to block the gate, and go behind it, following this grass road. 
+(Since the loop intersects this road at two different points, the description below 
+assumes you will start at the further of the two points; if so, you will thus bypass one 
+trailhead for this trail, as well as one signed as “337A”—an unnamed connector trail that 
+can be used to shorten the route by approximately ½ mile.)  Proceed about ½ mile 
+before turning left into the woods at the second trailhead for Explorer Loop.
+
+Trail Description
+This loop trail is fairly easy, though it has one steep climb. Be sure to follow the blazes,
+
+Trail Description
+This loop trail is fairly easy, though it has one steep climb. Be sure to follow the blazes, 
+since there are unauthorized trails that intersect this trail. After approximately ¼ mile, 
+you will cross a small stream, and then begin a short but steep climb to an intersection 
+with Chestnut Cove Trail (#662). At this point the trail turns sharply to the left, and then 
+follows an easy grade through a nice hardwood forest. Thereafter, where the trail angles 
+to its right, you will again pass trail “337A” (again signed), which can be used to return 
+to FS 479H. The trail subsequently passes an intersection with Sleepy Gap Trail (#339), 
+crosses Beaten Branch, and then drops to Bent Creek. At an old road which leads to FS 
+479, it again makes a sharp left turn to parallel Bent Creek; at times the trail is high 
+above the creek. The remainder is fairly flat and wide as you return to FS 479H; turn 
+right on the road and you will return to the gate where you began
+
+---
+
+# FARLOW GAP TRAIL (Trail #106)
+
+## Mileage: 3.1 miles one way
+
+## Difficulty: Difficult
+
+## Blaze: Blue
+
+***This trail connects the Daniel Ridge Loop (#105), which is open to biking,*** ***with the Art Loeb National Recreation Trail, Section 2 (#146(2)), which is*** ***not open to biking. The information below assumes that one is using the*** ***trail westward, from Daniel Ridge Loop to the Art Loeb Trail at Farlow*** ***Gap.***
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, proceed 3½ miles and turn left on FS 475 (signed for the Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery). Proceed approximately 1½ mile to fish hatchery, then approximately 4 miles past it (beyond the Cove Creek Group Camping Area) to a gated road on the right with a large parking area; do not block the gate with your vehicle. Behind the gate, stay on a gravel road for 100 yards, and cross the Davidson River via the concrete bridge. Shortly thereafter, the Daniel Ridge Loop starts to your left. The trail parallels the Davidson River for ½ mile, and then turns sharply to the right and up Lanning Branch. You will climb moderately for almost one mile before intersecting the Farlow Gap Trail, which will join from the left.
+
+## Trail Description
+
+From Daniel Ridge Trail, this trail starts with a moderate climb as it contours around Fork River Ridge and Daniel Ridge. From there to Farlow Gap, the trail becomes steep with several switchbacks. Though it may be tempting at times, please do not leave the main trail, because short cutting switchbacks causes erosion. The trail is very strenuous at times, and its tread has tree roots and loose rocks along much of its length. However, it has great variety in scenery and vegetation. You will cross several streams and three ridges (the crossings of Shuck Ridge Creek and the Right Fork of the Davidson River are difficult). You will also move from a forest of cove hardwoods, such as yellow poplar and red oak, to an upland hardwood forest of oak, black gum and red maple. Small waterfalls, cascades, and an old mica mine near the trail below Farlow Gap are points of interest.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# FLETCHER CREEK TRAIL (Trail #350)
+
+## Mileage: 2.4 miles
+
+## Difficulty: Easy
+
+## Blaze: Blue
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) on NC 280. Proceed approximately 12.3 miles (past the intersection with NC 191 South) to a traffic light about 200 yards short of the intersection with NC 191 North. Here an official brown and white sign for “Nat’l Forest Recreation Area, N MILLS RIVER” directs you to your left. Turn left onto North Mills River Road, and then approximately 5 miles to Wash Creek Road (FS
+
+5000), near the North Mills River Campground. Turn right onto FS 5000 and proceed 2 miles to the first left turn, a gravel road. Turn left, cross the low concrete bridge, and drive to the Trace Ridge Trailhead parking area at the gated end of the road. Take the Hendersonville Reservoir Road, which is the leftmost of the two gated roads that leave the parking area. Fletcher Creek Trail begins near the end of that road, approximately 1.5 miles from the parking lot.
+## Trail Description
+
+The easy grade of this trail, combined with nice loop opportunities with other trails and the Fletcher Creek logging road, makes it a favorite for mountain bikers and horseback riders. Flat, grassy campsites and open fields also make it a good area for overnight camping. From the Hendersonville Reservoir Road, the trail climbs moderately for about ¼ mile, then drops moderately down to Fletcher Creek. From here the trail is wide and easy as it winds in and out of wildlife fields and hardwood forests. You will cross Fletcher Creek three times via rock fords. If you approach the wildlife fields quietly, you may catch a glimpse of a red-tailed hawk hunting from a dead snag.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+FOREST FESTIVAL TRAIL   (Trail #319)
+Mileage:  1.3 miles
+
+Mileage:  1.3 miles 
+Difficulty:  Easy
+Blaze:  None
+
+Trailhead Location
+Leaving the Pisgah District Station/Visitor Center parking lot,  turn right
+
+Leaving the Pisgah District Station/Visitor Center parking lot,  turn right 
+(north) onto US 276, then proceed 9.5 miles north to the Cradle of Forestry 
+in America historic site. To access this trail you must enter the Cradle of 
+Forestry site, which is generally open from early April to early November 
+and charges a nominal fee.  The Forest Festival Trail begins behind the 
+site’s Forest Discovery Center.
+
+Trail Description
+The Forest Festival Trail is open to the public during the Cradle of
+
+The Forest Festival Trail is open to the public during the Cradle of 
+Forestry’s season, and guided walks are also available during this period. 
+Annual schedules vary, so be sure to check at the information desk. The 
+trail, a 1.3 mile paved loop, is easy and suitable for wheelchairs and 
+strollers. It recreates many aspects of Dr. Carl Schenck’s Biltmore Forest 
+Fair of 1908. The fair was a three-day excursion through the Biltmore 
+Estate and Pisgah Forest to demonstrate the accomplishments and 
+possibilities of practical forestry at a time when the word “forestry” was a 
+new term in America. As you follow this trail you will see much of what Dr. 
+Schenck’s visiting businessmen and government officials saw, including 
+various plantations, a seedling nursery, portable sawmill, historic farm site 
+and an original “Climax" locomotive that transported logs through these 
+mountains at the turn of the last century.
+
+---
+
+# GRASSY ROAD TRAIL (Trail #364)
+
+## Mileage: 1.0 miles one way
+
+## Difficulty: Easy
+
+## Blaze: Orange
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276 for 200 yards, and then left again into the parking lot adjacent to the fenced work center. The Black Mountain Trail (#127) starts on the old dirt road behind the parking lot. Hike to your left on that trail, and in about 300 yards you will reach its intersection with Thrift Cove Trail (#603), which is actually a continuation of the road. After approximately 1/3 mile, Grassy Road Trail begins on your right.
+
+## Trail Description
+
+You will quickly see how this trail got its name: Maintained as a wildlife habitat by the North Carolina Wildlife Resources Commission, it is seeded with several types of grass and clover. You will also notice many areas alongside the trail that provide protective cover for birds and small mammals. If you are observant, you may see signs of deer and wild turkey, which frequent this area. Early summer blooms include dogwood and violets, then various kinds of sunflowers and goldenrod in the late summer. This trail ends at the Sycamore Cove Trail (#143), which can be used to complete a nice 2½- to 3½-mile loop, depending on the route you take; check your map.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# GRAVEYARD FIELDS TRAIL (Trail #358)
+
+## Mileage: 3.2 miles
+
+## Difficulty: Easy
+
+## Blaze: Blue
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed 14 miles north; turn right onto access ramp for the Blue Ridge Parkway, then left (south) on Parkway. Proceed south to Graveyard Fields Overlook, on the right, just before Milepost 419.
+
+## Trail Description
+
+This is a popular family hike because of its beauty, general ease, and access to two waterfalls. The area trail system starts at steps at the near (right) end of the parking lot sidewalk; a wooden sign depicts trail and waterfall locations, but because of intersecting and/or unmarked trails in the area, a trail map is generally helpful--though not for precise details: Trail reconstruction/relocation occasioned by tropical storm damage has displaced some of the trails and/or intersections from the locations shown on the current map; the entire area is being remapped. The trail, initially paved, leads to a bridge over Yellowstone Prong, the stream feeding both waterfalls. If going to Second/Lower Falls (downstream of the bridge, and 0.3 miles from trailhead), cross the bridge, pass a small “off ramp” which the main trail takes to the left, cross the boardwalks, and follow signpost(s). This spur trail includes a 60-step wooden stairway to the base of the falls. Rocks around waterfalls are very slippery; NEVER go to the top of any waterfall. To stay on main trail: After crossing bridge, trail turns left, passes through small forested area, then open grassy areas as it meanders back toward Prong—and can be muddy in places, despite some boardwalks. Blueberries are abundant in the fall. After about a mile, main trail turns left to cross Prong and return, in about a mile, to parking; if going to Upper Falls (1.6 miles from the trailhead), continue straight ahead on spur trail, which crosses a small stream and climbs to the falls. (Although Graveyard Fields Trail is rated ``easy'' overall, the majority (approximately ½ mile) of this spur trail has a rougher surface and steeper grade than the majority of the trail.) **Length of 3.2 miles assumes proceeding directly to Upper Falls as described and retracing one’s steps to parking. Upon returning to main trail from Upper Falls, one may turn right, cross Prong, and use southern portion of main loop to return to parking area; total is somewhat less than 3.2 miles using this route.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# GRAVEYARD RIDGE TRAIL (Trail #356)
+
+## Mileage: 3.4 miles
+
+## Difficulty: Easy
+
+## Blaze: Orange
+
+## Trailhead Location
+
+From the Pisgah Ranger Station/Visitor Center parking lot, turn right (north) on US 276; proceed 14 miles to junction with Blue Ridge Parkway. Turn left (“south”) on Parkway and proceed approximately 6½ miles to Graveyard Fields Overlook (milepost 418.8) on right. From steps at near (north) end of parking lot, take Graveyard Fields Trail (#358, partially paved) to bridge over Yellowstone Prong. Continue straight ahead on Mountains-to-Sea Access trail (#358B on map; not signed). Bypass signposts for Second/Lower Falls (downstream of bridge), and continue to intersection with Mountains-to-Sea Trail (#440) and turn left (west).
+
+## Trail Description
+
+The first 2 miles of this trail are for hikers only because of the fragile soils. These soils are very susceptible to erosion, so please stay on the main trail. For approximately the first ¼ mile, you will climb through a grass bald up to an old railroad grade while the trail overlaps the Mountains-to-Sea Trail. Turn left onto the old railroad grade to continue on the Graveyard Ridge Trail. There are outstanding views of Graveyard Fields and, on clear days, points as far as South Carolina. At Dark Prong Gap, where the trail crosses the Mountains-to-Sea Trail (#440), the trail will become a roadbed that is open to horses and mountain bikes. The views are nice as you look across Dark Prong and Greasy Cove toward Mt. Pisgah. This trail ends at Investor Gap. Be aware of changing weather conditions; if visibility is hampered due to fog, you are advised to avoid this trail, since it is easy to become disoriented in its open areas.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# GREASY COVE TRAIL (Trail #362)
+
+## Mileage: 3.2 miles
+
+## Difficulty: Difficult
+
+## Blaze: None
+
+## Trailhead Location
+
+This trail, completely within the Shining Rock Wilderness Area (see note below regarding wilderness areas and their signage), runs from the vicinity of Ivestor Gap to the Big East Fork Trail (#357). There are three ways to access its unmarked trailheads: **¹From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north)** onto US 276. Proceed 14 miles north; turn right onto access ramp for the Blue Ridge Parkway, then left (south) on Parkway. Proceed south approximately 8½ miles to FS 816 (Black Balsam Road), on your right near milepost 420. Turn right and proceed 1.3 miles to the end of the road. Ivestor Gap Trail (#102) is an abandoned roadbed behind a gate on the east side of the parking lot. (The roadbed is open to motor vehicles from mid-August until January 2; however, it is highly recommended that only high- clearance, 4-whell-drive vehicles attempt to negotiate it, as the trail surface is rocky and rough for the first two miles.) Follow that trail for two miles to Ivestor Gap at the wilderness area’s boundary, then ¼ mile east along that boundary via Graveyard Ridge Trail (#356) to where it makes a sharp switchback to the right; the western trailhead for the Greasy Cove Trail is in the switchback. ² From US 276 north of the Blue Ridge Parkway, follow the Big East Fork Trail (#357) to its end—see separate sheet. ³ From the Blue Ridge Parkway, milepost 417, take Bridges Camp Gap Trail (#607, no sheet available) to its end at the junction of Big East Fork (#357) and Greasy Cove trails.
+
+## Trail Description
+
+***NOTE: This trail is in a federally designated wilderness area, which by*** ***law is managed to minimize evidence of human presence. Consequently,*** ***trails are neither signed nor blazed, and are maintained at a low level that*** ***results in their treads being difficult or impossible to see at times. An*** ***accurate map, compass, and the ability to use both are mandatory for*** ***travel in a wilderness area. Additionally, in the Shining Rock and Middle*** ***Prong Wilderness Areas, campfires are not allowed, and groups may not*** ***be larger than ten people at any time.*** This trail initially traverses Grassy Cove Ridge at or near its crest, with minimal views other than of the Parkway, until it drops down to Greasy Cove Prong. Caution: The *trail is especially difficult to see during this descent. It follows the prong until that* stream meets the East Fork of the Pigeon River, where the trail terminates at the junction of the Big East Fork (#357) and Bridges Camp Gap (#607) trails.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+GREEN MOUNTAIN TRAIL   (Trail #113)
+Mileage:  5.0 miles
+
+Difficulty:  Difficult
+Blaze:  None
+
+Blaze:  None
+
+Trailhead Location
+This trail, in the Middle Prong Wilderness Area, can be accessed from the
+
+This trail, in the Middle Prong Wilderness Area, can be accessed from the 
+Mountains-To-Sea Trail (#440) as follows:  From the Pisgah District 
+Ranger Station/Visitor Center parking lot, turn right (north) on US 276.  
+Proceed 14 miles north; turn right onto access ramp for the Blue Ridge 
+Parkway, then left (south) on Parkway.  Proceed south 11.4 miles to NC 215 
+and then approximately ½ mile north on NC 215 to a small, unpaved, 
+unsigned parking area on the left.  A white dot blaze indicates the M-T-S 
+Trail; follow it for approximately two miles to the Green Mountain Trail on 
+the right.  [The trail’s northern end can be accessed via the Sunburst 
+Recreation Area on NC 215.]  (See note below regarding wilderness areas 
+and their signage.)
+
+Trail Description
+NOTE:  This trail is in a federally designated wilderness area,
+
+Trail Description
+NOTE:  This trail is in a federally designated wilderness area, 
+which by law is managed to minimize evidence of human 
+presence.  Consequently, trails are neither signed nor blazed, 
+and are maintained at a low level that results in their treads 
+being difficult or impossible to see at times.  An accurate map, 
+compass, and the ability to use both are mandatory for travel in 
+a wilderness area.  Additionally, in the Shining Rock and 
+Middle Prong Wilderness Areas, campfires are not allowed, and 
+groups may not be larger than ten people at any time.
+This trail follows a ridge line for its entire length, passing in and out of 
+forested areas.  It first climbs to the summit of Green Knob, then descends 
+rather steadily to its northern terminus.  Fortunately, the tops of the knobs 
+that the trail passes over are mostly clear, so the views are nice.  The trail’s 
+northern end is at a bridge across the Middle Prong of the West Fork of the 
+Pigeon River, near the edge of the Sunburst Recreation Area.
+
+10/2011
+
+---
+
+# HARDTIMES CONNECTOR (Trail #661)
+
+## Mileage: 0.9 miles
+
+## Difficulty: Easy
+
+## Blaze: Orange
+
+## Trailhead Location
+
+This connector trail is in what is popularly called the Bent Creek area, near Lake Powhatan Recreation Area. Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) on NC 280. Proceed approximately 12.5 miles, to NC 191 north. Turn left (north) onto NC 191, and then proceed 7.7 miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of the Blue Ridge Parkway, signed for the Recreation Area and at a traffic light. Turn left on Bent Creek Ranch Road and proceed approximately 1½ miles to the Hardtimes parking area, on the left in front of a road gate. The trailhead is beyond the gate, about 200 feet from the paved road, on the left side of the gated (dirt) road.
+
+## Trail Description
+
+This is a rather straight trail that heads in a northeast direction until it ends at Bent Creek Ranch Road (SR 806). The trail climbs gradually from the parking area, and is used mostly by bikers to link trails while avoiding the paved road (SR 806).
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# HAYWOOD GAP TRAIL (Trail #142)
+
+## Mileage: 6.0 miles
+
+## Difficulty: Difficult
+
+## Blaze: None
+
+## Trailhead Location
+
+The majority of this trail is in the Middle Prong Wilderness Area, and can be accessed from the Blue Ridge Parkway or the Sunburst Recreation Area. To reach the Parkway trailhead from the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276. Proceed 14 miles north; turn right onto access ramp for the Blue Ridge Parkway, then left (south) on Parkway. Proceed south to an unpaved pull-off in Haywood Gap (milepost 426.5), where the Mountains-to-Sea Trail (#440) crosses the Parkway. Take the M-T-S trail to the east a short distance; the trailhead for this trail is on the left.
+
+## Trail Description
+
+***NOTE: The majority of this trail is in a federally designated wilderness*** ***area, which by law is managed to minimize evidence of human presence.*** ***Consequently, trails are neither signed nor blazed, and are maintained at*** ***a low level that results in their treads being difficult or impossible to see at*** ***times. An accurate map, compass, and the ability to use both are*** ***mandatory for travel in a wilderness area. Additionally, in the Shining*** ***Rock and Middle Prong Wilderness Areas, campfires are not allowed, and*** ***groups may not be larger than ten people at any time.***
+
+For its entire length, this trail parallels and crosses Haywood Gap Stream, and then the Middle Prong of the West Fork of the Pigeon River and its tributaries. The views are consequently not panoramic, but do provide the hiker with a “looking up from the bottom” perspective. Unlike many ridgeline trails, this trail has ample water supply (be sure to purify water before drinking) and sufficient level ground for primitive camping. After leaving the wilderness area, the trail ends at FS 97 (Lickstone Ridge Road); a right turn and a hike of approximately 1¾ additional miles will take you to a gate at the Sunburst Recreation Area. (The gate and road may be open to vehicles between mid- November and January 1 for hunter access; contact the Pisgah Ranger Station Visitor Center to confirm: 828-877-3265)
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+HOMESTEAD LOOP   (Trail #333)
+Mileage:  1.0 mile
+
+Mileage:  1.0 mile 
+Difficulty:  Easy
+
+Difficulty:  Easy
+Blaze:  Orange
+
+Blaze:  Orange
+
+Trailhead Location
+This trail is in what is popularly called the Bent Creek area, near Lake
+
+Trailhead Location
+This trail is in what is popularly called the Bent Creek area, near Lake 
+Powhatan Recreation Area.  Leaving the Pisgah District Ranger 
+Station/Visitor Center parking lot, turn left (south) onto US 276.  At the 
+first traffic light, turn left (east) on NC 280.  Proceed approximately 12.5 
+miles, to NC 191 north.  Turn left (north) onto NC 191, and then proceed 7.7 
+miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of the 
+Blue Ridge Parkway, signed for the Recreation Area, and at a traffic light.  
+Turn  left  on  Bent  Creek  Ranch  Road and  proceed 1.9 miles to the 
+Hardtimes Trailhead parking area  (signed). Park here, go behind the gate, 
+and proceed on the dirt/gravel road approximately ¼ mile to a “T” 
+intersection at Bent Creek.  Turn right, proceed 100 yards and cross a 
+bridge on your left.  The trail starts on your right approximately 50 feet 
+beyond the bridge.
+
+Trail Description
+This is an easy loop, and popular for families with children since it is short
+
+This is an easy loop, and popular for families with children since it is short 
+and easy. Follow the creek upstream. You will pass the dam and spillway 
+and continue toward Lake Powhatan. Just before the swimming beach, the
+trail intersects with Small Creek Trail (#334) on your left. The trail is 
+closed to bikes from this point to the gravel service road beyond 
+Bent Creek (see below; bikes must backtrack or proceed on 
+Small Creek Trail). Beyond the swimming beach you will again cross 
+Bent Creek. Beaver activity is sometimes evident here, so you may see fresh 
+wood chips and gnaw marks on the trees. The boxes you may notice on 
+some trees are for wood ducks. The trail also passes a fishing pier that was 
+constructed jointly by the N.C. Wildlife Commission and U.S. Forest Service 
+to provide fishing access to all people. The trail then follows a gravel service 
+road (bear right), where it is again open to bikes.  The road and trail return 
+to the bridge near the trailhead.
+
+---
+
+# HORSE COVE GAP TRAIL (Trail #325)
+
+## Mileage: 0.8 miles
+
+## Difficulty: Moderate
+
+## Blaze: Orange
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276 for approximately 1½ miles, then turn left onto US
+
+280. Proceed east on US 280 for approximately 7 miles and turn left on Turkeypen Road immediately after crossing the Transylvania/Henderson County line. Start from Turkeypen Gap Trailhead, at the end of the road. (This trailhead has limited parking). Follow South Mills River Trail (#133) for 4 miles to Cantrell Creek Trail (#148). Turn onto Cantrell Creek Trail and the Horse Cove Gap Trail intersects in 1 mile.
+## Trail Description
+
+This is a short, but fairly steep connector trail, which enables some long loops for all users. This trail will take you through a nice stand of cove hardwoods, made up mostly of yellow poplar and oak. In the winter, you can see some of the distant peaks to the west, including Black Mountain. Otherwise this is just a pleasant trail through the woods with no views. The trail ends at Horse Cove Gap on the Squirrel Gap Trail (#147). Horse Cove Gap, Cantrell Creek and Squirrel Gap trails should be avoided by bikes and horses during wet weather, because extreme damage to trail surfaces will occur due to vulnerable soil types and steep side slopes.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# IVESTOR GAP TRAIL (Trail #101)
+
+## Mileage: 3.7 miles one way
+
+## Difficulty: Easy
+
+## Blaze: None
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed 14 miles north; turn right onto access ramp for the Blue Ridge Parkway, then left (south) on Parkway. Proceed south approximately 8½ miles to FS 816 (Black Balsam Road), on your right at milepost 420.2. Turn right on FS 816 to the Black Balsam parking lot. The trail starts at the gate on the east end of the lot.
+
+## Trail Description
+
+This trail is one of many which leave the Black Balsam parking lot; check the nearby bulletin board for other high-elevation trails. Ivestor Gap Trail begins as a roadbed which is open to motor vehicles from mid-August until January 2; however, it is highly recommended that only high-clearance, 4- wheel-drive vehicles attempt to negotiate it, as the trail surface is rocky and rough for the first two miles. The trail does not follow a ridgeline, but in clear weather there are some outstanding views of the Shining Rock Wilderness to the west. From Ivestor Gap, you may return to the parking area via the Art Loeb Trail, Section 3 (#146C), for a beautiful, five-mile loop which will give you spectacular views from grass balds; or continue into the Shining Rock Wilderness. The trail ends at Shining Rock Gap. In the ***Shining Rock Wilderness, no mountain bikes are allowed, trails*** ***are maintained to the most primitive standards, fires are*** ***prohibited, and a group size of ten is enforced, all in order to*** ***preserve solitude and prevent resource damage. Horse riders may*** continue into the wilderness, but cannot reach Shining Rock Gap: They must turn back at Little East Fork Trail (#107), or take that trail to the Daniel Boone Boy Scout Camp.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# JOHN ROCK TRAIL (Trail #365)
+
+## Mileage: 1.8 miles
+
+## Difficulty: Moderate
+
+## Blaze: Yellow
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, proceed for 3½ miles and turn left on FS 475 (signed for the Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery). Proceed approximately 1½ miles to fish hatchery. Begin from the fish hatchery parking lot and hike the Cat Gap Loop Trail (#120) in either direction. (The western half of Cat Gap Loop has much to offer, but if you are pressed for time, the eastern approach to John Rock Trail is shorter.) The John Rock Trail is much like a “loop within a loop,” intersecting Cat Gap Loop at two points: Its southern access is at an intersection of Cat Gap Loop and the Cat Gap Bypass (#120A), while its eastern access is in Horse Cove.
+
+## Trail Description
+
+From the southern access, the trail climbs up the backbone of John Rock, a large granite dome. There is a steep, challenging pitch initially, but the remainder of the trail is moderate. From the eastern access, the trail climbs the eastern shoulder of John Rock using a series of old railroad grades; mature rhododendron thickets and small streams make this an attractive woods hike. From either direction, the climb is well worth the effort: a commanding view of the fish hatchery, Looking Glass Rock, and Pilot Mountain from atop the face of John Rock. (Do not take any of the informal, “bushwhacked” trails, some of which lead to precarious spots.) Below its uppermost area near the tree line, the rock’s surface drops off steeply, so use caution when walking at the top, and monitor children and pets. Also keep in mind that rock climbers use John Rock, and may be below you--- do not throw anything off the edge.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# LAUREL MOUNTAIN TRAIL (Trail# 121)
+
+### Mileage: 7.4 miles
+
+### Difficulty: Moderate
+
+### Blaze: Blue
+
+*
+
+**Trailhead Location** ****Bikes must be walked or carried while on National Park*** ***Service (Blue Ridge Parkway) land, which ends approximately***
+
+***0.1 miles down Laurel Mountain Trail. Leaving the Pisgah District*** Ranger Station/Visitor Center, turn right (north) onto US 276. Proceed north 14 miles and go north (right) on the Blue Ridge Parkway to MP 407.6, just beyond the Pisgah Inn. Here a large, irregularly shaped parking area serves both the Buck Spring Gap Overlook and the Mount Pisgah trailhead. Take the rock steps from the south end of the overlook parking area; pass the site of the former Buck Springs Lodge and you will come to the Laurel Mountain Trail after 100 yards. The other end of the trail is at Yellow Gap, which is 9 miles east of US 276 on FS 1206 (Yellow Gap Road), which intersects US 276 just north of the Cradle of Forestry.
+### Trail Description
+
+Most begin from the upper end to take advantage of the downhill grade. This trail descends gradually as it passes through several gaps. In many places dark green mosses and ferns border the trail. At one point the trail crosses underneath a rock overhang. You will notice a difference in vegetation as you move from the rich soils found in the gaps to the dry soils of the ridges. Most of the trail is south facing, staying fairly dry except for the few places where small creeks cross the trail. Because of its location, this trail does not receive much use.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# LAUREL MTN. CONNECTOR (Trail# 110)
+
+## Mileage: 0.3 miles
+
+## Difficulty: Easy
+
+## Blaze: Yellow
+
+*******
+
+**Trailhead Location** ****Bikes must be walked or carried while on National Park*** ***Service (Blue Ridge Parkway) land. Leaving the Pisgah District*** Ranger Station/Visitor Center, turn right (north) onto US 276. Proceed north 14 miles and then go north (right) on the Blue Ridge Parkway. Since the trail connects the Pilot Rock Trail (#321) with the Laurel Mountain Trail (#121) east of the Parkway, it must be accessed via one of those two trails. Via Pilot Rock Trail: Proceed to milepost 410. Begin from the Pisgah Inn parking lot. There is a wooden trail map between the dorms and the Inn. Walk the trail toward the Buck Springs Lodge site (north) and Pilot Rock Trail will intersect after 0.4 mile. Via Laurel Mountain ***Trail: Proceed to MP 407.6, just beyond the Pisgah Inn. Here a large,*** irregularly shaped parking area serves both the Buck Spring Gap Overlook and the Mount Pisgah trailhead. Take the rock steps from the south end of the overlook parking area; pass the site of the former Buck Springs Lodge and you will come to the Laurel Mountain Trail after another 100 yards.
+
+## Trail Description
+
+This is a short and fairly easy connector trail that joins the Laurel Mountain Trail (#121) with the Pilot Rock Trail (#321). The trail itself is fairly nondescript, but is significant because it gives hikers a nice 4-mile loop from the Pisgah Inn area. It also gives mountain bikers the opportunity to face the challenge of riding up Laurel Mountain Trail then down the Pilot Rock Trail (or the reverse).
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+LEDFORD TRAIL   (Trail # 660)
+Mileage:  0.6 miles
+
+Mileage:  0.6 miles 
+Difficulty:  Easy
+Blaze:  Blue
+
+Trailhead Location
+This trail, which is accessed via Deer Lake Lodge Trail (#664) and then
+
+This trail, which is accessed via Deer Lake Lodge Trail (#664) and then 
+Wolf Branch Trail (#666), is in what is popularly called the Bent Creek 
+area, near Lake Powhatan Recreation Area.  Leaving the Pisgah District 
+Ranger Station/Visitor Center parking lot, turn left (south) onto US 276.  At 
+the first traffic light, turn left (east) on NC 280.  Proceed approximately 
+12.5 miles, to NC 191 north.  Turn left (north) onto NC 191, and then 
+proceed 7.7 miles to Bent Creek Ranch Road (SR 806), which is ½ mile 
+north of the Blue Ridge Parkway, signed for the Recreation Area, and at a 
+traffic light.  Turn left on Bent Creek Ranch Road and proceed 
+approximately 1.4 miles, then turn right on FS 491 (Rice Pinnacle Road).  
+Stay on the pavement, which will bear left and end at a paved parking lot.  
+Take Deer Lake Lodge Trail (#664) from this parking area.  After 
+approximately 0.2 miles, a short spur trail to the right will lead to the 
+trailhead for Wolf Branch Trail (#666).  About ¾ miles up that trail is the 
+trailhead for Ledford Trail, on the right just beyond a small stream (Wolf 
+Branch).
+
+Trail Description
+The trail has a few nice spots to stop and admire the stream.  It first heads
+
+The trail has a few nice spots to stop and admire the stream.  It first heads 
+generally northeast, along Wolf Branch, for a quarter of a mile before 
+turning north.  It then gradually climbs, following Wolf Creek, until it ends 
+at FS 479E (Ledford Branch Road).  From this point, loop opportunities 
+back to the parking area are available: east, then south, via FS 479E and FS 
+491 (Rice Pinnacle Road); or west, then south, then east, via FS 479E and 
+Wolf Branch Trail (#666) or Deer Lake Lodge Trail (#664).
+
+---
+
+# LONG BRANCH TRAIL (Trail #116)
+
+## Mileage: 2.5 miles
+
+## Difficulty: Moderate
+
+## Blaze: Orange
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed approximately 3 ½ miles north to the first left turn, onto FS 475 (Davidson River Road, signed for the Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery). Drive beyond the Center for Wildlife Education approximately 4 miles, where the trailhead is on the left side of the road. There is parking for 3 to 4 vehicles.
+
+## Trail Description
+
+Part of this trail follows an old wagon road that served Brevard many years ago. It begins on an easy grade as it parallels Long Branch. After approximately 0.8 miles, you will encounter a trail intersection: Turn right to continue on the Long Branch Trail, or proceed straight ahead to take Cemetery Loop (#341). (The McCall cemetery, which is alongside Cemetery Loop approximately ¼ mile from the intersection, is a reminder of a settlement in the area that dates back to the 1800’s. Bikes are not allowed in the cemetery, and please respect the gravesites. Cemetery Loop returns to FS 475 within sight of the Long Branch trailhead, and is an easy walk of
+
+1.2 miles from its intersection with Long Branch Trail to FS 475.) After crossing Long Branch, the Long Branch Trail climbs gradually through a thicket of laurel and rhododendron before crossing a grass road. You will then meander through a young forest before descending steeply to Searcy Creek, with a similarly steep rise on the other side. Shortly thereafter the trail ends at Butter Gap Trail (#123). If mountain biking, keep in ***mind that Butter Gap Trail from here to Cat Gap Loop (#120),*** ***and Cat Gap Loop to the fish hatchery, are only open to bikes*** ***from October 15 through April 15.***
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# LOOKING GLASS ROCK TRAIL
+
+(Trail#114) **Mileage: 3.1 miles** **Difficulty: Moderate** **Blaze: Yellow**
+
+## Trailhead Location
+
+Leaving parking lot of Pisgah District Ranger Station/Visitor Center, turn right (north) onto US 276. Proceed 3½ miles north, and turn left onto FS Road 475, signed for the Pisgah Center for Wildlife Education and Pisgah Forest Fish Hatchery. The paved, signed parking lot for the trailhead is on the right within ½ mile.
+
+## Trail Description
+
+This popular trail receives very heavy use during the summer and the autumn color season. It entails a virtually constant climb to the top, so be mindful of your physical condition and take plenty of water in warm weather. The numerous switchbacks enable an otherwise “difficult” incline to be rated as “moderate.” You may be tempted to shortcut across these switchbacks, but doing so causes a great deal of subsequent erosion damage, so please stay on the trail. As you climb, you will notice changing forest types as the soils become drier and less fertile; Table Mountain Pine seems to grow out of solid rock in some places. After approximately two miles, along a rather flat stretch of trail, a spur trail across flat, open rock to your left leads to a beautiful view to the west and southwest that includes John Rock. This is a good destination for those who decide not to go to the end of the trail. (The yellow blazes painted on the rock surface may be faded, so look for a large, white “H” on the rock—an emergency helicopter landing site—to the left of the trail; then proceed diagonally ahead to your left until you reach the rock’s rim. To return to the main trail, proceed on another diagonal through small stands of trees until you rejoin it.) The last mile of the trail is the steepest, and the view suddenly presents itself as the trail tops out and leaves the trees: You will be rewarded with a panoramic vista, looking northward across a wide valley to high balds and the Blue Ridge Parkway environment in the distance.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+MIDDLE FORK TRAIL   (Trail #352)
+Mileage:  1.5 miles
+
+Mileage:  1.5 miles 
+Difficulty:  Moderate
+Blaze:  Orange
+
+Blaze:  Orange
+
+Trailhead Location
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn 
+left (south) onto US 276.  At the first traffic light, turn left (east) on NC 280.  
+Proceed approximately 12.3 miles (past the intersection with NC 191 South) 
+to a traffic light about 200 yards  short of the intersection with NC 191 
+North.  Here an official brown and white sign for “Nat’l Forest Recreation 
+Area, N MILLS RIVER” directs you to your left. Turn left onto North 
+Mills River Road,  and then approximately 5 miles to Wash Creek Road (FS 
+5000), near the North Mills River Campground. Turn right onto FS 5000 
+and proceed 2 miles to the first left turn, a gravel road.  Turn left, cross the 
+low concrete bridge, and drive to the Trace Ridge Trailhead parking area at 
+the  gated  end  of  the road.  Fletcher Creek Trail begins from the 
+Hendersonville Reservoir Road approximately 1.5 miles from the parking 
+lot.  Follow Fletcher Creek (#350) trail from the Hendersonville Reservoir 
+Road approximately 0.9 miles, until it crosses Fletcher Creek. Horses, cross 
+creek then turn left onto Middle Fork Trail; hikers and mountain bikers, 
+turn left before crossing creek and cross the bridge 100 feet downstream. 
+Take the trail straight ahead and up the hill until intersecting with Middle 
+Fork Trail after 25 yards.
+
+Trail Description
+The trail follows an old railroad grade; you may notice some of the old ties
+
+The trail follows an old railroad grade; you may notice some of the old ties 
+still in the ground. It follows or crosses the Middle Fork of the North Mills 
+River for its entire length. You will pass some wildlife fields, which are 
+maintained by the North Carolina Wildlife Resources Commission.  The 
+trail ends at FS 5097 (Fletcher Creek Road).  Turning right (east/north) on 
+FS 5097, then again on Fletcher Creek Trail (#350) provides a loop 
+opportunity of approximately 5 miles total (from Middle Fork trailhead).
+
+---
+
+MOORE COVE TRAIL   (Trail #318)
+Mileage:  0.7 miles
+
+Mileage:  0.7 miles 
+Difficulty:  Easy
+
+Difficulty:  Easy
+Blaze:  Yellow
+
+Blaze:  Yellow
+
+The area within ¼ mile of Moore Cove 
+Falls is closed to public from sunset to 
+sunrise. (Forest Supervisor’s Closure Order; 
+1-20-2005)
+
+Trailhead Location
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn 
+right (north) onto US 276, and proceed 5 miles (one mile north of Looking 
+Glass  Falls).  Slow  as  you  approach  a  stone  highway  bridge  with  an 
+adjoining wooden footbridge and a bulletin board with a “MOORE COVE” 
+sign.  Park on the paved right shoulder; there is room for approximately 18 
+cars—please park diagonally.  Cross the stream via the footbridge and 
+follow the yellow blazes (tree markings).
+
+Trail Description
+This is a good family hike, and one of the most popular hiking trails in the
+
+Trail Description
+This is a good family hike, and one of the most popular hiking trails in the 
+Pisgah District. The first 150 feet of the trail are moderate, but the grade 
+becomes easy for the remainder of the walk. You will cross the creek three 
+more times on good footbridges. A couple of places on the trail may become 
+muddy after a rain, so wear appropriate footgear. Along the trail you may 
+find a wide variety of wildflowers, such as Showy Orchids, Pink Lady’s 
+Slipper, Jack-in-the-Pulpit and Dwarf Iris. You will also walk past large 
+Yellow Poplars, which are the most common tree in a cove forest.  The trail 
+ends at Moore Cove Falls, which drops 50 feet over a cave-like rock 
+outcropping.   The trail does not go beyond the falls.  Do not 
+attempt to hike to the top of the falls, or the area upstream of 
+the  falls;  doing  so  is  dangerous  and  can  cause  significant 
+environmental damage.  The cave-like area behind the falling water is 
+accessible (and provides a pleasant experience, especially on a hot summer 
+day), but watch your footing on damp surfaces.
+
+---
+
+MOUNT PISGAH TRAIL   (Trail #355)
+Mileage:  1.3 miles
+
+Mileage:  1.3 miles 
+Difficulty:  Moderate
+
+Difficulty:  Moderate
+Blaze:  None
+
+Blaze:  None
+
+Trailhead Location
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn 
+right (north) onto US 276, proceed 14 miles to the Blue Ridge  Parkway.  
+Proceed  north  past  mile  marker  409  to  the  Pisgah  Inn,  and  then 
+approximately one mile further to the Mount Pisgah Parking Area, on the 
+right side. Enter this parking area and proceed through the first parking lot 
+to a second lot, a short distance beyond the first.  The trail begins at the far 
+end of the second parking lot.
+
+Trail Description
+This  trail  takes  you  to  the  top  of  Mount  Pisgah,  from  which  many
+
+Trail Description
+This  trail  takes  you  to  the  top  of  Mount  Pisgah,  from  which  many 
+th
+landmarks in this area receive their name. In the late 18 century, a 
+minister climbed (or viewed, depending on the version one accepts) this 
+mountain and, considering the fertile French Broad River Valley below it, 
+named it after that from which Moses first viewed the Israelites’ Promised 
+Land. On clear days, this trail is very popular, since there is a 360-degree 
+view from the top. Though a short trail, it is fairly strenuous. Much of it is 
+rocky; shoes with sturdy, non-slip soles are recommended. There are some 
+switchbacks and log/rock steps that make the climb more manageable, 
+along with occasional boulders on which to catch your breath. There is a 
+viewing platform at the top, built by the Youth Conservation Corps in 1979. 
+Aside from the WLOS-TV tower, the view is unobstructed. On clear days 
+you can see the French Broad River Valley; Asheville; Canton; and many 
+landmarks in the Pisgah Ranger District, including Looking Glass Rock, 
+Cedar Rock Mountain, Cold Mountain, and the Frying Pan fire tower.
+
+---
+
+# MOUNTAINS-TO-SEA TRAIL (Trail#440)
+
+## Mileage: 39.7 miles one way
+
+## Difficulty: Difficult
+
+## Blaze: White Dot
+
+## Trail Access
+
+This trail transects the entire Pisgah Ranger District, generally following the Blue Ridge Parkway. There are several access points to it in the District; those most frequently used are NC 215, Black Balsam Road (FS 816), Buck Spring Trail (#104), and Shut-In Trail (#345).
+
+## Trail Description
+
+The Mountains-to-Sea Trail will eventually provide a foot trail across the entire state of North Carolina. Its western terminus is at one of the highest points in the state, Clingman’s Dome, on the North Carolina/Tennessee state line in Great Smoky Mountains National Park. Its eastern end is in Jockey’s Ridge State Park, near the Atlantic Ocean. It will eventually cover at least 935 miles and, as of the spring of 2008, over 400 miles of off-road footpaths were available. (The completion date for the entire trail cannot be estimated due to the need to negotiate with private landowners.) The trail will be a “travel way” with various sections open to hiking, mountain biking, horseback riding, and even canoeing/kayaking on a parallel paddling path. However, the entire portion of the trail within the Pisgah District is restricted to foot traffic only.
+
+*The trail is completed through the Pisgah District, for a total of 39.7 miles. It is a strenuous trail in places, with many ups and downs. The trail enters the Pisgah District at Haywood Gap on the Blue Ridge Parkway and leaves at the French Broad River near the NC Arboretum. Most of the trail is on or parallel to mountain ridges such as the Pisgah Ridge and Shut-in Ridge, with some side trips available to waterfalls and other water features where you may meander along gurgling streams. Along some stretches the world may seem to be at your feet, while the next mile may plunge you deep into a hardwood forest. On some days the view may take in Georgia and South Carolina, while on others you may not be able to see past the next tree. At the highest western elevations, near 6000 feet, you may need a jacket in July, while at the lower eastern elevations, near 2200 feet, you may want to wade in a cool swimming hole. You will pass through most of the ecosystems found in the Southern Appalachian Mountains, from high elevation grass balds to cove hardwoods forests, and from mountain ridges to thickets of rhododendron.
+
+The Mountains-to-Sea Trail overlaps all or portions of several other district trails, which are generally blazed with 2½” x 6” paint rectangles: Art Loeb National Recreation Trail, Section 2 (#146(2)); Graveyard Ridge (#356); Buck Spring (#104); and Shut-In (#345). The Mountains- to-Sea Trail is blazed with 3” white paint dots, with the exception of the short segment across the Middle Prong Wilderness, where wooden signs point the way.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# NORTH MILLS RIVER TRAIL (Trail#353)
+
+## Mileage: 1.6 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+## Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) on NC 280. Proceed approximately 12.3 miles (past the intersection with NC 191 South) to a traffic light about 200 yards short of the intersection with NC 191 North. Here an official brown and white sign for “Nat’l Forest Recreation Area, N MILLS RIVER” directs you to your left. Turn left onto North Mills River Road, and then approximately 5 miles to Wash Creek Road (FS
+
+5000), near the North Mills River Campground. Turn right onto FS 5000 and proceed 2 miles to the first left turn, a gravel road, marked Hendersonville Reservoir Road. Turn left, cross the low concrete bridge, and drive to the Trace Ridge Trailhead parking area at the gated end of the road. Via the gated gravel road marked Hendersonville Reservoir Road, descend approximately 0.6 miles to the trailhead (signed), on your left.
+## Trail Description
+
+This trail is most recommended for horses or for mountain bikers who want to cool off on a hot day. It crosses the North Mills River several times and there are no bridges. At most times of the year the water at the river crossings is less than 2 feet deep, though water levels rise drastically after a hard rain. The trail begins at a fairly open grassy area, which used to be maintained as a primitive camping area. The trail also ends in a grassy wildlife field, maintained by the North Carolina Wildlife Commission, which is a nice spot to canter if you are horseback riding. From here you may return to the Trace Ridge Trailhead by taking Trace Ridge Trail (#354).
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# NORTH SLOPE TRAIL (Trail #359)
+
+## Mileage: 3.7 miles
+
+## Difficulty: Moderate
+
+## Blaze: Orange
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) ¼ mile to the Davidson River Campground entrance road. Park in the Art Loeb Trailhead parking lot, immediately on your left. Walk into the campground* and to the parking lot for its amphitheater (on the left, about ¼ mile from the Art Loeb parking lot). From the path to the amphitheater, a connector trail leads to the trailhead, which is between sites 87 & 89 in the campground’s Laurel Loop . [Alternatively, cross the Davidson River bridge, immediately turn right, and follow the Exercise Trail (#344) until it intersects the North Slope Trail beyond the English Chapel. This route will bypass the portion of the trail immediately behind (upslope of) the campground.] *Bicyclists must proceed beyond the amphitheater lot approximately 0.3 miles, enter Laurel Loop, and proceed to the trailhead between sites 87 & 89.
+
+## Trail Description
+
+Shortly after leaving the campground area, the trail forks; take the right fork. Continue past the Ted Seely Memorial trail spur, and the spur trail to a small historic cemetery, until the trail reaches the riverside, where an unsigned extension of the Exercise Trail (#344) will join from the right. (You may use this extension, and the Exercise Trail itself, to walk along the river back to the Art Loeb parking lot—a distance of about one mile.) Turn left (upstream) to stay on the North Slope Trail, which gradually leaves the river, then turns left and climbs steadily up the flank of North Slope Ridge. In early June, there is a beautiful display of Mountain Laurel along this section. Before reaching the crest, the trail again turns left, at its intersection with the North Slope Connector (#359A), which climbs steeply to the Art Loeb Trail. From this point, the North Slope Trail gradually descends the flank of North Slope Ridge on an old road, before ending at the campground amphitheatre parking lot. Turn right on the campground road and return to the Art Loeb Trailhead. This trail is open seasonally to mountain ***bikes from October 15 through April 15.***
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# OLD BUTT KNOB TRAIL (Trail #332)
+
+## Mileage: 3.6 miles
+
+## Difficulty: Difficult
+
+## Blazes: None
+
+## Trailhead Location
+
+This trail is in the Shining Rock Wilderness Area: From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed 14 miles north to, and under, the Blue Ridge Parkway, and then approximately 2¾ miles further to the Big East Fork parking area on the left. The Shining Creek Trail leaves the west end of the parking area; follow it for approximately ½ mile to the Old Butt Knob trailhead on the right. (See note below regarding signage in wilderness areas.)
+
+**Trail Description** ***NOTE: This trail is in a federally designated wilderness area,*** ***which by law is managed to minimize evidence of human*** ***presence. Consequently, trails are neither signed nor blazed,*** ***and are maintained at a low level that results in their treads*** ***being difficult or impossible to see at times. An accurate map,*** ***compass, and the ability to use both are mandatory for travel in*** ***a wilderness area. Additionally, in the Shining Rock and*** ***Middle Prong Wilderness Areas, campfires are not allowed, and*** ***groups may not be larger than ten people at any time.*** This trail follows Chestnut Ridge and crosses several knobs that provide nice views of the surrounding Shining Rock Wilderness. In the first half mile after leaving Shining Creek Trail, it climbs very steeply, gaining about 1,400 feet of elevation, before becoming somewhat less strenuous for the remainder of the climb to the top of Old Butt Knob. The trail ends at Shining Rock Gap, where the Art Loeb (#146), Ivestor Gap (#101), and Shining Creek (#363) trails can be accessed; Shining Creek Trail may be used for a loop hike back to the parking area.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# PILOT COVE- SLATE ROCK TRAIL
+
+(Trail #320) **Mileage: 5.3 miles** **Difficulty: Moderate** **Blaze: Blue**
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276, proceed 10 miles, then turn right onto FS 1206 (Yellow Gap Road). After approximately 5¼ miles, you will pass the western trailhead and parking area, at Pilot Cove Creek. (If you plan to do a car shuttle,* leave one of your vehicles here. There is room for two vehicles at the trailhead, and a spot for two more nearby.) Proceed another 1½ miles to the concrete bridge that crosses Slate Rock Creek. The eastern end of the trail begins on the left, next to the creek.
+
+## Trail Description
+
+This trail begins by following Slate Rock Creek. This is an easy to moderate grade with several stream crossings. Slate Rock Creek is typical of mountain streams, with small cascades and an abundance of mosses and ferns. In the summer, wildflowers are prolific. The trail leaves Slate Rock Creek after almost 3 miles and climbs up Slate Rock Ridge. Here, at the gap, the Pilot Cove Loop (#320A) intersects to the left. Continue straight ahead and your trail will descend to Pilot Cove. You will pass through some open grassy fields before crossing the creek. The trail loops away from the stream for approximately ¼ mile (in deference to a former beaver pond, now only a boggy area), before crossing and paralleling it again. Shortly thereafter you will pass the other end of Pilot Cove Loop, and then return to FS 1206. A left turn onto the road will take you back to the eastern trailhead. *Since it *is a 1½-mile walk back to the start point, many hikers opt for a car* *shuttle.*
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# PILOT ROCK TRAIL (Trail #321)
+
+### Mileage: 3.6 miles
+
+### Difficulty: Difficult
+
+### Blaze: Orange
+
+*******
+
+### Trailhead Location
+
+A car switch is necessary to avoid backtracking on this trail. Leaving the Pisgah District Ranger Station/Visitor Center, turn right (north) onto US 276. Proceed north 14 miles to the Blue Ridge Parkway and then go north (right) to the Pisgah Inn (Milepost 408.6). Facing the inn, note a trail system sign, trail marking post, and set of steps at the far left end of the sidewalk that fronts the inn. Use the steps and proceed approximately 0.4 miles on the subsequent trail, which is an unsigned section of the Mountains-to-Sea Trail (#440). *Bikes must be walked or carried on National Park Service ***Land (Parkway) land. Pilot Rock Trail starts on your right, at a signed intersection.*** The other end of the trail is 3.6 miles away on FS 1206 (Yellow Gap Road) [the sign’s mileage of “2.3 mi” is incorrect], approximately 4 miles from US 276. Parking for one or two cars is available there, with another small space nearby. If your primary destination is Pilot Rock, start your hike there.
+
+### Trail Description
+
+After leaving the Mountains-to-Sea Trail, the Pilot Rock Trail climbs up Little Bald Mountain, which is a grass savanna; in the summer, you are likely to hear the drumming of Ruffed Grouse. The trail then descends moderately down a dry ridge until reaching the top of Pilot Rock. The first access point to the rock is rather steep and small; the second, about 20 yards further, is more comfortable to use. From here, a breathtaking, 180-degree view of the surrounding mountains includes Funneltop Mountain, the Pink Beds Valley, and Pilot Mountain. The top of Cedar Rock Mountain (approximately ten miles away) is just visible above a far ridge. After leaving the crest of Pilot Rock, you will come to the steepest section of the trail: a 600-foot descent in less than a mile on a series of switchbacks. Along the way, you will pass the Pilot Rock Extension ((#321A), a
+
+0.4-mile spur trail that provides access to the rock’s base for technical climbers. The trail terminates on FS 1206 at Grassy Lot Gap.
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+PINE TREE LOOP  (Trail #336)
+Mileage:  2.0 miles
+
+Mileage:  2.0 miles 
+Difficulty:  Easy
+
+Difficulty:  Easy
+Blaze:  Blue
+
+Blaze:  Blue
+
+Trailhead Location
+This trail is in what is popularly called the Bent Creek area, near Lake
+
+Trailhead Location
+This trail is in what is popularly called the Bent Creek area, near Lake 
+Powhatan Recreation Area.  Leaving the Pisgah District Ranger 
+Station/Visitor Center parking lot, turn left (south) onto US 276.  At the 
+first traffic light, turn left (east) on NC 280.  Proceed approximately 12.5 
+miles, to NC 191 north.  Turn left (north) onto NC 191, and then proceed 7.7 
+miles to Bent Creek Ranch Road (SR 806), which is ½ mile north of the 
+Blue Ridge Parkway, signed for the Recreation Area, and at a traffic light.  
+Turn  left  on  Bent  Creek  Ranch  Road  and  proceed  2.3  miles  to  the 
+Recreation Area. The trail starts from the gravel road to the beach, just past 
+the concrete bridge. Note: There is a small parking fee for day users.
+
+Trail Description
+This is an easy loop trail which is a nice family excursion. The first part of
+
+This is an easy loop trail which is a nice family excursion. The first part of 
+the trail follows Bent Creek, and is part of the Bent Creek Demonstration 
+Forest "Habitat Hike". You will see interpretive signs explaining various 
+types of habitat and the plants and animals most likely to be found. The 
+trail then becomes a grass road which crosses a wildlife field before 
+climbing gradually to reveal some nice views of the surrounding area. The 
+last section of the trail will bring you back through an upland hardwood 
+forest and past another wildlife field before descending to the beach road 
+100 yards from where you started.  Be sure to check your map for other 
+trails in the area which provide loop opportunities.  This trail is open to 
+mountain bikes seasonally from October 15 through April 15.
+
+---
+
+# PINK BEDS LOOP (Trail #118)
+
+### Mileage: 5.0 miles
+
+### Difficulty: Easy
+
+### Blaze: Orange
+
+*******
+
+### Trailhead Location
+
+From Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276. Drive approximately 10 miles, to Pink Beds Picnic Area (just beyond the Cradle of Forestry in America and its Forest Discovery Center). Trail begins at far corner of Pink Beds parking area.
+
+### Trail Description
+
+Pink Beds Loop has only minor elevation changes, so it is popular for family hikes. The trail passes through a portion of the Pink Beds Valley, named by the settlers who first cleared the area when the abundant blooms of local plants were visible from the surrounding mountainsides; now that the area has been reforested, the name is more historical than descriptive. The trail is well marked, but it is still important to follow the orange blazes. The north side, somewhat higher and drier than the south side, follows an old road much of the way and has a series of wildlife fields at its near (western) end. These wildlife fields afford views of the nearby mountain ridges if one hikes the trail in a clockwise direction. Camping is not permitted in the wildlife fields. *The north side **is closed to bikes from April 16 through October 14. At the far (eastern) end of** the loop, a spur trail of 0.8 miles goes to the Wolf Ford gauging station, which is on the South Fork of the Mills River near the end of FS 476 (Wolf Ford Road). The south side of the loop, open to foot traffic only, generally follows the South Fork of the Mills River, deviating upslope on its eastern half to avoid conflict with recurrent beaver activity. (See map on reverse.) The trail crosses the river several times via foot bridges. Low areas have bog bridges, though your feet may still get wet during rainy periods.
+
+An intersecting trail, Barnett Branch (#618), crosses this trail near its middle, and offers additional loop hike opportunities. (See map on reverse side.) Bikes are not allowed on **Barnett Branch Trail.**
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# POUNDINGMILL TRAIL (Trail #349)
+
+## Mileage: 1.5 miles
+
+## Difficulty: Moderate
+
+## Blaze: Orange
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) on US 276 for approximately 1½ miles, then turn left onto US 280 for approximately 7 miles and turn left on Turkeypen Road immediately after crossing the Transylvania/Henderson County line. Start from Turkeypen Gap Trailhead, at the end of the road. (This trailhead has limited parking).Follow the South Mills River Trail (133) approximately 2.5 miles to Poundingmill Branch, where the trail begins.
+
+## Trail Description
+
+Poundingmill is a lightly used trail which connects the South Mills River and Squirrel Gap trails (#133 and #147, respectively). It is a moderate climb as the trail follows Poundingmill Branch almost the entire way. There are some stream crossings, though they are fairly shallow. The trail passes through several rhododendron thickets and young hardwood forests. After
+
+0.4 miles, you will cross an old grass road, but the trail continues straight ahead. You will notice some forests with thick grass growing in the understory. In early summer, the observant will see Yellow Lady's Slippers alongside the trail. You may also notice signs of deer. The trail ends on the Squirrel Gap Trail (#147) in a shallow gap on the shoulder of Poundingstone Mountain. Check your map for a variety of loop opportunities in this area.
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# SHINING CREEK TRAIL (Trail #363)
+
+## Mileage: 3.4 miles
+
+## Difficulty: Difficult
+
+## Blaze: None
+
+## Trailhead Location
+
+This trail is in the Shining Rock Wilderness Area: From the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed 14 miles north to, and under, the Blue Ridge Parkway, and then approximately 2¾ miles further to the Big East Fork parking area on the left. The Shining Creek Trail leaves the west end of the parking area. (See note below regarding signage in wilderness areas.)
+
+**Trail Description** ***NOTE: This trail is in a federally designated wilderness area,*** ***which by law is managed to minimize evidence of human*** ***presence. Consequently, trails are neither signed nor blazed,*** ***and are maintained at a low level that results in their treads*** ***being difficult or impossible to see at times. An accurate map,*** ***compass, and the ability to use both are mandatory for travel in*** ***a wilderness area. Additionally, in the Shining Rock and*** ***Middle Prong Wilderness Areas, campfires are not allowed, and*** ***groups may not be larger than ten people at any time.*** This trail follows Shining Creek for the majority of its length. There are plenty of good spots to leave the trail and view undisturbed pools of green water or look upon steep slopes with plentiful, tall trees. The trail ends with multiple traverses to reach Shining Rock Gap, where the Art Loeb (#146), Ivestor Gap (#101), and Old Butt Knob (#322) trails can be accessed; Old Butt Knob Trail may be used for a loop hike back to the parking area.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+SHUT-IN TRAIL   (Trail #345)
+Mileage:  16.3 miles
+
+Mileage:  16.3 miles 
+Difficulty:  Difficult
+
+Difficulty:  Difficult
+Blaze:  White
+
+Blaze:  White
+
+Trailhead Location
+Leaving  the  Pisgah  District  Ranger  Station/Visitor  Center,  turn  right
+
+Trailhead Location
+Leaving  the  Pisgah  District  Ranger  Station/Visitor  Center,  turn  right 
+(north) onto US 276.  Proceed north 14 miles to the Blue Ridge Parkway, 
+and then 4.2 miles north on the Parkway, to MP 407.6, just beyond the 
+Pisgah Inn.  Here two connected parking areas serve the Buck Spring Gap 
+Overlook and then the Mount Pisgah trailhead. The Shut-In Trail starts at 
+the steps at the northern end of the overlook’s parking area, but a large sign 
+on the right side of the Mount Pisgah parking area’s southern end provides 
+a more prominent access point.  There are many additional access points 
+along the Blue Ridge Parkway; wooden posts with a white hiker symbol 
+mark these crossings. The trail ends near the French Broad River, at the 
+Parkway’s entrance/exit ramp for NC 191; paved, roadside parking is 
+available there.
+
+Trail Description
+The Shut-in Trail was probably named for the thick rhododendron thickets
+
+Trail Description
+The Shut-in Trail was probably named for the thick rhododendron thickets 
+that make the hiker feel "shut in".  George Vanderbilt constructed it in the 
+1890’s for the purpose of reaching his Buck Spring Hunting Lodge from the 
+Biltmore House. (The remnants of the lodge are near the Buck Spring Gap 
+Overlook.) Since that time, this route has been converted to a hiking trail, 
+and is now a part of the Mountains-to-Sea Trail (#440, white dot blazes).  
+In 16.3 miles, the trail changes elevation almost 3,000 feet, and in places 
+can be quite challenging. Except where the trail crosses the Parkway, it is a 
+quiet walk through beautiful hardwood forests with many nice views of the 
+valleys below. Despite its proximity to the Parkway, this trail does not 
+receive much use, particularly along its southern reaches.
+
+---
+
+# SLEEPY GAP TRAIL (Trail #339)
+
+### Mileage: 0.9 miles
+
+### Difficulty: Moderate
+
+### Blaze: Red
+
+*******
+
+### Trailhead Location
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) onto US 276. Proceed 14 miles and go north on the Blue Ridge Parkway to the Sleepy Gap Overlook (milepost 397.8, on left). The trailhead is visible from the left corner of the parking area; this initial ***(southern) segment of the trail is closed to bikes.****
+
+### Trail Description
+
+For the most part, this trail travels through hardwood forests with some rhododendron. It first drops rather steeply to Beaten Branch, then somewhat less steeply to FS 479M (South Ridge Road) and then Explorer Loop (#337). *Only the trail segment north of FS 479M is open to ***bikes. There are no outstanding views, though in the wintertime; you may*** catch glimpses of Asheville on clear days. Mountain bikes find the northern section of this trail pleasant when combined with FS 479M, which is an easy, long (7.8-mile) dirt road; and/or Explorer Loop, a 3-mile trail of moderate difficulty. Due to the number of other trails and roads in the area, a map is vital until you are familiar with the trail system.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# SOUTH MILLS RIVER TRAIL (Trail#133)
+
+## Mileage: 12.0 miles
+
+## Difficulty: Difficult
+
+## Blaze: White
+
+## Trailhead Location
+
+From Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276 for approximately 10 miles, and turn right on FS 1206 (Yellow Gap Road). Proceed approximately 3¼ miles to FS 476 (Wolf Ford Road) and turn right; trailhead is at the end of this short road. (Horse trailers should not go beyond the loop campsite on right side of FS 476, since there is insufficient turn-around space at road’s end.)
+
+Alternative access is from the Turkeypen area: From the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) on US 276 for approximately 5.2 miles and turn left on Turkeypen Road (FS 297) immediately after crossing the Transylvania/Henderson County line. Proceed 1.2 miles to the Turkeypen Gap Trailhead Parking Area at the end of the road. (This trailhead is sometimes congested with horse trailers). The trail starts near a kiosk and road gate at the far end of the parking area.
+
+## Trail Description
+
+Though this trail is on a relatively easy grade, there are nine bridgeless river crossings, thus the Difficult rating. From the end of FS 476, it is four miles to Wolf Ford, where there is a nice campsite. There is also a suspension bridge for hikers, but from here to Cantrell Creek there are no bridges. You will notice signs of an old railroad along much of the trail; look for old trestles at water crossings. Due to the trail’s location at the bottom of a steep valley, it remains cold in the winter, but is very refreshing in the summer. Between Cantrell Creek and the Turkeypen Gap Trailhead there are suspension bridges for hikers to cross. There are numerous intersections with other trails for loop opportunities.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# SQUIRREL GAP TRAIL (Trail #147)
+
+## Mileage: 7.5 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) on US 276 for approximately 1½ miles, then turn left onto US
+
+280. Proceed east on US 280 for approximately 5.2 miles and turn left on Turkeypen Road immediately after crossing the Transylvania/Henderson County line. Start from Turkeypen Gap Trailhead, at the end of the road. (This trailhead has limited parking). Follow the South Mills River Trail (#133) until it intersects Bradley Creek Trail (#351) before the first river crossing. Stay on Bradley Creek Trail until just past Pea Gap, where the Squirrel Gap Trail intersects.
+## Trail Description
+
+From where this trail leaves the Bradley Creek Trail, it follows an easy grade to the old Mullinax homeplace where there is a grassy opening and remains of the house foundation. From here it becomes a side slope trail, continuing through upper hardwood forests. The trail winds in and out of several gaps, such as Mullinax Gap, Laurel Gap, Horse Cove Gap and Squirrel Gap. The trail finally descends to Wolf Ford where it intersects with the South Mills River Trail (#133). Only some parts of this trail are open to horses, so watch for trail signs, which state which uses are allowed. There are several trails which intersect this one, and many opportunities for longer hikes and rides.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# SUMMEY COVE TRAIL (Trail #129)
+
+## Mileage: 2.0 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+## Trailhead Location
+
+Via paved roads: Leaving Pisgah District Ranger Station/Visitor Center parking lot, go left (south) on US 276 for approximately 1.5 miles, then right (west) on US 64. Go west on NC 64 for approximately 15 miles; turn right (north) on NC 215. Proceed north 10½ miles on NC 215 to FS 140 (Courthouse Creek Road) on your right. Continue 1.3 miles further, to a small stream, Bee Tree Branch; there is roadside parking on the left, before the road bridge. Alternative route through forest: From Pisgah District Ranger Station/Visitor Center parking lot, turn right (north) on US 276. Proceed approximately 3½ miles north, and turn left onto FS 475 (Davidson River Road, signed for the Pisgah Center for Wildlife Education and state Fish Hatchery). Drive approximately 1½ miles (paved road) to the Center for Wildlife Education and then approximately 5.3 miles beyond it (via gravel road) to SR 1327 (Shoal Creek Road; paved), then SR 1328 (Clinic Road; also paved), the latter of which intersects NC 215. Turn right (north), go 2.6 miles to FS 140. Continue as described above. (NOTE: The trailhead is 5¼ miles south of the Blue Ridge Parkway on NC 215.)
+
+## Trail Description
+
+Summey Cove Trail is lightly traveled between NC 215 and the side trail to Courthouse Falls (see below). It quickly leaves Bee Tree Branch and ascends steeply to a gap on Big Fork Ridge. The hard part now over, the trail descends steeply toward a stream crossing in Summey Cove. Immediately afterward, there is a sharp turn to the right, signaled by a double paint blaze. The trail later crosses Mill Station Creek via a primitive footbridge, and then passes a nearby grassy opening, where spring daffodils are reminders of an historic home site, now a primitive campsite. It continues on an easy grade to the short spur trail leading to Courthouse Falls, one of the most picturesque waterfalls in the Pisgah District: The spur is in a wide, smooth, sweeping, left turn of the main trail, and traverses downward to your right; though there may be no signs or blazes visible, two natural stone steps at the top of the trail help distinguish it. The main trail is easy as it follows an old roadbed while offering nice views of the creek, but stays damp year round. It soon crosses a bridge over Courthouse Creek and ends at FS 140.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# SYCAMORE COVE TRAIL (Trail #143)
+
+## Mileage: 3.2 miles
+
+## Difficulty: Moderate
+
+## Blaze: Blue
+
+## Trailhead Location
+
+Leaving parking lot of Pisgah District Ranger Station/Visitor Center, turn left on US 276. Go ¼ mile and turn right onto the Davidson River Campground access road. Start from the Art Loeb Trailhead parking lot, on the left. (Alternate parking sites/starting points are shown on the Ranger *Station Area Trail Guide handout available at the Ranger Station Visitor* Center.) Go behind the gate at the end of the parking lot and follow the dirt road as it passes a footbridge crossing the Davidson River on the right. Cross a small stream; then follow the trail as it turns left and crosses US
+
+276. Sycamore Cove Trail begins here, and ends at US 276 approximately 200 yards east of the start point.
+## Trail Description
+
+This trail—essentially a loop—is a nice family hike with a variety of vegetation types and scenery. The trail initially follows Starnes Branch amidst large hemlock trees. After crossing the branch, the trail becomes moderate in difficulty and makes a rather constant climb to a higher and drier sideslope. Take heart, because in a less than a mile the trail levels out, winding in and out of several drainages. In the fall and winter, there are some nice views, which are more easily enjoyed when hiking in this direction (rather than starting at the eastern trailhead): They include Pilot Mountain, the lush Davidson River valley, and glimpses of the French Broad River valley and Schenck Job Corps Center.
+
+The last ½ mile is a fairly steep descent back to US 276. Upon reaching the highway at the trail’s eastern trailhead, walk along the left side of the road for 200 yards to return to the Davidson River footbridge.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# THRIFT COVE TRAIL (Trail #603)
+
+## Mileage: 3.9 miles if hiked as a loop*
+
+## Difficulty: Easy
+
+## Blaze: Red
+
+## Trailhead Location
+
+From the Pisgah Ranger Station/Visitor Center parking lot, turn left (south) on US 276 for approximately 0.1 mile and turn left as if to enter the Ranger District’s gated work center; park in the paved lot to the right of the work center. The Black Mountain Trail (#127) starts on the old dirt road behind the parking lot. Hike to your left on that trail, and in about 300 yards you will reach its intersection with Thrift Cove Trail—actually a continuation of the road.
+
+## Trail Description
+
+This is a pleasant, relatively undemanding hiking trail that can easily be done as a loop by using the Black Mountain Trail (#127) for your return leg. This loop is also popular with mountain bikers as a short warm-up. After starting as a gravel road, the trail becomes a grassy road for most of its length. Approximately ¼ mile after its departure from the Black Mountain Trail, the trail is intersected by several others [see map on reverse]; follow the signs and old roadbed to stay on course. The trail climbs steadily for over a mile before leveling off; you may be rewarded with glimpses of wild turkeys in this area. At the halfway point, the scenery changes dramatically as you move from an upland hardwood forest into a shady cove forest. The trail tread becomes narrower and more “trail-like” here, and throughout the summer the thick grasses are bright green. Finally, you will circumvent a large field being maintained as wildlife habitat before again encountering the Black Mountain Trail (#127), where the Thrift Cove Trail ends. *If you proceed downhill (to your left) on the Black Mountain Trail (a traditional, single- track, mountain trail), you will, after 1.3 miles, return to the parking lot.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+TRACE RIDGE TRAIL   (Trail #354)
+Mileage:  3.1 miles
+
+Mileage:  3.1 miles 
+Difficulty:  Moderate
+Blaze:  Orange
+
+Trailhead Location
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south)
+
+Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) 
+onto US 276.  At the first traffic light, turn left (east) on NC 280.  Proceed approximately 
+12.3 miles (past the intersection with NC 191 South) to a traffic light about 200 yards 
+short of the intersection with NC 191  North. Here an official brown and white sign
+indicates that the “N MILLS RIVER Nat’l Forest Recreation Area” is to your left. Turn 
+left onto North Mills River Road, and then 5 miles to Wash Creek Road (FS 5000), near 
+the North Mills River Campground. Turn right onto FS 5000 and proceed 2 miles to the 
+first left turn, a gravel road.  Turn left, cross the low concrete bridge, and drive to the 
+Trace Ridge Trailhead parking area at the gated end of the road.
+
+Trail Description
+This area of the Pisgah District is popular, since there is a varied, interconnecting trail
+
+This area of the Pisgah District is popular, since there is a varied, interconnecting trail 
+system, of which Trace Ridge Trail is an important link. The southern portion of the trail 
+(approx. ½ mile long) leaves from behind the left side of the bulletin board at the end of 
+the parking area and descends to the North Mills River  Trail (#353) and Yellow Gap 
+Trail (#611). There is a small rock outcrop that the trail passes over, which is tricky for 
+horses and bikes, especially when covered by leaves. The trail’s northern portion 
+(approx. 2.6 miles long) begins just beyond the gated road that is uphill of the parking 
+area, and is fairly steep as it climbs up Trace Ridge. There is a short, steep drop to 
+Spencer Gap before finishing the climb to the Blue Ridge Parkway. There are views west 
+to the Big Creek valley during the fall and winter.  The trail segment beyond 
+Spencer Branch Trail (#140) is closed to bikes and horses.  All users may loop 
+westward on Spencer Branch Trail (#140) and Fletcher Creek Trail (#350). 
+Alternatively,  bikes and hikers only may also loop westward via Spencer Branch Trail 
+(#140), Fletcher Creek Trail (#350), and Spencer Gap Trail (#600); or east on Spencer 
+Branch Trail (#140) and FS 5000 (Wash Creek Road).
+
+---
+
+TURKEYPEN GAP TRAIL   (Trail #322)
+Mileage:  5.5 miles
+
+Mileage:  5.5 miles 
+Difficulty:  Difficult
+Blaze:  Blue
+
+Trailhead Location
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn 
+left (south) on US 276 for approximately 1½ miles, and then turn left onto 
+NC 280. Proceed east on NC 280 for approximately 5.2 miles and turn left 
+on Turkeypen Road (FS 297) immediately after crossing the 
+Transylvania/Henderson County line. Proceed 1.2 miles to the Turkeypen 
+Gap Trailhead to the end of the road.  (This trailhead has limited parking).
+The trail begins on the left side of the parking area.
+
+Trail Description
+This is one of the most challenging trails on the Pisgah District but is also
+
+Trail Description
+This is one of the most challenging trails on the Pisgah District but is also 
+one of the most pristine. Starting at Turkeypen Gap, it climbs steeply up to 
+the top of Sharpy Mountain. If you survive this climb, you will most likely 
+finish in good shape, though there are a series of steep ascents and descents 
+along the entire length of the trail. The trail follows the top of a ridge and 
+affords nice views into the South Mills River valley. An intersection with 
+Wagon Road Gap Trail (#134) provides a loop hike when combined with 
+South Mills River Trail (#133). This trail ends at the Black Mountain Trail 
+(#127). Plan on carrying any water you will need, since most of the trail is 
+on a dry ridge.
+
+---
+
+VINEYARD GAP TRAIL  (Trail #324)
+Mileage:  2.3 miles
+
+Mileage:  2.3 miles
+Difficulty:  Moderate
+Blaze:  Yellow
+
+Trailhead Location
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn 
+left (south) on US 276 for approximately 1½ miles, and then turn left onto 
+NC 280. Proceed east on NC 280 for approximately 5.2 miles and turn left 
+on Turkeypen Road (FS 297) immediately after crossing the 
+Transylvania/Henderson County line. Proceed 1.2 miles to the Turkeypen 
+Gap Trailhead Parking Area at the end of the road.  (This trailhead is 
+sometimes congested with horse trailers).   The trail starts at a set of steps 
+on the right side of the parking area.
+
+Trail Description
+The trail climbs moderately to the ridge of Forge Mountain; in the fall and
+
+The trail climbs moderately to the ridge of Forge Mountain; in the fall and 
+winter, there are some nice views. Be sure to follow the paint blazes, since 
+some unmaintained side trails intersect. From Forge Mountain the trail 
+makes a sharp turn and drops steeply to the South Fork of Mills River, 
+where it ends and Riverside trail (#115) begins (with a fording of the river).  
+A short side trip downstream will bring you to an old home site, some of the 
+remains of which may still be visible. There are some nice campsites along 
+the river.
+
+---
+
+# WAGON ROAD GAP TRAIL (Trail #134)
+
+## Mileage: 0.7 miles
+
+## Difficulty: Difficult
+
+## Blaze: Orange
+
+## Trailhead Location
+
+From the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) on US 276 for approximately 1½ mile, and then turn left onto US 280. Proceed east on US 280 for approximately 5.2 miles and turn left on Turkeypen Road immediately after crossing the Transylvania/Henderson County line. Proceed 1.2 miles to the Turkeypen Gap Trailhead, at the end of the road. (This trailhead has limited parking). Follow the South Mills River Trail (#133) for three miles and the Wagon Road Gap Trail intersects just past the second creek crossing. (The first is via a bridge; the second is not, but will eventually be provided with one.)
+
+## Trail Description
+
+This is a short but steep trail that provides a nice connection between the South Mills River Trail (#133) and the Turkeypen Gap Trail (#322). Since it climbs a north-facing slope, it remains damp year round. Because of this, the vegetation is lush with ferns, mosses and a wide variety of wildflowers. You will also see large hardwoods including oak, hickory, and red maple. Rhododendrons are large and grow lushly near the top of the trail. At the end of the trail, private property borders the Turkey Pen Gap Trail. Please respect this private land and its owners by staying on the trail.
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011
+
+---
+
+# WOLF BRANCH TRAIL (Trail# 666)
+
+## Mileage: 1.2 miles
+
+## Difficulty: Easy
+
+## Blaze: Yellow
+
+## Trailhead Location
+
+This trail, which is accessed via Deer Lake Lodge Trail (#664), is in what is popularly called the Bent Creek area, near Lake Powhatan Recreation Area. Leaving the Pisgah District Ranger Station/Visitor Center parking lot, turn left (south) onto US 276. At the first traffic light, turn left (east) onto NC
+
+280. Proceed approximately 12.5 miles, to NC 191 north. Turn left (north) onto NC 191, and then proceed 7.7 miles to Bent Creek Ranch Road (SR
+806), which is ½ mile north of the Blue Ridge Parkway, signed for the Recreation Area, and at a traffic light. Turn left on Bent Creek Ranch Road and proceed approximately 1.4 miles, then turn right on FS 491 (Rice Pinnacle Road). Stay on the pavement, which will bear left and end at a paved parking lot. Take Deer Lake Lodge Trail (#664) from this parking area. After approximately ¼ mile, a short spur trail to the right will lead to the trailhead for Wolf Branch Trail.
+## Trail Description
+
+The first half of the trail follows Wolf Branch, with a few stream access spots. The last half passes through a managed hardwood forest. The trail climbs gradually in a northwest direction until the last quarter mile, when it significantly increases in grade before ending at FS 479E (Ledford Branch Road). From this point, loop opportunities back to the parking area are available: right (northeast), then south, via FS 479E and FS 491 (Rice Pinnacle Road); or left (south), then east, via FS 479E and Deer Lake Lodge Trail (#664).
+
+Pisgah National Forest Pisgah Ranger District, 1600 Pisgah Hwy, Pisgah Forest, NC 28768, (828) 877-3265 10/2011

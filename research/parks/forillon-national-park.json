@@ -1,0 +1,46 @@
+{
+ "id": "forillon-national-park",
+ "name": "Forillon National Park",
+ "policy": "everywhere",
+ "policyReason": "The park invites visitors to enjoy its trails and beaches with their pet.",
+ "summary": "Leashed dogs can use the trails and beaches and stay at all campgrounds.",
+ "excerpts": [
+  {
+   "quote": "Enjoy the park’s trails and beaches with your pet.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/forillon/info/reglements-regulations"
+  },
+  {
+   "quote": "Your pet is welcome at all campgrounds, as well as in the oTENTik tent F-7 at Petit-Gaspé campground and B-101 at Des-Rosiers campground.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/forillon/info/reglements-regulations"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash of 3 m or less at all times.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/forillon/info/reglements-regulations"
+  },
+  {
+   "text": "Dogs are not allowed inside service buildings.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/forillon/info/reglements-regulations"
+  },
+  {
+   "text": "Pets are welcome at all campgrounds and in oTENTiks F-7 (Petit-Gaspé) and B-101 (Des-Rosiers).",
+   "url": "https://www.pc.gc.ca/pn-np/qc/forillon/info/reglements-regulations"
+  },
+  {
+   "text": "Keep pets leashed near seal pups; check pets for ticks after hikes.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/forillon/securite-safety/faune-wildlife"
+  },
+  {
+   "text": "Service animals are allowed throughout the park.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/forillon/visit/accessibilite-accessibility"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/qc/forillon",
+ "petsUrl": "https://www.pc.gc.ca/pn-np/qc/forillon/info/reglements-regulations",
+ "coordinates": [
+  -64.35,
+  48.9
+ ],
+ "coordinatesSource": "Wikidata Q1437338"
+}

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research progress</title>
+<style>
+  :root { color-scheme: dark; --bg:#09090b; --card:#18181b; --line:#27272a; --text:#fafafa; --muted:#a1a1aa;
+          --ok:#22c55e; --fail:#ef4444; --pending:#3f3f46; }
+  body { margin:0; background:var(--bg); color:var(--text); font:14px/1.5 system-ui, sans-serif; padding:24px 16px; }
+  main { max-width:960px; margin:0 auto; }
+  h1 { font-size:18px; margin:0 0 4px; }
+  .muted { color:var(--muted); }
+  .bar { display:flex; height:10px; border-radius:5px; overflow:hidden; background:var(--pending); margin:8px 0 4px; }
+  .bar span { display:block; }
+  .ok { background:var(--ok); } .fail { background:var(--fail); }
+  .region { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-top:14px; }
+  .row { display:flex; justify-content:space-between; gap:12px; font-variant-numeric:tabular-nums; }
+  .dots { display:flex; flex-wrap:wrap; gap:3px; margin-top:10px; }
+  .dot { width:10px; height:10px; border-radius:2px; background:var(--pending); }
+  details { margin-top:8px; } summary { cursor:pointer; color:var(--muted); }
+  li { margin:4px 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Dog rules research</h1>
+  <div class="muted" id="updated">Loading…</div>
+  <div id="total"></div>
+  <div id="regions"></div>
+</main>
+<script>
+const NAMES = { 'us-parks': 'US national parks', 'us-forests': 'US national forests',
+  'canada-parks': 'Canada national parks', 'quebec-parks': 'Québec national parks' };
+function bar(c, n) {
+  return `<div class="bar"><span class="ok" style="width:${100 * c.verified / n}%"></span>` +
+    `<span class="fail" style="width:${100 * c.failed / n}%"></span></div>`;
+}
+function line(c, n) {
+  return `<div class="row"><span>✓ ${c.verified} verified · ✕ ${c.failed} failed · ${c.pending} to do</span>` +
+    `<span>${Math.round(100 * (c.verified + c.failed) / n)}%</span></div>`;
+}
+async function load() {
+  try {
+    const p = await (await fetch('progress.json?' + Date.now())).json();
+    document.getElementById('updated').textContent = 'Updated ' + new Date(p.updated).toLocaleString();
+    document.getElementById('total').innerHTML = bar(p.counts, p.total) + line(p.counts, p.total);
+    document.getElementById('regions').innerHTML = Object.entries(p.byRegion).map(([r, c]) => {
+      const parks = p.parks.filter(x => x.region === r);
+      const n = parks.length;
+      const failed = parks.filter(x => x.status === 'failed');
+      return `<section class="region"><div class="row"><strong>${NAMES[r] || r}</strong><span class="muted">${n}</span></div>` +
+        bar(c, n) + line(c, n) +
+        `<div class="dots">${parks.map(x => `<span class="dot ${x.status === 'verified' ? 'ok' : x.status === 'failed' ? 'fail' : ''}" title="${x.name}"></span>`).join('')}</div>` +
+        (failed.length ? `<details><summary>Failed (${failed.length})</summary><ul>${failed.map(x => `<li>${x.name}: <span class="muted">${(x.problems || []).join('; ')}</span></li>`).join('')}</ul></details>` : '') +
+        `</section>`;
+    }).join('');
+  } catch (e) {
+    document.getElementById('updated').textContent = 'No progress yet. Run check.py.';
+  }
+}
+load(); setInterval(load, 5000);
+</script>
+</body>
+</html>

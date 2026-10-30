@@ -1,0 +1,26 @@
+{
+ "id": "inyo-national-forest",
+ "name": "Inyo National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed; leashing is strongly advised on busy trails.",
+ "summary": "Dogs are allowed; leashing is strongly advised on busy trails.",
+ "excerpts": [
+  {
+   "quote": "Wherever you are with your dog, we highly recommend that you leash them, especially in crowded and high-use trails such as Little Lakes Trail in Rock Creek, Big Pine Lakes",
+   "url": "https://www.fs.usda.gov/r05/inyo/safety-ethics/dogs-inyo-national-forest"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pack out dog waste.",
+   "url": "https://www.fs.usda.gov/r05/inyo/safety-ethics/dogs-inyo-national-forest"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/inyo",
+ "petsUrl": "https://www.fs.usda.gov/r05/inyo/safety-ethics/dogs-inyo-national-forest",
+ "coordinates": [
+  -118.286,
+  37.8528
+ ],
+ "coordinatesSource": "Wikidata Q1671852"
+}

@@ -1,0 +1,26 @@
+{
+ "id": "national-park-of-american-samoa",
+ "name": "National Park of American Samoa",
+ "policy": "roads",
+ "policyReason": "The pets page bars pets from trails and beaches but not from the park itself.",
+ "summary": "Pets are not allowed on hiking trails, swimming beaches or in buildings.",
+ "excerpts": [
+  {
+   "quote": "Pets, including cats, dogs or other domesticated animals are not allowed on hiking trails or within park buildings.",
+   "url": "https://www.nps.gov/npsa/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets in buildings, transit vehicles or on swimming beaches.",
+   "url": "https://www.nps.gov/npsa/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/npsa",
+ "petsUrl": "https://www.nps.gov/npsa/planyourvisit/pets.htm",
+ "coordinates": [
+  -170.68333333,
+  -14.25833333
+ ],
+ "coordinatesSource": "Wikidata Q843075"
+}

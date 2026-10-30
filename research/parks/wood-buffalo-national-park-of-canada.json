@@ -1,0 +1,26 @@
+{
+ "id": "wood-buffalo-national-park-of-canada",
+ "name": "Wood Buffalo National Park",
+ "policy": "everywhere",
+ "policyReason": "The park only requires dogs to be leashed and lists no bans.",
+ "summary": "Dogs are allowed on a leash at all times.",
+ "excerpts": [
+  {
+   "quote": "Keep your dog on leash at all times.",
+   "url": "https://www.pc.gc.ca/pn-np/nt/woodbuffalo/activ/observation-viewing"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Keep dogs leashed, especially near bison.",
+   "url": "https://www.pc.gc.ca/pn-np/nt/woodbuffalo/securite_safety/bison"
+  }
+ ],
+ "officialUrl": "https://pc.gc.ca/en/pn-np/nt/woodbuffalo",
+ "petsUrl": null,
+ "coordinates": [
+  -112.983,
+  59.3833
+ ],
+ "coordinatesSource": "Wikidata Q391338"
+}

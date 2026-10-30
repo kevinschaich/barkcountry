@@ -1,0 +1,26 @@
+{
+ "id": "mark-twain-national-forest",
+ "name": "Mark Twain National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed on hiking trails.",
+ "summary": "Dogs are allowed on hiking trails.",
+ "excerpts": [
+  {
+   "quote": "Dogs are allowed on hiking trails.",
+   "url": "https://www.fs.usda.gov/r09/marktwain/recreation/lazy-c-trailhead"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "6-ft leash in day use areas.",
+   "url": "https://www.fs.usda.gov/r09/marktwain/recreation/lazy-c-trailhead"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/mtnf",
+ "petsUrl": "https://www.fs.usda.gov/r09/marktwain/recreation/lazy-c-trailhead",
+ "coordinates": [
+  -91.09,
+  37.637
+ ],
+ "coordinatesSource": "Wikidata Q6770091"
+}

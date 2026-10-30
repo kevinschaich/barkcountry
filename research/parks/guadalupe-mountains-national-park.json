@@ -1,0 +1,30 @@
+{
+ "id": "guadalupe-mountains-national-park",
+ "name": "Guadalupe Mountains National Park",
+ "policy": "roads",
+ "policyReason": "Pets are allowed on less than a mile of trails; mostly campgrounds and the park road.",
+ "summary": "Pets are allowed on less than a mile of trails; mostly campgrounds and the park road.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed on less than a mile of trails park-wide.",
+   "url": "https://www.nps.gov/gumo/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No trails at Dog Canyon.",
+   "url": "https://www.nps.gov/gumo/planyourvisit/dogcanyon.htm"
+  },
+  {
+   "text": "Dog Canyon campground and park road allow leashed pets.",
+   "url": "https://www.nps.gov/gumo/planyourvisit/dog_canyon_campground.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/gumo",
+ "petsUrl": "https://www.nps.gov/gumo/planyourvisit/pets.htm",
+ "coordinates": [
+  -104.866666666,
+  31.916666666
+ ],
+ "coordinatesSource": "Wikidata Q370501"
+}

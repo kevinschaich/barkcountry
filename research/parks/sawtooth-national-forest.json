@@ -1,0 +1,30 @@
+{
+ "id": "sawtooth-national-forest",
+ "name": "Sawtooth National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome under control.",
+ "summary": "Dogs are welcome under control.",
+ "excerpts": [
+  {
+   "quote": "Dogs are welcome on the national forest.",
+   "url": "https://www.fs.usda.gov/sites/nfs/files/legacy-media/sawtooth/Sawtooth%20NF%20Visitor%20Guide.pdf"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Some trails require a leash July 1 through Labor Day.",
+   "url": "https://www.fs.usda.gov/r04/sawtooth/wilderness/sawtooth-wilderness-regulations"
+  },
+  {
+   "text": "No leash needed in the Cecil D. Andrus-White Cloud Wilderness.",
+   "url": "https://www.fs.usda.gov/r04/sawtooth/wilderness/hemingway-boulders-wilderness-regulations"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/sawtooth",
+ "petsUrl": "https://www.fs.usda.gov/sites/nfs/files/legacy-media/sawtooth/Sawtooth%20NF%20Visitor%20Guide.pdf",
+ "coordinates": [
+  -114.666666666,
+  43.733333333
+ ],
+ "coordinatesSource": "Wikidata Q3609437"
+}

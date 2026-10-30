@@ -1,0 +1,42 @@
+{
+ "id": "saguaro-national-park",
+ "name": "Saguaro National Park",
+ "policy": "trails",
+ "policyReason": "Only a few listed trails, roads and paved trails allow leashed dogs.",
+ "summary": "Leashed dogs may use roads and a few paved trails such as Desert Ecology and Desert Discovery; all other trails are closed to them.",
+ "excerpts": [
+  {
+   "quote": "Pets are permitted on all roads and paved trails which are open to the public",
+   "url": "https://www.nps.gov/sagu/learn/management/compendium.htm"
+  },
+  {
+   "quote": "Pets prohibits on all other trails",
+   "url": "https://www.nps.gov/sagu/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Golden Gate Road (closed to cars) is a good dog walk in the west district.",
+   "url": "https://www.nps.gov/sagu/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Dog-friendly trails: Desert Ecology Trail (paved, 1/4 mile) and Desert Discovery Trail (paved, 0.5 mile).",
+   "url": "https://www.nps.gov/sagu/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Cactus Forest Loop Road is paved and dog-friendly.",
+   "url": "https://www.nps.gov/sagu/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Pets are prohibited on all other trails.",
+   "url": "https://www.nps.gov/sagu/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/sagu/index.htm",
+ "petsUrl": "https://www.nps.gov/sagu/planyourvisit/pets.htm",
+ "coordinates": [
+  -110.610944444,
+  32.202166666
+ ],
+ "coordinatesSource": "Wikidata Q676206"
+}

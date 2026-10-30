@@ -1,0 +1,34 @@
+{
+ "id": "gateway-arch-national-park",
+ "name": "Gateway Arch National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are welcome anywhere outdoors, but not inside the buildings.",
+ "summary": "Leashed pets are welcome anywhere outdoors, but not inside the buildings.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed anywhere outdoors, provided they are properly restrained.",
+   "url": "https://www.nps.gov/jeff/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Only service animals inside the visitor center and Old Courthouse.",
+   "url": "https://www.nps.gov/jeff/learn/management/lawsandpolicies.htm"
+  },
+  {
+   "text": "No swimming in the reflecting pools or digging in garden beds.",
+   "url": "https://www.nps.gov/jeff/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Pets can earn a B.A.R.K. Ranger keepsake at the visitor center.",
+   "url": "https://www.nps.gov/jeff/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/jeff",
+ "petsUrl": "https://www.nps.gov/jeff/planyourvisit/pets.htm",
+ "coordinates": [
+  -90.185,
+  38.6246
+ ],
+ "coordinatesSource": "Wikidata Q45234"
+}

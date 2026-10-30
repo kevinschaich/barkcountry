@@ -1,0 +1,34 @@
+{
+ "id": "glacier-bay-national-park",
+ "name": "Glacier Bay National Park and Preserve",
+ "policy": "roads",
+ "policyReason": "Pets are allowed on land in only a few developed areas; never on trails, beaches or in the backcountry.",
+ "summary": "Pets are allowed on land in only a few developed areas; never on trails, beaches or in the backcountry.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed on land in only a few select areas, and may not be left unattended.",
+   "url": "https://www.nps.gov/glba/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Pets are not allowed on trails, beaches, or anywhere in the backcountry, with the exception of pets that remain on board private vessels on the water.",
+   "url": "https://www.nps.gov/glba/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No trails, boardwalks, beaches or backcountry.",
+   "url": "https://www.nps.gov/glba/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Pets may stay aboard private boats on the water.",
+   "url": "https://www.nps.gov/glba/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/glba/",
+ "petsUrl": "https://www.nps.gov/glba/planyourvisit/pets.htm",
+ "coordinates": [
+  -137.0,
+  58.7
+ ],
+ "coordinatesSource": "Wikidata Q261577"
+}

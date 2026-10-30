@@ -1,0 +1,34 @@
+{
+ "id": "capitol-reef-national-park",
+ "name": "Capitol Reef National Park",
+ "policy": "trails",
+ "policyReason": "The pets page opens part of the Fremont River Trail to leashed pets, so trails, not roads.",
+ "summary": "Leashed pets may walk the Fremont River Trail to Hattie's Field, plus roads, the campground, orchards and parking lots.",
+ "excerpts": [
+  {
+   "quote": "on the Fremont River Trail from the campground to the south end of Hattie's Field (where there is a gate)",
+   "url": "https://www.nps.gov/care/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Pets are not permitted on other hiking trails, in public buildings, or in the backcountry.",
+   "url": "https://www.nps.gov/care/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Walk pets on roads, the picnic area, campground and parking lots.",
+   "url": "https://www.nps.gov/care/regulations.htm"
+  },
+  {
+   "text": "Leashed pets are allowed in the orchards.",
+   "url": "https://www.nps.gov/care/learn/historyculture/orchards.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/care",
+ "petsUrl": "https://www.nps.gov/care/planyourvisit/pets.htm",
+ "coordinates": [
+  -111.167,
+  38.2
+ ],
+ "coordinatesSource": "Wikidata Q129902"
+}

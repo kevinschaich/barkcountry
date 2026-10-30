@@ -1,0 +1,38 @@
+{
+ "id": "canyonlands-national-park",
+ "name": "Canyonlands National Park",
+ "policy": "roads",
+ "policyReason": "Pets are banned from trails, overlooks and the backcountry; only paved roads, campgrounds and the Potash/Shafer drive.",
+ "summary": "Pets are banned from trails, overlooks and the backcountry; only paved roads, campgrounds and the Potash/Shafer drive.",
+ "excerpts": [
+  {
+   "quote": "Pets must be leashed at all times.",
+   "url": "https://www.nps.gov/cany/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Pets are prohibited in any backcountry area, including within vehicles on designated backcountry roads, on any hiking trails, at any overlook",
+   "url": "https://www.nps.gov/cany/learn/management/compendium.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets in the backcountry, on trails, at overlooks or on river trips.",
+   "url": "https://www.nps.gov/cany/learn/management/compendium.htm"
+  },
+  {
+   "text": "Pets may ride through on the Shafer Trail to Potash Road.",
+   "url": "https://www.nps.gov/cany/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Do not leave a pet tied to an object other than your own vehicle.",
+   "url": "https://www.nps.gov/cany/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/cany",
+ "petsUrl": "https://www.nps.gov/cany/planyourvisit/pets.htm",
+ "coordinates": [
+  -109.76,
+  38.1669
+ ],
+ "coordinatesSource": "Wikidata Q541856"
+}

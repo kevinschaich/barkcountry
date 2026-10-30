@@ -1,0 +1,26 @@
+{
+ "id": "death-valley-national-park",
+ "name": "Death Valley National Park",
+ "policy": "roads",
+ "policyReason": "Leashed pets are allowed only in developed areas such as roads, parking lots and campgrounds.",
+ "summary": "Leashed pets are allowed only in developed areas such as roads, parking lots and campgrounds.",
+ "excerpts": [
+  {
+   "quote": "Leashed pets are permitted in developed areas, such as paved roads, unpaved roads, parking lots, campgrounds, and outside of federal buildings.",
+   "url": "https://www.nps.gov/deva/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed on paved and unpaved roads, parking lots and campgrounds.",
+   "url": "https://www.nps.gov/deva/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/deva",
+ "petsUrl": "https://www.nps.gov/deva/planyourvisit/pets.htm",
+ "coordinates": [
+  -116.85,
+  36.45
+ ],
+ "coordinatesSource": "Wikidata Q242111"
+}

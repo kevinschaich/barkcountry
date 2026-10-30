@@ -1,0 +1,38 @@
+{
+ "id": "denali-national-park",
+ "name": "Denali National Park",
+ "policy": "trails",
+ "policyReason": "The pets page opens the Roadside Hiking Trail and Roadside Bike Trail to leashed pets, so trails, not roads.",
+ "summary": "Leashed pets may walk the Roadside Hiking Trail and Roadside Bike Trail, plus roads, parking lots and campgrounds.",
+ "excerpts": [
+  {
+   "quote": "The exceptions to this rule are the Roadside Hiking Trail and the Roadside Bike Trail, where they may be walked on leash.",
+   "url": "https://www.nps.gov/dena/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "In general, pets are not permitted on park trails",
+   "url": "https://www.nps.gov/dena/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leashed pets may use the Roadside Hiking Trail and Roadside Bike Trail.",
+   "url": "https://www.nps.gov/dena/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No pets on any bus.",
+   "url": "https://www.nps.gov/dena/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Working sled dogs allowed Oct 1 to Apr 14.",
+   "url": "https://www.nps.gov/dena/planyourvisit/mushing.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/dena",
+ "petsUrl": "https://www.nps.gov/dena/planyourvisit/pets.htm",
+ "coordinates": [
+  -150.73414,
+  63.34111
+ ],
+ "coordinatesSource": "Wikidata Q49482738"
+}

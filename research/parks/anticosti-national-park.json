@@ -1,0 +1,30 @@
+{
+ "id": "anticosti-national-park",
+ "name": "Anticosti National Park",
+ "policy": "none",
+ "policyReason": "Dogs are not allowed anywhere in the park; a regulation bans dogs on the island.",
+ "summary": "Dogs are not allowed anywhere in the park; a regulation bans dogs on the island.",
+ "excerpts": [
+  {
+   "quote": "Parc national d’Anticosti : règlement interdisant les chiens sur l’île;",
+   "url": "https://www.sepaq.com/questions-frequentes/animaux-domestiques.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "A regulation bans dogs on Anticosti Island.",
+   "url": "https://www.sepaq.com/questions-frequentes/animaux-domestiques.dot"
+  },
+  {
+   "text": "Pets are not allowed at Sépaq Anticosti.",
+   "url": "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/pan/fr/",
+ "petsUrl": "https://www.sepaq.com/questions-frequentes/animaux-domestiques.dot",
+ "coordinates": [
+  -62.8333,
+  49.5
+ ],
+ "coordinatesSource": "Wikidata Q2052003"
+}

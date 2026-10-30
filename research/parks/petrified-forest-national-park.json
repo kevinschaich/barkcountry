@@ -1,0 +1,34 @@
+{
+ "id": "petrified-forest-national-park",
+ "name": "Petrified Forest National Park",
+ "policy": "everywhere",
+ "policyReason": "Pets are allowed on any paved road or trail and in all designated wilderness.",
+ "summary": "Pets are allowed on any paved road or trail and in all designated wilderness.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed on the developed trails.",
+   "url": "https://www.nps.gov/pefo/planyourvisit/trails.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed in the designated wilderness too.",
+   "url": "https://www.nps.gov/pefo/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Only service animals in buildings.",
+   "url": "https://www.nps.gov/pefo/planyourvisit/pets.htm"
+  },
+  {
+   "text": "The park has a bark park.",
+   "url": "https://www.nps.gov/pefo/learn/news/new-dog-park.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/pefo/index.htm",
+ "petsUrl": "https://www.nps.gov/pefo/planyourvisit/pets.htm",
+ "coordinates": [
+  -109.806,
+  35.0881
+ ],
+ "coordinatesSource": "Wikidata Q305949"
+}

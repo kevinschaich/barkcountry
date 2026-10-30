@@ -1,0 +1,34 @@
+{
+ "id": "gulf-islands-national-park-reserve",
+ "name": "Gulf Islands National Park Reserve",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed, including at campsites; pack out their droppings.",
+ "summary": "Leashed dogs are allowed, including at campsites; pack out their droppings.",
+ "excerpts": [
+  {
+   "quote": "Keep your dog on a leash at all times",
+   "url": "https://parks.canada.ca/pn-np/bc/gulf/visit/sans-trace-no-trace"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be leashed at all times, including at campsites.",
+   "url": "https://parks.canada.ca/pn-np/bc/gulf/activ/camping/avant-before"
+  },
+  {
+   "text": "Pack out dog droppings; there are no garbage facilities on the islands.",
+   "url": "https://parks.canada.ca/pn-np/bc/gulf/visit/sans-trace-no-trace"
+  },
+  {
+   "text": "Keep pets 100 m from seal pups.",
+   "url": "https://parks.canada.ca/pn-np/bc/gulf/activ/faune-wildlife"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/bc/gulf",
+ "petsUrl": "https://parks.canada.ca/pn-np/bc/gulf/visit/sans-trace-no-trace",
+ "coordinates": [
+  -123.447777777,
+  48.850555555
+ ],
+ "coordinatesSource": "Wikidata Q775595"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "acadia-national-park",
+ "name": "Acadia National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs can hike 100 miles of trails and 45 miles of carriage roads.",
+ "summary": "Leashed dogs can hike 100 miles of trails and 45 miles of carriage roads.",
+ "excerpts": [
+  {
+   "quote": "There are 100 miles (161 km) of hiking trails and 45 miles (72 km) of carriage roads in the park where pets are permitted.",
+   "url": "https://www.nps.gov/acad/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Blackwoods, Seawall and Schoodic Woods campgrounds allow pets.",
+   "url": "https://www.nps.gov/acad/planyourvisit/pets.htm"
+  },
+  {
+   "text": "On Isle au Haut, pets are allowed for day hiking only.",
+   "url": "https://www.nps.gov/acad/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Sand Beach (June 15 to Sept 8) and Echo Lake (May 15 to Sept 15) are closed to pets.",
+   "url": "https://www.nps.gov/acad/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No swimming in lakes; most are public water supplies.",
+   "url": "https://www.nps.gov/acad/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Never leave a pet unattended, at campsites or in cars.",
+   "url": "https://www.nps.gov/acad/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Dogs can become Acadia Bark Rangers.",
+   "url": "https://www.nps.gov/acad/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/acad",
+ "petsUrl": "https://www.nps.gov/acad/planyourvisit/pets.htm",
+ "coordinates": [
+  -68.216666666,
+  44.35
+ ],
+ "coordinatesSource": "Wikidata Q337396"
+}

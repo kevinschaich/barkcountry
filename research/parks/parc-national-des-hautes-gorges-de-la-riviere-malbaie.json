@@ -1,0 +1,46 @@
+{
+ "id": "parc-national-des-hautes-gorges-de-la-riviere-malbaie",
+ "name": "Hautes-Gorges-de-la-Rivière-Malbaie National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on five trails, part of one campground and a picnic area, but not on the shuttle.",
+ "summary": "Leashed dogs are allowed on five trails, part of one campground and a picnic area, but not on the shuttle.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis dans le parc.",
+   "url": "https://www.sepaq.com/pq/hgo/"
+  },
+  {
+   "quote": "L'accès des chiens est cependant limité à certains endroits, selon certaines conditions.",
+   "url": "https://www.sepaq.com/pq/hgo/"
+  },
+  {
+   "quote": "Les chiens ne sont pas admis dans la navette.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-hautes-gorges.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Trails (summer and winter): Le Riverain, Les Rapides, Le Pied-des-Sommets, L’Érablière, Le Lac-Sans-Oreille.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-hautes-gorges.dot"
+  },
+  {
+   "text": "Camping Le Cran loop 8 (sites 107 to 123) and Camping L’Épervier (RV).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-hautes-gorges.dot"
+  },
+  {
+   "text": "No dogs on the shuttle; when it runs, private cars are not allowed in the park.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-hautes-gorges.dot"
+  },
+  {
+   "text": "No dogs on the Malbaie River above the Érables dam, or on climbing approach trails and cliffs.",
+   "url": "https://www.sepaq.com/pq/hgo/"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/hgo/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-hautes-gorges.dot",
+ "coordinates": [
+  -70.5167,
+  47.9333
+ ],
+ "coordinatesSource": "Wikidata Q1145575"
+}

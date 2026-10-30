@@ -1,0 +1,3624 @@
+{
+ "banff-national-park": {
+  "site": "https://parks.canada.ca/pn-np/ab/banff",
+  "urls": [
+   "https://parks.canada.ca/pn-np/ab/banff",
+   "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/chiens-dogs",
+   "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife",
+   "https://parks.canada.ca/pn-np/ab/banff/securite-safety/regles-rules"
+  ]
+ },
+ "cape-breton-highlands-national-park": {
+  "site": "https://www.pc.gc.ca/en/pn-np/ns/cbreton",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/ns/cbreton",
+   "https://www.pc.gc.ca/pn-np/ns/cbreton/securite-safety",
+   "https://www.pc.gc.ca/en/pn-np/ns/cbreton/activ/homard-lobster",
+   "https://www.pc.gc.ca/en/pn-np/ns/cbreton/activ/camping/broadcove",
+   "https://www.pc.gc.ca/en/pn-np/ns/cbreton/activ/camping/mkwesaqtuk-caprouge"
+  ]
+ },
+ "elk-island-national-park": {
+  "site": "https://www.pc.gc.ca/en/pn-np/ab/elkisland",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/ab/elkisland",
+   "https://www.pc.gc.ca/pn-np/ab/elkisland/securite-safety/comportements-guidelines",
+   "https://www.pc.gc.ca/en/pn-np/ab/elkisland/activ/experiences/pique-nique-picnicking",
+   "https://www.pc.gc.ca/en/pn-np/ab/elkisland/activ/activ2",
+   "https://www.pc.gc.ca/pn-np/ab/elkisland/securite-safety/bulletins/a42d5b4c-5ba4-4960-b173-883ff75476c5",
+   "https://www.pc.gc.ca/pn-np/ab/elkisland/securite-safety/bison"
+  ]
+ },
+ "forillon-national-park": {
+  "site": "https://www.pc.gc.ca/en/pn-np/qc/forillon",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/qc/forillon",
+   "https://www.pc.gc.ca/pn-np/qc/forillon/info/reglements-regulations",
+   "https://www.pc.gc.ca/pn-np/qc/forillon/visit/accessibilite-accessibility",
+   "https://www.pc.gc.ca/pn-np/qc/forillon/securite-safety/faune-wildlife",
+   "https://www.pc.gc.ca/en/pn-np/qc/forillon/activ"
+  ]
+ },
+ "fundy-national-park": {
+  "site": "https://www.pc.gc.ca/en/pn-np/nb/fundy",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/nb/fundy",
+   "https://www.pc.gc.ca/pn-np/nb/fundy/visit/animaux-pets",
+   "https://www.pc.gc.ca/pn-np/nb/fundy/visit/regles-rules",
+   "https://www.pc.gc.ca/en/pn-np/nb/fundy/activ/camping"
+  ]
+ },
+ "georgian-bay-islands-national-park": {
+  "site": "https://parks.canada.ca/pn-np/on/georg",
+  "urls": [
+   "https://parks.canada.ca/pn-np/on/georg",
+   "https://parks.canada.ca/pn-np/on/georg/visit/comportements-guidelines",
+   "https://parks.canada.ca/pn-np/on/georg/securite-safety/camping",
+   "https://parks.canada.ca/pn-np/on/georg/activ",
+   "https://parks.canada.ca/pn-np/on/georg/securite-safety/reglements-regulations",
+   "https://parks.canada.ca/pn-np/on/georg/activ/camping/prim-camp-sauv"
+  ]
+ },
+ "glacier-national-park": {
+  "site": "https://nps.gov/glac",
+  "urls": [
+   "https://nps.gov/glac",
+   "https://www.nps.gov/glac/planyourvisit/pets.htm",
+   "https://www.nps.gov/glac/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/glac/learn/news/mountain-lion-killed-after-fighting-with-dog.htm"
+  ]
+ },
+ "glacier-national-park-of-canada": {
+  "site": "https://parks.canada.ca/pn-np/bc/glacier",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/glacier",
+   "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs",
+   "https://parks.canada.ca/pn-np/bc/glacier/activ/passez-stay/arrierepays-backcountry"
+  ]
+ },
+ "grasslands-national-park-of-canada": {
+  "site": "https://www.pc.gc.ca/en/pn-np/sk/grasslands",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/sk/grasslands",
+   "https://www.pc.gc.ca/en/pn-np/sk/grasslands/activ/experiences/activ9",
+   "https://www.pc.gc.ca/en/pn-np/sk/grasslands/activ/experiences/randonee-hiking?wbdisable=true",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  ]
+ },
+ "gulf-islands-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/bc/gulf",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/gulf",
+   "https://parks.canada.ca/pn-np/bc/gulf/activ",
+   "https://parks.canada.ca/pn-np/bc/gulf/visit/sans-trace-no-trace",
+   "https://parks.canada.ca/pn-np/bc/gulf/activ/faune-wildlife",
+   "https://parks.canada.ca/pn-np/bc/gulf/activ/camping/avant-before"
+  ]
+ },
+ "gwaii-haanas-national-park-reserve-and-haida-heritage-site": {
+  "site": "https://parks.canada.ca/pn-np/bc/gwaiihaanas",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/gwaiihaanas",
+   "https://parks.canada.ca/pn-np/bc/gwaiihaanas/nature/conservation/restauration-restoration/retablir-restore-1?wbdisable=true",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html",
+   "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog",
+   "https://parks.canada.ca/pn-np/bc/gwaiihaanas/visit"
+  ]
+ },
+ "jasper-national-park": {
+  "site": "https://parks.canada.ca/pn-np/ab/jasper",
+  "urls": [
+   "https://parks.canada.ca/pn-np/ab/jasper",
+   "https://parks.canada.ca/pn-np/ab/jasper/bulletins/8f15eb04-9397-4bb9-b654-adb299a9e4a8",
+   "https://parks.canada.ca/pn-np/ab/jasper/nature/conservation/eep-sar/engouleventamerique-nighthawk",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  ]
+ },
+ "kluane-national-park-and-reserve": {
+  "site": "https://www.pc.gc.ca/en/pn-np/yt/kluane",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/yt/kluane",
+   "https://www.pc.gc.ca/en/pn-np/yt/kluane/securite-safety/ours-bears",
+   "https://www.pc.gc.ca/pn-np/yt/kluane/visit/services/kathleen/emplacements-campsites",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  ]
+ },
+ "kootenay-national-park": {
+  "site": "https://parks.canada.ca/pn-np/bc/kootenay",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/kootenay",
+   "https://parks.canada.ca/pn-np/bc/kootenay/activ/arrierepays-backcountry",
+   "https://parks.canada.ca/pn-np/bc/kootenay/activ",
+   "https://parks.canada.ca/pn-np/bc/kootenay/activ/randonnee-hike",
+   "https://parks.canada.ca/pn-np/bc/kootenay/nature/conservation/especes-species/ours-bears?wbdisable=true"
+  ]
+ },
+ "kouchibouguac-national-park": {
+  "site": "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac",
+   "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac/visit",
+   "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac/activ/camping",
+   "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac/activ/sentiers-trails/etat-sentiers-trail-conditions",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  ]
+ },
+ "la-mauricie-national-park": {
+  "site": "https://www.pc.gc.ca/en/pn-np/qc/mauricie",
+  "urls": [
+   "https://www.pc.gc.ca/en/pn-np/qc/mauricie",
+   "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals",
+   "https://www.pc.gc.ca/en/pn-np/qc/mauricie/visit"
+  ]
+ },
+ "mount-revelstoke-national-park": {
+  "site": "https://parks.canada.ca/pn-np/bc/revelstoke",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/revelstoke",
+   "https://parks.canada.ca/pn-np/bc/revelstoke/visit/chiens-dogs",
+   "https://parks.canada.ca/pn-np/bc/revelstoke/activ/randonee-hiking/etat-sentiers-trail-conditions",
+   "https://parks.canada.ca/pn-np/bc/revelstoke/bulletins/0fbc4628-8af2-47f5-bb06-317b1729d6da",
+   "https://www.parks.canada.ca/pn-np/bc/revelstoke/activ/promenade-parkway"
+  ]
+ },
+ "nahanni-national-park-reserve-of-canada": {
+  "site": "https://parks.canada.ca/pn-np/nt/nahanni",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nt/nahanni",
+   "https://parks.canada.ca/pn-np/nt/nahanni/securite-safety/ours_bears/security-safety"
+  ]
+ },
+ "pacific-rim-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/bc/pacificrim",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/pacificrim",
+   "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs",
+   "https://parks.canada.ca/pn-np/bc/pacificrim/nature/faune-wildlife",
+   "https://parks.canada.ca/pn-np/bc/pacificrim/visit",
+   "https://parks.canada.ca/pn-np/bc/pacificrim/nature/recherche-research/loups-sauvages-wild-wolves/video",
+   "https://parks.canada.ca/pn-np/bc/pacificrim/bulletins/f40a3ca7-aaf0-4541-ac75-a78973570a45"
+  ]
+ },
+ "rouge-national-urban-park": {
+  "site": "https://parks.canada.ca/pn-np/on/rouge",
+  "urls": [
+   "https://parks.canada.ca/pn-np/on/rouge",
+   "https://parks.canada.ca/pn-np/on/rouge/securite-safety/terrestre-land/animaux-pets",
+   "https://parks.canada.ca/pn-np/on/rouge/activ",
+   "https://parks.canada.ca/pn-np/on/rouge/securite-safety/bulletins/17cd4d1c-7a78-484e-bc03-2c79ade87d71",
+   "https://parks.canada.ca/pn-np/on/rouge/securite-safety/faune-wildlife",
+   "https://parks.canada.ca/pn-np/on/rouge/securite-safety/terrestre-land"
+  ]
+ },
+ "thaidene-nene-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/nt/thaidene-nene",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nt/thaidene-nene",
+   "https://parks.canada.ca/pn-np/nt/thaidene-nene/security-safety/muskox",
+   "https://parks.canada.ca/pn-np/nt/thaidene-nene/security-safety/ours-bears/evitement-avoidance"
+  ]
+ },
+ "thousand-islands-national-park": {
+  "site": "https://www.pc.gc.ca/fr/pn-np/on/1000",
+  "urls": [
+   "https://www.pc.gc.ca/fr/pn-np/on/1000",
+   "https://www.pc.gc.ca/en/pn-np/on/1000/activ/experiences/mallorytown",
+   "https://www.pc.gc.ca/en/pn-np/on/1000/activ/randon-hike",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  ]
+ },
+ "tuktut-nogait-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nt/tuktutnogait",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nt/tuktutnogait",
+   "https://parks.canada.ca/pn-np/nt/tuktutnogait/visit/regs"
+  ]
+ },
+ "ukkusiksalik-national-park-of-canada": {
+  "site": "https://parks.canada.ca/pn-np/nu/ukkusiksalik",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nu/ukkusiksalik",
+   "https://parks.canada.ca/pn-np/nu/ukkusiksalik/securite-safety/comportements-guidelines"
+  ]
+ },
+ "wood-buffalo-national-park-of-canada": {
+  "site": "https://pc.gc.ca/en/pn-np/nt/woodbuffalo",
+  "urls": [
+   "https://pc.gc.ca/en/pn-np/nt/woodbuffalo",
+   "https://www.pc.gc.ca/pn-np/nt/woodbuffalo/activ/observation-viewing",
+   "https://www.pc.gc.ca/pn-np/nt/woodbuffalo/securite_safety/bison"
+  ]
+ },
+ "yoho-national-park": {
+  "site": "https://parks.canada.ca/pn-np/bc/yoho",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/yoho",
+   "https://parks.canada.ca/pn-np/bc/yoho/visit/regs",
+   "https://parks.canada.ca/pn-np/bc/yoho/activ/arrierepays-backcountry",
+   "https://parks.canada.ca/pn-np/bc/yoho/activ/randonnee-hike",
+   "https://parks.canada.ca/pn-np/bc/yoho/nature/conservation/especes-species/ours-bears"
+  ]
+ },
+ "parc-national-d-aiguebelle": {
+  "site": "https://www.sepaq.com/pq/aig/index.dot?language_id=1",
+  "urls": [
+   "https://www.sepaq.com/pq/aig/index.dot?language_id=1",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  ]
+ },
+ "anticosti-national-park": {
+  "site": "https://www.sepaq.com/pq/pan/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/pan/fr/",
+   "https://www.sepaq.com/questions-frequentes/animaux-domestiques.dot",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  ]
+ },
+ "parc-national-du-bic": {
+  "site": "https://www.sepaq.com/pq/bic/",
+  "urls": [
+   "https://www.sepaq.com/pq/bic/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot",
+   "https://www.sepaq.com/pq/bic/",
+   "https://www.sepaq.com/pq/bic/information.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot?language_id=1"
+  ]
+ },
+ "parc-national-de-frontenac": {
+  "site": "https://www.sepaq.com/pq/fro/index.dot?language_id=2",
+  "urls": [
+   "https://www.sepaq.com/pq/fro/index.dot?language_id=2",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  ]
+ },
+ "kuururjuaq-national-park": {
+  "site": "https://www.sepaq.com/pq/kur/index.dot?language_id=1",
+  "urls": [
+   "https://www.sepaq.com/pq/kur/index.dot?language_id=1",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1",
+   "https://www.nunavikparks.ca/en/regulations",
+   "https://www.nunavikparks.ca/en/faq",
+   "https://www.nunavikparks.ca/en/parks/kuururjuaq"
+  ]
+ },
+ "parc-national-du-lac-temiscouata": {
+  "site": "https://www.sepaq.com/pq/tem/index.dot?language_id=1",
+  "urls": [
+   "https://www.sepaq.com/pq/tem/index.dot?language_id=1"
+  ]
+ },
+ "parc-national-des-iles-de-boucherville": {
+  "site": "https://www.sepaq.com/pq/bou/",
+  "urls": [
+   "https://www.sepaq.com/pq/bou/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-iles-boucherville.dot",
+   "https://www.sepaq.com/pq/bou/information.dot",
+   "https://www.sepaq.com/pq/bou/",
+   "https://www.sepaq.com/pq/bou/tarifs.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-saint-bruno.dot",
+   "https://www.sepaq.com/pq/msb/"
+  ]
+ },
+ "monts-valin-national-park": {
+  "site": "https://www.sepaq.com/pq/mva/index.dot?language_id=2",
+  "urls": [
+   "https://www.sepaq.com/pq/mva/index.dot?language_id=2",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-monts-valin.dot",
+   "https://www.sepaq.com/animaux/",
+   "https://www.sepaq.com/pq/mva/"
+  ]
+ },
+ "nibiischii-national-park": {
+  "site": "https://www.sepaq.com/",
+  "urls": [
+   "https://www.sepaq.com/",
+   "https://www.sepaq.com/animaux/annexes/chiens-guides.dot",
+   "https://www.sepaq.com/animaux",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-hautes-gorges.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot",
+   "https://www.sepaq.com/animaux/annexes/regles-encadrement.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-grands-jardins.dot",
+   "https://www.nibiischii.com/fr/component/content/article/changement-reglementaire.html",
+   "https://www.nibiischii.com/fr/"
+  ]
+ },
+ "opemican-national-park": {
+  "site": "https://www.sepaq.com/pq/ope/index.dot",
+  "urls": [
+   "https://www.sepaq.com/pq/ope/index.dot",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  ]
+ },
+ "pingualuit-national-park": {
+  "site": "https://www.sepaq.com/pq/pin/index.dot?language_id=1",
+  "urls": [
+   "https://www.sepaq.com/pq/pin/index.dot?language_id=1",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1",
+   "https://www.nunavikparks.ca/en/regulations",
+   "https://www.nunavikparks.ca/en/faq",
+   "https://www.nunavikparks.ca/en/parks/pingualuit"
+  ]
+ },
+ "parc-national-de-plaisance": {
+  "site": "https://www.sepaq.com/pq/pla/index.dot",
+  "urls": [
+   "https://www.sepaq.com/pq/pla/index.dot",
+   "https://www.sepaq.com/pq/pla/index.dot?language_id=1"
+  ]
+ },
+ "ulittaniujalik-national-park": {
+  "site": "https://www.sepaq.com/pq/uli/index.dot?language_id=1",
+  "urls": [
+   "https://www.sepaq.com/pq/uli/index.dot?language_id=1",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1",
+   "https://www.nunavikparks.ca/en/regulations",
+   "https://www.nunavikparks.ca/en/faq",
+   "https://www.nunavikparks.ca/en/parks/ulittaniujalik"
+  ]
+ },
+ "ile-bonaventure-et-du-rocher-perce-national-park": {
+  "site": "https://www.sepaq.com/pq/bon/index.dot",
+  "urls": [
+   "https://www.sepaq.com/pq/bon/index.dot",
+   "https://www.sepaq.com/animaux"
+  ]
+ },
+ "allegheny-national-forest": {
+  "site": "https://www.fs.usda.gov/allegheny/",
+  "urls": [
+   "https://www.fs.usda.gov/allegheny/",
+   "https://www.fs.usda.gov/r09/allegheny/safety-ethics",
+   "https://www.fs.usda.gov/r09/allegheny/recreation/jakes-rocks-overlook",
+   "https://www.fs.usda.gov/sites/nfs/files/r09/allegheny/publication/Tracy%20Ridge%20Recreation%20Area.pdf",
+   "https://www.fs.usda.gov/r09/allegheny/alerts",
+   "https://www.fs.usda.gov/r09/allegheny/recreation/dewdrop-campground"
+  ]
+ },
+ "angeles-national-forest": {
+  "site": "https://www.fs.usda.gov/angeles",
+  "urls": [
+   "https://www.fs.usda.gov/angeles",
+   "https://www.fs.usda.gov/r05/angeles/safety-ethics",
+   "https://www.fs.usda.gov/r05/angeles/recreation/switzer-picnic-site",
+   "https://www.fs.usda.gov/r05/angeles/recreation/messenger-flats-campground",
+   "https://www.fs.usda.gov/r05/angeles/recreation/6000-pct-trailhead",
+   "https://www.fs.usda.gov/r05/angeles",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "apache-national-forest": {
+  "site": "https://www.fs.usda.gov/r03/apache-sitgreaves",
+  "urls": [
+   "https://www.fs.usda.gov/r03/apache-sitgreaves",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/canyon-point-campground",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/aspen-campground",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/old-rim-trailhead",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "apalachicola-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/florida/recreation/apalachicola-national-forest-0",
+  "urls": [
+   "https://www.fs.usda.gov/r08/florida/recreation/apalachicola-national-forest-0",
+   "https://www.fs.usda.gov/r08/florida/recreation/apalachicola-national-forest-0",
+   "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest",
+   "https://www.fs.usda.gov/r08/florida"
+  ]
+ },
+ "arapaho-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/arp",
+  "urls": [
+   "https://www.fs.usda.gov/r02/arp",
+   "https://www.fs.usda.gov/r02/arp/about-area/faqs",
+   "https://www.fs.usda.gov/r02/arp/alerts/arapaho-and-roosevelt-national-forests-and-pawnee-national-grassland-occupancy-and",
+   "https://www.fs.usda.gov/r02/arp/recreation/comanche-peak-wilderness",
+   "https://www.fs.usda.gov/r02/arp/recreation/trails/north-fork-trail",
+   "https://www.fs.usda.gov/r02/arp/recreation/trails/signal-mountain-trail"
+  ]
+ },
+ "arapaho-and-roosevelt-national-forests-and-pawnee-national-grassland": {
+  "site": "https://www.fs.usda.gov/arp",
+  "urls": [
+   "https://www.fs.usda.gov/arp",
+   "https://www.fs.usda.gov/r02/arp/about-area/faqs",
+   "https://www.fs.usda.gov/r02/arp/alerts/arapaho-and-roosevelt-national-forests-and-pawnee-national-grassland-occupancy-and",
+   "https://www.fs.usda.gov/r02/arp",
+   "https://www.fs.usda.gov/r02/arp/recreation/comanche-peak-wilderness",
+   "https://www.fs.usda.gov/r02/arp/safety-ethics"
+  ]
+ },
+ "ashley-national-forest": {
+  "site": "https://www.fs.usda.gov/ashley/",
+  "urls": [
+   "https://www.fs.usda.gov/ashley/",
+   "https://www.fs.usda.gov/r04/ashley/safety-ethics",
+   "https://www.fs.usda.gov/r04/ashley/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/r04/ashley/recreation/little-hole-boat-launch-area"
+  ]
+ },
+ "beaverhead-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/beaverhead-deerlodge",
+  "urls": [
+   "https://www.fs.usda.gov/r01/beaverhead-deerlodge",
+   "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/reservoir-lake-campground-and-picnic-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/gordon-reese-cabin"
+  ]
+ },
+ "bighorn-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/bighorn",
+  "urls": [
+   "https://www.fs.usda.gov/r02/bighorn",
+   "https://www.fs.usda.gov/r02/bighorn/recreation/hunter-campground",
+   "https://www.fs.usda.gov/r02/bighorn/recreation/sibley-lake-campground",
+   "https://www.fs.usda.gov/r02/bighorn/recreation/sitting-bull-campground",
+   "https://www.fs.usda.gov/r02/bighorn/recreation/porcupine-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r02/bighorn/newsroom/stories/guide-understanding-regulations-bighorn-national-forest",
+   "https://www.fs.usda.gov/r02/bighorn/natural-resources/arch-cultural/medicine-wheel-medicine-mountain-national-historic"
+  ]
+ },
+ "bitterroot-national-forest": {
+  "site": "https://www.fs.usda.gov/bitterroot",
+  "urls": [
+   "https://www.fs.usda.gov/bitterroot",
+   "https://www.fs.usda.gov/r01/bitterroot/recreation/blodgett-campground",
+   "https://www.fs.usda.gov/r01/bitterroot/recreation/kootenai-creek-trailhead",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "black-hills-national-forest": {
+  "site": "https://www.fs.usda.gov/blackhills/",
+  "urls": [
+   "https://www.fs.usda.gov/blackhills/",
+   "https://www.fs.usda.gov/r02/blackhills/wilderness/wilderness-rules-and-regulations",
+   "https://www.fs.usda.gov/r02/blackhills/recreation/horsethief-lake-campground",
+   "https://www.fs.usda.gov/r02/blackhills/recreation/dutchman-campground",
+   "https://www.fs.usda.gov/r02/blackhills/recreation/hanna-campground",
+   "https://www.fs.usda.gov/r02/blackhills/recreation/pilot-knob-trailhead",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "boise-national-forest": {
+  "site": "https://www.fs.usda.gov/boise",
+  "urls": [
+   "https://www.fs.usda.gov/boise",
+   "https://www.fs.usda.gov/r04/boise/safety-ethics",
+   "https://www.fs.usda.gov/r04/boise/recreation/trout-creek-campground",
+   "https://www.fs.usda.gov/r04/boise/recreation/kirkham-hot-springs",
+   "https://www.fs.usda.gov/r04/boise/recreation/penn-basin-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "bridger-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/bridger-teton",
+  "urls": [
+   "https://www.fs.usda.gov/r04/bridger-teton",
+   "https://www.fs.usda.gov/r04/bridger-teton/newsroom/releases/btnf-wildlife-winter-restrictions-begin-december-1-dog-leash",
+   "https://www.fs.usda.gov/r04/bridger-teton/alerts/dog-leash-order-jackson-ranger-district",
+   "https://www.fs.usda.gov/r04/bridger-teton/newsroom/releases/winter-wildlife-restrictions-begin-dec-1-bridger-teton-national",
+   "https://www.fs.usda.gov/r04/bridger-teton/alerts"
+  ]
+ },
+ "bridgerteton-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/bridger-teton",
+  "urls": [
+   "https://www.fs.usda.gov/r04/bridger-teton",
+   "https://www.fs.usda.gov/r04/bridger-teton/newsroom/releases/btnf-wildlife-winter-restrictions-begin-december-1-dog-leash",
+   "https://www.fs.usda.gov/r04/bridger-teton/alerts/dog-leash-order-jackson-ranger-district",
+   "https://www.fs.usda.gov/r04/bridger-teton/newsroom/releases/winter-wildlife-restrictions-begin-dec-1-bridger-teton-national",
+   "https://www.fs.usda.gov/r04/bridger-teton/alerts"
+  ]
+ },
+ "cache-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+  "urls": [
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/alerts/04-19-23-602-pet-restrictions-cemetery-point-middle-inlet-anderson",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/tibble-fork-reservoir-trailhead",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/uwcnf"
+  ]
+ },
+ "caribou-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/caribou-targhee",
+  "urls": [
+   "https://www.fs.usda.gov/r04/caribou-targhee",
+   "https://www.fs.usda.gov/r04/caribou-targhee/recreation/explore-forest",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r04/caribou-targhee/alerts/04-15-25-218-teton-basin-palisades-dog-closure"
+  ]
+ },
+ "carson-national-forest": {
+  "site": "https://www.fs.usda.gov/carson/",
+  "urls": [
+   "https://www.fs.usda.gov/carson/",
+   "https://www.fs.usda.gov/r05/stanislaus/recreation/carson-iceberg-wilderness-highway-108-access",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r03/carson/recreation/hopewell-lake-day-use-area"
+  ]
+ },
+ "challis-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/salmon-challis",
+  "urls": [
+   "https://www.fs.usda.gov/r04/salmon-challis",
+   "https://www.fs.usda.gov/r04/salmon-challis/recreation/epic-adventures/wild-main-salmon-river",
+   "https://www.fs.usda.gov/r04/salmon-challis/recreation/epic-adventures/middle-fork-salmon-river",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "chattahoochee-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/chattahoochee-oconee",
+  "urls": [
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics/enjoy-outdoors",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/cooper-creek-recreation-area"
+  ]
+ },
+ "chequamegon-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/chequamegon-nicolet",
+  "urls": [
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/beaver-lake-recreation-area",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/safety-ethics/rules-and-regulations",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/lauterman-national-recreation-area",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/long-lake-recreation-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/alerts/forest-order-09-13-25-02-general-occupancy-and-use-restrictions"
+  ]
+ },
+ "cherokee-national-forest": {
+  "site": "https://www.fs.usda.gov/cherokee/",
+  "urls": [
+   "https://www.fs.usda.gov/cherokee/",
+   "https://www.fs.usda.gov/r08/cherokee/recreation/max-patch",
+   "https://www.fs.usda.gov/r08/cherokee/recreation/shook-branch-beach",
+   "https://www.fs.usda.gov/r08/cherokee/recreation/watauga-point-picnic-area",
+   "https://www.fs.usda.gov/r08/cherokee/recreation/backbone-rock-recreation-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "chippewa-national-forest": {
+  "site": "https://www.fs.usda.gov/chippewa",
+  "urls": [
+   "https://www.fs.usda.gov/chippewa",
+   "https://www.fs.usda.gov/r09/chippewa/about-area/faqs",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "chugach-national-forest": {
+  "site": "https://www.fs.usda.gov/chugach/",
+  "urls": [
+   "https://www.fs.usda.gov/chugach/",
+   "https://www.fs.usda.gov/r10/chugach/newsroom/releases/russian-river-fishery-opens-june-11-forest-order-place-protect",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r10/chugach/alerts/10-04-00-24-05-developed-recreation-sites-public-use-cabins-prohibitions"
+  ]
+ },
+ "cleveland-national-forest": {
+  "site": "https://www.fs.usda.gov/cleveland",
+  "urls": [
+   "https://www.fs.usda.gov/cleveland",
+   "https://www.fs.usda.gov/r05/cleveland/recreation/trails/holy-jim-trail",
+   "https://www.fs.usda.gov/r05/cleveland/recreation/crestline-group-campground",
+   "https://www.fs.usda.gov/r05/cleveland/recreation/chachaany-hamuk-trailhead-three-sisters-falls",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "coconino-national-forest": {
+  "site": "https://www.fs.usda.gov/coconino",
+  "urls": [
+   "https://www.fs.usda.gov/coconino",
+   "https://www.fs.usda.gov/r03/coconino/about-area/faqs",
+   "https://www.fs.usda.gov/r03/coconino/safety-ethics",
+   "https://www.fs.usda.gov/r03/coconino/recreation/trails",
+   "https://www.fs.usda.gov/r03/coconino/recreation/trails/kachina-trail-no-150",
+   "https://www.fs.usda.gov/r03/coconino/recreation/trails/continental-loop-trail-no-311"
+  ]
+ },
+ "colville-national-forest": {
+  "site": "https://www.fs.usda.gov/colville",
+  "urls": [
+   "https://www.fs.usda.gov/colville",
+   "https://www.fs.usda.gov/r06/colville/recreation/noisy-creek-campground",
+   "https://www.fs.usda.gov/r06/colville/recreation/east-sullivan-campground",
+   "https://www.fs.usda.gov/r06/colville/recreation/mill-pond-campground",
+   "https://www.fs.usda.gov/r06/colville/recreation/browns-lake-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "coronado-national-forest": {
+  "site": "https://www.fs.usda.gov/coronado",
+  "urls": [
+   "https://www.fs.usda.gov/coronado",
+   "https://www.fs.usda.gov/r03/coronado/about-area/faqs/hiking-and-camping-dogs",
+   "https://www.fs.usda.gov/r03/coronado/about-area/faqs",
+   "https://www.fs.usda.gov/r03/coronado/recreation/mount-lemmon-day-use-area",
+   "https://www.fs.usda.gov/r03/coronado",
+   "https://www.fs.usda.gov/r03/coronado/recreation/marshall-gulch-picnic-area"
+  ]
+ },
+ "de-soto-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/mississippi/recreation",
+  "urls": [
+   "https://www.fs.usda.gov/r08/mississippi/recreation",
+   "https://www.fs.usda.gov/r09/superior/recreation/trails/powwow-trail",
+   "https://www.fs.usda.gov/r09/superior/recreation/ninemile-lake-campground",
+   "https://www.fs.usda.gov/r09/marktwain/recreation/horseshoe-bend-float-camp",
+   "https://www.fs.usda.gov/r09/superior/recreation/t-lake-backcountry-campsite"
+  ]
+ },
+ "deerlodge-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/beaverhead-deerlodge",
+  "urls": [
+   "https://www.fs.usda.gov/r01/beaverhead-deerlodge",
+   "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/reservoir-lake-campground-and-picnic-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/beaverhead-deerlodge/safety-ethics/share-trails"
+  ]
+ },
+ "delta-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/mississippi/recreation/delta",
+  "urls": [
+   "https://www.fs.usda.gov/r08/mississippi/recreation/delta",
+   "https://www.fs.usda.gov/r06/columbiarivergorge/recreation/sandy-river-delta",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/trails/office-trail",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/big-biloxi-recreation-area"
+  ]
+ },
+ "deschutes-national-forest": {
+  "site": "https://www.fs.usda.gov/Deschutes",
+  "urls": [
+   "https://www.fs.usda.gov/Deschutes",
+   "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions",
+   "https://www.fs.usda.gov/r06/deschutes",
+   "https://www.fs.usda.gov/r06/deschutes/recreation/scout-lake-campground",
+   "https://www.fs.usda.gov/r06/deschutes/recreation/benham-falls-west-day-use-trailhead",
+   "https://www.fs.usda.gov/r06/deschutes/recreation/big-eddy-day-use"
+  ]
+ },
+ "dixie-national-forest": {
+  "site": "https://www.fs.usda.gov/dixie/",
+  "urls": [
+   "https://www.fs.usda.gov/dixie/",
+   "https://www.fs.usda.gov/r04/dixie/about-area/faqs",
+   "https://www.fs.usda.gov/r04/dixie/recreation/posey-lake-campground",
+   "https://www.fs.usda.gov/r04/dixie/recreation/pine-lake-campground",
+   "https://www.fs.usda.gov/r04/dixie/recreation/red-canyon-campground",
+   "https://www.fs.usda.gov/r04/dixie/recreation/blue-spruce-campground"
+  ]
+ },
+ "el-yunque-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/elyunque",
+  "urls": [
+   "https://www.fs.usda.gov/r08/elyunque",
+   "https://www.fs.usda.gov/r08/elyunque/natural-resources/feral-dog",
+   "https://www.fs.usda.gov/r08/elyunque/recreation/el-portal-de-el-yunque-rainforest-center-0",
+   "https://www.fs.usda.gov/r08/elyunque/recreation/caimitillo-recreation-area",
+   "https://www.fs.usda.gov/r08/elyunque/recreation/los-picachos",
+   "https://www.fs.usda.gov/r08/elyunque/recreation/palo-colorado-information-center",
+   "https://www.fs.usda.gov/r08/elyunque/recreation/las-cabezas-observation-point",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/elyunque/safety-ethics"
+  ]
+ },
+ "eldorado-national-forest": {
+  "site": "https://www.fs.usda.gov/eldorado",
+  "urls": [
+   "https://www.fs.usda.gov/eldorado",
+   "https://www.fs.usda.gov/r05/eldorado/natural-resources/forest-management/general-rules",
+   "https://www.fs.usda.gov/r05/eldorado/about-area/faqs",
+   "https://www.fs.usda.gov/r05/eldorado/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r05/eldorado/safety-ethics"
+  ]
+ },
+ "finger-lakes-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/gmfl",
+  "urls": [
+   "https://www.fs.usda.gov/r09/gmfl",
+   "https://www.fs.usda.gov/r09/gmfl/safety-ethics",
+   "https://www.fs.usda.gov/r09/gmfl"
+  ]
+ },
+ "fishlake-national-forest": {
+  "site": "https://www.fs.usda.gov/fishlake",
+  "urls": [
+   "https://www.fs.usda.gov/fishlake",
+   "https://www.fs.usda.gov/r04/fishlake/recreation/bowery-creek-campground",
+   "https://www.fs.usda.gov/r04/fishlake/recreation/fishlake-hightop-north-trailhead",
+   "https://www.fs.usda.gov/r04/fishlake/recreation/doctor-creek-campground",
+   "https://www.fs.usda.gov/r04/fishlake/recreation/frying-pan-campground",
+   "https://www.fs.usda.gov/r04/fishlake/recreation/lebaron-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "flathead-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/flathead",
+  "urls": [
+   "https://www.fs.usda.gov/r01/flathead",
+   "https://www.fs.usda.gov/r01/flathead/recreation/jewel-basin-hiking-area",
+   "https://www.fs.usda.gov/r01/flathead/recreation/camp-misery-trailhead",
+   "https://www.fs.usda.gov/r01/flathead/recreation/murray-bay-campground",
+   "https://www.fs.usda.gov/r01/flathead/recreation/lid-creek-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/flathead/recreation/tally-lake-campground",
+   "https://www.fs.usda.gov/r01/flathead/recreation/ford-cabin"
+  ]
+ },
+ "francis-marion-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/francismarionsumter",
+  "urls": [
+   "https://www.fs.usda.gov/r08/francismarionsumter",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/dogs-and-other-pets",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/trail-safety",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/sharing-trails",
+   "https://www.fs.usda.gov/r08/francismarionsumter/recreation/whetstone-horse-camp"
+  ]
+ },
+ "francis-marion-and-sumter-national-forests": {
+  "site": "https://www.fs.usda.gov/r08/francismarionsumter",
+  "urls": [
+   "https://www.fs.usda.gov/r08/francismarionsumter",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/dogs-and-other-pets",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/trail-safety",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/sharing-trails",
+   "https://www.fs.usda.gov/r08/francismarionsumter/recreation/whetstone-horse-camp"
+  ]
+ },
+ "fremont-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/fremont-winema",
+  "urls": [
+   "https://www.fs.usda.gov/r06/fremont-winema",
+   "https://www.fs.usda.gov/r06/fremont-winema/newsroom/releases/dog-lake-road-closed-thursday-paving",
+   "https://www.fs.usda.gov/r06/fremont-winema/newsroom/releases/dog-lake-road-scheduled-reopen-thursday-afternoon",
+   "https://www.fs.usda.gov/r06/fremont-winema/recreation/trails/woods-line-trail",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r06/fremont-winema/recreation/camping-cabins"
+  ]
+ },
+ "fremontwinema-national-forest": {
+  "site": "https://fs.usda.gov/fremont-winema",
+  "urls": [
+   "https://fs.usda.gov/fremont-winema",
+   "https://www.fs.usda.gov/r06/fremont-winema/recreation/trails/woods-line-trail"
+  ]
+ },
+ "george-washington-national-forest": {
+  "site": "https://www.fs.usda.gov/gwj",
+  "urls": [
+   "https://www.fs.usda.gov/gwj",
+   "https://www.fs.usda.gov/r08/gwj/recreation/pines-campground",
+   "https://www.fs.usda.gov/r08/gwj/recreation/mountain-house-day-use-area",
+   "https://www.fs.usda.gov/r08/gwj/recreation/braley-pond-day-use-area",
+   "https://www.fs.usda.gov/r08/gwj/recreation/sherando-lake-recreation-area",
+   "https://www.fs.usda.gov/r08/gwj",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/gwj/recreation/sunrise-cabin"
+  ]
+ },
+ "gifford-pinchot-national-forest": {
+  "site": "https://www.fs.usda.gov/giffordpinchot",
+  "urls": [
+   "https://www.fs.usda.gov/giffordpinchot",
+   "https://www.fs.usda.gov/r06/giffordpinchot/safety-ethics/dogs-national-forest",
+   "https://www.fs.usda.gov/r06/giffordpinchot/recreation/trailhead-norway-pass",
+   "https://www.fs.usda.gov/r06/giffordpinchot/safety-ethics/forest-visitor-guidelines-safety",
+   "https://www.fs.usda.gov/r06/giffordpinchot/recreation/science-and-learning-center-coldwater",
+   "https://www.fs.usda.gov/r06/giffordpinchot/recreation/trailhead-south-coldwater"
+  ]
+ },
+ "gila-national-forest": {
+  "site": "https://www.fs.usda.gov/gila",
+  "urls": [
+   "https://www.fs.usda.gov/gila",
+   "https://www.fs.usda.gov/r03/gila/safety-ethics/canine-campers-bringing-dogs-national-forest",
+   "https://www.fs.usda.gov/r03/gila/recreation/glenwood-ranger-district",
+   "https://www.fs.usda.gov/r03/gila/recreation/catwalk-recreation-area",
+   "https://www.fs.usda.gov/r03/gila/recreation/mesa-campground",
+   "https://www.fs.usda.gov/r03/gila/recreation/juniper-campground"
+  ]
+ },
+ "grand-mesa-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/gmug",
+  "urls": [
+   "https://www.fs.usda.gov/r02/gmug",
+   "https://www.fs.usda.gov/r02/gmug/alerts/uncompahgre-wilderness-area-occupancy-use",
+   "https://www.fs.usda.gov/r02/gmug/alerts/raggeds-wilderness-area-occupancy-use",
+   "https://www.fs.usda.gov/sites/nfs/files/r02/gmug/publication/alerts/GMUG-2017-02.pdf",
+   "https://www.fs.usda.gov/r02/gmug/alerts/collegiate-peaks-wilderness-occupancy-and-use-regulations",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "grand-mesa-uncompahgre-and-gunnison-national-forests": {
+  "site": "https://www.fs.usda.gov/gmug",
+  "urls": [
+   "https://www.fs.usda.gov/gmug",
+   "https://www.fs.usda.gov/r02/gmug/alerts/mount-sneffels-wilderness-occupancy-and-use",
+   "https://www.fs.usda.gov/r02/gmug/alerts/uncompahgre-wilderness-area-occupancy-use",
+   "https://www.fs.usda.gov/r02/gmug/alerts/raggeds-wilderness-area-occupancy-use",
+   "https://www.fs.usda.gov/sites/nfs/files/r02/gmug/publication/alerts/GMUG-2017-02.pdf"
+  ]
+ },
+ "green-mountain-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/gmfl",
+  "urls": [
+   "https://www.fs.usda.gov/r09/gmfl",
+   "https://www.fs.usda.gov/r09/gmfl/safety-ethics",
+   "https://www.fs.usda.gov/r09/gmfl"
+  ]
+ },
+ "green-mountain-and-finger-lakes-national-forests": {
+  "site": "https://www.fs.usda.gov/r09/gmfl",
+  "urls": [
+   "https://www.fs.usda.gov/r09/gmfl",
+   "https://www.fs.usda.gov/r09/gmfl/safety-ethics",
+   "https://www.fs.usda.gov/r09/gmfl",
+   "https://www.fs.usda.gov/r09/gmfl/newsroom/releases/forest-service-targets-hunter-safety-finger-lakes-national-forest",
+   "https://www.fs.usda.gov/r09/gmfl/safety-ethics/recreating-during-hunting-season",
+   "https://www.fs.usda.gov/r09/gmfl/recreation/hapgood-pond-recreation-area"
+  ]
+ },
+ "gunnison-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/gmug",
+  "urls": [
+   "https://www.fs.usda.gov/r02/gmug",
+   "https://www.fs.usda.gov/r02/gmug/alerts/mount-sneffels-wilderness-occupancy-and-use",
+   "https://www.fs.usda.gov/r02/gmug/alerts/raggeds-wilderness-area-occupancy-use",
+   "https://www.fs.usda.gov/sites/nfs/files/r02/gmug/publication/alerts/GMUG-2017-02.pdf",
+   "https://www.fs.usda.gov/r02/gmug/alerts/uncompahgre-wilderness-area-occupancy-use",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "helena-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/helena-lewisclark",
+  "urls": [
+   "https://www.fs.usda.gov/r01/helena-lewisclark",
+   "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/logging-creek-campground",
+   "https://www.fs.usda.gov/r01/helena-lewisclark/about-area/faqs",
+   "https://www.fs.usda.gov/hlcnf"
+  ]
+ },
+ "hiawatha-national-forest": {
+  "site": "https://www.fs.usda.gov/hiawatha",
+  "urls": [
+   "https://www.fs.usda.gov/hiawatha",
+   "https://www.fs.usda.gov/r09/hiawatha/safety-ethics",
+   "https://www.fs.usda.gov/sites/nfs/files/r09/hiawatha/publication/2006%20Forest%20Plan%20Documents.pdf",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "hoosier-national-forest": {
+  "site": "https://www.fs.usda.gov/hoosier/",
+  "urls": [
+   "https://www.fs.usda.gov/hoosier/",
+   "https://www.fs.usda.gov/r09/hoosier/about-area/rules-and-regulations",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "humboldt-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/humboldt-toiyabe",
+  "urls": [
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/hilltop-campground",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/lower-bluster-campground",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/wilderness",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/newsroom/releases/sheep-grazing-helps-reduce-hazardous-fuels-near-renos-0",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/charity-valley-east-trailhead"
+  ]
+ },
+ "huron-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/huron-manistee",
+  "urls": [
+   "https://www.fs.usda.gov/r09/huron-manistee",
+   "https://www.fs.usda.gov/r09/huron-manistee/animals-plants/canine-camper",
+   "https://www.fs.usda.gov/r09/huron-manistee/about-area/faqs",
+   "https://www.fs.usda.gov/r09/huron-manistee/recreation/trails/manistee-river-trail"
+  ]
+ },
+ "huronmanistee-national-forests": {
+  "site": "https://www.fs.usda.gov/r09/huron-manistee",
+  "urls": [
+   "https://www.fs.usda.gov/r09/huron-manistee",
+   "https://www.fs.usda.gov/r09/huron-manistee/animals-plants/canine-camper",
+   "https://www.fs.usda.gov/r09/huron-manistee",
+   "https://www.fs.usda.gov/r09/huron-manistee/about-area/faqs",
+   "https://www.fs.usda.gov/r09/huron-manistee/recreation/trails/manistee-river-trail"
+  ]
+ },
+ "inyo-national-forest": {
+  "site": "https://www.fs.usda.gov/inyo",
+  "urls": [
+   "https://www.fs.usda.gov/inyo",
+   "https://www.fs.usda.gov/r05/inyo/safety-ethics/dogs-inyo-national-forest",
+   "https://www.fs.usda.gov/r05/inyo/permits/wilderness-regulations",
+   "https://www.fs.usda.gov/r05/inyo/about-area/faqs",
+   "https://www.fs.usda.gov/r05/inyo",
+   "https://www.fs.usda.gov/r05/inyo/search?s=whitney&search=&group_ids%5B58%5D=58&page=2"
+  ]
+ },
+ "jefferson-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/gwj",
+  "urls": [
+   "https://www.fs.usda.gov/r08/gwj",
+   "https://www.fs.usda.gov/r08/gwj/recreation/sherando-lake-recreation-area",
+   "https://www.fs.usda.gov/r08/gwj",
+   "https://www.fs.usda.gov/r08/gwj/recreation/roaring-run-day-use-area",
+   "https://www.fs.usda.gov/r08/gwj/recreation/wolf-gap-recreation-area",
+   "https://www.fs.usda.gov/r08/gwj/recreation/hurricane-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "kaibab-national-forest": {
+  "site": "https://www.fs.usda.gov/kaibab",
+  "urls": [
+   "https://www.fs.usda.gov/kaibab",
+   "https://www.fs.usda.gov/r03/kaibab/recreation/dogtown-lake-campground",
+   "https://www.fs.usda.gov/r03/kaibab/recreation/kaibab-lake-campground-and-group-areas",
+   "https://www.fs.usda.gov/r03/kaibab/recreation/dogtown-lake-picnic-site",
+   "https://www.fs.usda.gov/r03/kaibab/recreation/white-horse-lake-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "kisatchie-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/kisatchie",
+  "urls": [
+   "https://www.fs.usda.gov/r08/kisatchie",
+   "https://www.fs.usda.gov/r08/kisatchie/recreation/kisatchie-wilderness-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/kisatchie/safety-ethics",
+   "https://www.fs.usda.gov/media/230263"
+  ]
+ },
+ "klamath-national-forest": {
+  "site": "https://www.fs.usda.gov/klamath",
+  "urls": [
+   "https://www.fs.usda.gov/klamath",
+   "https://www.fs.usda.gov/r05/klamath/recreation/beaver-creek-campground",
+   "https://www.fs.usda.gov/r05/klamath/safety-ethics",
+   "https://www.fs.usda.gov/r05/klamath/recreation/klamath-national-wild-scenic-river-0",
+   "https://www.fs.usda.gov/r05/klamath/recreation/sarah-totten-campground",
+   "https://www.fs.usda.gov/r05/klamath/recreation/shafter-picnic-site"
+  ]
+ },
+ "kootenai-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/kootenai",
+  "urls": [
+   "https://www.fs.usda.gov/r01/kootenai",
+   "https://www.fs.usda.gov/r01/bitterroot/recreation/kootenai-creek-trailhead",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/kootenai/recreation/ross-creek-cedars"
+  ]
+ },
+ "lassen-national-forest": {
+  "site": "https://www.fs.usda.gov/lassen",
+  "urls": [
+   "https://www.fs.usda.gov/lassen",
+   "https://www.fs.usda.gov/r05/lassen/recreation",
+   "https://www.fs.usda.gov/r05/lassen/recreation?page=0%2C3",
+   "https://www.fs.usda.gov/r05/lassen/safety-ethics/enjoy-outdoors",
+   "https://www.fs.usda.gov/r05/lassen/recreation/battle-creek-campground",
+   "https://www.fs.usda.gov/r05/lassen/recreation/domingo-springs-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "lewis-clark-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/helena-lewisclark",
+  "urls": [
+   "https://www.fs.usda.gov/r01/helena-lewisclark",
+   "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/logging-creek-campground",
+   "https://www.fs.usda.gov/r01/helena-lewisclark/about-area/faqs",
+   "https://www.fs.usda.gov/hlcnf"
+  ]
+ },
+ "lincoln-national-forest": {
+  "site": "https://www.fs.usda.gov/lincoln/",
+  "urls": [
+   "https://www.fs.usda.gov/lincoln/",
+   "https://www.fs.usda.gov/r03/lincoln/recreation/trestle-recreation-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "lolo-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/lolo",
+  "urls": [
+   "https://www.fs.usda.gov/r01/lolo",
+   "https://www.fs.usda.gov/r01/lolo/alerts/forest-regional-and-other-regulations",
+   "https://www.fs.usda.gov/r01/lolo/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/r01/lolo/recreation/pattee-canyon-group-picnic-area",
+   "https://www.fs.usda.gov/r01/lolo/recreation/pattee-canyon-disc-golf-course",
+   "https://www.fs.usda.gov/r01/lolo/recreation/trails/maclay-flat-nature-trail",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/lolo/recreation/west-fork-butte-lookout"
+  ]
+ },
+ "manistee-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/huron-manistee",
+  "urls": [
+   "https://www.fs.usda.gov/r09/huron-manistee",
+   "https://www.fs.usda.gov/r09/huron-manistee/animals-plants/canine-camper",
+   "https://www.fs.usda.gov/r09/huron-manistee/about-area/faqs",
+   "https://www.fs.usda.gov/r09/huron-manistee/recreation/trails/manistee-river-trail"
+  ]
+ },
+ "medicine-bow-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/mbrtb",
+  "urls": [
+   "https://www.fs.usda.gov/r02/mbrtb",
+   "https://www.fs.usda.gov/r02/mbrtb/safety-ethics/stay-safe",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/pines-campground",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/sheriff-reservoir-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "medicine-bowroutt-national-forest": {
+  "site": "https://www.fs.usda.gov/mbr/",
+  "urls": [
+   "https://www.fs.usda.gov/mbr/",
+   "https://www.fs.usda.gov/r02/mbrtb/safety-ethics/stay-safe",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/sheriff-reservoir-campground",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/big-creek-lakes-day-use-area",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/pines-campground"
+  ]
+ },
+ "mendocino-national-forest": {
+  "site": "https://www.fs.usda.gov/mendocino",
+  "urls": [
+   "https://www.fs.usda.gov/mendocino",
+   "https://www.fs.usda.gov/r05/mendocino/recreation",
+   "https://www.fs.usda.gov/r05/mendocino/recreation/general-campgrounds-and-trailheads",
+   "https://www.fs.usda.gov/r05/mendocino/recreation/chico-seed-orchard-0",
+   "https://www.fs.usda.gov/r05/mendocino/safety-ethics"
+  ]
+ },
+ "modoc-national-forest": {
+  "site": "https://www.fs.usda.gov/modoc",
+  "urls": [
+   "https://www.fs.usda.gov/modoc",
+   "https://www.fs.usda.gov/r05/modoc/safety-ethics",
+   "https://www.fs.usda.gov/r05/modoc/recreation/soup-springs-campground",
+   "https://www.fs.usda.gov/r05/modoc/recreation/reservoir-c-campground",
+   "https://www.fs.usda.gov/r05/modoc/recreation/medicine-lake-recreation-area",
+   "https://www.fs.usda.gov/r05/modoc/recreation"
+  ]
+ },
+ "monongahela-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/monongahela",
+  "urls": [
+   "https://www.fs.usda.gov/r09/monongahela",
+   "https://www.fs.usda.gov/r09/monongahela/safety-ethics/general-forest-rules",
+   "https://www.fs.usda.gov/r09/monongahela/recreation/williams-river-sites",
+   "https://www.fs.usda.gov/r09/monongahela/recreation/north-bend-picnic-area",
+   "https://www.fs.usda.gov/r09/monongahela",
+   "https://www.fs.usda.gov/r09/monongahela/recreation/summit-lake-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "mount-bakersnoqualmie-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/mbs",
+  "urls": [
+   "https://www.fs.usda.gov/r06/mbs",
+   "https://www.fs.usda.gov/r06/mbs/recreation/trails/poodle-dog-pass-silver-lake-twin-lakes-trail-708",
+   "https://www.fs.usda.gov/r06/mbs/recreation/artist-point-trailhead",
+   "https://www.fs.usda.gov/r06/mbs/recreation/douglas-fir-campground",
+   "https://www.fs.usda.gov/r06/mbs/recreation/silver-fir-campground",
+   "https://www.fs.usda.gov/r06/mbs/recreation/bayview-campground",
+   "https://www.fs.usda.gov/r06/mbs/recreation/trails/lake-ann-trail-600"
+  ]
+ },
+ "mount-hood-national-forest": {
+  "site": "https://www.fs.usda.gov/mthood/",
+  "urls": [
+   "https://www.fs.usda.gov/mthood/",
+   "https://www.fs.usda.gov/r06/mthood/about-area",
+   "https://www.fs.usda.gov/r06/mthood/safety-ethics",
+   "https://www.fs.usda.gov/r06/mthood/recreation/trillium-lake-day-use",
+   "https://www.fs.usda.gov/r06/mthood/recreation/olallie-lake-resort"
+  ]
+ },
+ "mt-baker-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/mbs",
+  "urls": [
+   "https://www.fs.usda.gov/r06/mbs",
+   "https://www.fs.usda.gov/r06/mbs/recreation/trails/poodle-dog-pass-silver-lake-twin-lakes-trail-708",
+   "https://www.fs.usda.gov/r06/mbs/recreation/artist-point-trailhead",
+   "https://www.fs.usda.gov/r06/mbs/recreation/douglas-fir-campground",
+   "https://www.fs.usda.gov/r06/mbs/recreation/trails/lake-ann-trail-600",
+   "https://www.fs.usda.gov/r06/mbs/recreation/gold-basin-campground"
+  ]
+ },
+ "mt-hood-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/mthood",
+  "urls": [
+   "https://www.fs.usda.gov/r06/mthood",
+   "https://www.fs.usda.gov/r06/mthood/about-area",
+   "https://www.fs.usda.gov/r06/mthood/safety-ethics",
+   "https://www.fs.usda.gov/r06/mthood/recreation/trillium-lake-day-use",
+   "https://www.fs.usda.gov/r06/mthood/recreation/olallie-lake-resort"
+  ]
+ },
+ "nantahala-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/northcarolina/recreation",
+  "urls": [
+   "https://www.fs.usda.gov/r08/northcarolina/recreation",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/standing-indian-campground",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/max-patch",
+   "https://www.fs.usda.gov/r04/recreation/dispersed-camping",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/canebrake-horse-camp",
+   "https://www.fs.usda.gov/r08/northcarolina/safety-ethics",
+   "https://www.fs.usda.gov/nfsnc"
+  ]
+ },
+ "national-forests-and-grasslands-in-texas": {
+  "site": "https://www.fs.usda.gov/r08/texas",
+  "urls": [
+   "https://www.fs.usda.gov/r08/texas",
+   "https://www.fs.usda.gov/r08/texas/about-area/faqs",
+   "https://www.fs.usda.gov/r08/texas",
+   "https://www.fs.usda.gov/r08/texas/recreation/valley-view-group-use",
+   "https://www.fs.usda.gov/r08/texas/recreation/boles-field",
+   "https://www.fs.usda.gov/r08/texas/recreation/clear-lake"
+  ]
+ },
+ "national-forests-in-alabama": {
+  "site": "https://www.fs.usda.gov/r08/alabama",
+  "urls": [
+   "https://www.fs.usda.gov/r08/alabama",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf"
+  ]
+ },
+ "national-forests-in-florida": {
+  "site": "https://www.fs.usda.gov/r08/florida",
+  "urls": [
+   "https://www.fs.usda.gov/r08/florida",
+   "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest"
+  ]
+ },
+ "nicolet-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/chequamegon-nicolet",
+  "urls": [
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/safety-ethics/rules-and-regulations",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/beaver-lake-recreation-area",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/long-lake-recreation-area",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/lauterman-national-recreation-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/alerts/forest-order-09-13-25-02-general-occupancy-and-use-restrictions"
+  ]
+ },
+ "ocala-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest",
+  "urls": [
+   "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest",
+   "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest",
+   "https://www.fs.usda.gov/r08/florida"
+  ]
+ },
+ "ochoco-national-forest": {
+  "site": "https://www.fs.usda.gov/ochoco",
+  "urls": [
+   "https://www.fs.usda.gov/ochoco",
+   "https://www.fs.usda.gov/r06/ochoco/natural-resources/range/recreation-tips-rangeland",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r06/ochoco/recreation/ochoco-forest-campground"
+  ]
+ },
+ "oconee-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/chattahoochee-oconee",
+  "urls": [
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics/enjoy-outdoors",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/cooper-creek-recreation-area",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/trails/aska-trail-system"
+  ]
+ },
+ "okanogan-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/okanogan-wenatchee",
+  "urls": [
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/wilderness",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/safety-ethics",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/recreation/alpine-lakes-wilderness-okanogan-wenatchee",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/alerts/alpine-lakes-wilderness-restrictions-forestwide-or-multi-district"
+  ]
+ },
+ "olympic-national-forest": {
+  "site": "https://www.fs.usda.gov/olympic/",
+  "urls": [
+   "https://www.fs.usda.gov/olympic/",
+   "https://www.fs.usda.gov/r06/olympic/safety-ethics",
+   "https://www.fs.usda.gov/r06/olympic/wilderness",
+   "https://www.fs.usda.gov/r06/olympic/recreation/big-creek-upper-loop-8271",
+   "https://www.fs.usda.gov/r06/olympic/recreation/bogachiel-rain-forest-river-trailhead"
+  ]
+ },
+ "ottawa-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/ottawa",
+  "urls": [
+   "https://www.fs.usda.gov/r09/ottawa",
+   "https://www.fs.usda.gov/r09/ottawa/recreation/sylvania-wilderness-backcountry-camping",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r09/ottawa/alerts/wilderness-order-forest-order-09-07-21-07",
+   "https://www.fs.usda.gov/r09/ottawa/alerts/sylvania-perimeter-area-forest-order-09-07-21-06"
+  ]
+ },
+ "ouachita-national-forest": {
+  "site": "https://www.fs.usda.gov/ouachita/",
+  "urls": [
+   "https://www.fs.usda.gov/ouachita/",
+   "https://www.fs.usda.gov/r08/ouachita/about-area/faqs",
+   "https://www.fs.usda.gov/r08/ouachita/safety-ethics",
+   "https://www.fs.usda.gov/r08/ouachita/recreation/charlton-recreation-area"
+  ]
+ },
+ "ozark-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/ozark-stfrancis",
+  "urls": [
+   "https://www.fs.usda.gov/r08/ozark-stfrancis",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis/safety-ethics",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis/about-area/faqs",
+   "https://www.fs.usda.gov/osfnf"
+  ]
+ },
+ "payette-national-forest": {
+  "site": "https://www.fs.usda.gov/payette/",
+  "urls": [
+   "https://www.fs.usda.gov/payette/",
+   "https://www.fs.usda.gov/r04/payette/recreation/recreation-faqs",
+   "https://www.fs.usda.gov/r04/payette/recreation/four-mile-campground",
+   "https://www.fs.usda.gov/r04/payette/recreation/upper-payette-lake-campground",
+   "https://www.fs.usda.gov/r04/payette/recreation/lafferty-campground",
+   "https://www.fs.usda.gov/r04/payette/recreation/chinook-campground"
+  ]
+ },
+ "pike-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/psicc",
+  "urls": [
+   "https://www.fs.usda.gov/r02/psicc",
+   "https://www.fs.usda.gov/r02/psicc/wilderness",
+   "https://www.fs.usda.gov/r02/psicc/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/r02/psicc/recreation/pike-community-group-campground",
+   "https://www.fs.usda.gov/r02/psicc/recreation/cordova-pass-picnic-area-and-campground"
+  ]
+ },
+ "pikesan-isabel-national-forests-and-cimarron-and-comanche-national-grasslands": {
+  "site": "https://www.fs.usda.gov/r02/psicc",
+  "urls": [
+   "https://www.fs.usda.gov/r02/psicc",
+   "https://www.fs.usda.gov/r02/psicc",
+   "https://www.fs.usda.gov/r02/psicc/wilderness",
+   "https://www.fs.usda.gov/r02/psicc/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/r02/psicc/recreation/cordova-pass-picnic-area-and-campground",
+   "https://www.fs.usda.gov/r02/psicc/recreation/lake-isabel-picnic-and-day-use-area"
+  ]
+ },
+ "plumas-national-forest": {
+  "site": "https://www.fs.usda.gov/plumas",
+  "urls": [
+   "https://www.fs.usda.gov/plumas",
+   "https://www.fs.usda.gov/r05/plumas/recreation/sly-creek-campground",
+   "https://www.fs.usda.gov/r05/plumas/recreation/red-feather-campground",
+   "https://www.fs.usda.gov/r05/plumas/recreation/wyandotte-campground",
+   "https://www.fs.usda.gov/r05/plumas/recreation/little-grass-valley-recreation-area",
+   "https://www.fs.usda.gov/r05/plumas/recreation/stag-point",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "prescott-national-forest": {
+  "site": "https://www.fs.usda.gov/prescott",
+  "urls": [
+   "https://www.fs.usda.gov/prescott",
+   "https://www.fs.usda.gov/r03/prescott/wilderness",
+   "https://www.fs.usda.gov/r03/prescott",
+   "https://www.fs.usda.gov/r03/prescott/recreation/camping-cabins",
+   "https://www.fs.usda.gov/r03/prescott/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r03/prescott/newsroom/releases/prescott-nf-offices-closed-indigenous-peoples-day-and-columbus-day-2",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "rio-grande-national-forest": {
+  "site": "https://www.fs.usda.gov/riogrande",
+  "urls": [
+   "https://www.fs.usda.gov/riogrande",
+   "https://www.fs.usda.gov/r02/riogrande/recreation/poso-campground",
+   "https://www.fs.usda.gov/r02/riogrande/recreation/elk-creek-campground",
+   "https://www.fs.usda.gov/r02/riogrande/recreation/thirty-mile-campground",
+   "https://www.fs.usda.gov/r02/riogrande/alerts/la-garita-wilderness-use-restrictions",
+   "https://www.fs.usda.gov/r02/riogrande/recreation/trujillo-meadows-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r02/riogrande/alerts/big-meadows-recreation-area-use-regulations"
+  ]
+ },
+ "rogue-river-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/rogue-siskiyou",
+  "urls": [
+   "https://www.fs.usda.gov/r06/rogue-siskiyou",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/union-creek-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/laird-lake-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/grayback-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/flumet-flat-group-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/fish-lake-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "rogue-riversiskiyou-national-forest": {
+  "site": "https://www.fs.usda.gov/rogue-siskiyou",
+  "urls": [
+   "https://www.fs.usda.gov/rogue-siskiyou",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/union-creek-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/laird-lake-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/grayback-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/fish-lake-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/quosatana-campground"
+  ]
+ },
+ "roosevelt-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/arp",
+  "urls": [
+   "https://www.fs.usda.gov/r02/arp",
+   "https://www.fs.usda.gov/r02/arp/about-area/faqs",
+   "https://www.fs.usda.gov/r02/arp/recreation/comanche-peak-wilderness",
+   "https://www.fs.usda.gov/r02/arp/alerts/arapaho-and-roosevelt-national-forests-and-pawnee-national-grassland-occupancy-and",
+   "https://www.fs.usda.gov/r02/arp/safety-ethics"
+  ]
+ },
+ "routt-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/mbrtb",
+  "urls": [
+   "https://www.fs.usda.gov/r02/mbrtb",
+   "https://www.fs.usda.gov/r02/mbrtb/safety-ethics/stay-safe",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/sheriff-reservoir-campground",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/pines-campground",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/big-creek-lakes-day-use-area",
+   "https://www.fs.usda.gov/r02/mbrtb/recreation/turtle-rock-trailhead",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "sabine-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/texas",
+  "urls": [
+   "https://www.fs.usda.gov/r08/texas",
+   "https://www.fs.usda.gov/r08/texas/about-area/faqs",
+   "https://www.fs.usda.gov/r08/texas",
+   "https://www.fs.usda.gov/r08/texas/recreation/indian-mounds",
+   "https://www.fs.usda.gov/r08/texas/recreation/red-hills-lake",
+   "https://www.fs.usda.gov/r08/texas/recreation/boykin-springs"
+  ]
+ },
+ "salmon-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/salmon-challis",
+  "urls": [
+   "https://www.fs.usda.gov/r04/salmon-challis",
+   "https://www.fs.usda.gov/r04/salmon-challis/recreation/epic-adventures/wild-main-salmon-river",
+   "https://www.fs.usda.gov/r04/salmon-challis/recreation/epic-adventures/middle-fork-salmon-river",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "san-isabel-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/psicc",
+  "urls": [
+   "https://www.fs.usda.gov/r02/psicc",
+   "https://www.fs.usda.gov/r02/psicc/wilderness",
+   "https://www.fs.usda.gov/r02/psicc/recreation/cordova-pass-picnic-area-and-campground",
+   "https://www.fs.usda.gov/r02/psicc/recreation/alvarado-campground",
+   "https://www.fs.usda.gov/r02/psicc/recreation/lake-isabel-picnic-and-day-use-area"
+  ]
+ },
+ "san-juan-national-forest": {
+  "site": "https://www.fs.usda.gov/sanjuan",
+  "urls": [
+   "https://www.fs.usda.gov/sanjuan",
+   "https://www.fs.usda.gov/r02/sanjuan/safety-ethics/hiking-and-camping-dogs",
+   "https://www.fs.usda.gov/r02/sanjuan/recreation/old-timers-day-use-area"
+  ]
+ },
+ "santa-fe-national-forest": {
+  "site": "https://www.fs.usda.gov/santafe/",
+  "urls": [
+   "https://www.fs.usda.gov/santafe/",
+   "https://www.fs.usda.gov/r03/santafe/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/r03/santafe/recreation/resumidero-camping-area",
+   "https://www.fs.usda.gov/r03/santafe/recreation/panchuela-trailhead",
+   "https://www.fs.usda.gov/r03/santafe/recreation/vista-linda-campground"
+  ]
+ },
+ "sawtooth-national-forest": {
+  "site": "https://www.fs.usda.gov/sawtooth",
+  "urls": [
+   "https://www.fs.usda.gov/sawtooth",
+   "https://www.fs.usda.gov/r04/sawtooth/safety-ethics/enjoy-outdoors",
+   "https://www.fs.usda.gov/r04/sawtooth/wilderness/sawtooth-wilderness-regulations",
+   "https://www.fs.usda.gov/r04/sawtooth/alerts/sawtooth-wilderness-area-occupancy-and-use",
+   "https://www.fs.usda.gov/r04/sawtooth/wilderness/hemingway-boulders-wilderness-regulations",
+   "https://www.fs.usda.gov/sites/nfs/files/legacy-media/sawtooth/Sawtooth%20NF%20Visitor%20Guide.pdf"
+  ]
+ },
+ "sequoia-national-forest": {
+  "site": "https://www.fs.usda.gov/sequoia/",
+  "urls": [
+   "https://www.fs.usda.gov/sequoia/",
+   "https://www.fs.usda.gov/r05/sequoia/about-area/faqs",
+   "https://www.fs.usda.gov/r05/sequoia/recreation/princess-campground",
+   "https://www.fs.usda.gov/r05/sequoia/recreation/lewis-camp-trailhead"
+  ]
+ },
+ "shasta-national-forest": {
+  "site": "https://www.fs.usda.gov/r05/shasta-trinity",
+  "urls": [
+   "https://www.fs.usda.gov/r05/shasta-trinity",
+   "https://www.fs.usda.gov/r05/shasta-trinity/about-area/faqs",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation/bailey-cove-campground",
+   "https://www.fs.usda.gov/r05/shasta-trinity/conditions",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation/panther-meadows-campground",
+   "https://www.fs.usda.gov/stnf"
+  ]
+ },
+ "shawnee-national-forest": {
+  "site": "https://www.fs.usda.gov/shawnee",
+  "urls": [
+   "https://www.fs.usda.gov/shawnee",
+   "https://www.fs.usda.gov/r09/shawnee/safety-ethics",
+   "https://www.fs.usda.gov/r09/shawnee/recreation/bell-smith-springs-recreation-area",
+   "https://www.fs.usda.gov/r09/shawnee/recreation/trails/rim-rock-national-recreation-trail",
+   "https://www.fs.usda.gov/r09/shawnee/recreation/trails/river-river-trail",
+   "https://www.fs.usda.gov/r09/shawnee/recreation/garden-gods-recreation-area"
+  ]
+ },
+ "sierra-national-forest": {
+  "site": "https://www.fs.usda.gov/sierra",
+  "urls": [
+   "https://www.fs.usda.gov/sierra",
+   "https://www.fs.usda.gov/r05/sierra/wilderness/pets-forest-wilderness",
+   "https://www.fs.usda.gov/r05/sierra/recreation/camping-cabins"
+  ]
+ },
+ "siskiyou-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/rogue-siskiyou",
+  "urls": [
+   "https://www.fs.usda.gov/r06/rogue-siskiyou",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/union-creek-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/sixmile-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/fish-lake-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/grayback-campground",
+   "https://www.fs.usda.gov/r06/rogue-siskiyou/recreation/doe-point-campground-day-use",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "sitgreaves-national-forest": {
+  "site": "https://www.fs.usda.gov/r03/apache-sitgreaves",
+  "urls": [
+   "https://www.fs.usda.gov/r03/apache-sitgreaves",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/canyon-point-campground",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/aspen-campground",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/old-rim-trailhead",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/mogollon-rim-visitor-center",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "siuslaw-national-forest": {
+  "site": "https://www.fs.usda.gov/siuslaw/",
+  "urls": [
+   "https://www.fs.usda.gov/siuslaw/",
+   "https://www.fs.usda.gov/r06/siuslaw/about-area/faqs",
+   "https://www.fs.usda.gov/r06/siuslaw/safety-ethics",
+   "https://www.fs.usda.gov/r06/siuslaw/recreation/rules-and-guidelines",
+   "https://www.fs.usda.gov/r06/siuslaw/wilderness",
+   "https://www.fs.usda.gov/r06/siuslaw/newsroom/releases/respect-nesting-areas-protect-threatened-snowy-plover-march-15-sept-0"
+  ]
+ },
+ "snoqualmie-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/mbs",
+  "urls": [
+   "https://www.fs.usda.gov/r06/mbs",
+   "https://www.fs.usda.gov/r06/mbs/recreation/trails/poodle-dog-pass-silver-lake-twin-lakes-trail-708",
+   "https://www.fs.usda.gov/r06/mbs/recreation/artist-point-trailhead",
+   "https://www.fs.usda.gov/r06/mbs/recreation/pacific-crest-trail-snoqualmie-north-trailhead",
+   "https://www.fs.usda.gov/r06/mbs/recreation/trails/lake-ann-trail-600",
+   "https://www.fs.usda.gov/r06/mbs/recreation/douglas-fir-campground"
+  ]
+ },
+ "st-francis-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/ozark-stfrancis",
+  "urls": [
+   "https://www.fs.usda.gov/r08/ozark-stfrancis",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis/about-area/faqs",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis/safety-ethics",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis",
+   "https://www.fs.usda.gov/osfnf"
+  ]
+ },
+ "stanislaus-national-forest": {
+  "site": "https://www.fs.usda.gov/r05/stanislaus",
+  "urls": [
+   "https://www.fs.usda.gov/r05/stanislaus",
+   "https://www.fs.usda.gov/r05/stanislaus/permits/wilderness-permits",
+   "https://www.fs.usda.gov/r05/stanislaus",
+   "https://www.fs.usda.gov/sites/nfs/files/r05/stanislaus/publication/Favorite%20Hiking%20Trails.pdf",
+   "https://www.fs.usda.gov/r05/stanislaus/recreation/pinecrest-lake"
+  ]
+ },
+ "sumter-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/francismarionsumter",
+  "urls": [
+   "https://www.fs.usda.gov/r08/francismarionsumter",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/dogs-and-other-pets",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/trail-safety",
+   "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/sharing-trails",
+   "https://www.fs.usda.gov/r08/francismarionsumter/recreation/whetstone-horse-camp"
+  ]
+ },
+ "superior-national-forest": {
+  "site": "https://www.fs.usda.gov/superior",
+  "urls": [
+   "https://www.fs.usda.gov/superior",
+   "https://www.fs.usda.gov/r09/superior/newsroom/releases/clarification-and-faqs-dog-leash-rules",
+   "https://www.fs.usda.gov/r09/superior/recreation/opportunities/hunting-shooting",
+   "https://www.fs.usda.gov/r09/superior/recreation/trails/otto-harris-lake-trail",
+   "https://www.fs.usda.gov/r09/superior/recreation/pickerel-lake",
+   "https://www.fs.usda.gov/r09/superior/wilderness/boundary-waters-canoe-area-wilderness-rules-and-regulations"
+  ]
+ },
+ "tahoe-national-forest": {
+  "site": "https://www.fs.usda.gov/tahoe",
+  "urls": [
+   "https://www.fs.usda.gov/tahoe",
+   "https://www.fs.usda.gov/r05/laketahoebasin/recreation/where-can-i-take-my-dog-lake-tahoe",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/media/235607"
+  ]
+ },
+ "talladega-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/alabama/recreation",
+  "urls": [
+   "https://www.fs.usda.gov/r08/alabama/recreation",
+   "https://www.fs.usda.gov/r04/recreation/dispersed-camping",
+   "https://www.fs.usda.gov/r08/florida/recreation/camping-cabins",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf",
+   "https://www.fs.usda.gov/r08/alabama"
+  ]
+ },
+ "targhee-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/caribou-targhee",
+  "urls": [
+   "https://www.fs.usda.gov/r04/caribou-targhee",
+   "https://www.fs.usda.gov/r04/caribou-targhee/recreation/explore-forest",
+   "https://www.fs.usda.gov/r04/caribou-targhee/recreation/buffalo-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r04/caribou-targhee/alerts/04-15-25-218-teton-basin-palisades-dog-closure",
+   "https://www.fs.usda.gov/r04/caribou-targhee/alerts/04-15-23-214-ashton-island-park-ski-trails",
+   "https://www.fs.usda.gov/r04/caribou-targhee/newsroom/releases/annual-winter-restrictions-targhee-forest"
+  ]
+ },
+ "teton-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/bridger-teton",
+  "urls": [
+   "https://www.fs.usda.gov/r04/bridger-teton",
+   "https://www.fs.usda.gov/r04/bridger-teton/newsroom/releases/btnf-wildlife-winter-restrictions-begin-december-1-dog-leash",
+   "https://www.fs.usda.gov/r04/bridger-teton/alerts/dog-leash-order-jackson-ranger-district",
+   "https://www.fs.usda.gov/r04/bridger-teton/newsroom/releases/winter-wildlife-restrictions-begin-dec-1-bridger-teton-national",
+   "https://www.fs.usda.gov/r04/bridger-teton/alerts"
+  ]
+ },
+ "toiyabe-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/humboldt-toiyabe",
+  "urls": [
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/hilltop-campground",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/lower-bluster-campground",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/newsroom/releases/sheep-grazing-helps-reduce-hazardous-fuels-near-renos-0",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/wilderness",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/charity-valley-east-trailhead"
+  ]
+ },
+ "tonto-national-forest": {
+  "site": "https://www.fs.usda.gov/r03/tonto",
+  "urls": [
+   "https://www.fs.usda.gov/r03/tonto",
+   "https://www.fs.usda.gov/r03/tonto/about-area/faqs",
+   "https://www.fs.usda.gov/r03/tonto",
+   "https://www.fs.usda.gov/r03/tonto/recreation/lower-tonto-creek-campground",
+   "https://www.fs.usda.gov/r03/tonto/recreation/upper-tonto-creek-campground",
+   "https://www.fs.usda.gov/r03/tonto/recreation/trails",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "trinity-national-forest": {
+  "site": "https://www.fs.usda.gov/r05/shasta-trinity",
+  "urls": [
+   "https://www.fs.usda.gov/r05/shasta-trinity",
+   "https://www.fs.usda.gov/r05/shasta-trinity/about-area/faqs",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation/bailey-cove-campground",
+   "https://www.fs.usda.gov/r05/shasta-trinity/conditions",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation/panther-meadows-campground",
+   "https://www.fs.usda.gov/stnf"
+  ]
+ },
+ "uinta-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+  "urls": [
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/alerts/04-19-23-602-pet-restrictions-cemetery-point-middle-inlet-anderson",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/tibble-fork-reservoir-trailhead",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/trails/neffs-canyon-trail-456",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/mill-creek-canyon",
+   "https://www.fs.usda.gov/uwcnf"
+  ]
+ },
+ "umatilla-national-forest": {
+  "site": "https://www.fs.usda.gov/umatilla/",
+  "urls": [
+   "https://www.fs.usda.gov/umatilla/",
+   "https://www.fs.usda.gov/r06/umatilla/natural-resources/range",
+   "https://www.fs.usda.gov/r06/umatilla/safety-ethics",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r06/umatilla/newsroom/releases/forest-service-encouraging-safe-recreation-over-labor-day-weekend"
+  ]
+ },
+ "umpqua-national-forest": {
+  "site": "https://www.fs.usda.gov/umpqua",
+  "urls": [
+   "https://www.fs.usda.gov/umpqua",
+   "https://www.fs.usda.gov/r06/umpqua/recreation/horseshoe-bend-campground",
+   "https://www.fs.usda.gov/r06/umpqua/recreation/broken-arrow-campground",
+   "https://www.fs.usda.gov/r06/umpqua/safety-ethics/be-bear-aware",
+   "https://www.fs.usda.gov/r06/umpqua/recreation/wright-creek-camping-area"
+  ]
+ },
+ "uncompahgre-national-forest": {
+  "site": "https://www.fs.usda.gov/r02/gmug",
+  "urls": [
+   "https://www.fs.usda.gov/r02/gmug",
+   "https://www.fs.usda.gov/r02/gmug/alerts/uncompahgre-wilderness-area-occupancy-use",
+   "https://www.fs.usda.gov/r02/gmug/alerts/mount-sneffels-wilderness-occupancy-and-use",
+   "https://www.fs.usda.gov/sites/nfs/files/r02/gmug/publication/alerts/GMUG-2017-02.pdf",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "wallowa-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/wallowa-whitman",
+  "urls": [
+   "https://www.fs.usda.gov/r06/wallowa-whitman",
+   "https://www.fs.usda.gov/r06/wallowa-whitman/safety-ethics",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "wallowawhitman-national-forest": {
+  "site": "https://www.fs.usda.gov/wallowa-whitman/",
+  "urls": [
+   "https://www.fs.usda.gov/wallowa-whitman/",
+   "https://www.fs.usda.gov/r06/wallowa-whitman/safety-ethics"
+  ]
+ },
+ "wasatch-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+  "urls": [
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/alerts/04-19-23-602-pet-restrictions-cemetery-point-middle-inlet-anderson",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/tibble-fork-reservoir-trailhead",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/mill-creek-canyon",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/trails/little-water-trail-311",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/trails/neffs-canyon-trail-456",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/uwcnf"
+  ]
+ },
+ "wayne-national-forest": {
+  "site": "https://www.fs.usda.gov/wayne/",
+  "urls": [
+   "https://www.fs.usda.gov/wayne/",
+   "https://www.fs.usda.gov/r09/wayne/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "wenatchee-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/okanogan-wenatchee",
+  "urls": [
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/wilderness",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/safety-ethics",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/recreation/alpine-lakes-wilderness-okanogan-wenatchee",
+   "https://www.fs.usda.gov/r06/okanogan-wenatchee/alerts/alpine-lakes-wilderness-restrictions-forestwide-or-multi-district"
+  ]
+ },
+ "white-mountain-national-forest": {
+  "site": "https://www.fs.usda.gov/r09/whitemountain",
+  "urls": [
+   "https://www.fs.usda.gov/r09/whitemountain",
+   "https://www.fs.usda.gov/r09/whitemountain/about-area/faqs",
+   "https://www.fs.usda.gov/r09/whitemountain"
+  ]
+ },
+ "whitman-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/wallowa-whitman",
+  "urls": [
+   "https://www.fs.usda.gov/r06/wallowa-whitman",
+   "https://www.fs.usda.gov/r06/wallowa-whitman/safety-ethics",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "willamette-national-forest": {
+  "site": "https://www.fs.usda.gov/willamette/",
+  "urls": [
+   "https://www.fs.usda.gov/willamette/",
+   "https://www.fs.usda.gov/r06/willamette/recreation/rules-and-guidelines",
+   "https://www.fs.usda.gov/r06/willamette/recreation/clear-lake-day-use-area",
+   "https://www.fs.usda.gov/r06/willamette/safety-ethics",
+   "https://www.fs.usda.gov/r06/willamette/recreation/lookout-campground",
+   "https://www.fs.usda.gov/r06/willamette/recreation/lost-lake-campground"
+  ]
+ },
+ "winema-national-forest": {
+  "site": "https://www.fs.usda.gov/r06/fremont-winema",
+  "urls": [
+   "https://www.fs.usda.gov/r06/fremont-winema",
+   "https://www.fs.usda.gov/r06/fremont-winema/newsroom/releases/dog-lake-road-closed-thursday-paving",
+   "https://www.fs.usda.gov/r06/fremont-winema/newsroom/releases/dog-lake-road-scheduled-reopen-thursday-afternoon",
+   "https://www.fs.usda.gov/r06/fremont-winema/recreation/trails/woods-line-trail",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r06/fremont-winema/recreation/camping-cabins"
+  ]
+ },
+ "acadia-national-park": {
+  "site": "https://nps.gov/acad",
+  "urls": [
+   "https://nps.gov/acad",
+   "https://www.nps.gov/acad/planyourvisit/pets.htm",
+   "https://www.nps.gov/acad/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/articles/here-s-why-even-nice-dogs-must-stay-on-a-leash-in-acadia.htm",
+   "https://www.nps.gov/articles/be-an-acadia-bark-ranger.htm"
+  ]
+ },
+ "arches-national-park": {
+  "site": "https://nps.gov/arch",
+  "urls": [
+   "https://nps.gov/arch",
+   "https://www.nps.gov/arch/planyourvisit/pets.htm",
+   "https://www.nps.gov/arch/planyourvisit/regulations.htm"
+  ]
+ },
+ "badlands-national-park": {
+  "site": "https://nps.gov/badl",
+  "urls": [
+   "https://nps.gov/badl",
+   "https://www.nps.gov/badl/planyourvisit/pets.htm",
+   "https://www.nps.gov/badl/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/badl/planyourvisit/basicinfo.htm",
+   "https://www.nps.gov/thingstodo/badl-dogs-on-back-roads.htm?ref=journal",
+   "https://www.nps.gov/thingstodo/hiking-badl.htm"
+  ]
+ },
+ "big-bend-national-park": {
+  "site": "https://nps.gov/bibe/",
+  "urls": [
+   "https://nps.gov/bibe/",
+   "https://www.nps.gov/bibe/planyourvisit/pets.htm",
+   "https://www.nps.gov/bibe/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/bibe/learn/nature/what-animal.htm",
+   "https://www.nps.gov/bibe/planyourvisit/leavenotrace.htm?fbclid=IwY2xjawO2TYVicmlkETFTWnVmWFR6aDJFNjIzUUc2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhE8h6CeZZVHg9wuWhAflRbO1lfDFNpQ6TFZsxHSrVNY8o9lUCZQK5qZOosd&brid=paY0ho-z0Hw609iTmfKCtw",
+   "https://www.nps.gov/bibe/faqs.htm"
+  ]
+ },
+ "biscayne-national-park": {
+  "site": "https://nps.gov/bisc",
+  "urls": [
+   "https://nps.gov/bisc",
+   "https://www.nps.gov/bisc/planyourvisit/pets.htm",
+   "https://www.nps.gov/thingstodo/become-a-biscayne-b-a-r-k-ranger.htm",
+   "https://www.nps.gov/bisc/planyourvisit/camping.htm"
+  ]
+ },
+ "black-canyon-of-the-gunnison-national-park": {
+  "site": "https://nps.gov/blca",
+  "urls": [
+   "https://nps.gov/blca",
+   "https://www.nps.gov/blca/planyourvisit/pets.htm",
+   "https://www.nps.gov/blca/planyourvisit/pets2.htm",
+   "https://www.nps.gov/blca/planyourvisit/basicinfo.htm",
+   "https://www.nps.gov/blca/learn/management/superintendents-compendium.htm",
+   "https://www.nps.gov/blca/planyourvisit/safety.htm"
+  ]
+ },
+ "bryce-canyon-national-park": {
+  "site": "https://nps.gov/brca",
+  "urls": [
+   "https://nps.gov/brca",
+   "https://www.nps.gov/brca/planyourvisit/pets.htm",
+   "https://www.nps.gov/brca/learn/news/burrow-on-over-to-bryce-canyon-for-utah-prairie-dog-day-2024.htm",
+   "https://www.nps.gov/brca/learn/news/utah-prairie-dog-day-returns-to-bryce-canyon-on-may-11.htm",
+   "https://www.nps.gov/brca/planyourvisit/day-hikes.htm",
+   "https://www.nps.gov/brca/learn/management/lawsandpolicies.htm"
+  ]
+ },
+ "canyonlands-national-park": {
+  "site": "https://nps.gov/cany",
+  "urls": [
+   "https://nps.gov/cany",
+   "https://www.nps.gov/cany/planyourvisit/pets.htm",
+   "https://www.nps.gov/places/pets-in-canyonlands.htm",
+   "https://www.nps.gov/cany/learn/management/compendium.htm"
+  ]
+ },
+ "capitol-reef-national-park": {
+  "site": "https://nps.gov/care",
+  "urls": [
+   "https://nps.gov/care",
+   "https://www.nps.gov/care/planyourvisit/pets.htm",
+   "https://www.nps.gov/care/regulations.htm",
+   "https://www.nps.gov/care/learn/historyculture/orchards.htm",
+   "https://www.nps.gov/care/planyourvisit/reef-ride-bike-days.htm"
+  ]
+ },
+ "carlsbad-caverns-national-park": {
+  "site": "https://nps.gov/cave",
+  "urls": [
+   "https://nps.gov/cave",
+   "https://www.nps.gov/cave/planyourvisit/pets.htm",
+   "https://www.nps.gov/cave/planyourvisit/service-animals.htm"
+  ]
+ },
+ "channel-islands-national-park": {
+  "site": "https://nps.gov/chis",
+  "urls": [
+   "https://nps.gov/chis",
+   "https://www.nps.gov/chis/planyourvisit/pets.htm",
+   "https://www.nps.gov/chis/planyourvisit/service-animals.htm"
+  ]
+ },
+ "chiricahua-national-park": {
+  "site": "https://www.nps.gov/chir/",
+  "urls": [
+   "https://www.nps.gov/chir/",
+   "https://www.nps.gov/chir/planyourvisit/pets.htm",
+   "https://www.nps.gov/chir/learn/management/lawsandpolicies.htm",
+   "https://www.nps.gov/thingstodo/hike-chiricahua.htm",
+   "https://www.nps.gov/chir/faqs.htm"
+  ]
+ },
+ "congaree-national-park": {
+  "site": "https://nps.gov/cong",
+  "urls": [
+   "https://nps.gov/cong",
+   "https://www.nps.gov/cong/planyourvisit/pets.htm",
+   "https://www.nps.gov/cong/learn/news/park-seeking-public-comment-on-proposed-change-to-park-policy-permitting-dogs-on-boardwalk-trail.htm",
+   "https://www.nps.gov/cong/faqs.htm"
+  ]
+ },
+ "crater-lake-national-park": {
+  "site": "https://nps.gov/crla",
+  "urls": [
+   "https://nps.gov/crla",
+   "https://www.nps.gov/crla/planyourvisit/pets.htm"
+  ]
+ },
+ "cuyahoga-valley-national-park": {
+  "site": "https://nps.gov/cuva",
+  "urls": [
+   "https://nps.gov/cuva",
+   "https://www.nps.gov/cuva/planyourvisit/pets.htm",
+   "https://www.nps.gov/cuva/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/cuva/faqs.htm",
+   "https://www.nps.gov/cuva/planyourvisit/safety.htm"
+  ]
+ },
+ "death-valley-national-park": {
+  "site": "https://nps.gov/deva",
+  "urls": [
+   "https://nps.gov/deva",
+   "https://www.nps.gov/deva/planyourvisit/pets.htm",
+   "https://www.nps.gov/deva/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/deva/faqs.htm?fullweb=1"
+  ]
+ },
+ "denali-national-park": {
+  "site": "https://www.nps.gov/dena",
+  "urls": [
+   "https://www.nps.gov/dena",
+   "https://www.nps.gov/dena/planyourvisit/pets.htm",
+   "https://www.nps.gov/dena/blogs/learning-about-dog-behavior.htm",
+   "https://www.nps.gov/dena/blogs/what-to-expect-when-a-sled-dog-is-expecting.htm",
+   "https://www.nps.gov/dena/planyourvisit/kennels.htm",
+   "https://www.nps.gov/dena/planyourvisit/mushing.htm",
+   "https://www.nps.gov/dena/planyourvisit/serviceanimals.htm"
+  ]
+ },
+ "denali-national-park-and-preserve": {
+  "site": "https://nps.gov/dena",
+  "urls": [
+   "https://nps.gov/dena",
+   "https://www.nps.gov/dena/planyourvisit/pets.htm",
+   "https://www.nps.gov/dena/blogs/learning-about-dog-behavior.htm",
+   "https://www.nps.gov/dena/blogs/what-to-expect-when-a-sled-dog-is-expecting.htm",
+   "https://www.nps.gov/dena/planyourvisit/how-to-visit-the-kennels.htm",
+   "https://www.nps.gov/dena/planyourvisit/serviceanimals.htm",
+   "https://www.nps.gov/dena/planyourvisit/mushing.htm"
+  ]
+ },
+ "dry-tortugas-national-park": {
+  "site": "https://nps.gov/drto",
+  "urls": [
+   "https://nps.gov/drto",
+   "https://www.nps.gov/drto/planyourvisit/pets.htm",
+   "https://www.nps.gov/drto/faqs.htm",
+   "https://www.nps.gov/drto/planyourvisit/conditions.htm",
+   "https://www.nps.gov/drto/learn/management/superintendent-s-compendium.htm"
+  ]
+ },
+ "everglades-national-park": {
+  "site": "https://nps.gov/ever",
+  "urls": [
+   "https://nps.gov/ever",
+   "https://www.nps.gov/ever/planyourvisit/pets.htm",
+   "https://www.nps.gov/ever/learn/nature/invasiveanimalprogram.htm",
+   "https://www.nps.gov/ever/learn/nature/wildlife.htm",
+   "https://www.nps.gov/ever/faqs.htm",
+   "https://www.nps.gov/ever/planyourvisit/camping.htm",
+   "https://www.nps.gov/ever/planyourvisit/safety.htm"
+  ]
+ },
+ "gates-of-the-arctic-national-park": {
+  "site": "https://nps.gov/gaar",
+  "urls": [
+   "https://nps.gov/gaar",
+   "https://www.nps.gov/gaar/planyourvisit/pets.htm",
+   "https://www.nps.gov/gaar/of-dogs-and-wilderness-changing-pace.htm",
+   "https://www.nps.gov/gaar/of-dogs-and-wilderness-working-dogs.htm",
+   "https://www.nps.gov/gaar/of-dogs-and-wilderness.htm",
+   "https://www.nps.gov/gaar/of-dogs-and-wilderness-immersion.htm",
+   "https://www.nps.gov/gaar/of-dogs-and-wilderness-the-return.htm"
+  ]
+ },
+ "gateway-arch-national-park": {
+  "site": "https://nps.gov/jeff",
+  "urls": [
+   "https://nps.gov/jeff",
+   "https://www.nps.gov/jeff/planyourvisit/pets.htm",
+   "https://www.nps.gov/jeff/learn/management/lawsandpolicies.htm",
+   "https://www.nps.gov/jeff/learn/news/gateway-arch-national-park-celebrates-national-park-week-2021.htm",
+   "https://www.nps.gov/jeff/learn/news/gateway-arch-celebrates-national-park-week.htm"
+  ]
+ },
+ "glacier-bay-national-park": {
+  "site": "https://www.nps.gov/glba/",
+  "urls": [
+   "https://www.nps.gov/glba/",
+   "https://www.nps.gov/glba/planyourvisit/pets.htm"
+  ]
+ },
+ "glacier-bay-national-park-and-preserve": {
+  "site": "https://nps.gov/glba",
+  "urls": [
+   "https://nps.gov/glba",
+   "https://www.nps.gov/glba/planyourvisit/pets.htm",
+   "https://www.nps.gov/glba/planyourvisit/accessibility.htm"
+  ]
+ },
+ "grand-canyon-national-park": {
+  "site": "https://nps.gov/grca",
+  "urls": [
+   "https://nps.gov/grca",
+   "https://www.nps.gov/grca/planyourvisit/pets.htm",
+   "https://www.nps.gov/grca/learn/news/conservation-k9-blue.htm"
+  ]
+ },
+ "grand-teton-national-park": {
+  "site": "https://nps.gov/grte",
+  "urls": [
+   "https://nps.gov/grte",
+   "https://www.nps.gov/grte/planyourvisit/pets.htm",
+   "https://www.nps.gov/grte/planyourvisit/upload/PETS_15-access.pdf",
+   "https://www.nps.gov/grte/learn/news/dogs-to-raise-awareness-about-aquatic-invasive-species-in-grand-teton-and-yellowstone.htm",
+   "https://www.nps.gov/grte/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/grte/planyourvisit/upload/Service-Animal-Acknowledement-Form.pdf",
+   "https://www.nps.gov/grte/planyourvisit/pets.htm?ref=syllogi.ghost.io"
+  ]
+ },
+ "great-basin-national-park": {
+  "site": "https://nps.gov/grba",
+  "urls": [
+   "https://nps.gov/grba",
+   "https://www.nps.gov/grba/planyourvisit/pets.htm",
+   "https://www.nps.gov/grba/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/grba/learn/management/pet-regulations.htm",
+   "https://www.nps.gov/grba/planyourvisit/camping-regulations.htm"
+  ]
+ },
+ "great-sand-dunes-national-park": {
+  "site": "https://nps.gov/grsa",
+  "urls": [
+   "https://nps.gov/grsa",
+   "https://www.nps.gov/grsa/planyourvisit/pets.htm",
+   "https://www.nps.gov/grsa/planyourvisit/index.htm",
+   "https://www.nps.gov/grsa/planyourvisit/basicinfo.htm",
+   "https://www.nps.gov/grsa/planyourvisit/horse-and-pack-animal-use.htm?hc_location=ufi",
+   "https://www.nps.gov/grsa/faqs.htm"
+  ]
+ },
+ "great-smoky-mountains-national-park": {
+  "site": "https://nps.gov/grsm",
+  "urls": [
+   "https://nps.gov/grsm",
+   "https://www.nps.gov/grsm/planyourvisit/pets.htm",
+   "https://www.nps.gov/grsm/faqs.htm",
+   "https://www.nps.gov/grsm/planyourvisit/balsam-mountain.htm",
+   "https://www.nps.gov/grsm/learn/news/prepare-for-a-busy-memorial-day-weekend-at-the-smokies.htm",
+   "https://www.nps.gov/grsm/planyourvisit/cataloochee-campground.htm?ref=ghost.rvezy.com"
+  ]
+ },
+ "guadalupe-mountains-national-park": {
+  "site": "https://nps.gov/gumo",
+  "urls": [
+   "https://nps.gov/gumo",
+   "https://www.nps.gov/gumo/planyourvisit/pets.htm",
+   "https://www.nps.gov/gumo/planyourvisit/dogcanyon.htm",
+   "https://www.nps.gov/gumo/planyourvisit/dogcyn_dayhikes.htm",
+   "https://www.nps.gov/gumo/planyourvisit/dog_canyon_campground.htm",
+   "https://www.nps.gov/gumo/planyourvisit/camping.htm?ref=lifeinanotherworld.com"
+  ]
+ },
+ "haleakala-national-park": {
+  "site": "https://nps.gov/hale",
+  "urls": [
+   "https://nps.gov/hale",
+   "https://www.nps.gov/hale/planyourvisit/pets.htm",
+   "https://www.nps.gov/hale/learn/nature/uau-the-hawaiian-petrel.htm",
+   "https://www.nps.gov/hale/planyourvisit/kipahulu-campground.htm"
+  ]
+ },
+ "hawaii-volcanoes-national-park": {
+  "site": "https://www.nps.gov/havo/index.htm",
+  "urls": [
+   "https://www.nps.gov/havo/index.htm",
+   "https://www.nps.gov/havo/planyourvisit/pets.htm",
+   "https://www.nps.gov/havo/learn/news/pets.htm",
+   "https://www.nps.gov/havo/learn/news/20210225_nr_park-unleashes-bark-ranger-program.htm",
+   "https://www.nps.gov/havo/learn/news/romeo.htm"
+  ]
+ },
+ "hot-springs-national-park": {
+  "site": "https://nps.gov/hosp",
+  "urls": [
+   "https://nps.gov/hosp",
+   "https://www.nps.gov/hosp/planyourvisit/pets.htm",
+   "https://www.nps.gov/hosp/planyourvisit/index.htm"
+  ]
+ },
+ "indiana-dunes-national-park": {
+  "site": "https://nps.gov/indu",
+  "urls": [
+   "https://nps.gov/indu",
+   "https://www.nps.gov/indu/planyourvisit/pets.htm",
+   "https://www.nps.gov/indu/learn/news/dog-days-hike-at-national-park-s-chellberg-farm.htm",
+   "https://www.nps.gov/indu/planyourvisit/bark-rangers.htm",
+   "https://www.nps.gov/indu/faqs.htm",
+   "https://www.nps.gov/indu/learn/news/hike-with-your-hound-at-the-national-park.htm",
+   "https://www.nps.gov/indu/learn/news/bark-ranger-hike-july-2019.htm"
+  ]
+ },
+ "isle-royale-national-park": {
+  "site": "https://nps.gov/isro",
+  "urls": [
+   "https://nps.gov/isro",
+   "https://www.nps.gov/isro/planyourvisit/pets.htm",
+   "https://www.nps.gov/isro/planyourvisit/service-dogs.htm",
+   "https://www.nps.gov/isro/planyourvisit/accessibility.htm",
+   "https://www.nps.gov/isro/planyourvisit/packing-guide.htm",
+   "https://www.nps.gov/isro/planyourvisit/safety.htm",
+   "https://www.nps.gov/isro/planyourvisit/boating-safety.htm"
+  ]
+ },
+ "joshua-tree-national-park": {
+  "site": "https://nps.gov/jotr",
+  "urls": [
+   "https://nps.gov/jotr",
+   "https://www.nps.gov/jotr/planyourvisit/pets.htm",
+   "https://www.nps.gov/jotr/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/jotr/learn/news/dog-rescued-from-rocks-by-search-and-rescue-team.htm",
+   "https://www.nps.gov/jotr/learn/news/dogdiesontrail.htm",
+   "https://www.nps.gov/jotr/planyourvisit/first-time-visitors.htm"
+  ]
+ },
+ "kenai-fjords-national-park": {
+  "site": "https://nps.gov/kefj",
+  "urls": [
+   "https://nps.gov/kefj",
+   "https://www.nps.gov/kefj/planyourvisit/pets.htm",
+   "https://www.nps.gov/kefj/learn/management/lawsandpolicies.htm",
+   "https://www.nps.gov/kefj/planyourvisit/conditions.htm",
+   "https://www.nps.gov/kefj/planyourvisit/rules-and-regulations.htm",
+   "https://www.nps.gov/kefj/planyourvisit/index.htm"
+  ]
+ },
+ "kings-canyon-national-park": {
+  "site": "https://nps.gov/seki",
+  "urls": [
+   "https://nps.gov/seki",
+   "https://www.nps.gov/seki/planyourvisit/pets.htm",
+   "https://www.nps.gov/seki/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/seki/planyourvisit/azalea.htm"
+  ]
+ },
+ "kobuk-valley-national-park": {
+  "site": "https://nps.gov/kova",
+  "urls": [
+   "https://nps.gov/kova",
+   "https://www.nps.gov/kova/planyourvisit/pets.htm",
+   "https://www.nps.gov/kova/blogs/qimmiq-and-anaq.htm",
+   "https://www.nps.gov/kova/blogs/a-cultural-anthropologists-point-of-view.htm",
+   "https://www.nps.gov/locations/alaska/upload/2026-WEAR-Superintendent-s-Compendium-508.pdf"
+  ]
+ },
+ "lake-clark-national-park": {
+  "site": "https://www.nps.gov/lacl/",
+  "urls": [
+   "https://www.nps.gov/lacl/",
+   "https://www.nps.gov/lacl/planyourvisit/pets.htm"
+  ]
+ },
+ "lassen-volcanic-national-park": {
+  "site": "https://nps.gov/lavo",
+  "urls": [
+   "https://nps.gov/lavo",
+   "https://www.nps.gov/lavo/planyourvisit/pets.htm",
+   "https://www.nps.gov/lavo/faqs.htm?fullweb=1",
+   "https://www.nps.gov/lavo/learn/management/compendium.htm",
+   "https://www.nps.gov/lavo/learn/management/camping_regulations.htm"
+  ]
+ },
+ "mammoth-cave-national-park": {
+  "site": "https://www.nps.gov/maca/index.htm",
+  "urls": [
+   "https://www.nps.gov/maca/index.htm",
+   "https://www.nps.gov/maca/planyourvisit/pets.htm",
+   "https://www.nps.gov/maca/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/maca/planyourvisit/bark-in-the-park.htm",
+   "https://www.nps.gov/maca/faqs.htm"
+  ]
+ },
+ "mesa-verde-national-park": {
+  "site": "https://www.nps.gov/meve/index.htm",
+  "urls": [
+   "https://www.nps.gov/meve/index.htm",
+   "https://www.nps.gov/meve/planyourvisit/pets.htm",
+   "https://www.nps.gov/meve/planyourvisit/wetherill-mesa.htm"
+  ]
+ },
+ "mount-rainier-national-park": {
+  "site": "https://www.nps.gov/mora/index.htm",
+  "urls": [
+   "https://www.nps.gov/mora/index.htm",
+   "https://www.nps.gov/mora/planyourvisit/pets.htm",
+   "https://www.nps.gov/mora/planyourvisit/upload/Pets-in-the-Park-Dec18.pdf",
+   "https://www.nps.gov/mora/learn/management/lawsandpolicies.htm",
+   "https://www.nps.gov/mora/faqs.htm"
+  ]
+ },
+ "national-park-of-american-samoa": {
+  "site": "https://nps.gov/npsa",
+  "urls": [
+   "https://nps.gov/npsa",
+   "https://www.nps.gov/npsa/planyourvisit/pets.htm",
+   "https://www.nps.gov/npsa/planyourvisit/hiking.htm"
+  ]
+ },
+ "new-river-gorge-national-park": {
+  "site": "https://www.nps.gov/neri/",
+  "urls": [
+   "https://www.nps.gov/neri/",
+   "https://www.nps.gov/neri/planyourvisit/pets.htm",
+   "https://www.nps.gov/neri/learn/news/park-asks-for-public-assistance-with-pet-regulations.htm",
+   "https://www.nps.gov/neri/planyourvisit/bark-ranger.htm",
+   "https://www.nps.gov/neri/planyourvisit/new-river-gorge-100-mile-challenge.htm"
+  ]
+ },
+ "north-cascades-national-park": {
+  "site": "https://www.nps.gov/noca/index.htm",
+  "urls": [
+   "https://www.nps.gov/noca/index.htm",
+   "https://www.nps.gov/noca/planyourvisit/pets.htm",
+   "https://www.nps.gov/noca/planyourvisit/leavenotrace.htm",
+   "https://www.nps.gov/noca/faqs.htm?fullweb=1",
+   "https://www.nps.gov/noca/planyourvisit/hidden-lake-trail.htm"
+  ]
+ },
+ "olympic-national-park": {
+  "site": "https://www.nps.gov/olym/index.htm",
+  "urls": [
+   "https://www.nps.gov/olym/index.htm",
+   "https://www.nps.gov/olym/planyourvisit/pets.htm",
+   "https://www.nps.gov/olym/planyourvisit/pets.htm?ref=syllogi.ghost.io",
+   "https://www.nps.gov/thingstodo/olympethike.htm",
+   "https://www.nps.gov/olym/planyourvisit/service-animals.htm",
+   "https://www.nps.gov/thingstodo/olympicbeaches.htm"
+  ]
+ },
+ "petrified-forest-national-park": {
+  "site": "https://www.nps.gov/pefo/index.htm",
+  "urls": [
+   "https://www.nps.gov/pefo/index.htm",
+   "https://www.nps.gov/pefo/planyourvisit/pets.htm",
+   "https://www.nps.gov/pefo/learn/news/new-dog-park.htm",
+   "https://www.nps.gov/pefo/planyourvisit/trails.htm"
+  ]
+ },
+ "pinnacles-national-park": {
+  "site": "https://nps.gov/pinn",
+  "urls": [
+   "https://nps.gov/pinn",
+   "https://www.nps.gov/pinn/planyourvisit/pets.htm",
+   "https://www.nps.gov/pinn/frequently-asked-questions.htm",
+   "https://www.nps.gov/thingstodo/pinnacles-wildlife-viewing-in-pinnacles-national-park.htm",
+   "https://www.nps.gov/pinn/learn/news/gray-fox-tests-positive-for-canine-distemper.htm?fbclid=IwAR3oI9J6BwN9YG0KRmsbbHsubwyhbDUNNZiDHVIRoS5CE7nNcEvGoa39neQ",
+   "https://www.nps.gov/pinn/planyourvisit/camp.htm"
+  ]
+ },
+ "redwood-national-park": {
+  "site": "https://www.nps.gov/redw/index.htm",
+  "urls": [
+   "https://www.nps.gov/redw/index.htm",
+   "https://www.nps.gov/redw/planyourvisit/pets.htm",
+   "https://www.nps.gov/redw/planyourvisit/pets.htm?ref=syllogi.ghost.io"
+  ]
+ },
+ "rocky-mountain-national-park": {
+  "site": "https://www.nps.gov/romo/index.htm",
+  "urls": [
+   "https://www.nps.gov/romo/index.htm",
+   "https://www.nps.gov/romo/planyourvisit/pets.htm",
+   "https://www.nps.gov/romo/planyourvisit/rules_regulations.htm"
+  ]
+ },
+ "saguaro-national-park": {
+  "site": "https://www.nps.gov/sagu/index.htm",
+  "urls": [
+   "https://www.nps.gov/sagu/index.htm",
+   "https://www.nps.gov/sagu/planyourvisit/pets.htm",
+   "https://www.nps.gov/sagu/planyourvisit/rmd-trail-accessibility.htm",
+   "https://www.nps.gov/sagu/learn/management/compendium.htm"
+  ]
+ },
+ "sequoia-national-park": {
+  "site": "https://nps.gov/seki",
+  "urls": [
+   "https://nps.gov/seki",
+   "https://www.nps.gov/seki/planyourvisit/pets.htm",
+   "https://www.nps.gov/seki/planyourvisit/service-animals.htm"
+  ]
+ },
+ "shenandoah-national-park": {
+  "site": "https://www.nps.gov/shen/index.htm",
+  "urls": [
+   "https://www.nps.gov/shen/index.htm",
+   "https://www.nps.gov/shen/planyourvisit/pets.htm",
+   "https://www.nps.gov/shen/planyourvisit/know-before-you-go.htm",
+   "https://www.nps.gov/shen/learn/education/be-a-shenandoah-bark-ranger.htm",
+   "https://www.nps.gov/shen/planyourvisit/be-a-shenandoah-bark-ranger.htm"
+  ]
+ },
+ "theodore-roosevelt-national-park": {
+  "site": "https://www.nps.gov/thro/index.htm",
+  "urls": [
+   "https://www.nps.gov/thro/index.htm",
+   "https://www.nps.gov/thro/planyourvisit/pets.htm",
+   "https://www.nps.gov/thro/planyourvisit/pets.htm?fullweb=1",
+   "https://www.nps.gov/thro/planyourvisit/index.htm"
+  ]
+ },
+ "virgin-islands-national-park": {
+  "site": "https://www.nps.gov/viis/",
+  "urls": [
+   "https://www.nps.gov/viis/",
+   "https://www.nps.gov/viis/planyourvisit/pets.htm",
+   "https://www.nps.gov/viis/learn/management/36cfr-2-15a.htm",
+   "https://www.nps.gov/viis/planyourvisit/index.htm"
+  ]
+ },
+ "voyageurs-national-park": {
+  "site": "https://www.nps.gov/voya/index.htm",
+  "urls": [
+   "https://www.nps.gov/voya/index.htm",
+   "https://www.nps.gov/voya/planyourvisit/pets.htm",
+   "https://www.nps.gov/voya/learn/news/voyageurs-national-park-hosts-a-community-dog-walk-for-national-park-week.htm",
+   "https://www.nps.gov/voya/planyourvisit/park-regulations.htm"
+  ]
+ },
+ "white-sands-national-park": {
+  "site": "https://nps.gov/whsa/index.htm",
+  "urls": [
+   "https://nps.gov/whsa/index.htm",
+   "https://www.nps.gov/whsa/planyourvisit/pets.htm",
+   "https://www.nps.gov/whsa/planyourvisit/basicinfo.htm",
+   "https://www.nps.gov/whsa/planyourvisit/horses-and-other-pack-animals.htm?ref=travel-lens"
+  ]
+ },
+ "wind-cave-national-park": {
+  "site": "https://www.nps.gov/wica/index.htm",
+  "urls": [
+   "https://www.nps.gov/wica/index.htm",
+   "https://www.nps.gov/wica/planyourvisit/pets.htm",
+   "https://www.nps.gov/wica/planyourvisit/pet-friendly-hiking-trails.htm",
+   "https://www.nps.gov/thingstodo/pet-friendly-hikes-wica.htm?fbclid=IwAR1DdlbZN7vgqoUVmpBkiAdfaFJl9GJDuvxF7EQxr7Ad1MoXVNb7mieyU4E",
+   "https://www.nps.gov/wica/index.htm?ref=whimsyandwisdom.ghost.io",
+   "https://www.nps.gov/thingstodo/picnic-wica.htm"
+  ]
+ },
+ "wrangell-st-elias-national-park": {
+  "site": "https://www.nps.gov/wrst/",
+  "urls": [
+   "https://www.nps.gov/wrst/",
+   "https://www.nps.gov/wrst/planyourvisit/pets.htm",
+   "https://www.nps.gov/wrst/faqs.htm",
+   "https://www.nps.gov/wrst/learn/management/lawsandpolicies.htm",
+   "https://www.nps.gov/wrst/planyourvisit/backcountry-faqs.htm"
+  ]
+ },
+ "wrangellst-elias-national-park": {
+  "site": "https://www.nps.gov/WRST",
+  "urls": [
+   "https://www.nps.gov/WRST",
+   "https://www.nps.gov/WRST/planyourvisit/pets.htm",
+   "https://www.nps.gov/wrst/planyourvisit/pets.htm",
+   "https://www.nps.gov/wrst/faqs.htm",
+   "https://www.nps.gov/wrst/learn/management/lawsandpolicies.htm",
+   "https://www.nps.gov/wrst/planyourvisit/backcountry-faqs.htm"
+  ]
+ },
+ "wrangellst-elias-national-park-and-preserve": {
+  "site": "https://www.nps.gov/wrst/index.htm",
+  "urls": [
+   "https://www.nps.gov/wrst/index.htm",
+   "https://www.nps.gov/wrst/planyourvisit/pets.htm",
+   "https://www.nps.gov/wrst/faqs.htm",
+   "https://www.nps.gov/wrst/learn/management/lawsandpolicies.htm",
+   "https://www.nps.gov/wrst/planyourvisit/backcountry-faqs.htm"
+  ]
+ },
+ "yellowstone-national-park": {
+  "site": "https://nps.gov/yell",
+  "urls": [
+   "https://nps.gov/yell",
+   "https://www.nps.gov/yell/planyourvisit/pets.htm"
+  ]
+ },
+ "yosemite-national-park": {
+  "site": "https://nps.gov/yose",
+  "urls": [
+   "https://nps.gov/yose",
+   "https://www.nps.gov/yose/planyourvisit/pets.htm",
+   "https://www.nps.gov/yose/blogs/when-our-decisions-endanger-our-pets.htm",
+   "https://www.nps.gov/articles/000/yosemitebarkranger.htm",
+   "https://www.nps.gov/yose/blogs/when-our-decisions-endanger-our-pets.htm?fbclid=IwY2xjawEq9KVleHRuA2FlbQIxMAABHdvooZowmV47A0JEUUPlckEpZNleZgw3QvS-HGmhnDEPyhQSVNM-7FtFRg_aem_-iaNeSNNmYrYBOHqi1y6IQ"
+  ]
+ },
+ "zion-national-park": {
+  "site": "https://www.nps.gov/zion/index.htm",
+  "urls": [
+   "https://www.nps.gov/zion/index.htm",
+   "https://www.nps.gov/zion/planyourvisit/pets.htm",
+   "https://www.nps.gov/articles/000/zionbarkranger.htm",
+   "https://www.nps.gov/zion/learn/news/teaching-every-pet-new-tricks-at-zion-national-park.htm"
+  ]
+ },
+ "aulavik-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nt/aulavik",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nt/aulavik",
+   "https://parks.canada.ca/pn-np/nt/aulavik/visit/regs"
+  ]
+ },
+ "auyuittuq-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nu/auyuittuq",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nu/auyuittuq",
+   "https://parks.canada.ca/pn-np/nu/auyuittuq/securite-safety/comportements-guidelines"
+  ]
+ },
+ "bruce-peninsula-national-park": {
+  "site": "https://parks.canada.ca/pn-np/on/bruce",
+  "urls": [
+   "https://parks.canada.ca/pn-np/on/bruce",
+   "https://parks.canada.ca/pn-np/on/bruce/securite-safety/regle_regu",
+   "https://parks.canada.ca/pn-np/on/bruce/securite-safety/faune-wildlife",
+   "https://parks.canada.ca/pn-np/on/bruce/activ/camping/cyprus",
+   "https://parks.canada.ca/pn-np/on/bruce/securite-safety/camping"
+  ]
+ },
+ "gros-morne-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nl/grosmorne",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nl/grosmorne",
+   "https://parks.canada.ca/pn-np/nl/grosmorne/info/reglements-regulations",
+   "https://parks.canada.ca/pn-np/nl/grosmorne/activ/experiences/randonnee-hiking/mgm-gmm",
+   "https://parks.canada.ca/pn-np/nl/grosmorne/activ/camping/camping-information-pcrs",
+   "https://parks.canada.ca/pn-np/nl/grosmorne/activ/camping/gp",
+   "https://parks.canada.ca/pn-np/nl/grosmorne/visit/pass/business-licenses"
+  ]
+ },
+ "ivvavik-national-park": {
+  "site": "https://parks.canada.ca/pn-np/yt/ivvavik",
+  "urls": [
+   "https://parks.canada.ca/pn-np/yt/ivvavik",
+   "https://parks.canada.ca/pn-np/yt/ivvavik/visit/visit6/regs"
+  ]
+ },
+ "kejimkujik-national-park-seaside": {
+  "site": "https://parks.canada.ca/pn-np/ns/kejimkujik",
+  "urls": [
+   "https://parks.canada.ca/pn-np/ns/kejimkujik",
+   "https://parks.canada.ca/pn-np/ns/kejimkujik/securite-safety/securite-borddemer-safety-seaside",
+   "https://parks.canada.ca/pn-np/ns/kejimkujik/activ/rando-hiking",
+   "https://parks.canada.ca/pn-np/ns/kejimkujik/activ",
+   "https://parks.canada.ca/pn-np/ns/kejimkujik/visit/cartes-maps/guideduvisiteur-borddemer-seaside-visitorguide"
+  ]
+ },
+ "nahanni-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/nt/nahanni",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nt/nahanni",
+   "https://parks.canada.ca/pn-np/nt/nahanni/securite-safety/ours_bears/security-safety"
+  ]
+ },
+ "naats-ihch-oh-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/nt/naatsihchoh",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nt/naatsihchoh",
+   "https://parks.canada.ca/pn-np/nt/naatsihchoh/visit/bear_ours",
+   "https://parks.canada.ca/pn-np/nt/naatsihchoh/visit/-/media/46f58880194e42059bdc2a34b433dfc7.ashx"
+  ]
+ },
+ "point-pelee-national-park": {
+  "site": "https://parks.canada.ca/pn-np/on/pelee",
+  "urls": [
+   "https://parks.canada.ca/pn-np/on/pelee",
+   "https://parks.canada.ca/pn-np/on/pelee/visit/chien-dog",
+   "https://parks.canada.ca/pn-np/on/pelee/activ/otentik",
+   "https://parks.canada.ca/pn-np/on/pelee/visit",
+   "https://parks.canada.ca/pn-np/on/pelee/activ",
+   "https://parks.canada.ca/pn-np/on/pelee/securite-safety/reglementation-guidelines"
+  ]
+ },
+ "prince-albert-national-park": {
+  "site": "https://parks.canada.ca/pn-np/sk/princealbert",
+  "urls": [
+   "https://parks.canada.ca/pn-np/sk/princealbert",
+   "https://parks.canada.ca/pn-np/sk/princealbert/activ/experiences/chien-dog",
+   "https://parks.canada.ca/pn-np/sk/princealbert/securite-safety/reglementation-guidelines",
+   "https://parks.canada.ca/pn-np/sk/princealbert/info/courriel-email",
+   "https://parks.canada.ca/pn-np/sk/princealbert/securite-safety/animaux-sauvages-wildlife",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  ]
+ },
+ "prince-edward-island-national-park": {
+  "site": "https://parks.canada.ca/pn-np/pe/pei",
+  "urls": [
+   "https://parks.canada.ca/pn-np/pe/pei",
+   "https://parks.canada.ca/pn-np/pe/pei-ipe/visit/chien-dog",
+   "https://parks.canada.ca/pn-np/pe/pei-ipe/securite-safety/animaux-wildlife",
+   "https://parks.canada.ca/pn-np/pe/pei-ipe/visit",
+   "https://parks.canada.ca/pn-np/pe/pei-ipe/visit/chien-dog/info",
+   "https://parks.canada.ca/pn-np/pe/pei-ipe",
+   "https://parks.canada.ca/pn-np/pe/pei-ipe/bulletins/a8147c11-af87-4ed3-bdca-050522ae1878"
+  ]
+ },
+ "pukaskwa-national-park": {
+  "site": "https://parks.canada.ca/pn-np/on/pukaskwa",
+  "urls": [
+   "https://parks.canada.ca/pn-np/on/pukaskwa",
+   "https://parks.canada.ca/pn-np/on/pukaskwa/visit/services/info",
+   "https://parks.canada.ca/pn-np/on/pukaskwa/visit/reglement-rules-and-regulations",
+   "https://parks.canada.ca/pn-np/on/pukaskwa/securite-safety/propre-bare",
+   "https://parks.canada.ca/pn-np/on/pukaskwa/activ/camping/otentik",
+   "https://parks.canada.ca/pn-np/on/pukaskwa/visit/comportements-guidelines"
+  ]
+ },
+ "riding-mountain-national-park": {
+  "site": "https://parks.canada.ca/pn-np/mb/riding",
+  "urls": [
+   "https://parks.canada.ca/pn-np/mb/riding",
+   "https://parks.canada.ca/pn-np/mb/riding/nature/animals/mammals/coug",
+   "https://parks.canada.ca/pn-np/mb/riding/nature/animals/mammals/loup-wolf",
+   "https://parks.canada.ca/pn-np/mb/riding/info/reglements-regulations",
+   "https://parks.canada.ca/pn-np/mb/riding/activ/camping/bases-basics/faune-wildlife",
+   "https://parks.canada.ca/pn-np/mb/riding/securite-safety/ours-bears-smart",
+   "https://parks.canada.ca/pn-np/mb/riding/activ/camping"
+  ]
+ },
+ "sirmilik-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nu/sirmilik",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nu/sirmilik",
+   "https://parks.canada.ca/pn-np/nu/sirmilik/securite-safety/comportements-guidelines"
+  ]
+ },
+ "terra-nova-national-park-visitor-center": {
+  "site": "https://parks.canada.ca/pn-np/nl/terranova",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nl/terranova",
+   "https://parks.canada.ca/pn-np/nl/terranova/sec-saf/wildlife",
+   "https://parks.canada.ca/pn-np/nl/terranova/activ",
+   "https://parks.canada.ca/pn-np/nl/terranova/sec-saf/hike-safety",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  ]
+ },
+ "ukkusiksalik-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nu/ukkusiksalik",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nu/ukkusiksalik",
+   "https://parks.canada.ca/pn-np/nu/ukkusiksalik/securite-safety/comportements-guidelines"
+  ]
+ },
+ "waterton-lakes-national-park": {
+  "site": "https://parks.canada.ca/pn-np/ab/waterton",
+  "urls": [
+   "https://parks.canada.ca/pn-np/ab/waterton",
+   "https://parks.canada.ca/pn-np/ab/waterton/visit/regles-rules",
+   "https://parks.canada.ca/pn-np/ab/waterton/activ/camping/regles-rules",
+   "https://parks.canada.ca/pn-np/ab/waterton/securite-safety/faune-wildlife?wbdisable=true",
+   "https://parks.canada.ca/pn-np/ab/waterton/nature/faune-wildlife"
+  ]
+ },
+ "sable-island-national-park": {
+  "site": "https://parks.canada.ca/pn-np/ns/sable",
+  "urls": [
+   "https://parks.canada.ca/pn-np/ns/sable",
+   "https://parks.canada.ca/pn-np/ns/sable/nature/animaux-animals/chevaux-horses",
+   "https://parks.canada.ca/pn-np/pe/pei-ipe",
+   "https://parks.canada.ca/pn-np/ns/sable/visit/preparez-prepare"
+  ]
+ },
+ "torngat-mountains-national-park-reserve-of-canada": {
+  "site": "https://parks.canada.ca/pn-np/nl/torngats",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nl/torngats",
+   "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets",
+   "https://parks.canada.ca/nature/science/aires-areas/amnc-nmca?wbdisable=true",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html",
+   "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog",
+   "https://parks.canada.ca/pn-np/nl/torngats/visit"
+  ]
+ },
+ "parc-national-de-la-gaspesie": {
+  "site": "https://www.sepaq.com/pq/gas/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/gas/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-gaspesie.dot",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1"
+  ]
+ },
+ "parc-national-des-grands-jardins": {
+  "site": "https://www.sepaq.com/pq/grj/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/grj/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-grands-jardins.dot",
+   "https://www.sepaq.com/pq/grj/",
+   "https://www.sepaq.com/pq/grj/information.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-grands-jardins.dot?language_id=1"
+  ]
+ },
+ "parc-national-des-hautes-gorges-de-la-riviere-malbaie": {
+  "site": "https://www.sepaq.com/pq/hgo/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/hgo/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-hautes-gorges.dot",
+   "https://www.sepaq.com/pq/hgo/information.dot",
+   "https://www.sepaq.com/pq/hgo/"
+  ]
+ },
+ "parc-national-de-la-jacques-cartier": {
+  "site": "https://www.sepaq.com/pq/jac/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/jac/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot",
+   "https://www.sepaq.com/pq/jac/information.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-jacques-cartier.dot?language_id=1"
+  ]
+ },
+ "miguasha-national-park": {
+  "site": "https://www.sepaq.com/pq/mig/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/mig/fr/",
+   "https://www.sepaq.com/pq/mig/information.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-miguasha.dot",
+   "https://www.sepaq.com/pq/mig/"
+  ]
+ },
+ "parc-national-du-mont-megantic": {
+  "site": "https://www.sepaq.com/pq/mme/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/mme/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-megantic.dot",
+   "https://www.sepaq.com/pq/mme/information.dot",
+   "https://www.sepaq.com/pq/mme/"
+  ]
+ },
+ "parc-national-du-mont-orford": {
+  "site": "https://www.sepaq.com/pq/mor/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/mor/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-orford.dot",
+   "https://www.sepaq.com/pq/mor/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-orford.dot?language_id=1",
+   "https://www.sepaq.com/pq/mor/index.dot?language_id=1"
+  ]
+ },
+ "parc-national-du-mont-tremblant": {
+  "site": "https://www.sepaq.com/pq/mot/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/mot/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot",
+   "https://www.sepaq.com/pq/mot/information.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot?language_id=1",
+   "https://www.sepaq.com/pq/mot/"
+  ]
+ },
+ "parc-national-de-la-pointe-taillon": {
+  "site": "https://www.sepaq.com/pq/pta/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/pta/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-pointe-taillon.dot",
+   "https://www.sepaq.com/pq/pta/information.dot",
+   "https://www.sepaq.com/pq/pta/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-pointe-taillon.dot?language_id=1"
+  ]
+ },
+ "parc-national-du-fjord-du-saguenay": {
+  "site": "https://www.sepaq.com/pq/sag/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/sag/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-fjord-saguenay.dot",
+   "https://www.sepaq.com/pq/sag/information.dot",
+   "https://www.sepaq.com/pq/sag/",
+   "https://www.sepaq.com/resources/docs/pq/sag/sag_guide_visiteur.pdf"
+  ]
+ },
+ "parc-national-de-la-yamaska": {
+  "site": "https://www.sepaq.com/pq/yam/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/yam/fr/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-yamaska.dot",
+   "https://www.sepaq.com/pq/yam/",
+   "https://www.sepaq.com/pq/yam/information.dot",
+   "https://www.sepaq.com/pq/yam/annexes/sentiers_pedestres.dot"
+  ]
+ },
+ "apachesitgreaves-national-forests": {
+  "site": "https://www.fs.usda.gov/asnf",
+  "urls": [
+   "https://www.fs.usda.gov/asnf",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/canyon-point-campground",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/aspen-campground",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/old-rim-trailhead",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/mogollon-rim-visitor-center",
+   "https://www.fs.usda.gov/r03/apache-sitgreaves/recreation/meadow-trailhead"
+  ]
+ },
+ "cariboutarghee-national-forest": {
+  "site": "https://www.fs.usda.gov/ctnf",
+  "urls": [
+   "https://www.fs.usda.gov/ctnf",
+   "https://www.fs.usda.gov/r04/caribou-targhee/recreation/explore-forest",
+   "https://www.fs.usda.gov/r04/caribou-targhee/recreation/buffalo-campground"
+  ]
+ },
+ "chattahoocheeoconee-national-forest": {
+  "site": "https://www.fs.usda.gov/main/conf/home",
+  "urls": [
+   "https://www.fs.usda.gov/main/conf/home",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics/enjoy-outdoors",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/cooper-creek-recreation-area",
+   "https://www.fs.usda.gov/r08/chattahoochee-oconee/recreation/trails/aska-trail-system"
+  ]
+ },
+ "chequamegonnicolet-national-forest": {
+  "site": "https://www.fs.usda.gov/cnnf/",
+  "urls": [
+   "https://www.fs.usda.gov/cnnf/",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/safety-ethics/rules-and-regulations",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/beaver-lake-recreation-area",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/laurel-lake-recreation-area",
+   "https://www.fs.usda.gov/r09/chequamegon-nicolet/recreation/lauterman-national-recreation-area"
+  ]
+ },
+ "clearwater-national-forest": {
+  "site": "https://www.fs.usda.gov/nezperceclearwater/",
+  "urls": [
+   "https://www.fs.usda.gov/nezperceclearwater/",
+   "https://www.fs.usda.gov/r06/umpqua/recreation/clearwater-falls-campground",
+   "https://www.fs.usda.gov/r06/umpqua/recreation/clearwater-2-forebay-forest-camp"
+  ]
+ },
+ "custer-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/custergallatin",
+  "urls": [
+   "https://www.fs.usda.gov/r01/custergallatin",
+   "https://www.fs.usda.gov/r02/blackhills/recreation/custer-trail-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/custergallatin/safety-ethics/leave-no-trace-custer-gallatin-nf",
+   "https://www.fs.usda.gov/r01/custergallatin/safety-ethics"
+  ]
+ },
+ "daniel-boone-national-forest": {
+  "site": "https://www.fs.usda.gov/dbnf",
+  "urls": [
+   "https://www.fs.usda.gov/dbnf",
+   "https://www.fs.usda.gov/r08/danielboone/alerts/general-forest-prohibitions",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/danielboone/recreation/opportunities/hunting-shooting"
+  ]
+ },
+ "helenalewis-and-clark-national-forest": {
+  "site": "https://www.fs.usda.gov/hlcnf",
+  "urls": [
+   "https://www.fs.usda.gov/hlcnf",
+   "https://www.fs.usda.gov/r01/helena-lewisclark/about-area/faqs",
+   "https://www.fs.usda.gov/r01/helena-lewisclark",
+   "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/dispersed-camping"
+  ]
+ },
+ "humboldttoiyabe-national-forest": {
+  "site": "https://www.fs.usda.gov/htnf",
+  "urls": [
+   "https://www.fs.usda.gov/htnf",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/hilltop-campground",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/lower-bluster-campground",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/wilderness",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/newsroom/releases/sheep-grazing-helps-reduce-hazardous-fuels-near-renos-0",
+   "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/charity-valley-east-trailhead"
+  ]
+ },
+ "lake-tahoe-basin-management-unit": {
+  "site": "https://www.fs.usda.gov/ltbmu",
+  "urls": [
+   "https://www.fs.usda.gov/ltbmu",
+   "https://www.fs.usda.gov/r05/laketahoebasin/recreation/where-can-i-take-my-dog-lake-tahoe",
+   "https://www.fs.usda.gov/r05/laketahoebasin/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/r05/laketahoebasin/newsroom/releases/opening-dates-lake-tahoe-recreation-sites",
+   "https://www.fs.usda.gov/r05/laketahoebasin/recreation/2026-opening-dates",
+   "https://www.fs.usda.gov/r05/laketahoebasin/recreation/desolation-wilderness"
+  ]
+ },
+ "los-padres-national-forest": {
+  "site": "https://www.fs.usda.gov/lpnf",
+  "urls": [
+   "https://www.fs.usda.gov/lpnf",
+   "https://www.fs.usda.gov/r05/lospadres/recreation/camping-cabins",
+   "https://www.fs.usda.gov/r05/lospadres/recreation/cerro-alto-loop",
+   "https://www.fs.usda.gov/r05/lospadres/recreation/mcgill-campground",
+   "https://www.fs.usda.gov/r05/lospadres/recreation/middle-lion-campground",
+   "https://www.fs.usda.gov/r05/lospadres/recreation/mt-pinos-campground"
+  ]
+ },
+ "mark-twain-national-forest": {
+  "site": "https://www.fs.usda.gov/mtnf",
+  "urls": [
+   "https://www.fs.usda.gov/mtnf",
+   "https://www.fs.usda.gov/r09/marktwain/safety-ethics/enjoy-outdoors",
+   "https://www.fs.usda.gov/r09/marktwain/recreation/lazy-c-trailhead",
+   "https://www.fs.usda.gov/r09/marktwain/recreation/kaintuck-hollow-north-trailhead",
+   "https://www.fs.usda.gov/r09/marktwain/recreation/cc-wrangler-trailhead",
+   "https://www.fs.usda.gov/r09/marktwain/recreation/north-fork-recreation-area"
+  ]
+ },
+ "midewin-national-tallgrass-prairie": {
+  "site": "https://www.fs.usda.gov/midewin",
+  "urls": [
+   "https://www.fs.usda.gov/midewin",
+   "https://www.fs.usda.gov/media/251130"
+  ]
+ },
+ "national-forests-in-north-carolina": {
+  "site": "https://www.fs.usda.gov/nfsnc",
+  "urls": [
+   "https://www.fs.usda.gov/nfsnc",
+   "https://www.fs.usda.gov/r08/northcarolina/safety-ethics",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/max-patch",
+   "https://www.fs.usda.gov/media/188539"
+  ]
+ },
+ "nez-perceclearwater-national-forests": {
+  "site": "https://www.fs.usda.gov/nezperceclearwater",
+  "urls": [
+   "https://www.fs.usda.gov/nezperceclearwater",
+   "https://www.fs.usda.gov/trails/nez-perce-nht/about-trail/quotes-and-letters"
+  ]
+ },
+ "ozarkst-francis-national-forest": {
+  "site": "https://www.fs.usda.gov/osfnf",
+  "urls": [
+   "https://www.fs.usda.gov/osfnf",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis/about-area/faqs",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis/safety-ethics",
+   "https://www.fs.usda.gov/r08/ozark-stfrancis",
+   "https://www.fs.usda.gov/media/260123",
+   "https://www.fs.usda.gov/media/255465"
+  ]
+ },
+ "salmonchallis-national-forest": {
+  "site": "https://www.fs.usda.gov/scnf",
+  "urls": [
+   "https://www.fs.usda.gov/scnf",
+   "https://www.fs.usda.gov/r04/salmon-challis/recreation/epic-adventures/middle-fork-salmon-river",
+   "https://www.fs.usda.gov/r04/salmon-challis/recreation/epic-adventures/wild-main-salmon-river"
+  ]
+ },
+ "san-bernardino-national-forest": {
+  "site": "https://www.fs.usda.gov/sbnf",
+  "urls": [
+   "https://www.fs.usda.gov/sbnf",
+   "https://www.fs.usda.gov/r05/sanbernardino/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r05/sanbernardino/recreation/cedar-springs-yellow-post-site",
+   "https://www.fs.usda.gov/r05/sanbernardino/recreation/stonehouse-yellow-post-site",
+   "https://www.fs.usda.gov/r05/sanbernardino/recreation/boulder-basin-campground",
+   "https://www.fs.usda.gov/r05/sanbernardino/recreation/seven-pines-yellow-post-site",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r05/sanbernardino/wilderness"
+  ]
+ },
+ "shastatrinity-national-forest": {
+  "site": "https://www.fs.usda.gov/stnf",
+  "urls": [
+   "https://www.fs.usda.gov/stnf",
+   "https://www.fs.usda.gov/r05/shasta-trinity/about-area/faqs",
+   "https://www.fs.usda.gov/r05/shasta-trinity/conditions",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation/bailey-cove-campground",
+   "https://www.fs.usda.gov/r05/shasta-trinity/recreation/panther-meadows-campground"
+  ]
+ },
+ "six-rivers-national-forest": {
+  "site": "https://www.fs.usda.gov/srnf",
+  "urls": [
+   "https://www.fs.usda.gov/srnf",
+   "https://www.fs.usda.gov/r05/sixrivers/safety-ethics",
+   "https://www.fs.usda.gov/r05/sixrivers/recreation",
+   "https://www.fs.usda.gov/r05/sixrivers/safety-ethics/respect-wildlife"
+  ]
+ },
+ "uintawasatchcache-national-forest": {
+  "site": "https://www.fs.usda.gov/uwcnf",
+  "urls": [
+   "https://www.fs.usda.gov/uwcnf",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/tibble-fork-reservoir-trailhead",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation",
+   "https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/mill-creek-canyon"
+  ]
+ },
+ "akami-uapishku-kakkasuak-mealy-mountains-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/nl/mealy",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nl/mealy",
+   "https://parks.canada.ca/pn-np/nl/mealy",
+   "https://parks.canada.ca/pn-np/nl/mealy/visit/map",
+   "https://parks.canada.ca/pn-np/nl/mealy/visit/visit2",
+   "https://parks.canada.ca/pn-np/nl/mealy/info/index/plan",
+   "https://parks.canada.ca/pn-np/nl/mealy/info/index",
+   "https://parks.canada.ca/pn-np/nl/mealy/info/index/plan-innu",
+   "https://parks.canada.ca/pn-np/nl/mealy/visit",
+   "https://parks.canada.ca/pn-np/nl/mealy/activ",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html",
+   "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog"
+  ]
+ },
+ "mingan-archipelago-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/qc/mingan",
+  "urls": [
+   "https://parks.canada.ca/pn-np/qc/mingan",
+   "https://parks.canada.ca/pn-np/qc/mingan/activ/randonnee_hiking",
+   "https://parks.canada.ca/pn-np/qc/mingan/activ",
+   "https://parks.canada.ca/pn-np/qc/mingan",
+   "https://parks.canada.ca/pn-np/qc/mingan/visit/cartes_maps/grande-ile",
+   "https://parks.canada.ca/pn-np/qc/mingan/securite-safety",
+   "https://parks.canada.ca/pn-np/qc/mingan/visit/cartes_maps/niapiskau",
+   "https://parks.canada.ca/pn-np/qc/mingan/activ/mer-sea",
+   "https://parks.canada.ca/pn-np/qc/mingan/activ/camping/avant-pays-frontcountry",
+   "https://parks.canada.ca/pn-np/qc/mingan/visit/cartes_maps/du-havre",
+   "https://parks.canada.ca/pn-np/qc/mingan/visit/cartes_maps",
+   "https://parks.canada.ca/pn-np/qc/mingan/nature/faune-wildlife/terrestres-terrestrial",
+   "https://parks.canada.ca/pn-np/qc/mingan/nature/faune-wildlife/oiseaux-birds/marins-marines",
+   "https://parks.canada.ca/pn-np/qc/mingan/securite-safety/reg"
+  ]
+ },
+ "pituamkek-national-park-reserve": {
+  "site": "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek",
+  "urls": [
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek",
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek/consultation?wbdisable=true",
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek",
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek/emplacement-location",
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek/pe-mou",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html",
+   "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog",
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/pituamkek/visit"
+  ]
+ },
+ "qausuittuq-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nu/qausuittuq",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nu/qausuittuq",
+   "https://parks.canada.ca/pn-np/nu/qausuittuq/securite-safety/comportements-guidelines",
+   "https://parks.canada.ca/pn-np/nu/qausuittuq",
+   "https://parks.canada.ca/pn-np/nu/qausuittuq/visit/circulation-traffic",
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/qausuittuq/~/link.aspx?_id=7479FF2AE5D4463C8A5315B1D754E925&_z=z",
+   "https://parks.canada.ca/pn-np/nu/qausuittuq/info/carte-map",
+   "https://parks.canada.ca/pn-np/nu/qausuittuq/visit/infrastructure",
+   "https://parks.canada.ca/pn-np/cnpn-cnnp/qausuittuq/prq-why",
+   "https://parks.canada.ca/pn-np/nu/qausuittuq/securite-safety/bulletins/80c13c44-e529-43fd-96c5-4d30af83e60c",
+   "https://parks.canada.ca/pn-np/nu/qausuittuq/info/gestion-management"
+  ]
+ },
+ "quttinirpaaq-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nu/quttinirpaaq",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/activ/randonnees-hiking",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/securite-safety/comportements-guidelines",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/info/plan/gestion-management-2023",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/info/plan/gestion-management-2009",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/visit",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/visit/directions",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/securite-safety/meteo-weather",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/securite-safety/ours-bears/rencontre-encounter",
+   "https://parks.canada.ca/voyage-travel/securite-safety/bulletins/3b8e7a81-4197-4563-b248-76f7418ed3bc",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/activ",
+   "https://parks.canada.ca/pn-np/nu/quttinirpaaq/securite-safety/bulletins/08d87337-4c40-4049-b77d-324fc77ede97"
+  ]
+ },
+ "torngat-mountains-national-park": {
+  "site": "https://parks.canada.ca/pn-np/nl/torngats",
+  "urls": [
+   "https://parks.canada.ca/pn-np/nl/torngats",
+   "https://parks.canada.ca/pn-np/nl/torngats/activ/randonee-hiking1",
+   "https://parks.canada.ca/pn-np/nl/torngats",
+   "https://parks.canada.ca/pn-np/nl/torngats/activ",
+   "https://parks.canada.ca/pn-np/nl/torngats/activ/experiences",
+   "https://parks.canada.ca/pn-np/nl/torngats/activ/randonee-hiking1/nakvak",
+   "https://parks.canada.ca/pn-np/nl/torngats/activ/randonee-hiking1/bears",
+   "https://parks.canada.ca/pn-np/nl/torngats/activ/randonee-hiking1/camp",
+   "https://parks.canada.ca/pn-np/nl/torngats/activ/randonee-hiking1/plan",
+   "https://parks.canada.ca/pn-np/nl/torngats/visit/cartes-maps/1a",
+   "https://parks.canada.ca/pn-np/nl/torngats/nature",
+   "https://parks.canada.ca/pn-np/nl/torngats/info/gestion-management/plan-2023",
+   "https://parks.canada.ca/pn-np/nl/torngats/visit",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html",
+   "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog"
+  ]
+ },
+ "vuntut-national-park": {
+  "site": "https://parks.canada.ca/pn-np/yt/vuntut",
+  "urls": [
+   "https://parks.canada.ca/pn-np/yt/vuntut",
+   "https://parks.canada.ca/pn-np/yt/vuntut",
+   "https://parks.canada.ca/pn-np/yt/vuntut/activ/aventure-adventure",
+   "https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/plan-directeur-management-plan-2024",
+   "https://parks.canada.ca/pn-np/yt/vuntut/culture/designation",
+   "https://parks.canada.ca/pn-np/yt/vuntut/nature",
+   "https://parks.canada.ca/pn-np/yt/vuntut/securite-safety",
+   "https://parks.canada.ca/pn-np/yt/vuntut/visit/comportements-guidelines",
+   "https://parks.canada.ca/pn-np/yt/vuntut/visit/directions",
+   "https://parks.canada.ca/pn-np/yt/vuntut/gestion-management",
+   "https://parks.canada.ca/pn-np/yt/vuntut/visit",
+   "https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan",
+   "https://parks.canada.ca/pn-np/yt/vuntut/nature/surveillance-monitoring",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html",
+   "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog"
+  ]
+ },
+ "wapusk-national-park": {
+  "site": "https://parks.canada.ca/pn-np/mb/wapusk",
+  "urls": [
+   "https://parks.canada.ca/pn-np/mb/wapusk",
+   "https://parks.canada.ca/pn-np/mb/wapusk/nature/faune-animals/mammiferes-mammals/petits-small",
+   "https://parks.canada.ca/pn-np/mb/wapusk",
+   "https://parks.canada.ca/pn-np/mb/wapusk/nature/caribou/caribou2",
+   "https://parks.canada.ca/pn-np/mb/wapusk/nature/conservation/cam",
+   "https://parks.canada.ca/pn-np/mb/wapusk/culture/echos-news/2026/animale-animal",
+   "https://parks.canada.ca/pn-np/mb/wapusk/culture/~/media/609d856618444f52b125183d40a5dce6.ashx",
+   "https://parks.canada.ca/pn-np/mb/wapusk/culture/blog/doug-clark-3",
+   "https://parks.canada.ca/voyage-travel/promotion/manitoba/decouverte-discovery/wapusk",
+   "https://parks.canada.ca/pn-np/mb/wapusk/nature/faune-animals/mammiferes-mammals/ours-bears/polaire-polar",
+   "https://parks.canada.ca/pn-np/mb/wapusk/nature/caribou/caribou6",
+   "https://parks.canada.ca/pn-np/mb/wapusk/nature",
+   "https://parks.canada.ca/pn-np/mb/wapusk/nature/faune-animals/oiseaux-birds/residents",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html",
+   "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog",
+   "https://parks.canada.ca/pn-np/mb/wapusk/visit"
+  ]
+ },
+ "parc-national-d-oka": {
+  "site": "https://www.sepaq.com/pq/oka/fr/",
+  "urls": [
+   "https://www.sepaq.com/pq/oka/fr/",
+   "https://www.sepaq.com/questions-frequentes/animaux-domestiques.dot",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-oka.dot",
+   "https://www.sepaq.com/pq/oka/information.dot"
+  ]
+ },
+ "tursujuq-national-park": {
+  "site": "https://www.sepaq.com/pq/tur/index.dot?language_id=1",
+  "urls": [
+   "https://www.sepaq.com/pq/tur/index.dot?language_id=1",
+   "https://www.sepaq.com/pq/tur/index.dot?language_id=1",
+   "https://www.sepaq.com/pq/tur/",
+   "https://www.sepaq.com/pq/oka/index.dot?language_id=1",
+   "https://www.sepaq.com/animaux/index.dot?language_id=1",
+   "https://www.sepaq.com/pq/mor/index.dot?language_id=1",
+   "https://www.nunavikparks.ca/en/regulations",
+   "https://www.nunavikparks.ca/en/faq",
+   "https://www.nunavikparks.ca/en/parks/tursujuq"
+  ]
+ },
+ "angelina-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/texas/offices/angelina-national-forest",
+  "urls": [
+   "https://www.fs.usda.gov/r08/texas/offices/angelina-national-forest",
+   "https://www.fs.usda.gov/r08/texas/recreation/angelina-national-forest",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/texas/publication/Angelina%20MVUM%202025.pdf",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/texas/publication/Angelina%20Hunting%20Camp%20Map.pdf",
+   "https://www.fs.usda.gov/organization/Angelina%20Ranger%20District",
+   "https://www.fs.usda.gov/r08/texas/about-area/faqs",
+   "https://www.fs.usda.gov/r08/texas"
+  ]
+ },
+ "bienville-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/mississippi/recreation/bienville",
+  "urls": [
+   "https://www.fs.usda.gov/r08/mississippi/recreation/bienville",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/bienville",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/bienville-wildlife-management-area",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/shongelo-lake"
+  ]
+ },
+ "cibola-national-forest": {
+  "site": "https://www.fs.usda.gov/cibola/",
+  "urls": [
+   "https://www.fs.usda.gov/cibola/",
+   "https://www.fs.usda.gov/r03/cibola",
+   "https://www.fs.usda.gov/r03/cibola/recreation/capulin-snow-play-site",
+   "https://www.fs.usda.gov/r03/cibola/recreation/opportunities",
+   "https://www.fs.usda.gov/r03/cibola/passes",
+   "https://www.fs.usda.gov/r03/cibola/animals-plants",
+   "https://www.fs.usda.gov/r03/cibola/newsroom/stories/sandia-crest-area-projects-update",
+   "https://www.fs.usda.gov/r03/cibola/newsroom/releases/prescribed-fire-ignitions-planned-cedro-unit-piles",
+   "https://www.fs.usda.gov/r03/cibola/recreation/balsam-glade-nature-trail-la-madera-canyon-overlook",
+   "https://www.fs.usda.gov/r03/cibola/working-with-us/volunteers",
+   "https://www.fs.usda.gov/r03/cibola/newsroom/releases/evening-update-sand-springs-wildfire-august-5-2026",
+   "https://www.fs.usda.gov/r03/cibola/newsroom/releases/seasonal-hiring-begins-upcoming-recreation-season",
+   "https://www.fs.usda.gov/r03/cibola/safety-ethics",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r03/cibola/recreation/doc-long-picnic-site"
+  ]
+ },
+ "coeur-d-alene-national-forest": {
+  "site": "https://www.fs.usda.gov/main/ipnf/",
+  "urls": [
+   "https://www.fs.usda.gov/main/ipnf/",
+   "https://www.fs.usda.gov/r01/idahopanhandle/recreation/coeur-dalene-river-region",
+   "https://www.fs.usda.gov/r01/idahopanhandle/recreation/trails/coeur-dalene-river-trail-20",
+   "https://www.fs.usda.gov/r01/idahopanhandle/newsroom/releases/coeur-dalene-river-district-emphasizes-safe-legal-road-travel",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/idahopanhandle/recreation/avery-creek-cabin",
+   "https://www.fs.usda.gov/r01/idahopanhandle/recreation/riding-hiawatha"
+  ]
+ },
+ "conecuh-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/alabama/recreation/conecuh-national-forest-0",
+  "urls": [
+   "https://www.fs.usda.gov/r08/alabama/recreation/conecuh-national-forest-0",
+   "https://www.fs.usda.gov/r08/alabama/recreation/conecuh-national-forest-0",
+   "https://www.fs.usda.gov/media/236020",
+   "https://www.fs.usda.gov/r08/alabama/recreation/conecuh-national-forest",
+   "https://www.fs.usda.gov/r08/alabama/newsroom/releases/usda-forest-service-issues-14-day-camping-limit-conecuh-national",
+   "https://www.fs.usda.gov/media/237629",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf",
+   "https://www.fs.usda.gov/r08/alabama"
+  ]
+ },
+ "croatan-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/northcarolina/recreation/croatan-national-forest-0",
+  "urls": [
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/croatan-national-forest-0",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/croatan-national-forest-0",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/us-forest-service-proposes-recreation-fee-changes-croatan",
+   "https://www.fs.usda.gov/r08/northcarolina/alerts/hurricane-florence-closures-croatan-national-forest",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/northcarolina/publication/20250425%20--%20%20Croatan%20Forest%20Plan%20--%20Final%20Croatan%20Land%20and%20Resources%20Management%20Plan.pdf",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/northcarolina/publication/20250425%20--%20%20Croatan%20Forest%20Plan%20--%20Final%20%20Environmental%20Impact%20Statement.pdf",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/croatan-national-forest-begin-prescribed-fires",
+   "https://www.fs.usda.gov/r08/northcarolina/planning/croatan-national-forest-plan",
+   "https://www.fs.usda.gov/media/240991",
+   "https://www.fs.usda.gov/r08/northcarolina/offices/croatan-ranger-district",
+   "https://www.fs.usda.gov/r08/northcarolina/safety-ethics",
+   "https://www.fs.usda.gov/nfsnc"
+  ]
+ },
+ "custergallatin-national-forest": {
+  "site": "https://www.fs.usda.gov/main/custergallatin/",
+  "urls": [
+   "https://www.fs.usda.gov/main/custergallatin/",
+   "https://www.fs.usda.gov/r01/custergallatin",
+   "https://www.fs.usda.gov/r01/custergallatin/recreation/opportunities/biking",
+   "https://www.fs.usda.gov/r01/custergallatin/multimedia/audio",
+   "https://www.fs.usda.gov/r01/custergallatin/alerts",
+   "https://www.fs.usda.gov/r01/custergallatin/safety-ethics",
+   "https://www.fs.usda.gov/fs-national-forests-national-grasslands-and-other-national-areas/custer-gallatin-national-forest",
+   "https://www.fs.usda.gov/r01/custergallatin/safety-ethics/leave-no-trace-custer-gallatin-nf",
+   "https://www.fs.usda.gov/r01/custergallatin/alerts/livestock-use-restriction-order",
+   "https://www.fs.usda.gov/r01/custergallatin/recreation/discover-history/dude-ranch-montana",
+   "https://www.fs.usda.gov/r01/custergallatin/newsroom/releases/hunting-season-quickly-approaching-few-things-remember",
+   "https://www.fs.usda.gov/r01/custergallatin/alerts/food-storage-order",
+   "https://www.fs.usda.gov/r01/custergallatin/safety-ethics/bear-aware"
+  ]
+ },
+ "davy-crockett-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/texas/recreation/davy-crockett-national-forest",
+  "urls": [
+   "https://www.fs.usda.gov/r08/texas/recreation/davy-crockett-national-forest",
+   "https://www.fs.usda.gov/r08/texas/recreation/davy-crockett-national-forest",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/texas/publication/Davy%20Crockett%20MVUM%202025.pdf",
+   "https://www.fs.usda.gov/r08/texas/recreation/west-lake-crockett",
+   "https://www.fs.usda.gov/organization/Davy%20Crockett%20Ranger%20District",
+   "https://www.fs.usda.gov/r08/texas/alerts/know-you-go-davy-crockett-and-sam-houston-national-forests-road-work",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/texas/publication/Davy%20Crockett%20NF%20Hunting%20Camp%20Map.pdf",
+   "https://www.fs.usda.gov/r08/texas/about-area/faqs",
+   "https://www.fs.usda.gov/r08/texas"
+  ]
+ },
+ "gallatin-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/custergallatin",
+  "urls": [
+   "https://www.fs.usda.gov/r01/custergallatin",
+   "https://www.fs.usda.gov/r01/custergallatin",
+   "https://www.fs.usda.gov/r01/custergallatin/alerts/livestock-use-restriction-order",
+   "https://www.fs.usda.gov/r01/custergallatin/recreation/opportunities/biking",
+   "https://www.fs.usda.gov/r01/custergallatin/alerts",
+   "https://www.fs.usda.gov/media/51933",
+   "https://www.fs.usda.gov/media/52277",
+   "https://www.fs.usda.gov/r01/custergallatin/safety-ethics/leave-no-trace-custer-gallatin-nf",
+   "https://www.fs.usda.gov/r01/custergallatin/safety-ethics",
+   "https://www.fs.usda.gov/r01/custergallatin/alerts/food-storage-order",
+   "https://www.fs.usda.gov/r01/custergallatin/newsroom/releases/hunting-season-quickly-approaching-few-things-remember",
+   "https://www.fs.usda.gov/r01/custergallatin/multimedia/audio",
+   "https://www.fs.usda.gov/r01/custergallatin/newsroom/releases/requirements-food-storage-reinstated-march-1",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "holly-springs-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/mississippi/recreation/holly-springs",
+  "urls": [
+   "https://www.fs.usda.gov/r08/mississippi/recreation/holly-springs",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/holly-springs",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/holly-springs-sinkhole-mountain-bike-trail-reopens",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/trails/office-trail",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/big-biloxi-recreation-area"
+  ]
+ },
+ "homochitto-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/mississippi/recreation/homochitto",
+  "urls": [
+   "https://www.fs.usda.gov/r08/mississippi/recreation/homochitto",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/homochitto",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/trails/office-trail",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/big-biloxi-recreation-area"
+  ]
+ },
+ "kaniksu-national-forest": {
+  "site": "https://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6IeDdGCqCPOBqwDLG-AAjgb6fh75uan6BdnZaY6OiooA1tkqlQ!!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfMjAwMDAwMDBBODBPSEhWTjBNMDAwMDAwMDA!/?ss=110104&navtype=BROWSEBYSUBJECT&cid=FSE_003853&navid=091000000000000&pnavid=null&position=BROWSEBYSUBJECT&ttype=main&pname=Idaho%2520Panhandle%2520National%2520Forest-%2520Home/",
+  "urls": [
+   "https://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6IeDdGCqCPOBqwDLG-AAjgb6fh75uan6BdnZaY6OiooA1tkqlQ!!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfMjAwMDAwMDBBODBPSEhWTjBNMDAwMDAwMDA!/?ss=110104&navtype=BROWSEBYSUBJECT&cid=FSE_003853&navid=091000000000000&pnavid=null&position=BROWSEBYSUBJECT&ttype=main&pname=Idaho%2520Panhandle%2520National%2520Forest-%2520Home/",
+   "https://www.fs.usda.gov/r01/idahopanhandle/newsroom/releases/kaniksu-over-snow-vehicle-use-designation-call-public-comment",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/idahopanhandle/recreation/avery-creek-cabin",
+   "https://www.fs.usda.gov/r01/idahopanhandle"
+  ]
+ },
+ "malheur-national-forest": {
+  "site": "https://www.fs.usda.gov/malheur/",
+  "urls": [
+   "https://www.fs.usda.gov/malheur/",
+   "https://www.fs.usda.gov/r06/malheur/safety-ethics",
+   "https://www.fs.usda.gov/r06/malheur/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r06/malheur/recreation",
+   "https://www.fs.usda.gov/r06/malheur/recreation/opportunities/horse-riding-and-camping",
+   "https://www.fs.usda.gov/r06/malheur/recreation/trails/fields-peak-trail",
+   "https://www.fs.usda.gov/r06/malheur/newsroom/releases/malheur-national-forest-invites-community-participate-national-trails",
+   "https://www.fs.usda.gov/r06/malheur/recreation/opportunities",
+   "https://www.fs.usda.gov/r06/malheur/newsroom/releases/malheur-national-forest-reduces-public-use-restrictions-0",
+   "https://www.fs.usda.gov/r06/malheur/recreation/trails/sheep-creek-trail",
+   "https://www.fs.usda.gov/r06/malheur/working-with-us/volunteers",
+   "https://www.fs.usda.gov/r06/malheur/newsroom/releases/trails-near-magone-lake-re-open",
+   "https://www.fs.usda.gov/r06/malheur/recreation/camping-cabins",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "manti-la-sal-national-forest": {
+  "site": "https://www.fs.usda.gov/r04/manti-lasal",
+  "urls": [
+   "https://www.fs.usda.gov/r04/manti-lasal",
+   "https://www.fs.usda.gov/r04/manti-lasal",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/opportunities",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/opportunities/horse-riding-and-camping",
+   "https://www.fs.usda.gov/r04/manti-lasal/multimedia/videos",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/hiking-peaks-la-sal-mountains",
+   "https://www.fs.usda.gov/r04/manti-lasal/newsroom/releases/manti-la-sal-national-forest-now-accepting-applications-upcoming",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/trails/upper-two-mile-trail",
+   "https://www.fs.usda.gov/r04/manti-lasal/newsroom/newsletters/manti-la-sal-happenings-spring-2026",
+   "https://www.fs.usda.gov/r04/manti-lasal/newsroom/releases/manti-la-sal-national-forest-and-interagency-partners-begin",
+   "https://www.fs.usda.gov/r04/manti-lasal/animals-plants",
+   "https://www.fs.usda.gov/r04/manti-lasal/planning",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/abajo-harts-draw-recreation-area"
+  ]
+ },
+ "mantila-sal-national-forest": {
+  "site": "https://www.fs.usda.gov/mantilasal",
+  "urls": [
+   "https://www.fs.usda.gov/mantilasal",
+   "https://www.fs.usda.gov/r04/manti-lasal",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/opportunities/horse-riding-and-camping",
+   "https://www.fs.usda.gov/r04/manti-lasal/newsroom/releases/manti-la-sal-national-forest-now-accepting-applications-upcoming",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/opportunities",
+   "https://www.fs.usda.gov/r04/manti-lasal/maps-guides",
+   "https://www.fs.usda.gov/r04/manti-lasal/newsroom/releases/babylon-wildfire-manti-la-sal-national-forest",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r04/manti-lasal/animals-plants/plants",
+   "https://www.fs.usda.gov/r04/manti-lasal/newsroom/releases/manti-la-sal-national-forest-announces-seasonal-hiring-upcoming",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/trails/white-rim-trail-west",
+   "https://www.fs.usda.gov/r04/manti-lasal/alerts/camping-occupancy-stay-limits-developed-campgrounds-and-undeveloped-sites",
+   "https://www.fs.usda.gov/r04/manti-lasal/recreation/nizhoni-campground"
+  ]
+ },
+ "national-forests-in-mississippi": {
+  "site": "https://www.fs.usda.gov/r08/mississippi",
+  "urls": [
+   "https://www.fs.usda.gov/r08/mississippi",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/de-soto-ranger-district",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/opportunities",
+   "https://www.fs.usda.gov/r08/mississippi/newsroom/releases/discover-forest-fall",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/tombigbee",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/trails/black-creek-hiking-trail",
+   "https://www.fs.usda.gov/r08/mississippi/newsroom/releases/progress-continues-reopen-trails-de-soto-national-forest",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/trails/delta-multiple-use-trails",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/big-biloxi-recreation-area",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/shongelo-lake",
+   "https://www.fs.usda.gov/r08/mississippi/about-area/faqs",
+   "https://www.fs.usda.gov/r08/mississippi/planning"
+  ]
+ },
+ "nebraska-national-forest": {
+  "site": "https://www.fs.usda.gov/nebraska",
+  "urls": [
+   "https://www.fs.usda.gov/nebraska",
+   "https://www.fs.usda.gov/r02/nebraska",
+   "https://www.fs.usda.gov/r02/nebraska/recreation",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/opportunities",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/pine-ridge-trailhead",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/soldier-creek-wilderness",
+   "https://www.fs.usda.gov/r02/nebraska/alerts/permanent-prohibition-shooting-prairie-dogs-conata-basin",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/spotted-tail-trailhead",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/buffalo-gap-national-grassland",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/saddle-pass-horse-trail",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/pinnacles-camping-area",
+   "https://www.fs.usda.gov/r02/nebraska/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/sites/nfs/files/r02/nebraska/publication/alerts/News%20Release.pdf",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "nebraska-national-forests-and-grasslands": {
+  "site": "https://www.fs.usda.gov/main/nebraska/",
+  "urls": [
+   "https://www.fs.usda.gov/main/nebraska/",
+   "https://www.fs.usda.gov/r02/nebraska",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/opportunities",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/oglala-national-grassland",
+   "https://www.fs.usda.gov/r02/nebraska/alerts/permanent-prohibition-shooting-prairie-dogs-conata-basin",
+   "https://www.fs.usda.gov/r02/nebraska/maps-guides",
+   "https://www.fs.usda.gov/r02/nebraska/recreation",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/saddle-pass-horse-trail",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/pinnacles-camping-area",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/french-creek-campground",
+   "https://www.fs.usda.gov/r02/nebraska/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/sites/nfs/files/r02/nebraska/publication/alerts/News%20Release.pdf",
+   "https://www.fs.usda.gov/r02/nebraska/safety-ethics"
+  ]
+ },
+ "nezperce-national-forest": {
+  "site": "https://www.fs.usda.gov/r01/nezperce-clearwater",
+  "urls": [
+   "https://www.fs.usda.gov/r01/nezperce-clearwater",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/opportunities",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/maps-guides",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/newsroom/releases/check-out-new-trail-clearing-status-app-nez-perce",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/newsroom/releases/divide-trail-505-open-motorized-use",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/laird-park-campground",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/working-with-us/volunteers",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/camping-cabins",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/newsome-campground",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/lochsa-highway-12-corridor?page=2",
+   "https://www.fs.usda.gov/r01/nezperce-clearwater/recreation/fish-creek-campground",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "osceola-national-forest": {
+  "site": "https://www.fs.usda.gov/osceola",
+  "urls": [
+   "https://www.fs.usda.gov/osceola",
+   "https://www.fs.usda.gov/r08/florida/recreation/osceola-national-forest-0",
+   "https://www.fs.usda.gov/r08/florida/recreation/osceola-wildlife-management-area",
+   "https://www.fs.usda.gov/r08/florida/recreation/osceola-ranger-station",
+   "https://www.fs.usda.gov/r08/florida/offices/osceola-ranger-district",
+   "https://www.fs.usda.gov/r08/florida/recreation/osceola-national-forest",
+   "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest",
+   "https://www.fs.usda.gov/r08/florida"
+  ]
+ },
+ "pisgah-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/northcarolina/recreation/pisgah-national-forest",
+  "urls": [
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/pisgah-national-forest",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/pisgah-national-forest",
+   "https://www.fs.usda.gov/media/241188",
+   "https://www.fs.usda.gov/media/241204",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/prescribed-burns-planned-pisgah-ranger-district-reduce-0",
+   "https://www.fs.usda.gov/media/188539",
+   "https://www.fs.usda.gov/r08/northcarolina/planning/nantahala-and-pisgah-forest-plan",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/permit-free-firewood-collection-extended-through-2026-pisgah",
+   "https://www.fs.usda.gov/r08/northcarolina/alerts/permit-free-firewood-collection-pisgah-national-forest",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/prescribed-burns-planned-pisgah-ranger-district-reduce-wildfire",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/pisgah-ranger-district-pisgah-national-forest",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/appalachian-ranger-district-pisgah-national-forest",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/grandfather-ranger-district-pisgah-national-forest",
+   "https://www.fs.usda.gov/r08/northcarolina/safety-ethics",
+   "https://www.fs.usda.gov/nfsnc"
+  ]
+ },
+ "sam-houston-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/texas/recreation/sam-houston-national-forest",
+  "urls": [
+   "https://www.fs.usda.gov/r08/texas/recreation/sam-houston-national-forest",
+   "https://www.fs.usda.gov/r08/texas/recreation/sam-houston-national-forest",
+   "https://www.fs.usda.gov/r08/texas/recreation/trails/sam-houston-multiple-use-trails",
+   "https://www.fs.usda.gov/r08/texas/newsroom/releases/sam-houston-national-forest-closes-roads-recreation-areas-and-trails",
+   "https://www.fs.usda.gov/fs-national-forests-national-grasslands-and-other-national-areas/sam-houston-national-forest",
+   "https://www.fs.usda.gov/organization/Sam%20Houston%20Ranger%20District",
+   "https://www.fs.usda.gov/r08/texas/alerts/know-you-go-davy-crockett-and-sam-houston-national-forests-road-work",
+   "https://www.fs.usda.gov/r08/texas/alerts/sam-houston-national-forest-closure-order",
+   "https://www.fs.usda.gov/r08/texas/about-area/faqs",
+   "https://www.fs.usda.gov/r08/texas"
+  ]
+ },
+ "samuel-r-mckelvie-national-forest": {
+  "site": "https://www.fs.usda.gov/recarea/nebraska/recarea/?recid=30324",
+  "urls": [
+   "https://www.fs.usda.gov/recarea/nebraska/recarea/?recid=30324",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/samuel-r-mckelvie-national-forest-0",
+   "https://www.fs.usda.gov/wildflowers/regions/Rocky_Mountain/McKelvieNF/index.shtml",
+   "https://www.fs.usda.gov/media/272457",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r02/nebraska/recreation/steer-creek-campground"
+  ]
+ },
+ "savannah-river-site-forest": {
+  "site": "https://www.fs.usda.gov/r08/savannah-river",
+  "urls": [
+   "https://www.fs.usda.gov/r08/savannah-river",
+   "https://www.fs.usda.gov/sites/default/files/2022-04/%27BlackHillsLRMP_1997RevisionPhaseIIAmendment%27%20of%20%27Common%20References%20%27.pdf",
+   "https://www.fs.usda.gov/emc/nepa/revisions/includes/docs/infrastructure/recsitestrails/summit-eafonsi.pdf",
+   "https://www.fs.usda.gov/r08/savannah-river/recreation",
+   "https://www.fs.usda.gov/r08/savannah-river/recreation/opportunities",
+   "https://www.fs.usda.gov/r08/savannah-river",
+   "https://www.fs.usda.gov/r08/savannah-river/newsroom/stories",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/savannah-river/publication/timber-sales/2025.06.26_Prospectus.pdf",
+   "https://www.fs.usda.gov/r08/savannah-river/animals-plants/animals",
+   "https://www.fs.usda.gov/r08/savannah-river/natural-resources",
+   "https://www.fs.usda.gov/r08/savannah-river/newsroom/stories/where-reforestation-begins-first-look-savannah-river-sites",
+   "https://www.fs.usda.gov/r08/savannah-river/newsroom/stories/savannah-river-site-forest-announces-first-ever-forest-fellows",
+   "https://www.fs.usda.gov/r08/savannah-river/animals-plants",
+   "https://www.fs.usda.gov/r08/savannah-river/newsroom/stories/srs-provides-special-hunting-experience-outdoor-enthusiasts",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "shoshone-national-forest": {
+  "site": "https://www.fs.usda.gov/main/shoshone/home",
+  "urls": [
+   "https://www.fs.usda.gov/main/shoshone/home",
+   "https://www.fs.usda.gov/r02/shoshone",
+   "https://www.fs.usda.gov/r02/shoshone/maps-guides",
+   "https://www.fs.usda.gov/r02/shoshone/recreation/wilderness",
+   "https://www.fs.usda.gov/about-agency/features/shoshone-national-forest-first-among-forests",
+   "https://www.fs.usda.gov/r02/shoshone/newsroom",
+   "https://www.fs.usda.gov/r02/shoshone/recreation/eagle-creek-trailhead",
+   "https://www.fs.usda.gov/r02/shoshone/working-with-us/volunteers",
+   "https://www.fs.usda.gov/r02/shoshone/recreation",
+   "https://www.fs.usda.gov/r02/shoshone/newsroom/releases/morrison-jeep-trail-closure-area",
+   "https://www.fs.usda.gov/r02/shoshone/alerts",
+   "https://www.fs.usda.gov/r02/shoshone/safety-ethics/respect-wildlife",
+   "https://www.fs.usda.gov/r02/shoshone/safety-ethics",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r02/shoshone/recreation/sunlight-ranger-cabin"
+  ]
+ },
+ "st-joe-national-forest": {
+  "site": "https://www.fs.usda.gov/main/ipnf",
+  "urls": [
+   "https://www.fs.usda.gov/main/ipnf",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r01/idahopanhandle/recreation/little-guard-lookout",
+   "https://www.fs.usda.gov/r01/idahopanhandle/recreation/riding-hiawatha"
+  ]
+ },
+ "tombigbee-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/mississippi/recreation/tombigbee",
+  "urls": [
+   "https://www.fs.usda.gov/r08/mississippi/recreation/tombigbee",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/tombigbee",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/trails/office-trail",
+   "https://www.fs.usda.gov/r08/mississippi/recreation/big-biloxi-recreation-area"
+  ]
+ },
+ "tongass-national-forest": {
+  "site": "https://www.fs.usda.gov/tongass",
+  "urls": [
+   "https://www.fs.usda.gov/tongass",
+   "https://www.fs.usda.gov/r10/tongass/recreation/opportunities",
+   "https://www.fs.usda.gov/r10/tongass/safety-ethics/stay-safe",
+   "https://www.fs.usda.gov/r10/tongass/recreation/opportunities/outdoor-science-and-learning",
+   "https://www.fs.usda.gov/r10/tongass/recreation",
+   "https://www.fs.usda.gov/fs-national-forests-national-grasslands-and-other-national-areas/tongass-national-forest",
+   "https://www.fs.usda.gov/r10/tongass",
+   "https://www.fs.usda.gov/r10/newsroom/releases/tongass-national-forest-plan-revision-open-public-input",
+   "https://www.fs.usda.gov/r10/tongass/planning/monitoring-evaluation-program",
+   "https://www.fs.usda.gov/r10/tongass/publications",
+   "https://www.fs.usda.gov/r10/tongass/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/managing-land/natural-resources/geology/caveskarst/beneath-the-forest/20210803",
+   "https://www.fs.usda.gov/r10/tongass/planning",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "tuskegee-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/alabama/recreation/tuskegee-national-forest-0",
+  "urls": [
+   "https://www.fs.usda.gov/r08/alabama/recreation/tuskegee-national-forest-0",
+   "https://www.fs.usda.gov/r08/alabama/recreation/tuskegee-national-forest-0",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Tuskegee%20Great%20Escapes%20Flyer.pdf",
+   "https://www.fs.usda.gov/media/237624",
+   "https://www.fs.usda.gov/r08/alabama/recreation/tuskegee-national-forest",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf",
+   "https://www.fs.usda.gov/r08/alabama"
+  ]
+ },
+ "uwharrie-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/northcarolina/recreation/uwharrie-national-forest-0",
+  "urls": [
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/uwharrie-national-forest-0",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/northcarolina/publication/UWH%20--%20Uwharrie%20National%20Forest%20Recreation%20Guide.pdf",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/uwharrie-national-forest-0",
+   "https://www.fs.usda.gov/wildflowers/regions/southern/UwharrieRiverTrail/index.shtml",
+   "https://www.fs.usda.gov/r08/northcarolina/alerts/uwharrie-cave-and-mine-closure-order",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/uwharrie-national-forest-begin-prescribed-fires",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/trails/uwharrie-national-recreation-trail",
+   "https://www.fs.usda.gov/r08/northcarolina/newsroom/releases/uwharrie-badin-lake-ohv-trail-complex-seasonal-opening",
+   "https://www.fs.usda.gov/r08/northcarolina/recreation/uwharrie-hunt-camp",
+   "https://www.fs.usda.gov/r08/northcarolina/safety-ethics",
+   "https://www.fs.usda.gov/nfsnc"
+  ]
+ },
+ "white-river-national-forest": {
+  "site": "https://www.fs.usda.gov/main/whiteriver",
+  "urls": [
+   "https://www.fs.usda.gov/main/whiteriver",
+   "https://www.fs.usda.gov/r02/whiteriver/alerts/eagles-nest-wilderness-occupancy-and-use",
+   "https://www.fs.usda.gov/r02/whiteriver/alerts/holy-cross-wilderness-prohibitions-0",
+   "https://www.fs.usda.gov/r02/whiteriver/recreation/opportunities/hiking",
+   "https://www.fs.usda.gov/r02/whiteriver/recreation/opportunities",
+   "https://www.fs.usda.gov/r02/whiteriver/recreation/holy-cross-wilderness-white-river",
+   "https://www.fs.usda.gov/r02/whiteriver/newsroom/releases/summer-travel-season-begins-may-21-white-river-national-forest-1",
+   "https://www.fs.usda.gov/r02/whiteriver",
+   "https://www.fs.usda.gov/r02/whiteriver/recreation/trails/antones-1871",
+   "https://www.fs.usda.gov/r02/whiteriver/newsroom/releases/summer-travel-season-begins-may-21-white-river-national-forest-5",
+   "https://www.fs.usda.gov/r02/whiteriver/conditions",
+   "https://www.fs.usda.gov/r02/whiteriver/recreation/opportunities/highway-vehicles-ohv",
+   "https://www.fs.usda.gov/r02/whiteriver/recreation/trails/east-meadow-creek-1886",
+   "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  ]
+ },
+ "william-b-bankhead-national-forest": {
+  "site": "https://www.fs.usda.gov/r08/alabama/recreation/bankhead-national-forest-0",
+  "urls": [
+   "https://www.fs.usda.gov/r08/alabama/recreation/bankhead-national-forest-0",
+   "https://www.fs.usda.gov/r08/alabama/recreation/bankhead-national-forest-0",
+   "https://www.fs.usda.gov/r08/alabama/recreation/bankhead-national-forest",
+   "https://www.fs.usda.gov/r08/alabama/offices/bankhead-ranger-district",
+   "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf",
+   "https://www.fs.usda.gov/r08/alabama"
+  ]
+ },
+ "katmai-national-park": {
+  "site": "https://www.nps.gov/katm/",
+  "urls": [
+   "https://www.nps.gov/katm/",
+   "https://www.nps.gov/katm/planyourvisit/pets.htm",
+   "https://www.nps.gov/katm/planyourvisit/hiking-in-brooks-camp.htm",
+   "https://www.nps.gov/katm/planyourvisit/backcountry-regulations-and-suggested-best-practices.htm",
+   "https://www.nps.gov/katm/planyourvisit/accessibility.htm?fullweb=1",
+   "https://www.nps.gov/katm/blogs/brooks-falls-photography-know-before-you-go.htm",
+   "https://www.nps.gov/katm/planyourvisit/brooks-camp.htm",
+   "https://www.nps.gov/katm/blogs/a-little-help-from-my-feathered-friends.htm",
+   "https://www.nps.gov/katm/blogs/how-to-pack-for-10-days-in-katmai-s-backcountry.htm",
+   "https://www.nps.gov/katm/",
+   "https://www.nps.gov/katm/learn/nature/bears-of-katmai.htm",
+   "https://www.nps.gov/katm/blogs/the-katmai-keystone.htm",
+   "https://www.nps.gov/katm/blogs/people-platforms-and-bears.htm"
+  ]
+ },
+ "katmai-national-park-and-preserve": {
+  "site": "https://nps.gov/katm",
+  "urls": [
+   "https://nps.gov/katm",
+   "https://www.nps.gov/katm/planyourvisit/pets.htm",
+   "https://www.nps.gov/katm/planyourvisit/hiking-in-brooks-camp.htm",
+   "https://www.nps.gov/katm/planyourvisit/backcountry-regulations-and-suggested-best-practices.htm",
+   "https://www.nps.gov/katm/planyourvisit/index.htm",
+   "https://www.nps.gov/katm/",
+   "https://www.nps.gov/katm/blogs/brooks-falls-photography-know-before-you-go.htm",
+   "https://www.nps.gov/katm/blogs/a-little-help-from-my-feathered-friends.htm",
+   "https://www.nps.gov/articles/katmai.htm",
+   "https://www.nps.gov/katm/planyourvisit/brooks-camp.htm",
+   "https://www.nps.gov/katm/blogs/how-to-pack-for-10-days-in-katmai-s-backcountry.htm",
+   "https://www.nps.gov/katm/learn/nature/bears-of-katmai.htm",
+   "https://www.nps.gov/katm/learn/nature/an-intact-ecosystem.htm"
+  ]
+ },
+ "george-washington-and-jefferson-national-forests": {
+  "site": null,
+  "urls": []
+ },
+ "great-sand-dunes-national-park-and-preserve": {
+  "site": "https://nps.gov/grsa",
+  "urls": [
+   "https://www.nps.gov/grsa/planyourvisit/index.htm",
+   "https://www.nps.gov/grsa/planyourvisit/pets.htm",
+   "https://www.nps.gov/grsa/planyourvisit/horse-and-pack-animal-use.htm?hc_location=ufi",
+   "https://nps.gov/grsa"
+  ]
+ },
+ "iles-de-boucherville-national-park": {
+  "site": "https://www.sepaq.com/pq/bou/",
+  "urls": [
+   "https://www.sepaq.com/pq/bou/",
+   "https://www.sepaq.com/animaux/annexes/endroits-autorises-iles-boucherville.dot"
+  ]
+ },
+ "gates-of-the-arctic-national-park-and-preserve": {
+  "site": "https://nps.gov/gaar",
+  "urls": [
+   "https://www.nps.gov/gaar/planyourvisit/pets.htm",
+   "https://nps.gov/gaar"
+  ]
+ },
+ "glacier-national-park-canada-parks": {
+  "site": "https://parks.canada.ca/pn-np/bc/glacier",
+  "urls": [
+   "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs",
+   "https://parks.canada.ca/pn-np/bc/glacier/activ/passez-stay/arrierepays-backcountry",
+   "https://parks.canada.ca/pn-np/bc/glacier"
+  ]
+ }
+}

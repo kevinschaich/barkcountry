@@ -1,0 +1,34 @@
+{
+ "id": "kouchibouguac-national-park",
+ "name": "Kouchibouguac National Park",
+ "policy": "everywhere",
+ "policyReason": "Parks Canada promotes on-leash dog walks here and lists no trail bans.",
+ "summary": "Leashed dogs are allowed, including at campgrounds and on Callanders Beach.",
+ "excerpts": [
+  {
+   "quote": "must be kept on a leash at all times",
+   "url": "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac/activ/camping"
+  },
+  {
+   "quote": "You and your dog will love a long on-leash walk along Callanders Beach, exploring tidal rock pools and maybe a spot of soft-shell clam fishing too—permit required.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets must be leashed in campgrounds.",
+   "url": "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac/activ/camping"
+  },
+  {
+   "text": "Pet-friendly oTENTiks: #o44, #o48, #o60, #o66, #o71, #o74, #o75, #o86, #o99 and #o104.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac",
+ "petsUrl": "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac/activ/camping",
+ "coordinates": [
+  -64.9669,
+  46.8497
+ ],
+ "coordinatesSource": "Wikidata Q862260"
+}

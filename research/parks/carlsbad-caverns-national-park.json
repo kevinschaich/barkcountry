@@ -1,0 +1,34 @@
+{
+ "id": "carlsbad-caverns-national-park",
+ "name": "Carlsbad Caverns National Park",
+ "policy": "roads",
+ "policyReason": "Pets stay on paved areas; no cavern, unpaved trails or visitor center, and a day kennel is available.",
+ "summary": "Pets stay on paved areas; no cavern, unpaved trails or visitor center, and a day kennel is available.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed in the cavern, on unpaved park trails on the surface, off road, during the Bat Flight Program, or in the visitor center.",
+   "url": "https://www.nps.gov/cave/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not in the cavern, on unpaved trails, off road, at the Bat Flight Program or in the visitor center.",
+   "url": "https://www.nps.gov/cave/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No leaving pets in vehicles; use the kennel.",
+   "url": "https://www.nps.gov/cave/planyourvisit/pets.htm"
+  },
+  {
+   "text": "A concession day kennel holds pets while you tour the cavern.",
+   "url": "https://www.nps.gov/cave/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/cave",
+ "petsUrl": "https://www.nps.gov/cave/planyourvisit/pets.htm",
+ "coordinates": [
+  -104.443888888,
+  32.175277777
+ ],
+ "coordinatesSource": "Wikidata Q273195"
+}

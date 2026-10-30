@@ -1,0 +1,34 @@
+{
+ "id": "mount-rainier-national-park",
+ "name": "Mount Rainier National Park",
+ "policy": "trails",
+ "policyReason": "Pets are banned from all trails except the Pacific Crest Trail; roads, parking lots and campgrounds are fine.",
+ "summary": "Pets are banned from all trails except the Pacific Crest Trail; roads, parking lots and campgrounds are fine.",
+ "excerpts": [
+  {
+   "quote": "Dogs on a leash no longer than 6 feet are permitted on the Pacific Crest Trail.",
+   "url": "https://www.nps.gov/mora/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on trails, wilderness, buildings, amphitheaters, winter-closed roads or snow.",
+   "url": "https://www.nps.gov/mora/planyourvisit/pets.htm"
+  },
+  {
+   "text": "The Pacific Crest Trail is the one exception.",
+   "url": "https://www.nps.gov/mora/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not in park inns.",
+   "url": "https://www.nps.gov/mora/planyourvisit/upload/Pets-in-the-Park-Dec18.pdf"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/mora/index.htm",
+ "petsUrl": "https://www.nps.gov/mora/planyourvisit/pets.htm",
+ "coordinates": [
+  -121.75,
+  46.85
+ ],
+ "coordinatesSource": "Wikidata Q944329"
+}

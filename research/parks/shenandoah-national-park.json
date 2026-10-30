@@ -1,0 +1,34 @@
+{
+ "id": "shenandoah-national-park",
+ "name": "Shenandoah National Park",
+ "policy": "everywhere",
+ "policyReason": "The park allows leashed pets on most trails.",
+ "summary": "Leashed pets are allowed on most trails, with a short list of exceptions.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed, if leashed, on most trails.",
+   "url": "https://www.nps.gov/shen/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Campgrounds and pet-friendly lodging available.",
+   "url": "https://www.nps.gov/shen/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not on ranger programs.",
+   "url": "https://www.nps.gov/shen/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Some trails are closed to pets; check the list.",
+   "url": "https://www.nps.gov/shen/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/shen/index.htm",
+ "petsUrl": "https://www.nps.gov/shen/planyourvisit/pets.htm",
+ "coordinates": [
+  -78.35,
+  38.5333
+ ],
+ "coordinatesSource": "Wikidata Q1137401"
+}

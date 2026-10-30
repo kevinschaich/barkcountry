@@ -1,0 +1,34 @@
+{
+ "id": "riding-mountain-national-park",
+ "name": "Riding Mountain National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are allowed; some areas are closed to them.",
+ "summary": "Leashed pets are allowed; some areas are closed to them.",
+ "excerpts": [
+  {
+   "quote": "At all times, pets must be kept on a leash or in suitable confinement.",
+   "url": "https://parks.canada.ca/pn-np/mb/riding/info/reglements-regulations"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Some areas are closed to pets; check notices at trailheads.",
+   "url": "https://parks.canada.ca/pn-np/mb/riding/info/reglements-regulations"
+  },
+  {
+   "text": "Select oTENTiks in Wasagaming Campground are pet-friendly.",
+   "url": "https://parks.canada.ca/pn-np/mb/riding/activ/camping"
+  },
+  {
+   "text": "Cougars and wolves live here; keep dogs leashed and bring pets inside at night.",
+   "url": "https://parks.canada.ca/pn-np/mb/riding/nature/animals/mammals/coug"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/mb/riding",
+ "petsUrl": "https://parks.canada.ca/pn-np/mb/riding/info/reglements-regulations",
+ "coordinates": [
+  -100.036,
+  50.8639
+ ],
+ "coordinatesSource": "Wikidata Q795190"
+}

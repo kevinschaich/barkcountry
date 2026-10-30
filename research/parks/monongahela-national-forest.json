@@ -1,0 +1,30 @@
+{
+ "id": "monongahela-national-forest",
+ "name": "Monongahela National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Pets must be restrained or on a leash at all times while in developed recreation areas.",
+   "url": "https://www.fs.usda.gov/r09/monongahela/safety-ethics/general-forest-rules"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Williams River sites: dogs on a leash.",
+   "url": "https://www.fs.usda.gov/r09/monongahela/recreation/williams-river-sites"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r09/monongahela",
+ "petsUrl": null,
+ "coordinates": [
+  -79.89362,
+  38.55516
+ ],
+ "coordinatesSource": "Wikidata Q513450"
+}

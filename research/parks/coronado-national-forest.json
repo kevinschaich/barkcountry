@@ -1,0 +1,30 @@
+{
+ "id": "coronado-national-forest",
+ "name": "Coronado National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed almost anywhere, except two areas.",
+ "summary": "Dogs are allowed almost anywhere, except two areas.",
+ "excerpts": [
+  {
+   "quote": "Yes, dogs are allowed anywhere in the forest except the Pusch Ridge Wilderness Big Horn Sheep closure area and the Sabino Canyon Recreation Area.",
+   "url": "https://www.fs.usda.gov/r03/coronado/about-area/faqs/hiking-and-camping-dogs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs in the Pusch Ridge Wilderness bighorn sheep closure area or Sabino Canyon Recreation Area.",
+   "url": "https://www.fs.usda.gov/r03/coronado/about-area/faqs/hiking-and-camping-dogs"
+  },
+  {
+   "text": "Leash required in developed recreation sites; off leash allowed in some situations.",
+   "url": "https://www.fs.usda.gov/r03/coronado/about-area/faqs/hiking-and-camping-dogs"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/coronado",
+ "petsUrl": "https://www.fs.usda.gov/r03/coronado/about-area/faqs/hiking-and-camping-dogs",
+ "coordinates": [
+  -110.309,
+  31.9964
+ ],
+ "coordinatesSource": "Wikidata Q591893"
+}

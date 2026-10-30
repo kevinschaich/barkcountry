@@ -1,0 +1,38 @@
+{
+ "id": "waterton-lakes-national-park",
+ "name": "Waterton Lakes National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are allowed; some areas are closed to them.",
+ "summary": "Leashed pets are allowed; some areas are closed to them.",
+ "excerpts": [
+  {
+   "quote": "At all times, pets must be kept on a leash or in suitable confinement.",
+   "url": "https://parks.canada.ca/pn-np/ab/waterton/visit/regles-rules"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Some areas are closed to pets; check notices at trailheads.",
+   "url": "https://parks.canada.ca/pn-np/ab/waterton/visit/regles-rules"
+  },
+  {
+   "text": "No pets in campground kitchen shelters.",
+   "url": "https://parks.canada.ca/pn-np/ab/waterton/activ/camping/regles-rules"
+  },
+  {
+   "text": "Mule deer with fawns can attack dogs, especially in spring; leave the area if you see one.",
+   "url": "https://parks.canada.ca/pn-np/ab/waterton/activ/camping/regles-rules"
+  },
+  {
+   "text": "If pets must be left outside at camp, use a kennel with a secure top.",
+   "url": "https://parks.canada.ca/pn-np/ab/waterton/activ/camping/regles-rules"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/ab/waterton",
+ "petsUrl": "https://parks.canada.ca/pn-np/ab/waterton/visit/regles-rules",
+ "coordinates": [
+  -113.933333333,
+  49.05
+ ],
+ "coordinatesSource": "Wikidata Q902778"
+}

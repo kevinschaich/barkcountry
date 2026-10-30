@@ -1,0 +1,26 @@
+{
+ "id": "apalachicola-national-forest",
+ "name": "Apalachicola National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome in most areas.",
+ "summary": "Leashed dogs are welcome in most areas.",
+ "excerpts": [
+  {
+   "quote": "Dogsare welcome in most areas, but must be leashed at all times.",
+   "url": "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not allowed on the beach at swimming areas.",
+   "url": "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r08/florida",
+ "petsUrl": "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest",
+ "coordinates": [
+  -84.66555556,
+  30.23611111
+ ],
+ "coordinatesSource": "Wikipedia: Apalachicola National Forest"
+}

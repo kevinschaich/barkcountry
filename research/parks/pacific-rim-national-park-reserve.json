@@ -1,0 +1,42 @@
+{
+ "id": "pacific-rim-national-park-reserve",
+ "name": "Pacific Rim National Park Reserve",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed in most of the Long Beach Unit, but never on the West Coast Trail or the Broken Group Islands.",
+ "summary": "Leashed dogs are allowed in most of the Long Beach Unit, but never on the West Coast Trail or the Broken Group Islands.",
+ "excerpts": [
+  {
+   "quote": "In areas where dogs are permitted (outside designated closures), they must be kept close and on a leash at all times, including on beaches, trails, parking lots, and in the water.",
+   "url": "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs"
+  },
+  {
+   "quote": "Dogs are not permitted in the West Coast Trail Unit or the Broken Group Islands Unit at any time, unless they are certified service pets.",
+   "url": "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs in the West Coast Trail Unit or the Broken Group Islands Unit.",
+   "url": "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs"
+  },
+  {
+   "text": "Wolf warning: dogs are banned on the coast and trails between Green Point Rocks and Willowbrae Trail until further notice; Wickaninnish Dunes and the Old Gold Mine Trail are closed to people and dogs.",
+   "url": "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs"
+  },
+  {
+   "text": "April 1 to October 1: no dogs between Sandhill Creek and Green Point Rocks, including Combers Beach, its trail and the Green Point Campground boardwalk.",
+   "url": "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs"
+  },
+  {
+   "text": "Stay 25 m from shorebirds; penalties reach $25,000.",
+   "url": "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/bc/pacificrim",
+ "petsUrl": "https://parks.canada.ca/pn-np/bc/pacificrim/visit/chiens-dogs",
+ "coordinates": [
+  -125.666666666,
+  48.983333333
+ ],
+ "coordinatesSource": "Wikidata Q1756401"
+}

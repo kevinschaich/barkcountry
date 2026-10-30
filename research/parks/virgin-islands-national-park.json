@@ -1,0 +1,26 @@
+{
+ "id": "virgin-islands-national-park",
+ "name": "Virgin Islands National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed on trails, but not on beaches.",
+ "summary": "Leashed dogs are allowed on trails, but not on beaches.",
+ "excerpts": [
+  {
+   "quote": "Service dogs are allowed in Virgin Islands National Park and leashed dogs are allowed on trails.",
+   "url": "https://www.nps.gov/viis/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on beaches.",
+   "url": "https://www.nps.gov/viis/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/viis/",
+ "petsUrl": "https://www.nps.gov/viis/planyourvisit/pets.htm",
+ "coordinates": [
+  -64.79376,
+  18.33188
+ ],
+ "coordinatesSource": "Wikidata None"
+}

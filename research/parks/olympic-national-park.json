@@ -1,0 +1,38 @@
+{
+ "id": "olympic-national-park",
+ "name": "Olympic National Park",
+ "policy": "trails",
+ "policyReason": "The park says pets are not allowed on most trails, only on a short list.",
+ "summary": "Pets are allowed on a few listed trails and some beaches, not most trails or wilderness beaches.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed on most park trails or any wilderness beaches.",
+   "url": "https://www.nps.gov/thingstodo/olympethike.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Kalaloch beaches and Ruby Beach allow leashed pets.",
+   "url": "https://www.nps.gov/thingstodo/olympicbeaches.htm"
+  },
+  {
+   "text": "Rialto Beach only from the parking lot to Ellen Creek.",
+   "url": "https://www.nps.gov/thingstodo/olympicbeaches.htm"
+  },
+  {
+   "text": "Not on Second Beach, Third Beach or Ozette.",
+   "url": "https://www.nps.gov/thingstodo/olympicbeaches.htm"
+  },
+  {
+   "text": "Olympic National Forest trails allow leashed pets.",
+   "url": "https://www.nps.gov/olym/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/olym/index.htm",
+ "petsUrl": "https://www.nps.gov/olym/planyourvisit/pets.htm",
+ "coordinates": [
+  -123.75,
+  47.7
+ ],
+ "coordinatesSource": "Wikidata Q372093"
+}

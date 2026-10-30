@@ -4,7 +4,6 @@ An open-source, curated map of dog and pet-friendly National Parks in the U.S. (
 
 [**Explore on Google Maps**](https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
 
-[![Dog-Friendly National Parks Map](dog-friendly-national-parks-map.png)](https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
 
 | **Color** | **Icon** | **Meaning** |
 |---|---|---|
@@ -26,3 +25,10 @@ First round of data collection was automated using web scraping, second round wa
 ## Corrections & Contributions
 
 Please file an [**issue**](https://github.com/kevinschaich/dog-friendly-national-parks/issues) 😊
+
+## Research
+
+`parks.geojson` holds every park with its color, quotes from its official pages and a "last verified" date.
+It's built by the scripts in [`research/`](research/), and every page they read is saved there as evidence.
+See [`research/REPORT.md`](research/REPORT.md) for what changed from the original map, and
+[`research/AGENTS.md`](research/AGENTS.md) for how to redo it.

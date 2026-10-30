@@ -1,0 +1,26 @@
+{
+ "id": "osceola-national-forest",
+ "name": "Osceola National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome in most areas.",
+ "summary": "Leashed dogs are welcome in most areas.",
+ "excerpts": [
+  {
+   "quote": "Dogsare welcome in most areas, but must be leashed at all times.",
+   "url": "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not allowed on the beach at swimming areas.",
+   "url": "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r08/florida",
+ "petsUrl": "https://www.fs.usda.gov/r08/florida/recreation/ocala-national-forest",
+ "coordinates": [
+  -82.3217,
+  30.2906
+ ],
+ "coordinatesSource": "Wikidata Q3079104"
+}

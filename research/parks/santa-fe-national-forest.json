@@ -1,0 +1,21 @@
+{
+ "id": "santa-fe-national-forest",
+ "name": "Santa Fe National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may use trails, leashed or under voice control.",
+ "summary": "Dogs may use trails, leashed or under voice control.",
+ "excerpts": [
+  {
+   "quote": "On the trail, dogs must be under complete voice control if unleashed.",
+   "url": "https://www.fs.usda.gov/r03/santafe/recreation/panchuela-trailhead"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/santafe/",
+ "petsUrl": "https://www.fs.usda.gov/r03/santafe/recreation/panchuela-trailhead",
+ "coordinates": [
+  -106.2,
+  35.7
+ ],
+ "coordinatesSource": "Wikidata Q7419545"
+}

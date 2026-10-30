@@ -1,0 +1,26 @@
+{
+ "id": "qausuittuq-national-park",
+ "name": "Qausuittuq National Park",
+ "policy": "none",
+ "policyReason": "Pets, sled dogs and service animals are not allowed in the park (Inuit excepted).",
+ "summary": "Pets, sled dogs and service animals are not allowed in the park (Inuit excepted).",
+ "excerpts": [
+  {
+   "quote": "Pets, sled dogs, and service animals are prohibited in Qausuittuq National Park (not applicable to Inuit).",
+   "url": "https://parks.canada.ca/pn-np/nu/qausuittuq/securite-safety/comportements-guidelines"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets, sled dogs and service animals are prohibited (does not apply to Inuit).",
+   "url": "https://parks.canada.ca/pn-np/nu/qausuittuq/securite-safety/comportements-guidelines"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nu/qausuittuq",
+ "petsUrl": "https://parks.canada.ca/pn-np/nu/qausuittuq/securite-safety/comportements-guidelines",
+ "coordinates": [
+  -101.031111111,
+  76.124166666
+ ],
+ "coordinatesSource": "Wikidata Q18167998"
+}

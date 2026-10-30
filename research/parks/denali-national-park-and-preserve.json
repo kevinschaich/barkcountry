@@ -1,0 +1,15 @@
+{
+ "id": "denali-national-park-and-preserve",
+ "failed": {
+  "why": "duplicate of denali-national-park",
+  "urls": [
+   "https://nps.gov/dena",
+   "https://www.nps.gov/dena/planyourvisit/pets.htm",
+   "https://www.nps.gov/dena/blogs/learning-about-dog-behavior.htm",
+   "https://www.nps.gov/dena/blogs/what-to-expect-when-a-sled-dog-is-expecting.htm",
+   "https://www.nps.gov/dena/planyourvisit/how-to-visit-the-kennels.htm",
+   "https://www.nps.gov/dena/planyourvisit/serviceanimals.htm",
+   "https://www.nps.gov/dena/planyourvisit/mushing.htm"
+  ]
+ }
+}

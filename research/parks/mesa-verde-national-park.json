@@ -1,0 +1,42 @@
+{
+ "id": "mesa-verde-national-park",
+ "name": "Mesa Verde National Park",
+ "policy": "trails",
+ "policyReason": "Leashed pets may use roads and paved areas, and some paved trails at Wetherill Mesa, but not trails or sites.",
+ "summary": "Leashed pets may use roads and paved areas on Mesa Top Loop and Park Point, and Wetherill Mesa trails except Step House and Long House.",
+ "excerpts": [
+  {
+   "quote": "If hiking with your pet at Wetherill, consider not only the air temperature but also the temperature of the paved trails.",
+   "url": "https://www.nps.gov/meve/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "At Wetherill Mesa, pets are permitted on all trails except for the trails leading into Step House and Long House.",
+   "url": "https://www.nps.gov/meve/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Leashed pets are allowed on roads, parking lots, and paved areas on Mesa Top Loop and Park Point but not on trails, in ancestral sites or buildings.",
+   "url": "https://www.nps.gov/meve/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Roads, parking lots and paved areas on Mesa Top Loop and Park Point only.",
+   "url": "https://www.nps.gov/meve/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Mesa Top Loop and Park Point: not on trails, in ancestral sites or buildings.",
+   "url": "https://www.nps.gov/meve/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Wetherill Mesa: all trails allowed except those into Step House and Long House.",
+   "url": "https://www.nps.gov/meve/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/meve/index.htm",
+ "petsUrl": "https://www.nps.gov/meve/planyourvisit/pets.htm",
+ "coordinates": [
+  -108.494444,
+  37.260375
+ ],
+ "coordinatesSource": "Wikidata Q237128"
+}

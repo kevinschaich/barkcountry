@@ -1,0 +1,34 @@
+{
+ "id": "gila-national-forest",
+ "name": "Gila National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome in campgrounds, picnic areas and on most trails.",
+ "summary": "Dogs are welcome in campgrounds, picnic areas and on most trails.",
+ "excerpts": [
+  {
+   "quote": "The Gila National Forest is very dog friendly.",
+   "url": "https://www.fs.usda.gov/r03/gila/safety-ethics/canine-campers-bringing-dogs-national-forest"
+  },
+  {
+   "quote": "Dogs are welcome in all campgrounds, picnic areas and on most trails.",
+   "url": "https://www.fs.usda.gov/r03/gila/safety-ethics/canine-campers-bringing-dogs-national-forest"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash approaching other hikers, horses and pack stock.",
+   "url": "https://www.fs.usda.gov/r03/gila/safety-ethics/canine-campers-bringing-dogs-national-forest"
+  },
+  {
+   "text": "Never leave a dog alone in a closed vehicle or tent.",
+   "url": "https://www.fs.usda.gov/r03/gila/safety-ethics/canine-campers-bringing-dogs-national-forest"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/gila",
+ "petsUrl": "https://www.fs.usda.gov/r03/gila/safety-ethics/canine-campers-bringing-dogs-national-forest",
+ "coordinates": [
+  -108.533333333,
+  33.466666666
+ ],
+ "coordinatesSource": "Wikidata Q1523874"
+}

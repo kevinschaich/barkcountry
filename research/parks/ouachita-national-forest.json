@@ -1,0 +1,26 @@
+{
+ "id": "ouachita-national-forest",
+ "name": "Ouachita National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may use trails under verbal or physical restraint.",
+ "summary": "Dogs may use trails under verbal or physical restraint.",
+ "excerpts": [
+  {
+   "quote": "On trails, dogs must be under verbal or physical restraint at all times.",
+   "url": "https://www.fs.usda.gov/r08/ouachita/about-area/faqs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash in campgrounds, picnic areas, parking areas and trailheads.",
+   "url": "https://www.fs.usda.gov/r08/ouachita/about-area/faqs"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/ouachita/",
+ "petsUrl": "https://www.fs.usda.gov/r08/ouachita/about-area/faqs",
+ "coordinates": [
+  -94.25,
+  34.5
+ ],
+ "coordinatesSource": "Wikidata Q3079109"
+}

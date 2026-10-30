@@ -1,0 +1,34 @@
+{
+ "id": "jasper-national-park",
+ "name": "Jasper National Park",
+ "policy": "everywhere",
+ "policyReason": "Parks Canada says most Jasper trails outside caribou habitat are dog friendly; only listed sensitive-habitat trails ban dogs.",
+ "summary": "Leashed dogs can use most trails, except those in caribou and other sensitive habitat.",
+ "excerpts": [
+  {
+   "quote": "Most trails in Jasper National Park that do not enter into Caribou habitat are dog friendly, which means you and your furry friend can go almost anywhere you want!",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  },
+  {
+   "quote": "Dogs are prohibited on the following specified trails and areas of Jasper National Park.",
+   "url": "https://parks.canada.ca/pn-np/ab/jasper/bulletins/8f15eb04-9397-4bb9-b654-adb299a9e4a8"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs are banned in sensitive habitat, including the Skyline, Bald Hills, Opal Hills, Maligne Pass, Brazeau Loop/Poboktan and Tonquin Valley trails, within 500 m of each trail.",
+   "url": "https://parks.canada.ca/pn-np/ab/jasper/bulletins/8f15eb04-9397-4bb9-b654-adb299a9e4a8"
+  },
+  {
+   "text": "Dogs must be leashed to protect ground-nesting birds such as the common nighthawk.",
+   "url": "https://parks.canada.ca/pn-np/ab/jasper/nature/conservation/eep-sar/engouleventamerique-nighthawk"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/ab/jasper",
+ "petsUrl": "https://parks.canada.ca/pn-np/ab/jasper/bulletins/8f15eb04-9397-4bb9-b654-adb299a9e4a8",
+ "coordinates": [
+  -117.9,
+  52.8
+ ],
+ "coordinatesSource": "Wikidata Q503429"
+}

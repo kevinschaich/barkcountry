@@ -1,0 +1,31 @@
+{
+ "id": "chattahoochee-national-forest",
+ "name": "Chattahoochee National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may hike if kept under verbal or physical restraint.",
+ "summary": "Dogs may hike if kept under verbal or physical restraint.",
+ "excerpts": [
+  {
+   "quote": "If you bring your dog hiking, keep it under verbal or physical restraint at all times.",
+   "url": "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics/enjoy-outdoors"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash or restrain pets in developed recreation sites.",
+   "url": "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics"
+  },
+  {
+   "text": "No pets in swimming areas.",
+   "url": "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r08/chattahoochee-oconee",
+ "petsUrl": "https://www.fs.usda.gov/r08/chattahoochee-oconee/safety-ethics/enjoy-outdoors",
+ "coordinates": [
+  -83.8399006,
+  34.7260523
+ ],
+ "coordinatesSource": "OpenStreetMap: Chattahoochee National Forest, Appalachian Trail, Union County, Georgia, United ",
+ "unit": "Chattahoochee-Oconee National Forests"
+}

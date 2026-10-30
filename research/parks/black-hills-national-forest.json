@@ -1,0 +1,38 @@
+{
+ "id": "black-hills-national-forest",
+ "name": "Black Hills National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Furthermore, dogs are not allowed on any swim beaches on the Forest.",
+   "url": "https://www.fs.usda.gov/r02/blackhills/recreation/hanna-campground"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs on any swim beach in the forest.",
+   "url": "https://www.fs.usda.gov/r02/blackhills/recreation/hanna-campground"
+  },
+  {
+   "text": "Black Elk Wilderness: dogs must be leashed or under strict voice control.",
+   "url": "https://www.fs.usda.gov/r02/blackhills/wilderness/wilderness-rules-and-regulations"
+  },
+  {
+   "text": "Some campgrounds charge a $2 per pet per night fee.",
+   "url": "https://www.fs.usda.gov/r02/blackhills/recreation/horsethief-lake-campground"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/blackhills/",
+ "petsUrl": null,
+ "coordinates": [
+  -103.728,
+  43.9364
+ ],
+ "coordinatesSource": "Wikidata Q594965"
+}

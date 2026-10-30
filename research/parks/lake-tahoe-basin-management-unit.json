@@ -1,0 +1,26 @@
+{
+ "id": "lake-tahoe-basin-management-unit",
+ "name": "Lake Tahoe Basin Management Unit",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome almost anywhere except swim beaches.",
+ "summary": "Leashed dogs are welcome almost anywhere except swim beaches.",
+ "excerpts": [
+  {
+   "quote": "Your well-behaved, leashed dog is welcome almost anywhere within the Lake Tahoe Basin Management Unit, with the notable exceptions of designated swimming beaches and area",
+   "url": "https://www.fs.usda.gov/r05/laketahoebasin/recreation/where-can-i-take-my-dog-lake-tahoe"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs on swim beaches: Nevada, Pope, Baldwin, Meeks Bay, William Kent and Zephyr Cove.",
+   "url": "https://www.fs.usda.gov/r05/laketahoebasin/recreation/where-can-i-take-my-dog-lake-tahoe"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/ltbmu",
+ "petsUrl": "https://www.fs.usda.gov/r05/laketahoebasin/recreation/where-can-i-take-my-dog-lake-tahoe",
+ "coordinates": [
+  -120.0,
+  39.0
+ ],
+ "coordinatesSource": "Wikidata Q14705186"
+}

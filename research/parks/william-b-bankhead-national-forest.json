@@ -1,0 +1,30 @@
+{
+ "id": "william-b-bankhead-national-forest",
+ "name": "William B. Bankhead National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed; leash in developed sites.",
+ "summary": "Dogs are allowed; leash in developed sites.",
+ "excerpts": [
+  {
+   "quote": "Are dogs allowed in the forest?",
+   "url": "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf"
+  },
+  {
+   "quote": "Pets must always be restrained or on a leash while in developed recreation sites.",
+   "url": "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets in swimming areas.",
+   "url": "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r08/alabama",
+ "petsUrl": "https://www.fs.usda.gov/sites/nfs/files/r08/alabama/publication/Frequently-Asked-Questions-NFsinal-04092025.pdf",
+ "coordinates": [
+  -87.33444444,
+  34.23722222
+ ],
+ "coordinatesSource": "Wikipedia: William B. Bankhead National Forest"
+}

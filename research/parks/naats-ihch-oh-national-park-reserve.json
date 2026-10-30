@@ -1,0 +1,30 @@
+{
+ "id": "naats-ihch-oh-national-park-reserve",
+ "name": "Nááts'įhch'oh National Park Reserve",
+ "policy": "everywhere",
+ "policyReason": "The park only requires dogs to be leashed and lists no bans.",
+ "summary": "Dogs are allowed on a leash at all times; Parks Canada suggests leaving them home in bear country.",
+ "excerpts": [
+  {
+   "quote": "Dogs can provoke defensive behaviour in bears.",
+   "url": "https://parks.canada.ca/pn-np/nt/naatsihchoh/visit/bear_ours"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Keep dogs leashed at all times; dogs can provoke bears.",
+   "url": "https://parks.canada.ca/pn-np/nt/naatsihchoh/visit/bear_ours"
+  },
+  {
+   "text": "Store pet food at least 100 m from your tent.",
+   "url": "https://parks.canada.ca/pn-np/nt/naatsihchoh/visit/bear_ours"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nt/naatsihchoh",
+ "petsUrl": null,
+ "coordinates": [
+  -128.25,
+  62.25
+ ],
+ "coordinatesSource": "Wikidata Q861957"
+}

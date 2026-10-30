@@ -1,0 +1,42 @@
+{
+ "id": "parc-national-des-grands-jardins",
+ "name": "Grands-Jardins National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on two trails (La Chouenne, Le Gros-Pin), summer and winter, and part of one campground.",
+ "summary": "Leashed dogs are allowed on two trails (La Chouenne, Le Gros-Pin), summer and winter, and part of one campground.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis dans le parc.",
+   "url": "https://www.sepaq.com/pq/grj/"
+  },
+  {
+   "quote": "L'accès des chiens est cependant limité à certains endroits, selon certaines conditions.",
+   "url": "https://www.sepaq.com/pq/grj/"
+  },
+  {
+   "quote": "Les chiens sont interdits sur tous les sentiers d’accès et parois d’escalade.",
+   "url": "https://www.sepaq.com/pq/grj/"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Trails (summer and winter): La Chouenne and Le Gros-Pin.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-grands-jardins.dot"
+  },
+  {
+   "text": "Camping Pied-des-Monts, sites 1 to 19 and 51 to 58 (summer only).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-grands-jardins.dot"
+  },
+  {
+   "text": "No dogs on climbing approach trails or cliffs, at picnic areas or on the water.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-grands-jardins.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/grj/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-grands-jardins.dot",
+ "coordinates": [
+  -70.85,
+  47.6833
+ ],
+ "coordinatesSource": "Wikidata Q1553329"
+}

@@ -1,0 +1,332 @@
+- [Skip to main content](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#wb-cont)
+- [Skip to "About government"](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#wb-info)
+- [Switch to basic HTML version](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan?wbdisable=true)
+
+# Draft Management Plan
+
+## Vuntut National Park
+
+- [Executive Summary](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#E)
+- [Introduction](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#1)
+- [Significance of Vuntut National Park](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#2)
+- [Planning Context](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#3)
+- [Vision](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#4)
+- [Key Strategies](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#5)
+- [Zoning and Declared Wilderness Area](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#6)
+- [Zoning](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#6-1)
+- [Wilderness Area Declaration](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#6-2)
+- [Summary of Strategic Environmental Assessment 11](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#7)
+
+- [Map 1: Regional Setting](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#m-1)
+- [Map 2: Vuntut National Park](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#m-2)
+- [Map 3: Vuntut National Park Zoning](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#m-3)
+
+[Download PDF version (2.0 MB)](https://pcweb2.azureedge.net/-/media/pn-np/yt/vuntut/pdfs/vuntut-draft-plan-2023/Vuntut-NP-Draft-Mngt-Plan_July-5-2023-EN.pdf)
+
+## Executive Summary
+
+**Vuntut zit nan thok natr'ininn'aii**, the Gwich'in name for Vuntut National Park, is a central part of Vuntut Gwitchin First Nation's homeland. Vuntut National Park was established in 1995 as part of the _Vuntut Gwitchin First Nation Final Agreement_, to conserve, protect and present to Canadians a portion of the North Yukon Natural Region, to recognize Vuntut Gwitchin history and culture and to protect the traditional and current use of the park by the Vuntut Gwitchin.
+
+Parks Canada, Vuntut Gwitchin Government, and North Yukon Renewable Resources Council cooperatively manage Vuntut National Park. This work is guided by the _Vuntut Gwitchin First Nation Final Agreement_ and an operational agreement that defines the roles, responsibilities and procedures for the planning and management of the park. This includes recognizing traditional and current use of the park and established rights to subsistence harvesting, and providing for the protection of fish, wildlife, and their habitats. The Final Agreement takes precedence over any direction outlined in this management plan.
+
+The 4,345 square kilometre park sits within the Traditional Territory of the Vuntut Gwitchin, also known as people of the lakes, in the northwest corner of Yukon. The park is part of the Old Crow Flats Special Management Area and shares borders with Ivvavik National Park to the north and the Arctic National Wildlife Refuge in Alaska to the west.
+
+The Vuntut Gwitchin are centered in Old Crow, a community of approximately 280 people, located 60 square kilometres south of the park. It is a fly-in community with no permanent roads leading to it. Van Tat and the surrounding area, including Vuntut zit nan thok natr'ininn'aii, have long been an important resource that the Vuntut Gwitchin rely upon for their well being including their economic and cultural activities. For millennia, they have used the area seasonally and in times of need. The Vuntut Gwitchin continue to be guided by their values to preserve, protect and maintain the Vuntut Gwitchin way of life, and use of the waters, lands and wildlife within their Traditional Territory through traditional and modern means.
+
+This management plan sets a vision for the future of Vuntut National Park, with strategies and objectives aimed at reaching that vision. As such, this plan is the main guide for the management of the park, and an important accountability document for Indigenous peoples and Canadians as to how the park will be managed. Four key strategies are identified in the plan to guide the work of managing the park for the foreseeable future.
+
+- **Key strategy 1** focuses on building and maintaining healthy ecosystems in the park, for present and future generations.
+- **Key strategy 2** focuses on supporting a strong, enduring traditional Vuntut Gwitchin lifestyle, with Elders passing teachings and language to youth, both in the community and out on the land.
+- **Key strategy 3** focuses on honouring the enduring human presence in the park, by further understanding and managing the park's cultural resources.
+- **Key strategy 4** focuses on providing opportunities to learn about and experience Vuntut zit nan thok natr'ininn'aii, Vuntut Gwitchin history and Vuntut Gwitchin culture.
+
+This management plan will be reviewed in ten years' time with the Vuntut Gwitchin Government and North Yukon Renewable Resources Council, as well as with Vuntut Gwitchin and other Canadians.
+
+## Introduction
+
+Parks Canada manages one of the finest and most extensive systems of protected natural and historic places in the world. The Agency's mandate is to protect and present these places for the benefit and enjoyment of current and future generations. Future-oriented, strategic management of each national park, national marine conservation area, heritage canal and those national historic sites administered by Parks Canada supports the Agency's vision:
+
+> _Canada's treasured natural and historic places will be a living legacy, connecting hearts and minds to a stronger, deeper understanding of the very essence of Canada._
+
+The _Canada National Parks Act_ and the _Parks Canada Agency Act_ require Parks Canada to prepare a management plan for each national park. The _Vuntut_ _National Park of Canada Management Plan_, onceapproved by the Minister responsible for Parks Canada and tabled in Parliament, ensures Parks Canada's accountability to Canadians, outlining how park management will achieve measurable results in support of the Agency's mandate.
+
+Vuntut National Park was established in 1995 as part of the _Vuntut Gwitchin First Nation Final Agreement,_ to conserve, protect and present to Canadians a portion of the North Yukon Natural Region, to recognize Vuntut Gwitchin history and culture and to protect the traditional and current use of the park by the Vuntut Gwitchin.
+
+As cooperative managers of the national park, the Vuntut Gwitchin Government and North Yukon Renewable Resources Council worked closely with Parks Canada to develop this management plan to meet the _Vuntut Gwitchin First Nation Final Agreement_ provisions and shape the future direction of the national park.The plan sets clear, strategic direction for the management and operation of Vuntut National Park by articulating a vision, key strategies and objectives. Parks Canada will report annually on progress toward achieving the plan objectives and will review the plan every ten years or sooner if required.
+
+This plan is not an end in and of itself. Cooperative management partners will work together on the implementation of the management plan, to ensure that it remains relevant and meaningful. The plan will serve as the focus for ongoing engagement on the management of Vuntut National Park in years to come.
+
+## Significance of Vuntut National Park
+
+**Vuntut zit nan thok natr'ininn'aii**, the Gwich'in name for Vuntut National Park, is a central part of Vuntut Gwitchin First Nation's homeland. The 4,345 square kilometre park sits within the Traditional Territory of the Vuntut Gwitchin, also known as _people of the lakes_, in the northwest corner of Yukon [(Map 1)](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#m-1). The park is part of the Old Crow Flats Special Management Area and shares borders with Ivvavik National Park to the north and the Arctic National Wildlife Refuge in Alaska to the west. For the purposes of this document “Vuntut zit nan thok natr'ininn'aii” will be used interchangeably with “the park” when referring to Vuntut National Park.
+
+Vuntut National Park was established in 1995 as part of the _Vuntut Gwitchin First Nation Final Agreement_, to conserve, protect and present to Canadians a portion of the North Yukon Natural Region, to recognize Vuntut Gwitchin history and culture and to protect the traditional and current use of the park by the Vuntut Gwitchin. Vuntut National Park is located within a major cultural and subsistence area of the Vuntut Gwitchin. Vuntut Gwitchin presence in the park is important not only for the continuance of their culture, but also for understanding changes that are occurring on the land and providing guidance for park management.
+
+![](https://pcweb2.azureedge.net/-/media/pn-np/yt/vuntut/WET4/info/gestion-management/map-1.jpg)Map 1: Regional Setting
+Map 1 - Text version
+
+This map shows the regional setting for Vuntut National Park in Northern Yukon between Alaska and the Northwest Territories. The park is part of the Old Crow Flats Special Management Area and shares borders with Ivvavik National Park to the north and the Arctic National Wildlife Refuge in Alaska to the west. The map contains a legend to the bottom right of the map with a 0 to 100 km scale.
+
+Vuntut zit nan thok natr'ininn'aii is made up of two contrasting regions - wetlands and lakes in the south that give way to rolling hills, and scattered peaks in the north [(Map 2)](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#m-2).
+
+The southern third of the park is comprised of the wetlands and lakes of Van Tat/Old Crow Flats, which is one of the most significant wetlands in Yukon, used by up to half a million waterfowl every year. Van Tat is listed as a Wetland of International Importance under the United Nations Ramsar Convention, an international designation on wetland conservation. The majority of Van Tat is outside of the park and is managed by Vuntut Gwitchin Government and the Government of Yukon.
+
+The northern two-thirds of the park consist of the concave slopes and rolling hills of the Old Crow Basin and the foothills and scattered peaks of the British Mountains. Tundra dominates the landscape in this region of the park.
+
+The park protects an important portion of the spring, summer and fall migration range of the Porcupine Caribou Herd and provides a crucial connection to the calving grounds within Ivvavik National Park to the north.
+
+Several listed species at risk occur in the park, such as the grizzly bear, wolverine, and short-eared owl. The barren-ground caribou was recently recommended for listing under the _Species at Risk Act_ and this recommendation is undergoing consideration. The barren-ground caribou, including the Porcupine Caribou Herd, is an ecologically and culturally important species in the region.
+
+![](https://pcweb2.azureedge.net/-/media/pn-np/yt/vuntut/WET4/info/gestion-management/map-2.jpg)Map 2: Vuntut National Park
+Map 2 - Text version
+
+This is a map of Vuntut National Park, showing Old Crow Flats, Vuntut Gwitchin Settlement Land in and adjacent to the park, and locations of the seven caribou fences across the central part of the park. The map contains a legend to the bottom right of the map with a 0 to 40 km scale.
+
+
+The land that is now Vuntut zit nan thok natr'ininn'aii was once part of Beringia, a huge landmass in Yukon, Alaska, and northeastern Russia that remained generally ice-free during the last ice age. Many plants and animals of the area are thought to have survived the last ice age; some are found nowhere else in Canada. The area also features one of the world's most abundant deposits of ice-age fossils. Noteworthy features of the park include: the northern third of Van Tat; spring, summer and fall migration range for the Porcupine Caribou Herd; the ongoing interdependence of the Vuntut Gwitchin and the land; caribou fences and other archaeological sites; and internationally significant palaeontological sites along the Old Crow River.
+
+## Planning Context
+
+The Vuntut Gwitchin are centered in Old Crow, a community of approximately 280 people, located 60 square kilometres south of the park (see Map 2). It is a fly-in community with no permanent roads leading to it. Van Tat and the surrounding area, including Vuntut zit nan thok natr'ininn'aii, have long been an important resource that the Vuntut Gwitchin rely upon for their well-being including economic and cultural activities. For millennia, they have used the area seasonally and in times of need. The Vuntut Gwitchin continue to be guided by their values to preserve, protect and maintain the Vuntut Gwitchin way of life, and use of the waters, lands and wildlife within their Traditional Territory through traditional and modern means.
+
+Parks Canada, Vuntut Gwitchin Government, and North Yukon Renewable Resources Council cooperatively manage Vuntut National Park. This work is guided by the _Vuntut Gwitchin First Nation Final Agreement_ and an operational agreement that defines the roles, responsibilities and procedures for the planning and management of Vuntut zit nan thok natr'ininn'aii. This includes recognizing traditional and current use of the park and established rights to subsistence harvesting, and providing for the protection of fish, wildlife, and their habitats. The Final Agreement takes precedence over any direction outlined in this management plan. Effective cooperative management continues to enhance deeper understanding and care of the park and neighbouring lands. The relationship amongst Parks Canada, Vuntut Gwitchin Government and North Yukon Renewable Resources Council is strong and built on a foundation of collaboration, trust and respect.
+
+The cooperative management partners work closely with regional organizations for data and resource sharing, collaborative research, and advocacy. These groups include Government of Yukon, the Canadian Wildlife Service, the Alaska Department of Fish and Game, the U.S. Fish and Wildlife Service, the Porcupine Caribou Management Board, the Wildlife Management Advisory Council (North Slope), and numerous academic institutions.
+
+Visitation to Vuntut National Park is extremely low with an average of one visitor per year. There are no visitor facilities in Vuntut National Park and access to the park is challenging. Visitors must be self-sufficient with excellent wilderness travel skills. There are established land and water access routes to the park that are utilized annually by Old Crow community members, including the Ch'anchał Trai/Crow Flats main trail in winter and the Old Crow River in early summer or fall depending on the water levels. Aircraft charters are available from Dawson or Inuvik.
+
+The base of operations for the park is located in Old Crow. The John Tizya Centre was built through a partnership between Vuntut Gwitchin Government, the Vuntut Gwitchin Limited Partnership (previously known as the Vuntut Development Corporation), Parks Canada and Government of Yukon. It houses interpretive exhibits and offices for Parks Canada, Vuntut Gwitchin Government Heritage Department, North Yukon Renewable Resources Council and Government of Yukon. The Arctic Research Facility is a shared facility that provides storage for the park's equipment. Pre-paid lease agreements have contributed to economic benefits for the Vuntut Gwitchin First Nation and the development of these mutually beneficial facilities.
+
+The park contains a broad range of cultural resources, including navigation systems, Gwich'in place names, camp sites and village sites, which reflect human occupation and activity. There are 127 formally recorded archaeological sites in the park, most of which were recorded prior to park establishment. Seven caribou fences have been identified in the park - these were used by specific family groups from Old Crow and are of great significance in Vuntut Gwitchin history and culture. A wealth of palaeontological resources is found in the park - the Old Crow Basin has the greatest concentration of Pleistocene vertebrate fauna in Canada and possibly North America. Riverbank erosion has revealed Pleistocene fossils of mammoths, horses, muskoxen and other mammals. Both cultural and palaeontological resources are impacted by natural degradation and weathering.
+
+Vuntut Gwitchin Government's Heritage Branch has been conducting intensive culture-related research projects on the land since 1995 with Elders, youth and other community members travelling by helicopter and boats throughout the Traditional Territory including the park. This has resulted in the recording, compilation and passing on of Traditional Knowledge. Vuntut Gwitchin Government has also developed a set of Van Tat Gwich'in Culture Indicators which reflect the human and cultural connection to Vuntut National Park, focussing on Van Tat Gwich'in oral history, cultural geography, cultural technology, navigation systems and language. Parks Canada has supported these initiatives and continues to provide a high level of support to Vuntut Gwitchin Government.
+
+Key priorities identified from the _Vuntut National Park State of the Park Assessment 2018_, and through discussions with cooperative management partners, were considered during the development of this plan. These include:
+
+**Traditional Knowledge**: Members of Vuntut Gwitchin Government, North Yukon Renewable Resources Council and the community are involved with many aspects of park management, helping to ensure that Traditional Knowledge is actively incorporated into decision-making. It is important that these efforts continue and that use of Traditional Knowledge in park management increases. Cooperative management partners can identify Traditional Knowledge holders and advise on how this knowledge can better inform management decisions. All partners have a desire to work together to support Elders in passing on their knowledge to youth, so the next generation is ready to care for the land. Another area for continued support is bringing Traditional Knowledge and science together in hands-on learning opportunities within the park and region.
+
+**Climate Change**: Increasing temperatures and thawing permafrost are impacting the lands and wetlands in the Van Tat area as well as tundra vegetation in the park. These impacts are only just starting to be understood. Climate change is expected to continue to have significant impacts on the ecology of the park over the next management planning period. The impacts of climate change are a major concern and are difficult to address at the local level. Over the next ten years, it will be important to have a better understanding of regional climate change effects in order to inform adaptation strategies for Vuntut zit nan thok natr'ininn'aii.
+
+**Porcupine Caribou Herd**: The Porcupine Caribou Herd's range extends from Northern Alaska, across Yukon, to the Northwest Territories. The herd is critically important to the Vuntut Gwitchin as a valued resource and primary source of sustenance. Protecting the herd's habitat was one of the main reasons Vuntut zit nan thok natr'ininn'aii was created. The latest count of the herd, conducted in 2017, showed that the herd was at a historical high of approximately 218,000 caribou. Oil and gas development in the Arctic National Wildlife Refuge, home to the herd's core calving grounds, continues to be a threat, with development likely to occur over the next ten years. Focused efforts with cooperative management partners and other organizations, such as the Porcupine Caribou Management Board, will be required to protect the herd's core calving grounds.
+
+**Visitation**: Remote Vuntut zit nan thok natr'ininn'aii is one of the least visited national parks in Canada due to complicated logistics and high travel costs. Visitation without Vuntut Gwitchin guides is extremely difficult and cultivating local tourism is a priority. Suitable fixed wing landing sites are lacking. The John Tizya Centre offers visitors an opportunity to experience the park and learn about Vuntut Gwitchin culture as well as other protected areas in Vuntut Gwitchin Traditional Territory.
+
+**Cultural Resource Management**: Up-to-date information on the park's cultural resources is limited, affecting our ability to develop strategic direction for their management. Thirteen of the park's 127 archaeological sites have been formally evaluated and five of the seven caribou fences have been recorded in detail. The 2014 _Cultural Resource Values Statement for_ Vuntut zit nan thok natr'ininn'aii provides valuable context. However, additional information is needed to help set priorities for the management of specific cultural resources. Cultural resource management is difficult because of the remoteness of the park, complicated logistics and high travel costs to bring up specialists from southern Canada. This all leads to very limited condition monitoring of the known cultural resources within the park.
+
+## Vision
+
+Vuntut National Park is a dynamic and diverse protected area set within a larger sustainable landscape context. It is a place where the Vuntut Gwitchin continue to exist in harmony with the water, land and animals as they have for thousands of years, and where a strong, progressive Vuntut Gwitchin culture is shared with those who come to visit and explore.
+
+The traditional village of Old Crow is the link to the national park, where a warm welcome awaits you at the John Tizya Centre, and Vuntut Gwitchin guides are ready to support your journey. Take off your heavy boots, throw on some mukluks and snowshoe under a veil of northern lights. Or jump into a canoe and paddle toward the horizon under the endless midsummer sun. Far from the chaos of city life, immerse yourself in the sights, sounds and smells of this natural haven with healthy ecosystems of pristine waters, land and animals. Listen to the buzz of the bumblebee bringing life and sustenance within the park; observe the powerful grizzly foraging for food to sustain them through a long winter sleep; hear the swoosh of the geese or the calls of thousands of waterfowl in Van Tat; experience refuge from the last ice age with a chance of discovering mammoth teeth or other fossils in these Beringian lands.
+
+The Porcupine Caribou Herd thrive as they traverse their ancient routes to and from the calving grounds. With one of the longest terrestrial migrations in the world, Porcupine Caribou are at the cultural heart of existence for Vuntut Gwitchin, providing for many of their material and subsistence needs, as reaffirmed by the amazing engineering feats of the caribou fences.
+
+The Vuntut Gwitchin, North Yukon Renewable Resources Council, and Vuntut National Park staff understand the responsibility and honor that comes with being stewards of this land. Together, Traditional Knowledge holders and scientists strive to understand a changing landscape and share vital information for maintaining a balance to exist on and care for this land. Elders share their values and pass on their skills, empowering the youth of today to have a strong sense of belonging that is passed down to the grandchildren of tomorrow, continuing an adaptive and resilient way of life that has survived for thousands of years.
+
+## Key Strategies
+
+Four key strategies frame how the park will be managed over the next ten years. The strategies, and their corresponding objectives and targets, focus on achieving the park's vision through cooperative management. Yearly implementation updates will be provided to engage the Vuntut Gwitchin, key stakeholders and Canadians.
+
+### Key Strategy 1: Looking After the Water, Land and Animals for the Future
+
+The focus of this strategy is building and maintaining healthy ecosystems in the park, for present and future generations, by fostering a culture of stewardship. An ecologically strong park contributes to the health of the region as a whole and is resilient in the face of a changing climate. Parks Canada will continue to implement the park's ecological integrity monitoring program, while working collaboratively with Vuntut Gwitchin Government and North Yukon Renewable Resources Council to incorporate Traditional Knowledge and science into decision-making. The strategy also emphasizes the need to protect the Porcupine Caribou Herd. Porcupine Caribou migrate far beyond park boundaries, and it is a high priority to work collaboratively to conserve the population. Participation in the Porcupine Caribou Management Board and Porcupine Caribou Technical Committee is ongoing, along with collaboration with all other partners and stakeholders involved in Porcupine Caribou management. Together with other relevant agencies, Parks Canada will also continue to advocate the importance of protecting the Porcupine Caribou Herd's calving grounds.
+
+Effects of climate change, such as permafrost melting, altered fire regimes, draining lakes and changes to caribou habitat, are wide reaching and will impact human and ecosystem health as well as park resources. Over the next ten years, cooperative management partners need to better understand these impacts through documentation, knowledge transfer, new research partnerships, and vulnerability and risk assessments. Impacts of climate change will be considered and integrated in all aspects of park planning and management.
+
+#### Objective 1.1
+
+The ecological integrity of the park is maintained or improved.
+
+**Targets**
+
+- All ecological integrity measures for the tundra ecosystem (close to the mountains) will be rated in the next State of the Park Assessment.
+- The trend of the park ecological integrity measures are stable/improved in the next State of the Park Assessment.
+
+* * *
+
+#### Objective 1.2
+
+Collaborative management and planning leads to improved decision-making with regional partners to achieve mutually supported ecological integrity objectives.
+
+
+**Targets**
+
+- Cooperative management partners are satisfied that the decision-making within the protected area network is integrated, determined by consulting with cooperative management partners every year.
+- By 2030, all Vuntut National Park plans and regional plans will have mutually supported ecological integrity objectives.
+
+* * *
+
+#### Objective 1.3
+
+The health/size of the Porcupine Caribou Herd is maintained and sensitive habitats are protected.
+
+**Targets**
+
+- Parks Canada continues to work collaboratively with the Porcupine Caribou Management Board in implementing the Harvest Management Plan over the next ten years.
+- By 2030, the level of understanding of Porcupine Caribou summer habitat and use, and how they are changing, has increased from 2019 levels.
+
+* * *
+
+### Key Strategy 2: Living and Teaching a Traditional Lifestyle
+
+The focus of this strategy is to support a strong, enduring traditional Vuntut Gwitchin lifestyle, with Elders passing teachings and language to youth, both in the community and out on the land. Vuntut zit nan thok natr'ininn'aii is part of the Vuntut Gwitchin's homeland. The Vuntut Gwitchin have a long-term perspective on the health of the park based on generations of observations and on an understanding of species and habitats. Vuntut Gwitchin presence in the park is important not only for the continuance of their culture, but also for understanding changes that are occurring on the land and providing guidance for managing natural and cultural resources. Working with Vuntut Gwitchin Government, Parks Canada will continue to take every reasonable opportunity to support Vuntut Gwitchin, in particular youth and Elders, to spend time on the land, and to facilitate the sharing of knowledge.
+
+#### Objective 2.1
+
+Vuntut Gwitchin connections to the park are strengthened.
+
+**Targets**
+
+- By 2030, the number of opportunities for community members to share their knowledge in the park, facilitated by Parks Canada and Vuntut Gwitchin Government, have increased from 2019 levels.
+- With Parks Canada and Vuntut Gwitchin Government support, the number of cultural learning experiences in the Old Crow region, such as culture or harvest camps, continue to be maintained over the next ten years.
+
+* * *
+
+#### Objective 2.2
+
+Youth have a strong sense of belonging and are empowered to care for the park.
+
+**Targets**
+
+- By 2030, the number of youth engaged with the park has increased from 2019 levels; for example through youth camps, educational programs, or a Guardian Program.
+
+* * *
+
+#### Objective 2.3
+
+The cooperative management partners collaborate to meet obligations set out in the Final Agreement, contributing to the economic well-being of the community.
+
+**Targets**
+
+- Obligations set out in the _Vuntut Gwitchin First Nation Final Agreement_ related to economic benefits, such as employment, procurement and contracting opportunities, continue to be met over the next ten years.
+
+* * *
+
+### Key Strategy 3: Our Past Shapes Our Future
+
+The focus of this strategy is to honour the enduring human presence in Vuntut zit nan thok natr'ininn'aii, by further understanding and managing the park's cultural resources. The cultural sites of Vuntut National Park attest to Vuntut Gwitchin history and the peoples' enduring relationship with the land. These sites span thousands of years, from “early man” archaeological finds, which may be as much as 35,000 years old, to historic fishing and trapping camps used by many generations of the Vuntut Gwitchin.
+
+Parks Canada will continue to develop, with the cooperative management partners, the Van Tat Gwich'in Culture Indicators as part of the State of the Park Assessment process. These indicators reflect the human and cultural connection to Vuntut National Park, focussing on Van Tat Gwich'in oral history, cultural geography, cultural technology, navigation systems and language.
+
+The palaeontological resources found in the park are largely protected from human impact due to their inaccessibility. Parks Canada will continue to work with partners to share knowledge and understanding of these resources in the region.
+
+#### Objective 3.1
+
+Understanding and management of cultural and palaeontological resources found in the park are improved.
+
+**Targets**
+
+- By 2025, guidelines for visiting caribou fences, and other culturally sensitive sites, are developed.
+- By 2030, based on the 2014 _Cultural Resource Values Statement for Vuntut National Park_, cultural resource and palaeontological management priorities are defined.
+
+* * *
+
+### Key Strategy 4: Experiencing and Appreciating Vuntut Gwitchin Country
+
+The focus of this key strategy is to provide opportunities to learn about and experience Vuntut zit nan thok natr'ininn'aii, Vuntut Gwitchin history and Vuntut Gwitchin culture. Increasing the awareness of Vuntut zit nan thok natr'ininn'aii well beyond its boundaries, in the hearts and minds of Canadians and people around the world, is an essential part of this strategy. People who connect to the park will feel welcomed and will have a greater understanding and appreciation of the unique natural and cultural landscapes of Vuntut zit nan thok natr'ininn'aii. It will be important to continue to ensure that Vuntut Gwitchin rights within the park are recognized, protected, understood and supported by park staff, visitors and Canadians. The Vuntut Gwitchin are supported in actively sharing their stories and traditions about the park and the region with Canadians.
+
+#### Objective 4.1
+
+Tourism capacity in and around the community of Old Crow is enhanced.
+
+**Targets**
+
+- Tourism initiatives in and around the community of Old Crow are supported by Parks Canada, as guided by Vuntut Gwitchin Government over the next ten years.
+
+* * *
+
+#### Objective 4.2
+
+The possibility of developing new ways to experience the park is explored.
+
+**Targets**
+
+- By 2025, cooperative management partners work together to determine the feasibility of visitor opportunities and support their exploration.
+
+* * *
+
+#### Objective 4.3
+
+Awareness and understanding of Gwich'in culture, the value of the park's natural, cultural and palaeontological resources, and the park's role as a protected area increases amongst local community members and Canadians.
+
+**Targets**
+
+- By 2025, key stories related to the park's values and management shared with Canadians increase from 2019 levels.
+- By 2030, virtual reach has increased by 25 percent (through website, social media, videos and emerging technology) from 2019 levels.
+- Communications objectives around key values of the park, as outlined in the 2014 _Cultural Resources Values Statement for Vuntut National Park_ continue to be met over the next ten years.
+
+* * *
+
+## Zoning and Declared Wilderness Area
+
+### Zoning
+
+Zoning is an important management tool with ecological integrity as its primary consideration. Vuntut National Park's cooperative management partners use Parks Canada's zoning system to define where particular visitor use activities can occur, based on the ability of the land to support those activities, while ensuring that rare, sensitive ecological or cultural areas are protected. The zoning system does not impact subsistence use and resource harvesting rights of the Vuntut Gwitchin, using traditional and modern means.
+
+Parks Canada's national park zoning system is an integrated approach to the classification of land and water areas in a national park and designates where particular activities can occur on land or water, based on the ability to support those uses. The zoning system has five categories:
+
+- Zone I - Special Preservation
+- Zone II - Wilderness
+- Zone III - Natural Environment
+- Zone IV - Outdoor Recreation
+- Zone V - Park Services
+
+Three Parks Canada zones are applicable within Vuntut National Park [(Map 3)](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#m-3):
+
+- Zone I - Special Preservation
+- Zone II - Wilderness
+- Zone III - Natural Environment (winter months only)
+
+Zoning proposed in this draft plan has not changed since the 2010 management plan.
+
+#### Zone I - Special Preservation (0.5 percent)
+
+Zone I is the most protective category in the Parks Canada zoning system. Within Zone I areas, preservation is the primary concern and public use is controlled to protect especially important or fragile resources. This zone is applied to areas of the park that are among the best examples of the features that represent the natural region, or that support outstanding or rare natural or cultural features. In this zone no motorized access is permitted, including visitor air access. Natural features may be interpreted off site.
+
+The seven caribou fence complexes within the park are identified as Zone I areas, totalling less than one square kilometre (less than one percent of the park). Spot zoning ensures that the caribou fences and associated structures are protected, while enabling aircraft landings in nearby Zone II areas.
+
+![](https://pcweb2.azureedge.net/-/media/pn-np/yt/vuntut/WET4/info/gestion-management/map-3.jpg)
+Map 3: Vuntut National Park Zoning
+Map 3 - Text version
+
+This map identifies the various zones where particular visitor use activities can occur in Vuntut National Park. The zoning system does not impact subsistence use and resource harvesting rights of the Vuntut Gwitchin, using traditional and modern means. The map contains a legend to the bottom right of the map with a 0 to 20 km scale.
+
+The cooperative management partners identified three zones for the park:
+Zone I Special Preservation to protect the seven caribou fences located in the western, central and eastern part of the park; Zone II Wilderness that makes up the vast majority of land within the park; and Zone III Natural Environment located in the southeast portion of the park, which is a temporary zone in the winter months where the only motorized activities permitted for visitors are guided commercial snowmobile trips and snowmobile-supported commercial dog sled trips, led by Vuntut Gwitchin citizens, as per the Final Agreement. The map also identifies the declared Wilderness Area of the park in the area north of Old Crow Flats.
+
+#### Zone II - Wilderness (99 percent \[77 percent in winter months\])
+
+Zone II contains extensive areas that protect representative natural landscapes and are conserved in a wilderness state. The perpetuation of ecosystems with minimal human interference is the key consideration. Visitor experiences are focused on self-propelled activities. Motorized use is generally not permitted, although strictly controlled air access is authorized in remote northern parks like Vuntut National Park.
+
+The vast majority of the park is classified as Zone II, encompassing 4,344 square kilometres (approximately 99 percent of the park).
+
+#### Zone III - Natural Environment (22.5 percent in winter months)
+
+Zone III areas are managed as natural environments that are capable of supporting a range of visitor experiences. These areas enable visitors to enjoy and learn about the park's natural and cultural features through outdoor recreational and educational activities requiring minimal facilities and services. Limited motorized access is permitted.
+
+There is a temporal Zone III area in the southeast portion of the park (Map 3), used during the winter months when the lakes in Old Crow Flats are frozen and waterfowl are absent. The only motorized activities permitted are guided commercial snowmobile trips and snowmobile-supported commercial dog sled trips, led by Vuntut Gwitchin citizens, as per the Final Agreement. This zone encompasses 993 square kilometres (approximately 23 percent of the park).
+
+### Wilderness Area Declaration
+
+In 2009, the area north of Old Crow Flats was declared a Wilderness Area, encompassing 3,352 square kilometres (77 percent of the park) as illustrated on [Map 3](https://parks.canada.ca/pn-np/yt/vuntut/gestion-management/consultation/plan#m-3).
+
+Wilderness areas are legally designated lands within national parks that are found in a natural state or are capable of returning to a natural state. The intent of wilderness declaration is to assist in ensuring a high level of ecological integrity by preventing activities likely to impair wilderness character and to maintain its wilderness character in perpetuity. The designation is the highest degree of assurance that development and uses inconsistent with wilderness character will not occur. Only those facilities and activities required for essential services and the protection of park resources will be permitted in declared wilderness areas.
+
+## Summary of Strategic Environmental Assessment
+
+All national park management plans are assessed through a strategic environmental assessment to understand the potential for cumulative effects. This understanding contributes to evidence-based decision-making that supports ecological integrity being maintained or restored over the life of the plan. The strategic environmental assessment for the management plan for Vuntut National Park considered the potential impacts of climate change, local and regional activities around the park, and proposals within the plan. The strategic environmental assessment assessed the potential impacts on different aspects of the ecosystem, including caribou, tundra and wetland ecosystems, and species at risk.
+
+The park's natural environment is in good condition, though climate change and development outside of the park boundaries may cause impacts. The management plan includes strategies to understand these potential impacts including:
+
+- Research conducted by Parks Canada, together with the Government of Yukon, academic institutions, and Vuntut Gwitchin, to understand the impacts of different stressors on the park;
+- Working with these partners to use both Traditional Knowledge and western science to increase understanding of the natural and cultural resources of the park and the area around it;
+- Working with Vuntut Gwitchin Government and North Yukon Renewable Resources Council to strengthen regional interests and improve relations and strengthen community members' connections to the park;
+- Work with these partners to meet operational requirements and management needs.
+
+Indigenous partners, stakeholders and the public will be consulted on the draft management plan and summary of the strategic environmental assessment. Feedback will be considered and incorporated into the strategic environmental assessment and management plan as appropriate.
+
+The SEA was conducted in accordance with The Cabinet Directive on the Environmental Assessment of Policy, Plan and Program Proposals (2010) and facilitated an evaluation of how the management plan contributed to the Federal Sustainable Development Strategy. Individual projects undertaken to implement management plan objectives at the site will be evaluated to determine if an impact assessment is required under the _Impact Assessment Act_, or successor legislation. The Management Plan supports the Federal Sustainable Development Strategy goals of Sustainably Managed Lands and Forests, Healthy Wildlife Populations, Connecting Canadians with Nature, and Safe and Healthy Communities.
+
+Positive environmental effects are expected and there are no important negative environmental effects anticipated from implementation of this management plan.
+
+Date modified : 2023-07-31

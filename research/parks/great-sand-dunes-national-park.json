@@ -1,0 +1,34 @@
+{
+ "id": "great-sand-dunes-national-park",
+ "name": "Great Sand Dunes National Park and Preserve",
+ "policy": "trails",
+ "policyReason": "Leashed pets may use the main use areas, Dunes Overlook and Mosca Pass trails and the Preserve, not the backcountry.",
+ "summary": "Leashed pets may use the main use areas, Dunes Overlook and Mosca Pass trails and the Preserve, not the backcountry.",
+ "excerpts": [
+  {
+   "quote": "Great Sand Dunes National Park and Preserve is unique in that most popular outdoor areas allow pets as long as they are on a leash at all times.",
+   "url": "https://www.nps.gov/grsa/planyourvisit/index.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed in the Preserve, Piñon Flats Campground, Dunes Overlook Trail and Medano Pass Primitive Road.",
+   "url": "https://www.nps.gov/grsa/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not in the national park backcountry or wilderness.",
+   "url": "https://www.nps.gov/grsa/planyourvisit/horse-and-pack-animal-use.htm?hc_location=ufi"
+  },
+  {
+   "text": "Leash of 6 ft or less everywhere.",
+   "url": "https://www.nps.gov/grsa/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/grsa",
+ "petsUrl": "https://www.nps.gov/grsa/planyourvisit/pets.htm",
+ "coordinates": [
+  -105.512222222,
+  37.732777777
+ ],
+ "coordinatesSource": "Wikidata Q609097"
+}

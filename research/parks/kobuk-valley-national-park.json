@@ -1,0 +1,34 @@
+{
+ "id": "kobuk-valley-national-park",
+ "name": "Kobuk Valley National Park",
+ "policy": "everywhere",
+ "policyReason": "Western Arctic National Parklands' compendium (which covers Kobuk Valley) closes no areas to pets; they must be leashed or restrained.",
+ "summary": "No areas are closed to pets; keep them leashed or restrained at all times.",
+ "excerpts": [
+  {
+   "quote": "No designated areas.  Pets must be leashed or physically restrained at all times.",
+   "url": "https://www.nps.gov/locations/alaska/upload/2026-WEAR-Superintendent-s-Compendium-508.pdf"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets must be leashed or physically restrained at all times.",
+   "url": "https://www.nps.gov/locations/alaska/upload/2026-WEAR-Superintendent-s-Compendium-508.pdf"
+  },
+  {
+   "text": "Sled dogs used for transportation may be left unattended up to 24 hours with shelter, food and water; other pets may not be left unattended.",
+   "url": "https://www.nps.gov/locations/alaska/upload/2026-WEAR-Superintendent-s-Compendium-508.pdf"
+  },
+  {
+   "text": "Dispose of pet waste as the compendium directs.",
+   "url": "https://www.nps.gov/locations/alaska/upload/2026-WEAR-Superintendent-s-Compendium-508.pdf"
+  }
+ ],
+ "officialUrl": "https://nps.gov/kova",
+ "petsUrl": null,
+ "coordinates": [
+  -159.19889,
+  67.35336
+ ],
+ "coordinatesSource": "Wikidata Q836264"
+}

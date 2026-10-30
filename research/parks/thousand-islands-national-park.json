@@ -1,0 +1,38 @@
+{
+ "id": "thousand-islands-national-park",
+ "name": "Thousand Islands National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs can hike the trails and stay at 61 pet-friendly island campsites.",
+ "summary": "Leashed dogs can hike the trails and stay at 61 pet-friendly island campsites.",
+ "excerpts": [
+  {
+   "quote": "Got your own boat? Then set sail on an island adventure and stay at one of 61 pet-friendly campsites across the park’s 20 islands.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  },
+  {
+   "quote": "Keeping your dog on a leash protects both your dog and any other animal that you may encounter.",
+   "url": "https://www.pc.gc.ca/en/pn-np/on/1000/activ/randon-hike"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Keep dogs leashed on trails.",
+   "url": "https://www.pc.gc.ca/en/pn-np/on/1000/activ/randon-hike"
+  },
+  {
+   "text": "Pet-friendly oTENTiks 3B and 3E at Mallorytown Landing; 61 pet-friendly island campsites.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  },
+  {
+   "text": "Ticks are common; check yourself and pets.",
+   "url": "https://www.pc.gc.ca/en/pn-np/on/1000/activ/randon-hike"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/fr/pn-np/on/1000",
+ "petsUrl": "https://www.pc.gc.ca/en/pn-np/on/1000/activ/randon-hike",
+ "coordinates": [
+  -75.955,
+  44.3525
+ ],
+ "coordinatesSource": "Wikidata Q636823"
+}

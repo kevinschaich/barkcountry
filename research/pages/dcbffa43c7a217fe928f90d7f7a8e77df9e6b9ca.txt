@@ -1,0 +1,1084 @@
+##### TABLE OF CONTENTS
+
+**Chapter 1 Purpose and Need for Action ........................................................................................... 1-1**
+Changes from Draft to Final.............................................................................................................................. 1-1
+Introduction......................................................................................................................................................... 1-1
+The Planning Units ............................................................................................................................................. 1-2
+*Dakota Prairie Grasslands:................................................................................................................................ 1-3*
+Cedar and Grand River National Grasslands ......................................................................................... 1-3
+Little Missouri National Grassland .......................................................................................................... 1-3
+Sheyenne National Grassland ................................................................................................................... 1-3
+*Medicine Bow-Routt National Forest Unit:...................................................................................................... 1-4*
+Thunder Basin National Grassland .......................................................................................................... 1-4
+*Nebraska National Forest Units:....................................................................................................................... 1-4*
+Nebraska National Forest (Bessey Ranger District) and Samuel R. McKelvie National Forest....... 1-4
+Buffalo Gap National Grassland............................................................................................................... 1-5
+Fort Pierre National Grassland ................................................................................................................. 1-5
+Nebraska National Forest (Pine Ridge Ranger District)........................................................................ 1-5
+Oglala National Grassland ........................................................................................................................ 1-6
+Purpose of and Need for the Decision ............................................................................................................. 1-6
+*Basis and Reasons for Planning ........................................................................................................................ 1-6*
+*Regulatory Basis for Planning .......................................................................................................................... 1-6*
+*Managerial Reasons for Revising Existing Plans ............................................................................................. 1-7*
+Decisions Made with a Management Plan ...................................................................................................... 1-9
+*Plan Versus Project Decision-making............................................................................................................... 1-9*
+*Staged Decision-making .................................................................................................................................. 1-10*
+Major Revision Topics...................................................................................................................................... 1-11
+*Community and Lifestyle Relationships.......................................................................................................... 1-11*
+*Livestock Grazing ............................................................................................................................................ 1-12*
+*Oil and Gas Leasing ........................................................................................................................................ 1-13*
+*Plant and Animal Damage Control................................................................................................................. 1-14*
+*Rangeland and Forest Health .......................................................................................................................... 1-15*
+*Recreation and Travel Management ............................................................................................................... 1-18*
+*Special Area Designations............................................................................................................................... 1-19*
+Other Topics ...................................................................................................................................................... 1-20
+Other Topics Raised But Not Addressed ...................................................................................................... 1-20
+
+---
+
+Chapter 1
+
+---
+
+**Chapter 1  Purpose and Need for Action**
+
+## Changes from Draft to Final
+
+Changes in Chapter I of this Final EIS (from the Draft EIS) include expanding the Purpose and 
+Need for Change section, bringing forward into the FEIS information from a 1996 document 
+prepared by the Forest and Grassland Supervisors on the Purpose and Need for Change 
+(located in the administrative record).
+
+## Introduction
+
+The Northern Great Plains Management Plans Revision is a combined planning effort by the 
+Dakota Prairie Grasslands and the Medicine Bow-Routt and Nebraska National Forests. This 
+revision process affects the following national grassland and national forest units:
+
+**Dakota Prairie Grasslands Units**
+
+• Cedar River National Grassland
+
+• Grand River National Grassland
+
+• Little Missouri National Grassland
+
+• Sheyenne National Grassland
+
+###### Medicine Bow-Routt National Forest Unit
+
+• Thunder Basin National Grassland
+
+**Nebraska National Forest Units**
+
+• Buffalo Gap National Grassland
+
+• Fort Pierre National Grassland
+
+• Oglala National Grassland
+
+• Samuel R. McKelvie National Forest
+
+• Nebraska National Forest
+
+Land and resource management plans (management plans) currently direct management of the 
+national forest and national grassland units. Issuance of these plans occurred June 10, 1987, for 
+the Custer National Forest (which includes the Dakota Prairie Grasslands); November 20, 1985, 
+for the Medicine Bow National Forest; and December 14, 1984, for the Nebraska National Forest.  
+Other National Forest System units under the administration of the Medicine Bow-Routt 
+National Forests that are not listed above are addressed in other planning efforts.
+
+**_1-1_**
+
+---
+
+Revision of management plans is directed by the National Forest Management Act (NFMA), 
+regulations 36 Code Federal Regulations (CFR) 219 and the Forest Service Directives System 
+(*Forest Service Handbook* 1909.12). The instructions for revising management plans found in the 
+*Code of Federal Regulations* (36 CFR 219.10[g]) state:
+
+A forest [and grassland] plan shall ordinarily be revised on a 10-year cycle or at least 
+every 15 years. It also may be revised whenever the Forest Supervisor determines 
+that conditions or demands in the area covered by the plan have changed 
+significantly or when changes in RPA [Forest and Rangeland Renewable Resources 
+Planning Act] policies, goals or objectives would have a significant effect on forest 
+level programs. In the monitoring and evaluation process, the interdisciplinary team 
+may recommend a revision of the forest plan at any time. Revisions are not effective 
+until considered and approved in accordance with the requirements for the 
+development and approval of a forest [or grassland] plan. The Forest Supervisor 
+shall review the conditions on the land covered by the plan at least every 5 years to 
+determine whether conditions or demands of the public have changed significantly.
+
+The existing management plans are all more than 10 years old. After study and consultation 
+with the Forest Service interdisciplinary planning team (ID team) and the public, the three 
+forest supervisors determined that extensive changes had taken place since implementation of 
+the existing management plans. Therefore, these plans are being revised.  Three proposed 
+revised management plans (one for each participating administrative unit) and one Draft 
+Environmental Impact Statement (DEIS) describing environmental effects for all three 
+management plans have been prepared and are available for public review.
+
+## The Planning Units
+
+The planning units under study lie quite distant from each other (see map on inside cover), 
+from eastern North Dakota to eastern Wyoming and from northwestern North Dakota to 
+northwestern and central Nebraska. The table below lists the names of the units and the states 
+and counties in which they are located.
+
+**Table 1-1.  Units Under Review, Affected Counties, and Approximate Federal Surface Acres of Each** 
+<u><strong>Unit.</strong></u>
+
+| Unit | Affected Counties | Acres |
+| --- | --- | --- |
+| Dakota Prairie Grasslands Administrative Unit |  |  |
+| Planning Units |  |  |
+| Cedar River National Grassland | Grant and Sioux Counties, North Dakota | 6,800 |
+| Grand River National Grassland | Corson, Ziebach and Perkins Counties, South Dakota | 154,200 |
+| Little Missouri National Grassland | Billings, Dunn, Golden Valley, McKenzie and Slope Counties, North Dakota | 1,026,000 |
+| Sheyenne National Grassland | Ransom and Richland Counties, North Dakota | 70,300 |
+| Medicine Bow-Routt National Forest Administrative Unit |  |  |
+| Planning Unit |  |  |
+| Thunder Basin National Grassland | Campbell, Converse, Crook, Niobrara, Weston Counties, Wyoming | 553,300 |
+
+**_1-2_**
+
+---
+
+| Unit | Affected Counties | Acres |
+| --- | --- | --- |
+| Nebraska National Forest Administrative Unit Planning Units |  |  |
+| Bessey Ranger District | Blaine and Thomas Counties, Nebraska | 90,200 |
+| Buffalo Gap National Grassland | Custer, Fall River, Jackson and Pennington Counties, South Dakota | 589,200 |
+| Fort Pierre National Grassland | Jones, Lyman and Stanley Counties, South Dakota | 116,100 |
+| Samuel R. McKelvie National Forest | Cherry County, Nebraska | 116,100 |
+| Oglala National Grassland | Dawes and Sioux Counties, Nebraska | 94,200 |
+| Pine Ridge Ranger District | Dawes and Sioux Counties, Nebraska | 50,500 |
+
+### Dakota Prairie Grasslands:
+
+#### Cedar and Grand River National Grasslands
+
+Located in Grant and Sioux Counties of North Dakota, the Cedar River National Grassland is a 
+6,800-acre tract of mixed-grass prairie on rolling hills, intersected by streams and dry gullies. 
+Most of this unit lies within the boundaries of the Standing Rock Indian Reservation. The 
+Grassland is administered by the Grand River/Cedar River Ranger District, Lemmon, South 
+Dakota.  The Cedar River National Grassland is managed for multiple purposes, including 
+livestock grazing. The last significant buffalo hunt occurred near the grassland in 1883, when a 
+group of Sioux and whites harvested about 10,000 head.
+
+Located in Perkins, Ziebach, and Corson Counties of South Dakota, the Grand River National 
+Grassland contains more than 154,200 acres and is administered by the Grand River/Cedar 
+River Ranger District, Lemmon, South Dakota. Mixed-grass vegetation rises from its rolling 
+landscape. The unit is home to pronghorn and mule and white-tailed deer. Nearby Shadehill 
+Reservoir provides good fishing, camping and boating recreation.
+
+#### Little Missouri National Grassland
+
+The Little Missouri National Grassland, at more than a million acres, is the largest national 
+grassland in the nation. This mixed-grass prairie found in badlands topography is located in 
+McKenzie, Billings, Slope, and Golden Valley Counties in western North Dakota. The Grassland 
+is administered by the McKenzie Ranger District, Watford City, North Dakota, and the Medora 
+Ranger District, Dickinson, North Dakota.
+
+The Little Missouri is home to a great variety of wildlife, including bighorn sheep, eagles and 
+falcons, prairie dogs, and pronghorn antelope. Oil and gas production and livestock grazing are 
+important on this unit, as are opportunities for remote roadless experiences.
+
+#### Sheyenne National Grassland
+
+The more than 70,300 acres of the Sheyenne National Grassland consists of tallgrass prairie, oak 
+savanna, and river woodlands in southeastern North Dakota, including parts of Ransom and 
+Richland Counties. This unit is administered by the Sheyenne Ranger District in Lisbon, North 
+Dakota.
+
+**_1-3_**
+
+---
+
+The Sheyenne National Grassland is home to occasional moose, white-tailed deer, sharp-tailed 
+grouse, prairie chickens and a wide variety of other plants and animals, many of them rare. The 
+western prairie fringed orchid is listed as a threatened plant. Several butterflies that find home 
+on this unit are also of concern. There are many natural sandy blow-outs on this grassland, 
+which is surrounded by intensive cultivation. This large contiguous tallgrass prairie unit is 
+particularly significant since tallgrass is so rare on the Great Plains.
+
+### Medicine Bow-Routt National Forest Unit:
+
+#### Thunder Basin National Grassland
+
+The Thunder Basin National Grassland is located in northeastern Wyoming and occupies about 
+553,300 acres of land among a mosaic of state, federal, and private lands. These lands generally 
+lie between Douglas on the south, Newcastle on the east, to the Montana border on the north, 
+and Wright on the west. This unit is administered by the Douglas Ranger District, Douglas, 
+Wyoming.
+
+The Thunder Basin National Grassland is a blend of mixed-grass grassland, sagebrush 
+grassland, cottonwood, greasewood, and ponderosa pine/juniper vegetation, within rolling 
+plains, escarpment, dissected plains, and shale upland landscapes. The grassland is home to 
+pronghorn, prairie elk, and prairie dogs. A great deal of coal is also mined on the grassland, 
+including the largest coal strip-mine operation in the nation, located near Gillette.
+
+### Nebraska National Forest Units:
+
+#### Nebraska National Forest (Bessey Ranger District) and Samuel R. McKelvie National Forest
+
+About 90,200 acres of Sandhills country make up the Halsey unit of the Bessey Ranger District, 
+located in central Nebraska in Thomas and Blaine Counties. This area is named after Dr. Charles 
+E. Bessey.  Bessey convinced the federal government to plant pine and other tree species in the 
+treeless Sandhills.  Beginning in 1902, work began in establishing a nursery and hand-planting a 
+forest across the shifting dunes and grasslands of central Nebraska. The Bessey Tree Nursery is 
+located within the unit and is administered separately from the Bessey Ranger District, Halsey, 
+Nebraska.
+
+Named for former Nebraska governor and cattleman S.R. McKelvie, the 116,100-acre Samuel R. 
+McKelvie National Forest, administered by the Bessey Ranger District, lies in the Sandhills of 
+north central Nebraska in Cherry County. Elevation rises to about 3,200 feet, and the 
+topography consists of low rolling hills, ridges, and grass-covered dunes. The unit is 
+administered by the Bessey Ranger District.  Located in the Nebraska Sandhills, the unit 
+historically contained mixed-grass prairie. Significant tree planting after the turn of the century 
+provided a blend of grasslands and plantation forests of mainly ponderosa pine. The unit is 
+home to sharp-tailed grouse and raptors.
+
+**_1-4_**
+
+---
+
+#### Buffalo Gap National Grassland
+
+The Buffalo Gap National Grassland is located in southwestern South Dakota and includes 
+more than 589,000 acres of land that borders and is intermingled with private, state, Indian 
+reservation, and national park lands. The eastern half of this unit extends from near Kadoka, 
+South Dakota on the east, to the Cheyenne River on the west, north to U.S. Highway 14, and 
+south to the Pine Ridge Indian Reservation. The Wall Ranger District, Wall, South Dakota, 
+administers the eastern half. The western half extends from the Cheyenne River on the east to 
+the Wyoming and Nebraska borders on the west and south, respectively. The Fall River Ranger 
+District, Hot Springs, South Dakota, administers the western half.
+
+The Buffalo Gap National Grassland contains mixed-grass vegetation. The landscape includes 
+rolling prairie and badlands topography. The unit is home to many wildlife species, such as 
+pronghorn antelope, both mule and white-tailed deer, and prairie dogs. Currently, black-footed 
+ferrets are being reintroduced into Conata Basin. Sizable beds of agates and vertebrate and 
+invertebrate fossils can be found on the grassland.
+
+In addition, the National Grassland Visitor Center is located in Wall, South Dakota. The center 
+is administered by the Wall Ranger District.  It focuses on interpretation of the Great Plains and 
+offers information on the country's national grasslands. The Center features more than 20 
+exhibits.
+
+#### Fort Pierre National Grassland
+
+The Fort Pierre National Grassland includes more than 116,000 acres of federal land. It lies 
+south of Pierre, South Dakota, north of Interstate 90, and west of the Lower Brule Indian 
+Reservation. This unit is administered by the Fort Pierre National Grassland, Pierre, South 
+Dakota.
+
+The Fort Pierre National Grassland consists of mixed-grass vegetation on a rolling hill 
+landscape just west of the Missouri River. The grassland is home to many species of wildlife 
+including prairie chicken, sharp-tailed grouse, antelope, mule and white-tailed deer, and 
+waterfowl.
+
+#### Nebraska National Forest (Pine Ridge Ranger District)
+
+These lands are in Dawes and Sioux Counties of northwestern Nebraska. Included are the Pine 
+Ridge Ranger District at about 50,500 acres, with the Soldier Creek Wilderness at about 7,800 
+acres. The Pine Ridge Job Corps Center is also located in this district, although it is administered 
+separately.  Elevations rise to 5,000 feet along ridges of ponderosa pine.  The unit is 
+administered by the Pine Ridge Ranger District, Chadron, Nebraska.
+
+The Pine Ridge Ranger District area is a popular outdoor destination. Its pine forests and 
+rugged sandstone terrain, rising from the surrounding plains, provide a scenic backdrop for a 
+number of recreational activities.
+
+**_1-5_**
+
+---
+
+#### Oglala National Grassland
+
+The 94,200-acre Oglala National Grassland lies in Dawes and Sioux Counties of northwestern 
+Nebraska. Topography consists of rolling hills and badlands country. The grassland is 
+administered by the Pine Ridge Ranger District, Chadron, Nebraska. The grassland contains 
+mixed-grass vegetation and is home to prairie dogs, pronghorn, mule deer, raptors, and a 
+variety of ground-nesting birds and reptiles.
+
+## Purpose of and Need for the Decision
+
+This section describes the purpose and need to revise the Management Plans for these National 
+Forest and Grassland units and establishes the need for change.
+
+The purpose of revising the Management Plans is to develop and implement a science-based, 
+ecosystem-management strategy for these National Forest System lands.  The strategy will 
+enable these lands to move where needed from current conditions to more ecologically 
+sustainable and socially desirable future conditions, leaving options available to future 
+generations.
+
+The decisions to be made will provide an ecological context to the Management Plans and will 
+help clarify the relationship of management activities to the capability of ecosystems, develop 
+realistic expectations for the production of goods and services, sustain ecosystems by ensuring 
+their health, diversity, and productivity, and integrate ecological, economic, and social factors in 
+order to maintain and enhance the quality of the environment to meet current and future needs.
+
+### Basis and Reasons for Planning
+
+Long-range planning is a prudent management action and also required by law.  The following 
+sections discuss the regulatory basis and managerial reasons for the need to revise the 
+Management Plans.
+
+### Regulatory Basis for Planning
+
+Congress recognized that public desires and demands for products and services, and physical, 
+biological and social environments change through time.  The National Forest Management Act, 
+passed by Congress in 1976, requires that the Management Plans be reviewed and, in most 
+cases, revised every 10-15 years to respond to changed conditions.  The current Management 
+Plans for these National Forest System lands were approved on June 10, 1987 for the Custer 
+National Forest which included the grassland units of the Dakota Prairie Grasslands, November 
+20, 1985 for the Medicine Bow National Forest which included the Thunder Basin National 
+Grassland, and December 14, 1984 for the Nebraska National Forest.
+
+**_1-6_**
+
+---
+
+### Managerial Reasons for Revising Existing Plans
+
+###### What We Have Learned in the Last Decade
+
+Over a decade has lapsed since the current Management Plans were approved.  Implementation 
+of these Plans has shown us the need for changes in management direction for some resources 
+or programs on these ten grassland units.  Several sources have led us to believe we have a need 
+to change our current Management Plans through revision.  New issues and changing public 
+values have been identified through public interaction.  New information and knowledge has 
+been gained through scientific research and effectiveness monitoring.  Management concerns 
+have been derived through implementation experience of the current plans.  And, a decade of 
+experience in implementing current Management Plans has provided insight into relationships 
+between prairie vegetation and other resources and better ways of accomplishing desired 
+outcomes.
+
+###### Sources of Information for the Need for Change
+
+The need for revision of current Management Plans comes out more than a decade of 
+experience in implementing the current Plans.  Monitoring and evaluation of implementation 
+has helped us identify management concerns, new issues, new information, and better ways to 
+achieve goals and objectives to meet public desires.  The need for revision also comes from our 
+understanding of new public issues, desires, and expectations for public land and resource 
+management.  Revision will help us better address the issues and demands of people today.  
+Finally, some parts of the need for revision are based on updated ecological and socio-economic 
+inventories and assessments and on new research.
+
+To summarize, the major sources used to identify the need for change were:
+
+• Experiences in implementing the Management Plans and working with the public;
+
+• Public involvement in implementing projects;
+
+• Need for Management Plan amendments as a result of implementing projects;
+
+• Monitoring the effects of implementation;
+
+• Understanding cumulative effects from implementing projects;
+
+• Issues raised in routine communication with the public and in appeals and litigation;
+
+• Knowledge gained from research on prairie ecosystems;
+
+• Discussions with employees;
+
+• Coordination and input from other federal agencies, state agencies, and partners;
+
+• Public feedback on values for these National Forest and Grassland units;
+
+• Results of assessments.
+
+**_1-7_**
+
+---
+
+Some of this information is a product of research, other information has resulted from changes 
+in technology which allow us to look at larger areas and understand the context and importance 
+of the lands we manage.  Scientific understanding of grassland/prairie ecosystems has also seen 
+marked changes during the last decades.  Early research frequently reflected a commodity 
+production emphasis.  Ecosystem-based research produced over the last decade is changing our 
+understanding of these ecosystems and the importance of public lands in the Northern Great 
+Plains.
+
+Over a decade of experience in implementing these plans has identified some areas that should 
+be changed in our Plans and others that need reinforcement.  We have identified new 
+management concerns that come from gaining new information.  We have identified better 
+ways of accomplishing desired conditions.  Monitoring reports for each of the National Forests 
+administering Grassland units all identify changes that should be made in the Management 
+Plans.
+
+Since the early to mid-1980s, the prairie ecosystem has developed some new constituencies who 
+are requesting a different focus for management of these public lands within the Great Plains.  
+They are asking that we address some different issues and uses in revising our Management 
+Plans.  Appeals and litigation of resource decisions implementing the Plans are also an 
+important source of information.  While the overall number of appeals in proportion to resource 
+decisions is low, there has been a marked increase in appeal and litigation activity.  This 
+increase, in some part, reflects a change in constituencies that are interested in grassland and 
+forest management and the resources of the National Grasslands and Forests.
+
+###### General Purpose of Revision
+
+We are undertaking Management Plan revision to provide direction that will:
+
+• Provide goods and services to people,
+
+• Involve people and communities, and
+
+• Sustain ecosystem functions.
+
+Congress understood that resource conditions and human values change over time—public 
+issues, demand for products and services, and our understanding of physical, biological and 
+social environments change through time.  Congress believed that planning helps us define 
+desired conditions and set a course to achieve those conditions.
+
+We must adjust our long-term direction in response to new information, technology, and 
+demands.  We revise and update Management Plans to restore and sustain ecosystems, and to 
+identify stable, long-term resource outputs to benefit people.
+
+Based on the information sources identified earlier, we have determined that the combined 
+effect of the needed changes demand immediate attention through Management Plan revision.  
+The following discussion articulates the identified need for change--need for management plan 
+revisions—on these national grasslands and forests.
+
+**_1-8_**
+
+---
+
+## Decisions Made with a Management Plan
+
+Management plans establish key decisions for the long-term management of affected National 
+Forest System lands. These decisions include:
+
+• Establishment of grassland-wide and forest-wide multiple use goals and objectives (36 
+CFR 219.11).
+
+• Establishment of grassland-wide and forest-wide management requirements (standards 
+and guidelines) to fulfill the requirements of 16 USC 1604 (The National Forest 
+Management Act) applying to the future activities (resource integration requirements 36 
+CFR 219.13 to 219.27).
+
+• Establishment of management areas and direction applying to future activities in that 
+management area [resource integration and minimum, specific, management 
+requirements [36 CFR 219.11 (c)].
+
+• Determination of the capability and potential suitability of lands for producing forage 
+for grazing animals and for providing habitat for management indicator species (36 CFR 
+219.20), designation of lands not suitable for timber production and, where applicable, 
+establishment of allowable timber sale quantity (36 CFR 219.14, 219.15, and 219.21).
+
+• Establishment of monitoring and evaluation requirements [36 CFR 219.11 (d)].
+
+• Recommendation to Congress for Wilderness classification where 36 CFR 219.17 applies.
+
+• Establishment of rivers eligible for Wild and Scenic River consideration and 
+recommendation to Congress of suitable rivers for inclusion into the Wild and Scenic 
+River System (16 USC 1271-1287, 36 CFR 297, and 47 FR 39454, Sept. 7, 1982), in 
+cooperation with the National Park Service.
+
+### Plan Versus Project Decision-making
+
+Forest Plans set out management area prescriptions with standards and guidelines for future 
+decision-making and are adjustable through monitoring and evaluation, amendment and 
+revision.  The Land and Resource Management Plan management area prescriptions and forest 
+and grassland wide direction are the “zoning ordinances” under which future decisions are 
+made.  Forest Plans establish multiple-use goals and objectives for the planning unit.  Plan level 
+actions are approval (16 USC 1604(d) and (j), amendment (16 USC 1604(f)(4)) and revision (16 
+USC 1604(f)(5)).  Project decisions are not authorized, carried out or funded by Forest Plan 
+approval, amendments or revisions except as specifically authorized in the Record of Decision 
+or Decision Notice.
+
+**_1-9_**
+
+---
+
+### Staged Decision-making
+
+The Land and Resource Management Plans' Records of Decision, signed by the Regional 
+Foresters, will set a course of action for management of the Dakota Prairie Grasslands, Thunder 
+Basin National Grassland, and the Nebraska National Forest units for the next 10 to 15 years.  
+The adoption of Land and Resource Management Plans makes key decisions for the long-term 
+management of the National Forest and National Grassland units.
+
+The Forest Service Planning Handbook (FSH 1909.12) provide for systematic stepping down 
+from the overall direction provided in the Land and Resource Management Plan when making 
+project-level decisions:
+
+“Planning for units of the National Forest System involves two levels of 
+decisions.  The first is the development of a Forest Plan that provides direction 
+for all resource management programs, practices, uses, and protection measures.  
+The second level of planning involves the analysis and implementation of 
+management practices designed to achieve the goals and objectives of the Forest 
+Plan.  This level involves site-specific analysis to meet NEPA requirements for 
+decision-making.  FSM 1922, 53 Fed. Reg. 26807, 26809 (July 15, 1988).”
+
+However, environmental analysis will still need to occur for specific project-level activities that 
+carry out the direction in the Plan.  A good example of this is travel management.  The Land 
+and Resource Management Plan contains direction to restrict travel to existing roads and trails, 
+but a site-specific analysis and decision will have to be made for each area to determine which 
+travelways should be closed or left open.  This process is called “staged decision-making”
+because a series of decisions will be necessary to carry out projects as specific details, locations, 
+and conditions become more apparent.  For example, a proposed wildlife habitat project using 
+prescribed fire would require additional environmental analysis to discuss the site-specific 
+effects of the proposals.
+
+The authorization of project-level activities within the planning area occurs through project 
+decision-making, the second stage of forest and grassland planning. Project-level decisions must 
+comply with National Environmental Policy Act (NEPA) procedures and must include a 
+determination that the project is consistent with a management plan.
+
+In addition to the management plan decisions listed above, oil and gas leasing decisions will be 
+made, where applicable.  These decisions include determination of lands administratively 
+available for leasing under specified conditions (lease stipulations) and the leasing decision for 
+specific lands [36 CFR 228.102 (d) and (e)]. Where applicable, the Bureau of Land Management 
+(BLM) will issue a decision document on leasing for federal minerals, both under Forest Service 
+administered surface and under private surface.
+
+In regard to oil and gas leasing, BLM is responsible for advertising, selling, and issuing leases 
+on NFS lands.  The BLM, acting for the Secretary of the Interior, may issue leases on National 
+Forest System lands determined to be available with specified conditions (lease stipulations) 
+and authorized for leasing in the applicable Forest Service and BLM decision documents.  
+Leases issued in authorized areas after the effective date of the plan will include the standard 
+terms placed on all federal oil and gas leases, will include standard Forest Service notices 
+attached to all leases on Forest Service administered lands, and may include special stipulations 
+designed to protect surface resources.  The BLM will decide whether or not to offer for lease the
+
+**_1-10_** specific lands made available and authorized by the Forest Service and whether or not to lease 
+split-estate lands (non-federal lands with federal mineral ownership) within the National Forest 
+System unit boundaries being reviewed for oil and gas leasing.  The BLM will also make a 
+decision on attaching stipulations recommended by the Forest Service on split-estate lands.
+
+## Major Revision Topics
+
+Major revision topics are those for which changes in resource conditions, technical knowledge, 
+data improvement, or public opinion of national forest and national grassland resource 
+management have created a need for change in the management plans.  Changes generally are 
+important enough to affect large areas, change the mix of goods and services produced, and 
+involve choices in management direction where there is no public consensus on the best course 
+of action.
+
+Regulations found at 36 CFR 219.12 (b) require forest supervisors to determine the major public 
+issues, management concerns, and resource use and development opportunities to be addressed 
+in the planning process. The combined effect of the needed changes demand attention through 
+plan revision. The seven major revision topics described below influenced the decision to revise 
+the plans and represent the major issues addressed in this document.
+
+• Community and Lifestyle Relationships
+
+• Livestock Grazing
+
+• Oil and Gas Leasing
+
+• Plant and Animal Damage Control
+
+• Rangeland and Forest Health
+
+• Recreation and Travel Management
+
+• Special Area Designations
+
+All seven revision topics are described below and addressed in this FEIS.  Key indicators are 
+identified for each revision topic. These indicators help the reader compare the five alternatives 
+by describing the effects of implementing each alternative.
+
+### Community and Lifestyle Relationships
+
+People who live in the Northern Great Plains attach a great deal of value to lands administered 
+by the Forest Service. Commodity and amenity benefits contribute to the social fabric and the 
+economic base of many neighbors and communities near these public lands.
+
+Management decisions determine the use and availability of these lands and resources to the 
+public. In resource-based communities, especially small communities without a diversified 
+economy, these decisions can perpetuate or disrupt the local economy and lifestyles. More 
+diversified communities can often cope with change, although some sectors may be more or less 
+affected. The capacity to handle change without major hardships to social groups or institutions 
+is an important component of community and lifestyle relationships.
+
+**_1-11_**
+
+---
+
+Economic effects can include changes in local employment and income, payments to state and 
+local government, and consequences associated with local government services and community 
+infrastructure. National forests and national grasslands have a role in sustaining or diversifying 
+area economies and providing amenity values.
+
+American Indians make up the largest minority group in the planning area and include such 
+tribal affiliations as the Lakota, Hidatsa, Arikara, Cheyenne, Lower Brule, Crow, and Pawnee. 
+American Indian culture, religion, and social conventions add complexity, diversity, and 
+context to the fabric of life on the Northern Great Plains, both historically and 
+contemporaneously.  Several Indian reservations either lie within or near the administrative 
+boundaries of several of the planning units. American Indians visit the National Forest System 
+lands in the area to collect medicinal and sacred plants, practice religious ceremonies, recreate, 
+or work. For instance, some American Indians in the planning area hold livestock grazing 
+permits and others work for energy-extraction industries.
+
+Key indicators for the community and lifestyle relationships topic are listed below:
+
+| Indicator | Units of measure |
+| --- | --- |
+| Jobs and income related to: |  |
+| Range-fed livestock grazing | Number and dollars |
+| Oil and gas leasing | Number and dollars |
+| Recreation and tourism | Narrative summary |
+| Social group effects | Narrative summary in Chapter 3 |
+
+### Livestock Grazing
+
+Livestock grazing on National Forest System lands is a permitted and traditional use on public 
+lands and plays a part in maintaining and improving ecosystem health, when managed 
+appropriately.  However, this use must be balanced with multiple-use objectives, such as flora 
+and fauna diversity, soil and water protection, wildlife food and habitat, outdoor recreation, 
+and other resource values dependent on rangeland vegetation.  The public continues to have 
+interest in what levels of permitted grazing and other uses are appropriate for these publicly 
+owned grassland areas.
+
+Management Plan direction can be developed to describe the desired condition of ecological 
+units.  In accordance with CFR 219.20, the capability and potential suitability of National Forests 
+and Grasslands to produce forage for grazing animals and habitat for management indicator 
+species will be determined.  While management plans will determine desired vegetation 
+conditions for these grasslands and forests, the plans will not determine the allowable number 
+of livestock to be grazed.  That decision will be made in subsequent site-specific allotment 
+management plans.
+
+The planning area has been inventoried to describe the current mix of vegetation to determine 
+ecological units based on land types and geographic areas.  Management direction relating to 
+livestock grazing has been tied to desired vegetative conditions. Key descriptors of desired 
+grassland and shrubland vegetation are composition, structure, and woody vegetation 
+regeneration in draws and riparian areas.  Grazing use may fluctuate annually, depending on 
+moisture and the desired vegetative conditions.
+
+**_1-12_**
+
+---
+
+Allocation of Animal Unit Months (AUMs) is currently based on 1,000 lb. cows.  Genetic 
+improvements in cattle have increased cattle size as large as 1,600 lbs.  The larger cows require 
+more forage to sustain them.  Utilization appears to have increased, while the methodology 
+used to determine AUMs has not changed.  Appropriate methods for calculating grazing 
+allocations are examined in this revision process.
+
+Few of the planning units now have secondary range.  This type of range, which occurs in 
+larger pastures with few water developments and low utilization, is desirable for upland habitat 
+and for diversity of native plant and animal species and for recreationists who desire large 
+unfenced areas of grassland.
+
+Forest Service managers have expressed concern on the reduced flexibility of sustaining grazing 
+when disturbances such as drought, hail, and fire occur.  Concepts such as swing pastures, rest 
+areas, and use of yearlings give managers flexibility to sustain grazing when drought or fire 
+reduces forage.  Requiring that some areas be rested each year will give managers increased 
+flexibility in meeting desired conditions.
+
+Key indicators for livestock grazing topic are listed below:
+
+| Indicator | Units of measure |
+| --- | --- |
+| Suitable rangeland | acres |
+| Estimated grazing levels | AUMs (animal unit months) |
+| Estimated available forage production | thousand of pounds |
+| Average pasture size | acres |
+| Water developments | number per section |
+
+### Oil and Gas Leasing
+
+Oil and gas are important resources for the people of the United States, and the Grasslands 
+contain valuable oil and gas deposits.  In 1987, Congress passed the Federal Onshore Oil and 
+Gas Leasing Reform Act, which expanded the Secretary of Agriculture's role in managing oil 
+and gas resources on National Forest System lands. Within the National Forest System, the 
+Secretary of Agriculture has the responsibility to identify lands available for leasing and to 
+authorize leasing for specific lands.  In performing analyses for these decisions, the Forest 
+Service must identify on maps the nature and extent of stipulations that will be applied to leases 
+for the purpose of protecting surface resources.
+
+Previously completed leasing analyses are currently in effect for about 2.4 million acres of 
+federal minerals (1.7 million acres federal surface estate) in the planning area, including the 
+Little Missouri, Cedar River, Thunder Basin and Oglala National Grasslands and the western 
+half of the Buffalo Gap National Grassland.  These decisions have been implemented 
+continuously since their signing.
+
+Since the current leasing decisions and associated analyses were completed, several changes 
+have occurred.  There have been improvements in the technology of oil and gas exploration and 
+development, changes in the scientific understanding of how ecosystems function, and changes 
+in management requirements necessary to meet the laws governing the national grasslands and 
+forests.  For example, the requirements to manage habitat for threatened or endangered plant 
+and animal species are constantly changing.  With this analysis, the existing leasing decisions 
+are being reviewed in light of new information generated since the current decisions were made
+
+**_1-13_**
+
+---
+
+(e.g., newly listed threatened and endangered species, rare ecosystem elements or habitats).  In 
+addition, good management and the law require oil and gas leasing to be consistent with the 
+approved Management Plans.  The new information and resulting changes in the Management 
+Plans may result in changes to past leasing decisions or in the conditions of surface occupancy 
+(stipulations) attached to new leases that will be issued under new decisions made based on this 
+analysis.  New leasing decisions, however, cannot force changes of terms on leases in existence 
+as of the date of those new decisions.  Such leases will continue as issued for the full extent of 
+their terms.  If such leases are not extended by conditions as specified in 43 CFR 3107 (such as 
+establishment of production), and become available for lease under new leasing decisions, those 
+lands will then be leased with stipulations as specified in this analysis and the resulting new 
+leasing decisions.  Future operations on pre-existing leases will be administered under new plan 
+direction as much as possible without violating pre-existing lease rights.
+
+Key indicators for the oil and gas leasing topic are listed below:
+
+| Indicator | Units of measure |
+| --- | --- |
+| Available for leasing | acres |
+| Available for leasing but currently not authorized | acres |
+| Available with stipulations | acres |
+| No Surface Occupancy (NSO) | acres |
+| Controlled Surface Use (CSU) | acres |
+| Timing | acres |
+| Standard Lease Terms | acres |
+
+### Plant and Animal Damage Control
+
+Under certain conditions, some plant and animal species can cause unacceptable economic 
+and/or environmental effects.  Sometimes management activities on National Forest System 
+lands include control of noxious or exotic plants, insects, predators, and rodents.  Damage 
+control is a cooperative effort involving the Forest Service, local and state government, and 
+other federal regulatory agencies.
+
+Prairie dog management on National Forests and Grasslands continues to generate public 
+interest.  Although prairie dog communities are major contributors to biological diversity on 
+National Grasslands, adjoining landowners often view prairie dogs as potentially damaging to 
+private land values and the land’s agricultural production.  Many livestock grazing permittees 
+are also concerned about the loss of forage on National Grasslands to prairie dogs.  Other 
+people interested in prairie dogs include recreational shooters, watchable wildlife enthusiasts, 
+and wildlife interests.  This plan revision process addresses management direction for prairie 
+dog poisoning and shooting.
+
+Invasions of noxious and non-native plants are reducing or eliminating the integrity of native 
+plant communities.  Existing Management Plans direct managers to treat noxious and nonnative species on a priority basis.  Control is emphasized on newly infested areas, priority areas, 
+and minor infestations.  Research results have given us an integrated pest management menu of 
+options to control undesirable vegetation.  Management direction must be changed to help us 
+implement more effective control methods.
+
+**_1-14_**
+
+---
+
+The Animal and Plant Health Inspection Service (APHIS) has primary responsibility for 
+providing technical assistance and coordinating programs directed at predator control, control 
+of range insect pests (such as grasshoppers), biocontrol of noxious weeds, and animal damage 
+control.  State wildlife agencies and county weed and pest boards assist with damage control in 
+some Northern Great Plains states.  The Forest Health Protection group provides technical 
+assistance and coordinates suppression programs for forest insect and disease pests.
+
+A recently issued policy on animal damage, primarily targeting predators, outlines a 
+cooperative approach between the Forest Service and APHIS.  The Forest Service has revised its 
+manual direction (FSM 2650 Animal Damage Management) to elaborate on the Master 
+Memorandum of Understanding signed by both agencies.
+
+Key indicators for the plant and animal damage control topic are listed below:
+
+###### Indicator Units of measure
+
+Prairie dog poisoning acres
+Noxious plants percent change in total acres
+
+### Rangeland and Forest Health
+
+The health of the national grasslands and forests is important to many people.  Northern Great 
+Plains ecosystems evolved under several major environmental forces, including grazing, fire, 
+floods, and drought.  The plants and animals that adapted and persisted are those best suited to 
+the disturbance regimes of this region.
+
+Human use and manipulation of these lands and waters have changed the natural disturbance 
+regimes that originally shaped this region, affecting native plants and animals.  Native animals 
+play important ecological roles as pollinators, decomposers, soil builders, nutrient cyclers, and 
+vital links in the food chain.  Non-native or invasive plant species have replaced many native 
+plant communities.  The diversity of native plants and animals on national grasslands and 
+forests is largely determined by the ability of the Forest Service and other cooperators to 
+manage vegetation for a variety of successional and structural stages.
+
+Biological diversity is defined as the full variety of life in an area, including the ecosystems, 
+plant and animal communities, species and genes, and the processes through which individual 
+organisms interact with one another and with their environments.  We are directed by law and 
+regulation to provide for the viability of all native and selected non-native plants and animal 
+species.  Maintaining biological diversity, or “keeping all the pieces,” will help us to ensure we 
+meet our legal mandates.
+
+Public interest for maintaining the biological integrity and diversity of these public lands has 
+grown substantially over the last decade.  Biodiversity has surfaced as an issue in preliminary 
+discussions and environmental analyses conducted in recent years.  The scientific community, 
+supported by published research, has emphasized the importance of biodiversity conservation.  
+The Council on Environmental Quality recommends incorporation of the issue of biodiversity 
+conservation in environmental analyses.
+
+The existing Management Plans do not fully address all biological diversity elements, especially 
+for the National Grasslands.  New and revised management guidance and direction are needed 
+that address conservation of biological diversity and ecological processes (structure, function 
+and pattern).
+
+**_1-15_**
+
+---
+
+New information on species and their habitats found on or near national grasslands and forests 
+in the planning area has also been gathered.  Eight species are federally listed or proposed for 
+listing and three are candidates for federal listing as threatened or endangered under the new 
+proposed rules of the US Fish and Wildlife Service.  Species listed or proposed for listing 
+include:  Black-footed ferret, Whooping crane, American burying beetle, Bald eagle, Blowout 
+penstemon, Western prairie-fringed orchid, Topeka shiner, and mountain plover.  Five of these 
+species were listed or proposed for listing after existing plans were developed.  South Dakota 
+and Nebraska list another 20 species under state laws.  The Nature Conservancy maintains a list 
+of 50 to 60 species of concern in the Northern Great Plains.  Many of these same species are 
+among the 86 listed by the USDA Forest Service as sensitive species in Forest Service Regions 1 
+and 2.
+
+Prairie dogs are a keystone grassland herbivore, and are a sensitive species in some areas of the 
+Great Plains.  They now exist in about 2 percent of their historic range.  Many associate species 
+(e.g., ferret, swift fox, ferruginous hawk, burrowing owls, mountain plover) are endangered, 
+threatened, or experiencing significant declines.
+
+In 1998, black-tailed prairie dogs were petitioned for listing as a threatened species.  In 1999, the 
+FWS completed their status review of this species and determined that its listing was warranted 
+but precluded due to higher priority of listing needs for other species.  Black-tailed prairie dogs 
+have been classified as a candidate species for protection under the Endangered Species Act.  
+The status of this species will now be reviewed annually.
+
+The largest remaining prairie dog complexes exist on Indian reservations and national 
+grasslands.  The opportunity to conserve this declining species within the planning area lies 
+heavily on the ability to increase prairie dog complexes on national grasslands.  This will 
+require changes in direction (affecting livestock grazing intensities, poisoning, shooting, etc.) 
+from current management plans in order to conserve the species.
+
+During 2000, states within the planning area have been working to develop statewide prairie 
+dog conservation strategies.  The Forest Service has been involved in these statewide planning 
+efforts and realizes that states are relying heavily on national grassland prairie dog populations 
+to play a role in conservation efforts.  These statewide plans are not completed as this FEIS goes 
+to print.  The management plans for these units will be updated as needed as cooperative 
+agreements are developed or if the species is listed.  A change in management direction for 
+protection of this species from the direction described in existing management plans is 
+warranted.
+
+The status of breeding birds in the United States is gaining interest.  Of the 435 bird species 
+breeding in the U.S., 330 have been documented to breed on the Great Plains.  Great declines in 
+some species from 14-91 percent result from habitat loss, degradation, and fragmentation.  Since 
+the plan revision process began, the mountain plover has been proposed for listing as a 
+threatened species.  It is also expected that the northern sage grouse will be petitioned for 
+listing.  Existing management plans did not address specific management direction to maintain 
+the viability of these species on national grasslands.  Failure to address the management needs 
+of these species could result in legal vulnerability that could affect future management activities 
+on these public lands.
+
+Biodiversity conservation encompasses management for threatened, endangered and sensitive 
+species, and management indicator species, as well as many additional considerations, 
+including habitat for game species.  Current and potential habitat conditions for these species
+
+**_1-16_** must be assessed and desired habitat conditions defined.  The information contained in state 
+Fish and Wildlife plans will be considered in defining desired habitat conditions.  Additionally, 
+agency biologists and members of the public have questioned the biological appropriateness of 
+Management Indicator Species (MIS) identified in the existing land and resource management 
+plans, suggesting other species in place of those currently used as MIS.  Monitoring and 
+research have indicated that some different and additional species are more appropriate to use 
+as indicators of our management on the variety of species that have habitats in the planning 
+units.
+
+Native diversity has undergone changes from land-use and agricultural practices.  Also, 
+invasions of noxious and invasive plants are reducing or eliminating native plant species.
+
+Some authorized activities and land uses, such as livestock grazing have major influences on 
+watershed health and soil stability.  The quantity and type of vegetation maintained on uplands 
+and along drainages, streams and rivers largely determine water and soil conditions.
+
+The health of forest ecosystems is closely tied to the ability of riparian and other prairie 
+woodlands to regenerate and sustain themselves.  Fire, insects and disease in coniferous forests 
+are significant influences on forest health.
+
+Key indicators for the plant and animal damage control topic are listed below:
+
+| Indicator | Units of measure |
+| --- | --- |
+| Prairie dog colonies | acres |
+| Black-footed ferret reintroduction areas | number and acres |
+| Habitat suitability for management indicator species (by species) |  |
+| low | percent |
+| moderate | percent |
+| high | percent |
+| Endangered Species Act species, candidate species, other species of concern |  |
+| Grass/shrub structure |  |
+| low | percent |
+| moderate | percent |
+| high | percent |
+| Grass/shrub composition |  |
+| early | percent |
+| early intermediate | percent |
+| late intermediate | percent |
+| late | percent |
+| Forest structure |  |
+| late successional | percent |
+| Riparian/woody draw regeneration | percent |
+| Area being rested | percent |
+| Suitable rangeland bison-only grazing | percent |
+| Tree plantations (Nebraska NF – Bessey RD) | acres/decade |
+| Restoration (prescribed burning, mechanical treatment, etc.) | acres |
+
+**_1-17_**
+
+---
+
+### Recreation and Travel Management
+
+Recreation on public lands in the prairie ecosystem is increasing dramatically.  Contributing 
+factors are:  1) national grasslands have been recognized for hunting opportunities; 2) the public 
+has increased appreciation for the beauty of the prairie; 3) more people are taking short 
+vacations to the closest public lands; and 4) there has been a loss of solitude in mountain areas.  
+Current recreation use exceeds the levels anticipated in the existing Management Plans.  Some 
+leisure activities, such as mountain biking and use of all-terrain vehicles, have greatly increased 
+in popularity since the existing Management Plans were written.  The public is demanding 
+recreational uses and values on our Great Plains grassland areas be addressed more fully.
+
+Monitoring indicates that recreation users are generally satisfied with their recreation 
+experiences, but also some people want more developed facilities, improved roads, more site 
+and area information, and better signing.  Plan revision is needed to improve developed 
+recreation site direction.
+
+Hunting opportunities, such as upland bird hunting, is a major dispersed recreational activity 
+on many of these public lands.  Big game hunting is also popular.  The amount of hiding and 
+holding cover for game species depends on sufficient vegetative cover following livestock 
+grazing season.  The Management Plans need to more fully address the need for wildlife cover.
+
+While there are few designated “roads” in some areas, portions of the grasslands are well 
+traveled.  Topography and vegetation make it possible for all terrain vehicles to drive just about 
+anywhere.  Some people are asking us to address road or area restrictions to address resource 
+impacts and recreational desires for solitude.  Revision is needed to provide improved direction 
+on access and travel management.
+
+User preferences vary widely over available recreational opportunities.  Some users desire 
+primitive recreation experiences with restricted motorized travel, while others, such as allterrain vehicle users, prefer motorized access.  Because recreation use on these public lands has 
+increased over the last decade, the conflicts have also increased.  There is a need for improved 
+plan direction on providing a range of recreation opportunities to meet a variety of user 
+expectations.
+
+Key indicators for the recreation and travel management topic are listed below:
+
+| Indicators | Units of measure |
+| --- | --- |
+| Scenic Integrity Levels | acres |
+| Recreation Opportunity Spectrum allocations | acres |
+| Use levels at developed sites/clusters of dispersed sites | PAOTs |
+| Trails | miles |
+| Dispersed Recreation |  |
+| Fishing emphasis | ponds added |
+| Big game hunting emphasis | change in opportunity |
+| Upland game hunting cover | change in opportunity |
+| Prairie dog colonies closed to shooting | areas |
+| Prairie dog colonies for viewing/educational studies | acres |
+| Travel restricted | acres |
+| Expected designated routes | miles and miles per square mile |
+
+**_1-18_**
+
+---
+
+### Special Area Designations
+
+The Northern Great Plains National Forest and Grassland units include many unique and 
+outstanding combinations of physical and biological resources, and areas of social interest.  
+These are collectively referred to as “special areas.”
+
+Special area designations may include wildernesses, wild and scenic rivers, cultural and historic 
+sites, research natural areas, geologic and paleontology sites, rare habitats, botanical areas, 
+prairie dog colonies, black-footed ferret habitat, wetland conservation areas, unique ecological 
+communities, and areas of biodiversity richness. Special areas already designated in the 
+planning area include three research natural areas, one wilderness, one national recreation area, 
+one experimental forest, one purchase unit, and one prairie dog management area.
+
+Special area designation has received a great deal of interest from many.  Maintaining grassland 
+roadless areas and developing grassland wilderness areas has become important to many 
+people.  Roadless areas must be evaluated for potential wilderness designation during the 
+Management Plan revision process (36 CFR 219.17).  Likewise, interest in Research Natural 
+Areas in the grassland ecosystem has increased.  Forest planning must make provisions for the 
+establishment of Research Natural Areas (36 CFR 219.25).
+
+There is also interest in maintaining wild and scenic rivers. Consideration of potential wild and 
+scenic rivers is an inherent part of the land and resource management planning process (FSH 
+1924). Other special areas may be desired for their contributions to furthering knowledge about 
+natural systems, interpretive/educational opportunities, or other objectives.  There is a need to 
+periodically review the need for special area designations as demonstrated by public interest, 
+law and regulation.
+
+The purpose and authority for study of Wild and Scenic Rivers are in the Wild and Scenic 
+Rivers Act of October 1, 1968, as amended.  The process for valuation and recommendation for 
+designation can be found in Chapter 8, FSH 1909.12, and Department of Interior and 
+Department of Agriculture National Wild and Scenic Rivers System:  Final Revised Guidelines 
+for Eligibility, Classification and Management of River Areas.  All rivers recommended by 
+Congress for study, identified in the National Park Service/Nationwide River Inventory, or 
+identified as a potential Wild and Scenic River as part of this revision process have been 
+analyzed.
+
+Key indicators for the special area designations topic are listed below:
+
+| Indicators | Units of measure |
+| --- | --- |
+| Recommended for Wilderness | number and acres |
+| Recommended Wild/Scenic rivers |  |
+| wild classification | miles |
+| scenic classification | miles |
+| recreation classification | miles |
+| Special Interest Areas | number and acres |
+| Research Natural Areas | number and acres |
+
+From the above information, the Forest Service developed the Purpose and Need for Change 
+and defined the major revision topics.  In February 1997, the Forest Service published (in the 
+*Federal Register*) a Notice of Intent to Prepare an Environmental Impact Statement to revise the
+
+**_1-19_** management plans.  The federal notice initiated the formal public involvement process.  In 
+response to the federal notice and many other public outreach efforts, the Forest Service 
+received public comments to help further define the major revision topics.  In December 1998, a 
+revised Notice of Intent was published in the *Federal Register* to describe some changes that had 
+occurred.
+
+## Other Topics
+
+Other topics identified as important to the public, such as fossils, land adjustments, heritage 
+resources, forest management, minerals (other than oil and gas), and water resource 
+management, are addressed through this revision process but were not considered major 
+revision topics.
+
+## Other Topics Raised But Not Addressed
+
+The public and other agencies raised a number of additional topics and issues that are not 
+addressed in detail in these revision documents. Such topics require departmental or legislative 
+actions or come under the authority of other governmental agencies and are outside the scope 
+of land management planning decisions. These topics include but are not limited to the 
+following:
+
+• Departmental and Legislative Topics:
+
+Grazing fee levels.
+
+Recreation user fees.
+
+Sale or transfer of administration of the national grasslands.
+
+Transfer of the Cedar River and Grand River National Grasslands to the 
+Standing Rock Sioux Tribe.
+
+Transfer of the Buffalo Gap National Grassland to the Oglala Sioux Tribe.
+
+Transfer of the Fort Pierre National Grassland to the Lower Brule Sioux Tribe.
+
+Primacy of livestock grazing on national grasslands.
+
+• Topics for Other Governmental Agencies:
+
+Predator control.
+
+Grasshopper control.
+
+Transfer of Shadehill Reservoir to another federal agency.
+
+• Topics to be Addressed by the Forest Service at the Project Level:
+
+DM&E railroad expansion.
+
+Establishment of livestock stocking rates.
+
+Numbers of AUMs (to be established through the allotment management 
+planning process).
+
+**_1-20_**

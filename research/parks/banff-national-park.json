@@ -1,0 +1,42 @@
+{
+ "id": "banff-national-park",
+ "name": "Banff National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome on most trails; a few trails are closed to dogs.",
+ "summary": "Leashed dogs are welcome on most trails; a few trails are closed to dogs.",
+ "excerpts": [
+  {
+   "quote": "Dogs are not allowed on some trails",
+   "url": "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/chiens-dogs"
+  },
+  {
+   "quote": "Pet owners must keep their dogs on leash at all times, except when in the Banff Off-Leash Dog Park or in fenced, private property.",
+   "url": "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/chiens-dogs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be on leash everywhere except the Banff Off-Leash Dog Park.",
+   "url": "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/chiens-dogs"
+  },
+  {
+   "text": "Some trails are closed to dogs; check the Banff trails page and trailhead bulletins.",
+   "url": "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/chiens-dogs"
+  },
+  {
+   "text": "Never leave food dishes out, empty or full, especially at night.",
+   "url": "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/chiens-dogs"
+  },
+  {
+   "text": "Consider leaving your dog at home for camping, hiking or the backcountry.",
+   "url": "https://parks.canada.ca/pn-np/ab/banff/securite-safety/regles-rules"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/ab/banff",
+ "petsUrl": "https://parks.canada.ca/pn-np/ab/banff/visit/faune-wildlife/chiens-dogs",
+ "coordinates": [
+  -115.55,
+  51.166666666
+ ],
+ "coordinatesSource": "Wikidata Q41858"
+}

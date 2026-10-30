@@ -1,0 +1,26 @@
+{
+ "id": "mingan-archipelago-national-park-reserve",
+ "name": "Mingan Archipelago National Park Reserve",
+ "policy": "none",
+ "policyReason": "Parks Canada says pets are not allowed on the islands, which make up the park reserve.",
+ "summary": "Pets are not allowed on the islands.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed on the islands",
+   "url": "https://parks.canada.ca/pn-np/qc/mingan/securite-safety/reg"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on the islands.",
+   "url": "https://parks.canada.ca/pn-np/qc/mingan/securite-safety/reg"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/qc/mingan",
+ "petsUrl": null,
+ "coordinates": [
+  -63.829166666,
+  50.2
+ ],
+ "coordinatesSource": "Wikidata Q862157"
+}

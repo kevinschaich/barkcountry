@@ -1,0 +1,30 @@
+{
+ "id": "hot-springs-national-park",
+ "name": "Hot Springs National Park",
+ "policy": "everywhere",
+ "policyReason": "Pets are allowed throughout the park and on all trails, just not in federal buildings.",
+ "summary": "Pets are allowed throughout the park and on all trails, just not in federal buildings.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed throughout the park and on all trails, just not in federal buildings.",
+   "url": "https://www.nps.gov/hosp/planyourvisit/index.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not inside federal buildings; Superior Bathhouse brewery allows pets.",
+   "url": "https://www.nps.gov/hosp/planyourvisit/pets.htm"
+  },
+  {
+   "text": "26 miles of dog-friendly trails.",
+   "url": "https://www.nps.gov/hosp/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/hosp",
+ "petsUrl": "https://www.nps.gov/hosp/planyourvisit/pets.htm",
+ "coordinates": [
+  -93.053611111,
+  34.513611111
+ ],
+ "coordinatesSource": "Wikidata Q1143416"
+}

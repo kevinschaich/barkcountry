@@ -1,0 +1,30 @@
+{
+ "id": "nebraska-national-forest",
+ "name": "Nebraska National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Dogs must be kept under control.",
+   "url": "https://www.fs.usda.gov/r02/nebraska/recreation/pine-ridge-trailhead"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pine Ridge trails: dogs under control.",
+   "url": "https://www.fs.usda.gov/r02/nebraska/recreation/pine-ridge-trailhead"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/nebraska",
+ "petsUrl": null,
+ "coordinates": [
+  -102.902,
+  42.7461
+ ],
+ "coordinatesSource": "Wikidata Q3079172"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "kootenay-national-park",
+ "name": "Kootenay National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed, including in the backcountry.",
+ "summary": "Leashed dogs are allowed, including in the backcountry.",
+ "excerpts": [
+  {
+   "quote": "Pets are welcome in the backcountry but must be leashed at all times.",
+   "url": "https://parks.canada.ca/pn-np/bc/kootenay/activ/arrierepays-backcountry"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets are welcome in the backcountry on leash.",
+   "url": "https://parks.canada.ca/pn-np/bc/kootenay/activ/arrierepays-backcountry"
+  },
+  {
+   "text": "Check yourself and your pet for ticks after hiking.",
+   "url": "https://parks.canada.ca/pn-np/bc/kootenay/activ/randonnee-hike"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/bc/kootenay",
+ "petsUrl": "https://parks.canada.ca/pn-np/bc/kootenay/activ/arrierepays-backcountry",
+ "coordinates": [
+  -116.049,
+  50.8831
+ ],
+ "coordinatesSource": "Wikidata Q903323"
+}

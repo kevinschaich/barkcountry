@@ -1,0 +1,30 @@
+{
+ "id": "olympic-national-forest",
+ "name": "Olympic National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed under control or on a leash.",
+ "summary": "Dogs are allowed under control or on a leash.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed in the Olympic National Forest.",
+   "url": "https://www.fs.usda.gov/r06/olympic/safety-ethics"
+  },
+  {
+   "quote": "Pets are welcome in Olympic National Forest Wilderness as long as they are kept on a leash or under control, and quiet.",
+   "url": "https://www.fs.usda.gov/r06/olympic/wilderness"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs once a trail enters Olympic National Park.",
+   "url": "https://www.fs.usda.gov/r06/olympic/recreation/bogachiel-rain-forest-river-trailhead"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/olympic/",
+ "petsUrl": "https://www.fs.usda.gov/r06/olympic/safety-ethics",
+ "coordinates": [
+  -123.067,
+  47.81
+ ],
+ "coordinatesSource": "Wikidata Q931881"
+}

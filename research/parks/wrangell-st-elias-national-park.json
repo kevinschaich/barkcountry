@@ -1,0 +1,30 @@
+{
+ "id": "wrangell-st-elias-national-park",
+ "name": "Wrangell–St. Elias National Park and Preserve",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed on trails and in the backcountry.",
+ "summary": "Leashed dogs are allowed on trails and in the backcountry.",
+ "excerpts": [
+  {
+   "quote": "Dogs are allowed on trails within the park and in the backcountry.",
+   "url": "https://www.nps.gov/wrst/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not in visitor centers or ranger stations.",
+   "url": "https://www.nps.gov/wrst/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Leash in the Kennecott Mines area.",
+   "url": "https://www.nps.gov/wrst/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/wrst/",
+ "petsUrl": "https://www.nps.gov/wrst/planyourvisit/pets.htm",
+ "coordinates": [
+  -142.953611111,
+  61.435
+ ],
+ "coordinatesSource": "Wikidata Q748597"
+}

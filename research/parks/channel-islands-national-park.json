@@ -1,0 +1,26 @@
+{
+ "id": "channel-islands-national-park",
+ "name": "Channel Islands National Park",
+ "policy": "none",
+ "policyReason": "No pets are allowed in the park, to protect island foxes.",
+ "summary": "No pets are allowed in the park, to protect island foxes.",
+ "excerpts": [
+  {
+   "quote": "In order to protect island wildlife, pets are not allowed in the park.",
+   "url": "https://www.nps.gov/chis/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Only service dogs, with health requirements, may visit the islands.",
+   "url": "https://www.nps.gov/chis/planyourvisit/service-animals.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/chis",
+ "petsUrl": "https://www.nps.gov/chis/planyourvisit/pets.htm",
+ "coordinates": [
+  -119.64,
+  33.66
+ ],
+ "coordinatesSource": "Wikidata Q306193"
+}

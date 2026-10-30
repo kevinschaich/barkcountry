@@ -1,0 +1,21 @@
+{
+ "id": "ashley-national-forest",
+ "name": "Ashley National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may come if leashed or under direct control at all times.",
+ "summary": "Dogs may come if leashed or under direct control at all times.",
+ "excerpts": [
+  {
+   "quote": "Dogs and other pets must be leashed or under direct control at all times.",
+   "url": "https://www.fs.usda.gov/r04/ashley/safety-ethics"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/ashley/",
+ "petsUrl": "https://www.fs.usda.gov/r04/ashley/safety-ethics",
+ "coordinates": [
+  -110.333,
+  40.3333
+ ],
+ "coordinatesSource": "Wikidata Q4805539"
+}

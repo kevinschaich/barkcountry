@@ -1,0 +1,42 @@
+{
+ "id": "la-mauricie-national-park",
+ "name": "La Mauricie National Park",
+ "policy": "roads",
+ "policyReason": "Pets are allowed only in the developed campgrounds and along the Parkway, not on trails.",
+ "summary": "Pets are allowed only in the developed campgrounds and along the Parkway, not on trails.",
+ "excerpts": [
+  {
+   "quote": "Pets are not permitted in most areas of the park.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals"
+  },
+  {
+   "quote": "They are only allowed in the developed campgrounds (Mistagance, Wapizagonke and Rivière-à-la-Pêche) and the Parkway corridor, including the rest stops and picnic areas along the Parkway.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed only in Mistagance, Wapizagonke and Rivière-à-la-Pêche campgrounds and along the Parkway, its rest stops and picnic areas.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals"
+  },
+  {
+   "text": "Not allowed on trails or beaches, in boats, the backcountry, public buildings, oTENTiks, La Clairière group campground or cabins.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals"
+  },
+  {
+   "text": "Two pets per campsite.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals"
+  },
+  {
+   "text": "Service animals are permitted everywhere.",
+   "url": "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/qc/mauricie",
+ "petsUrl": "https://www.pc.gc.ca/pn-np/qc/mauricie/visit/animaux-animals",
+ "coordinates": [
+  -72.9667,
+  46.8
+ ],
+ "coordinatesSource": "Wikidata Q1798539"
+}

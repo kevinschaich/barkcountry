@@ -1,0 +1,26 @@
+{
+ "id": "mammoth-cave-national-park",
+ "name": "Mammoth Cave National Park",
+ "policy": "everywhere",
+ "policyReason": "The park pets page allows leashed pets on all surface trails.",
+ "summary": "Leashed pets are allowed on all surface trails, but not in caves or buildings.",
+ "excerpts": [
+  {
+   "quote": "Leashed pets are allowed on all surface trails in the park.",
+   "url": "https://www.nps.gov/maca/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not in caves or park buildings.",
+   "url": "https://www.nps.gov/maca/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/maca/index.htm",
+ "petsUrl": "https://www.nps.gov/maca/planyourvisit/pets.htm",
+ "coordinates": [
+  -86.101111111,
+  37.186944444
+ ],
+ "coordinatesSource": "Wikidata Q242681"
+}

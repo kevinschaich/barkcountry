@@ -1,0 +1,42 @@
+{
+ "id": "grand-teton-national-park",
+ "name": "Grand Teton National Park",
+ "policy": "roads",
+ "policyReason": "A pet may go anywhere a car may go; no trails, pathways, beaches or buildings.",
+ "summary": "A pet may go anywhere a car may go; no trails, pathways, beaches or buildings.",
+ "excerpts": [
+  {
+   "quote": "Pets are prohibited in the backcountry and on park trails.",
+   "url": "https://www.nps.gov/grte/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on trails, the multi-use pathway, beaches or in buildings.",
+   "url": "https://www.nps.gov/grte/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Allowed in campgrounds, turnouts, picnic areas and on roads.",
+   "url": "https://www.nps.gov/grte/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Boats only on Jackson Lake.",
+   "url": "https://www.nps.gov/grte/planyourvisit/pets.htm"
+  },
+  {
+   "text": "No dog sledding or skijoring.",
+   "url": "https://www.nps.gov/grte/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Bridger-Teton National Forest trails allow pets.",
+   "url": "https://www.nps.gov/grte/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/grte",
+ "petsUrl": "https://www.nps.gov/grte/planyourvisit/pets.htm",
+ "coordinates": [
+  -110.700833333,
+  43.833333333
+ ],
+ "coordinatesSource": "Wikidata Q222695"
+}

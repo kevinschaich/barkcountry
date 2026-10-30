@@ -1,0 +1,38 @@
+{
+ "id": "arches-national-park",
+ "name": "Arches National Park",
+ "policy": "roads",
+ "policyReason": "Pets can go only where cars go: roads, parking lots and campgrounds, not on trails.",
+ "summary": "Pets can go only where cars go: roads, parking lots and campgrounds, not on trails.",
+ "excerpts": [
+  {
+   "quote": "Pets must be leashed at all times.",
+   "url": "https://www.nps.gov/arch/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "on any hiking trails, or anywhere off-trail, even while in a carrier",
+   "url": "https://www.nps.gov/arch/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on any hiking trail or off-trail (even in a carrier), at overlooks or in buildings.",
+   "url": "https://www.nps.gov/arch/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Leash 6 ft or shorter, at all times.",
+   "url": "https://www.nps.gov/arch/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Pets may not make excessive noise.",
+   "url": "https://www.nps.gov/arch/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/arch",
+ "petsUrl": "https://www.nps.gov/arch/planyourvisit/pets.htm",
+ "coordinates": [
+  -109.54,
+  38.728055555
+ ],
+ "coordinatesSource": "Wikidata Q223969"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "parc-national-du-mont-tremblant",
+ "name": "Mont-Tremblant National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on eight summer trails and some campsites, May 1 to October 31; no dogs in winter.",
+ "summary": "Leashed dogs are allowed on eight summer trails and some campsites, May 1 to October 31; no dogs in winter.",
+ "excerpts": [
+  {
+   "quote": "Prenez note que les chiens sont admis du 1er mai au 31 octobre.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trails: La Roche, La Corniche, La Coulée, La Piste-du-Loup, L’Envol, La Chute-aux-Rats, La Boucle-du-Lac-de-L’Assomption, Les Grandes-Vallées.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot"
+  },
+  {
+   "text": "Camping Lac-Chat 1–56, Lac-Provost 1–41, Grand-Pin 33–50 (summer only).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot"
+  },
+  {
+   "text": "No dogs on the water or in boats.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot"
+  },
+  {
+   "text": "No dogs in the park November 1 to April 30.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/mot/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-tremblant.dot",
+ "coordinates": [
+  -74.35,
+  46.4333
+ ],
+ "coordinatesSource": "Wikidata Q252793"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "mount-revelstoke-national-park",
+ "name": "Mount Revelstoke National Park",
+ "policy": "trails",
+ "policyReason": "Dogs are banned from the summit area and backcountry; they are allowed on leash below Columbia Viewpoint.",
+ "summary": "Dogs are banned from the summit area and backcountry; they are allowed on leash below Columbia Viewpoint.",
+ "excerpts": [
+  {
+   "quote": "To protect wildlife, pets and visitors, dogs are not allowed at the Summit Area or in the backcountry of Mount Revelstoke National Park.",
+   "url": "https://parks.canada.ca/pn-np/bc/revelstoke/activ/randonee-hiking/etat-sentiers-trail-conditions"
+  },
+  {
+   "quote": "Dogs are welcome below Columbia Viewpoint on the Meadows in the Sky Parkway, but must remain on a leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/bc/revelstoke/activ/randonee-hiking/etat-sentiers-trail-conditions"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs above Columbia Viewpoint (12 km) on the Meadows in the Sky Parkway, even in vehicles.",
+   "url": "https://parks.canada.ca/pn-np/bc/revelstoke/bulletins/0fbc4628-8af2-47f5-bb06-317b1729d6da"
+  },
+  {
+   "text": "Summit trails, including Eagle Knoll, Upper Summit, First Footsteps, Koo Koo Sint, Heather Lake and Eva Lake, are closed to dogs.",
+   "url": "https://parks.canada.ca/pn-np/bc/revelstoke/activ/randonee-hiking/etat-sentiers-trail-conditions"
+  },
+  {
+   "text": "Elsewhere in the park dogs must be leashed.",
+   "url": "https://www.parks.canada.ca/pn-np/bc/revelstoke/activ/promenade-parkway"
+  },
+  {
+   "text": "Penalties reach $25,000 or a ban from national parks.",
+   "url": "https://parks.canada.ca/pn-np/bc/revelstoke/visit/chiens-dogs"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/bc/revelstoke",
+ "petsUrl": "https://parks.canada.ca/pn-np/bc/revelstoke/visit/chiens-dogs",
+ "coordinates": [
+  -118.066,
+  51.0858
+ ],
+ "coordinatesSource": "Wikidata Q862265"
+}

@@ -1,0 +1,30 @@
+{
+ "id": "north-cascades-national-park",
+ "name": "North Cascades National Park",
+ "policy": "trails",
+ "policyReason": "Pets are not allowed in the national park except leashed on the Pacific Crest Trail and two roads.",
+ "summary": "Pets are not allowed in the national park except leashed on the Pacific Crest Trail and two roads.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed within North Cascades National Park except when leashed on the Pacific Crest Trail.",
+   "url": "https://www.nps.gov/noca/faqs.htm?fullweb=1"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leashed on Cascade River Road and Stehekin Valley Road to mile 12.9.",
+   "url": "https://www.nps.gov/noca/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Ross Lake and Lake Chelan recreation areas allow leashed pets on all trails.",
+   "url": "https://www.nps.gov/noca/faqs.htm?fullweb=1"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/noca/index.htm",
+ "petsUrl": "https://www.nps.gov/noca/planyourvisit/pets.htm",
+ "coordinates": [
+  -120.911388888,
+  48.483055555
+ ],
+ "coordinatesSource": "Wikidata Q1163799"
+}

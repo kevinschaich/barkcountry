@@ -1,0 +1,26 @@
+{
+ "id": "ile-bonaventure-et-du-rocher-perce-national-park",
+ "name": "Île-Bonaventure-et-du-Rocher-Percé National Park",
+ "policy": "none",
+ "policyReason": "Dogs are not allowed in this park.",
+ "summary": "Dogs are not allowed in this park.",
+ "excerpts": [
+  {
+   "quote": "à l’exception des parcs nationaux d’Anticosti et de l’Île-Bonaventure-et-du-Rocher-Percé",
+   "url": "https://www.sepaq.com/animaux"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs are banned from Île-Bonaventure-et-du-Rocher-Percé, one of two Québec parks with no dog access.",
+   "url": "https://www.sepaq.com/animaux"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/bon/index.dot",
+ "petsUrl": "https://www.sepaq.com/animaux",
+ "coordinates": [
+  -64.161944,
+  48.496389
+ ],
+ "coordinatesSource": "Wikidata Q745054"
+}

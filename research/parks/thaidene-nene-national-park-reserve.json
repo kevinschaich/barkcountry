@@ -1,0 +1,30 @@
+{
+ "id": "thaidene-nene-national-park-reserve",
+ "name": "Thaidene Nëné National Park Reserve",
+ "policy": "everywhere",
+ "policyReason": "The park only requires dogs to be leashed and lists no bans.",
+ "summary": "Dogs are allowed on a leash; never leave them unattended.",
+ "excerpts": [
+  {
+   "quote": "Keep your dog on a leash at all times and never leave it unattended.",
+   "url": "https://parks.canada.ca/pn-np/nt/thaidene-nene/security-safety/ours-bears/evitement-avoidance"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Keep dogs leashed and never unattended; dogs can trigger bear attacks.",
+   "url": "https://parks.canada.ca/pn-np/nt/thaidene-nene/security-safety/ours-bears/evitement-avoidance"
+  },
+  {
+   "text": "Leash dogs near muskoxen, which can kill dogs.",
+   "url": "https://parks.canada.ca/pn-np/nt/thaidene-nene/security-safety/muskox"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nt/thaidene-nene",
+ "petsUrl": null,
+ "coordinates": [
+  -108.634444444,
+  62.7075
+ ],
+ "coordinatesSource": "Wikidata Q724310"
+}

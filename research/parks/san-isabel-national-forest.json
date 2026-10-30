@@ -1,0 +1,22 @@
+{
+ "id": "san-isabel-national-forest",
+ "name": "San Isabel National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may come but must be under control; some wildernesses require leashes.",
+ "summary": "Dogs may come but must be under control; some wildernesses require leashes.",
+ "excerpts": [
+  {
+   "quote": "Pets must be under control at all times.",
+   "url": "https://www.fs.usda.gov/r02/psicc/wilderness"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/r02/psicc",
+ "petsUrl": "https://www.fs.usda.gov/r02/psicc/wilderness",
+ "coordinates": [
+  -105.108776,
+  38.043948
+ ],
+ "coordinatesSource": "Wikipedia: San Isabel National Forest",
+ "unit": "Pike-San Isabel National Forests"
+}

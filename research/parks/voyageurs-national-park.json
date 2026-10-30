@@ -1,0 +1,30 @@
+{
+ "id": "voyageurs-national-park",
+ "name": "Voyageurs National Park",
+ "policy": "trails",
+ "policyReason": "Pets are allowed in developed areas and on the Rainy Lake Recreation Trail, not other trails or the backcountry.",
+ "summary": "Pets are allowed in developed areas and on the Rainy Lake Recreation Trail, not other trails or the backcountry.",
+ "excerpts": [
+  {
+   "quote": "Pets are NOT allowed on park trails (except the Rainy Lake Recreation Trail) or in the backcountry.",
+   "url": "https://www.nps.gov/voya/planyourvisit/park-regulations.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Developed areas, the four main lakes and entrance roads.",
+   "url": "https://www.nps.gov/voya/planyourvisit/park-regulations.htm"
+  },
+  {
+   "text": "Dog sleds allowed on frozen lakes; permit needed on snowmobile portages.",
+   "url": "https://www.nps.gov/voya/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/voya/index.htm",
+ "petsUrl": "https://www.nps.gov/voya/planyourvisit/pets.htm",
+ "coordinates": [
+  -92.883333333,
+  48.5
+ ],
+ "coordinatesSource": "Wikidata Q1368788"
+}

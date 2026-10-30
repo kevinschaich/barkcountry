@@ -1,0 +1,34 @@
+{
+ "id": "katmai-national-park",
+ "name": "Katmai National Park",
+ "policy": "everywhere",
+ "policyReason": "Pets are allowed throughout the backcountry; only Brooks Camp bans them in summer.",
+ "summary": "Pets are allowed in the backcountry under physical control, but not at Brooks Camp from May through October.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed in the backcountry but must be under physical control at all times.",
+   "url": "https://www.nps.gov/katm/planyourvisit/backcountry-regulations-and-suggested-best-practices.htm"
+  },
+  {
+   "quote": "Pets and service animals are not allowed within the Brooks Camp Developed Area (BCDA), defined as a 1.5 mile radius from the Brooks Falls Platform, between May 1 and October 31.",
+   "url": "https://www.nps.gov/katm/planyourvisit/backcountry-regulations-and-suggested-best-practices.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets or service animals within 1.5 miles of the Brooks Falls Platform (Brooks Camp), May 1 to October 31.",
+   "url": "https://www.nps.gov/katm/planyourvisit/backcountry-regulations-and-suggested-best-practices.htm"
+  },
+  {
+   "text": "Elsewhere in the backcountry pets must be under physical control.",
+   "url": "https://www.nps.gov/katm/planyourvisit/backcountry-regulations-and-suggested-best-practices.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/katm/",
+ "petsUrl": "https://www.nps.gov/katm/planyourvisit/backcountry-regulations-and-suggested-best-practices.htm",
+ "coordinates": [
+  -155,
+  58.5
+ ],
+ "coordinatesSource": "Wikipedia: Katmai National Park"
+}

@@ -1,0 +1,34 @@
+{
+ "id": "kuururjuaq-national-park",
+ "name": "Kuururjuaq National Park",
+ "policy": "trails",
+ "policyReason": "Nunavik Parks rules allow dogs only on a leash and only at places marked for that purpose; the park pages name no such places.",
+ "summary": "Dogs only on a leash and only at places marked for them.",
+ "excerpts": [
+  {
+   "quote": "to travel or stay in a park or to engage in an activity in the park with a dog kept at all times on a leash and only at the places marked for that purpose;",
+   "url": "https://www.nunavikparks.ca/en/regulations"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs leashed at all times, only at places marked for dogs.",
+   "url": "https://www.nunavikparks.ca/en/regulations"
+  },
+  {
+   "text": "Guide dogs and dogs used in an activity offered in the park are allowed.",
+   "url": "https://www.nunavikparks.ca/en/regulations"
+  },
+  {
+   "text": "Control pets at all times, or leave them at home.",
+   "url": "https://www.nunavikparks.ca/en/faq"
+  }
+ ],
+ "officialUrl": "https://www.nunavikparks.ca/en/parks/kuururjuaq",
+ "petsUrl": "https://www.nunavikparks.ca/en/regulations",
+ "coordinates": [
+  -64.566666666,
+  58.6
+ ],
+ "coordinatesSource": "Wikidata Q2051982"
+}

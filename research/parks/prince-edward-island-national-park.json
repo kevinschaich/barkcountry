@@ -1,0 +1,42 @@
+{
+ "id": "prince-edward-island-national-park",
+ "name": "Prince Edward Island National Park",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed on all trails, campgrounds and picnic areas; only the beaches close seasonally.",
+ "summary": "Leashed dogs can use trails, picnic areas and campgrounds; beaches are closed to pets April 1 to October 15.",
+ "excerpts": [
+  {
+   "quote": "You can have your dog with you at picnic areas, camping areas, and along the many trails in the Park.",
+   "url": "https://parks.canada.ca/pn-np/pe/pei-ipe/visit/chien-dog"
+  },
+  {
+   "quote": "Pets are prohibited on national park beaches from April 1 - October 15 but are still allowed on leash in camping areas, picnic areas and along park trails.",
+   "url": "https://parks.canada.ca/pn-np/pe/pei-ipe/visit"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on any park beach from April 1 to October 15 (piping plovers); minimum fine $100.",
+   "url": "https://parks.canada.ca/pn-np/pe/pei-ipe/bulletins/a8147c11-af87-4ed3-bdca-050522ae1878"
+  },
+  {
+   "text": "Leash no longer than 3 m.",
+   "url": "https://parks.canada.ca/pn-np/pe/pei-ipe/visit/chien-dog"
+  },
+  {
+   "text": "No dogs in washrooms.",
+   "url": "https://parks.canada.ca/pn-np/pe/pei-ipe/visit/chien-dog"
+  },
+  {
+   "text": "Coyotes can be bold toward dogs in winter breeding season.",
+   "url": "https://parks.canada.ca/pn-np/pe/pei-ipe/securite-safety/animaux-wildlife"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/pe/pei-ipe",
+ "petsUrl": "https://parks.canada.ca/pn-np/pe/pei-ipe/visit/chien-dog",
+ "coordinates": [
+  -63.075,
+  46.4167
+ ],
+ "coordinatesSource": "Wikidata Q1314367"
+}

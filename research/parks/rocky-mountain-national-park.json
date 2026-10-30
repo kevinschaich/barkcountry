@@ -1,0 +1,26 @@
+{
+ "id": "rocky-mountain-national-park",
+ "name": "Rocky Mountain National Park",
+ "policy": "roads",
+ "policyReason": "The park prohibits pets on all trails.",
+ "summary": "Pets are prohibited on all trails, tundra and meadows; only roads, parking areas, picnic areas and campgrounds.",
+ "excerpts": [
+  {
+   "quote": "Pets are prohibited on ALL Rocky Mountain National Park trails, tundra, and meadows.",
+   "url": "https://www.nps.gov/romo/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not in any visitor center.",
+   "url": "https://www.nps.gov/romo/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/romo/index.htm",
+ "petsUrl": "https://www.nps.gov/romo/planyourvisit/pets.htm",
+ "coordinates": [
+  -105.6833,
+  40.35
+ ],
+ "coordinatesSource": "Wikidata Q777183"
+}

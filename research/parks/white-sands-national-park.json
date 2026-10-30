@@ -1,0 +1,30 @@
+{
+ "id": "white-sands-national-park",
+ "name": "White Sands National Park",
+ "policy": "everywhere",
+ "policyReason": "The park welcomes leashed pets with no trail restriction stated.",
+ "summary": "Leashed pets are welcome in the park, but not in the visitor center or gift shop.",
+ "excerpts": [
+  {
+   "quote": "Visitors are welcome to bring their pets to the park as long as they are kept on a leash.",
+   "url": "https://www.nps.gov/whsa/planyourvisit/basicinfo.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not in federal buildings.",
+   "url": "https://www.nps.gov/whsa/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Do not leave a pet tied to an object.",
+   "url": "https://www.nps.gov/whsa/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/whsa/index.htm",
+ "petsUrl": "https://www.nps.gov/whsa/planyourvisit/pets.htm",
+ "coordinates": [
+  -106.171667,
+  32.779722
+ ],
+ "coordinatesSource": "Wikidata Q1200164"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "terra-nova-national-park-visitor-center",
+ "name": "Terra Nova National Park",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed on trails on leash; no trail bans are listed.",
+ "summary": "Leashed dogs are allowed on trails; five oTENTiks are pet-friendly.",
+ "excerpts": [
+  {
+   "quote": "Keep your dog under control and on a leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/nl/terranova/sec-saf/hike-safety"
+  },
+  {
+   "quote": "Sleep soundly in one of our five pet-friendly oTENTik units, the perfect mix of a tent and A-frame cabin, for a hassle-free trip for the entire family.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs on trails must be leashed and under control.",
+   "url": "https://parks.canada.ca/pn-np/nl/terranova/sec-saf/hike-safety"
+  },
+  {
+   "text": "Five oTENTiks are pet-friendly.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  },
+  {
+   "text": "Never leave dogs unattended outside; store dog food securely.",
+   "url": "https://parks.canada.ca/pn-np/nl/terranova/sec-saf/wildlife"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nl/terranova",
+ "petsUrl": "https://parks.canada.ca/pn-np/nl/terranova/sec-saf/hike-safety",
+ "coordinates": [
+  -53.9281,
+  48.5306
+ ],
+ "coordinatesSource": "Wikidata Q1422693"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "great-basin-national-park",
+ "name": "Great Basin National Park",
+ "policy": "trails",
+ "policyReason": "Leashed pets may use the Lexington Arch Trail and the Baker to visitor center trail only.",
+ "summary": "Leashed pets may use the Lexington Arch Trail and the Baker to visitor center trail only.",
+ "excerpts": [
+  {
+   "quote": "Leashed pets can only be exercised in the campgrounds, in front of the visitor centers, and along roads.",
+   "url": "https://www.nps.gov/grba/planyourvisit/pets.htm"
+  },
+  {
+   "quote": "Pets are not allowed on any trails or backcountry areas.",
+   "url": "https://www.nps.gov/grba/learn/management/pet-regulations.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed on Lexington Arch Trail and the Baker to Great Basin Visitor Center trail.",
+   "url": "https://www.nps.gov/grba/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not in Lehman Caves or at evening programs.",
+   "url": "https://www.nps.gov/grba/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not at astronomy programs.",
+   "url": "https://www.nps.gov/grba/learn/management/pet-regulations.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/grba",
+ "petsUrl": "https://www.nps.gov/grba/planyourvisit/pets.htm",
+ "coordinates": [
+  -114.2197,
+  39.0058
+ ],
+ "coordinatesSource": "Wikidata Q1137657"
+}

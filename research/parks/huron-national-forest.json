@@ -1,0 +1,26 @@
+{
+ "id": "huron-national-forest",
+ "name": "Huron National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome on trails.",
+ "summary": "Leashed dogs are welcome on trails.",
+ "excerpts": [
+  {
+   "quote": "Dogs are welcome on the Huron-Manistee National Forests.",
+   "url": "https://www.fs.usda.gov/r09/huron-manistee"
+  },
+  {
+   "quote": "Dogs are allowed on hiking trails, as long as they are kept on a leash.",
+   "url": "https://www.fs.usda.gov/r09/huron-manistee/animals-plants/canine-camper"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/r09/huron-manistee",
+ "petsUrl": "https://www.fs.usda.gov/r09/huron-manistee",
+ "coordinates": [
+  -84.0152306,
+  44.5093519
+ ],
+ "coordinatesSource": "OpenStreetMap: Huron National Forest, Oscoda County, Michigan, 48761, United States",
+ "unit": "Huron-Manistee National Forests"
+}

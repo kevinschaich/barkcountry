@@ -1,0 +1,38 @@
+{
+ "id": "deschutes-national-forest",
+ "name": "Deschutes National Forest",
+ "policy": "everywhere",
+ "policyReason": "Over 95% of trails are open to dogs off leash in summer.",
+ "summary": "Over 95% of trails are open to dogs off leash in summer.",
+ "excerpts": [
+  {
+   "quote": "Over 95% of the Deschutes National Forest trails are open to dogs off-leash in the summer and there are 1,200 miles of summer trails on the forest.",
+   "url": "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions"
+  },
+  {
+   "quote": "In winter, dogs are allowed off-leash on 99% of national forest lands managed by the Deschutes National Forest.",
+   "url": "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs in the Bend Municipal Watershed.",
+   "url": "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions"
+  },
+  {
+   "text": "Leash on Three Sisters Wilderness trails (Green Lakes, Moraine Lakes, South Sister and others) in summer.",
+   "url": "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions"
+  },
+  {
+   "text": "Leash on part of the Deschutes River Trail, May 15 to Sept 15.",
+   "url": "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions",
+ "petsUrl": "https://www.fs.usda.gov/r06/deschutes/safety-ethics/dog-restrictions",
+ "coordinates": [
+  -121.5,
+  44.0
+ ],
+ "coordinatesSource": "Wikidata Q3079128"
+}

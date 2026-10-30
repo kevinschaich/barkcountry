@@ -1,0 +1,21 @@
+{
+ "id": "six-rivers-national-forest",
+ "name": "Six Rivers National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may use trails on a leash.",
+ "summary": "Dogs may use trails on a leash.",
+ "excerpts": [
+  {
+   "quote": "Keep pets leashed and walk with small children, don't let them run ahead.",
+   "url": "https://www.fs.usda.gov/r05/sixrivers/safety-ethics/respect-wildlife"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/srnf",
+ "petsUrl": "https://www.fs.usda.gov/r05/sixrivers/safety-ethics/respect-wildlife",
+ "coordinates": [
+  -123.84523,
+  41.72479
+ ],
+ "coordinatesSource": "Wikidata Q3079149"
+}

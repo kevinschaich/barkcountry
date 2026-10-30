@@ -1,0 +1,164 @@
+[Skip to main content](https://www.fs.usda.gov/r09/huron-manistee/about-area/faqs#main-content)
+
+![Dot gov](https://www.fs.usda.gov/themes/custom/wfs/package/dist/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+A **.gov** website belongs to an official government organization in the United States.
+
+
+![Https](https://www.fs.usda.gov/themes/custom/wfs/package/dist/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+A **lock** ( LockLocked padlock
+) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+
+Alerts and Fire Danger Status
+
+Alerts:
+
+[View All Alerts](https://www.fs.usda.gov/r09/huron-manistee/alerts) 🡪
+
+[USE CAUTION - KNOW BEFORE YOU GO!](https://www.fs.usda.gov/r09/huron-manistee/alerts/use-caution-know-you-go-0) [Pre-solicitation Notice: Outfitting & Guiding Special Use Permits for Guided Fishing on White & PM](https://www.fs.usda.gov/r09/huron-manistee/alerts/pre-solicitation-notice-outfitting-guiding-special-use-permits-guided) [Forest Supervisor Orders](https://www.fs.usda.gov/r09/huron-manistee/alerts/forest-supervisor-orders)
+
+Fire Danger Status
+
+ModerateBaldwin
+
+ModerateCadillac
+
+HighManistee
+
+ModerateWhite Cloud
+
+LowHuron Shores
+
+ModerateMio
+
+[Current Fire Conditions](https://www.fs.usda.gov/r09/huron-manistee/fire/info)
+
+![Print Icon](https://www.fs.usda.gov/themes/custom/wfs/img/usa-icons/print.svg)
+
+T
+
+T
+
+T
+
+- [Contact Us](https://www.fs.usda.gov/r09/huron-manistee/contact-us)
+- [Keep In Touch](https://www.fs.usda.gov/r09/huron-manistee/keep-in-touch)
+- [About the Area](https://www.fs.usda.gov/r09/huron-manistee/about-area)  - [FAQs](https://www.fs.usda.gov/r09/huron-manistee/about-area/faqs)
+- [Newsroom](https://www.fs.usda.gov/r09/huron-manistee/newsroom)
+- [Offices](https://www.fs.usda.gov/r09/huron-manistee/offices)
+- [Working with Us](https://www.fs.usda.gov/r09/huron-manistee/working-with-us)
+
+# FAQs
+
+## General
+
+### Where is the entrance to the Huron-Manistee National Forests?
+
+There is no one entrance to the national forests as there are with National Parks. While on some maps it looks as if the forests are large chunks of unbroken land, the Forest Service system lands are interspersed within chunks of privately owned or state owned land, creating a checkerboard of private and federal land across the northern portion of the lower peninsula.
+
+There are multiple roads that lead into and out of the forests. While this provides for better access into the forests, it also means you need to make sure that you know what is Federal land and what is not. All of our maps provide ownership information and it is recommended that you obtain a map by visiting the [Maps and Publications section](https://www.fs.usda.gov/detail/hmnf/%E2%80%9Dhttp://www.fs.usda.gov/main/hmnf/maps-pubs%E2%80%9D) before visiting.
+
+### How do I get weather alerts or emergency information while at a site?
+
+Weather alerts can be provided by adding the zip code for the area you are visiting to your favorite weather app for your smartphone or setting up a weather service to send you emails or text messages for that area from their website. You can look up zip codes on the [United States Postal Service website ZIP Code Look Up page.](https://tools.usps.com/go/ZipLookupAction!input.action)
+
+Any closures, alerts or notices for the Forests are posted on our website in [Alerts and Notices](https://www.fs.usda.gov/r09/huron-manistee/alerts).
+
+### What areas don’t have cell/data coverage?
+
+Cell phone/data coverage depends entirely on where you are. Some areas have better coverage than others. Some have no coverage at all. You will need to check with your carrier or look on your carriers website to see a coverage map to determine what your level of coverage would be in any given area of the forests.
+
+### Where can I park?
+
+You can park at any of the day use areas across the forests. You can also pull off along a road, as long as you pull far enough off the road to not impede traffic, no more than 25 feet
+
+### Can I bring my dog with me?
+
+Yes, you may bring your pet with you. For their safety we recommend they be on a leash that is 6 feet long or less.  Dogs are not allowed on designated swimming beaches, and in the spring there may be some areas closed to dogs for the protection of Threatened and Endangered Species.
+
+## Employment
+
+### How do I know what jobs are available?
+
+Visit the [Employment page](https://www.fs.usda.gov/r09/working-with-us/careers) for information on which jobs will be coming available and which jobs are currently open.
+
+### Where can I apply for jobs?
+
+All job applications must be submitted through [USAJobs.gov](https://www.usajobs.gov/).
+
+### What is a Youth Conservation Corps position? How do I apply for one?
+
+Youth Conservation Corps are for students aged 15 - 18. We begin accepting applications for Youth Conservation Corp positions in March of each calendar year. Applications are available from all [offices](https://www.fs.usda.gov/r09/huron-manistee/offices).
+
+### I'm a student who would like to do a job shadow, who do I contact?
+
+To set up a job shadow opportunity, contact one of our [offices](https://www.fs.usda.gov/r09/huron-manistee/offices) or [email us](mailto:sm.fs.hmnf@usda.gov?subject=Question).
+
+## GIS (Geospatial) Data
+
+### Where can I get Huron-Manistee data from?
+
+A variety of data is available for the Huron-Manistee National Forests from the Forest Service and the state. For links and more information visit the [Geospatial Information page.](https://www.fs.usda.gov/r09/huron-manistee/data-tools/gis)
+
+### What layers are available?
+
+Datasets include boundaries, ownership, roads, trails, recreation sites and more.
+
+### What format is data provided in?
+
+Data is available in KML, ESRI geodatabase and shape file
+
+## Maps, Brochures and Publications
+
+### Is there an on-line map of forest recreation sites?
+
+[Travel Access Map](https://www.fs.usda.gov/visit/maps)\- This interactive travel map supplements the corresponding motor vehicle use map (MVUM) by displaying on detailed color maps the National Forest System (NFS) roads, NFS motorized trails and areas on NFS lands that are designated for motor vehicle use on that MVUM, as well as nearby points of interest. The interactive travel map also allows visitors to search for designated roads, trails, and areas by vehicle class and time of year. The interactive travel map does not display designations for motor vehicle use for dispersed camping or big game retrieval. The interactive travel map does not replace the MVUM, which makes designations of roads, trails, and areas legally effective pursuant to 36 CFR 212.56 and 261.13.
+
+Other on-line maps are listed on the [Maps and Publications page](https://www.fs.usda.gov/r09/huron-manistee/maps-guides).
+
+### Where can I download trail maps?
+
+Trail maps can be downloaded on the [Maps and Publications page](https://www.fs.usda.gov/r09/huron-manistee/maps-guides).
+
+### How do I get paper maps?
+
+Contact one of our [offices](https://www.fs.usda.gov/main/hmnf/about-forest) or [email us](mailto:sm.fs.hmnf@usda.gov?subject=Question).
+
+## Passes, Permits and Fees
+
+### Where can I get a firewood permit?
+
+Permits MUST be purchased in person. Visit one of our [offices](https://www.fs.usda.gov/r09/huron-manistee/offices) to purchase your permit. Information on firewood permits is available in the [passes and permits section](https://www.fs.usda.gov/r09/huron-manistee/permits).
+
+### How can my fourth grader get a free Christmas Tree tag?
+
+Visit [EveryKidOutdoors.gov](https://everykidoutdoors.gov/index.htm) for information on how to get your free Christmas tree tag.
+
+### Where do I get a burn permit?
+
+Burn permits are issued through the Michigan DNR by visiting the [Burn Permit website operated by the DNR](https://www.michigan.gov/dnr/managing-resources/forestry/fire/burn-permit).
+
+### Do I need a permit to cut firewood for campfires?
+
+If your campfire will be on National Forest System lands you will not need a wood permit to cut firewood. If you will be removing firewood from the national forest you will need a [firewood permit](https://www.fs.usda.gov/r09/huron-manistee/permits).
+
+## Outfitters & Guides
+
+### How do I become an Outfitter or Guide on the National Forests?
+
+[Contact the Ranger District office](https://www.fs.usda.gov/r09/huron-manistee/offices) in the area where you propose to conduct your services.
+
+### How do I report someone who is operating an illegal outfitter or guide service ?
+
+[Contact the Ranger District office](https://www.fs.usda.gov/r09/huron-manistee/offices) in the area where the service is being provided.
+
+_Last updated_
+_May 21, 2026_
+
+[Return to top](https://www.fs.usda.gov/r09/huron-manistee/about-area/faqs#)

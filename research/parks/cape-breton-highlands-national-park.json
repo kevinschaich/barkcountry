@@ -1,0 +1,42 @@
+{
+ "id": "cape-breton-highlands-national-park",
+ "name": "Cape Breton Highlands National Park",
+ "policy": "everywhere",
+ "policyReason": "Only the Skyline Trail and some beaches are closed to pets; the rest of the park allows them on leash.",
+ "summary": "Leashed pets can use most of the park, but not the Skyline Trail or some beaches.",
+ "excerpts": [
+  {
+   "quote": "trail and in certain beach areas. Please comply with signage.",
+   "url": "https://www.pc.gc.ca/pn-np/ns/cbreton/securite-safety"
+  },
+  {
+   "quote": "Pets must be kept on a leash at all times.",
+   "url": "https://www.pc.gc.ca/pn-np/ns/cbreton/securite-safety"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on the Skyline Trail or in certain beach areas; follow signs.",
+   "url": "https://www.pc.gc.ca/pn-np/ns/cbreton/securite-safety"
+  },
+  {
+   "text": "Pets must be leashed; pick up droppings.",
+   "url": "https://www.pc.gc.ca/pn-np/ns/cbreton/securite-safety"
+  },
+  {
+   "text": "No pets in equipped campsite tents or oTENTiks at Broad Cove.",
+   "url": "https://www.pc.gc.ca/en/pn-np/ns/cbreton/activ/camping/broadcove"
+  },
+  {
+   "text": "No pets in oTENTik units at Mkwesaqtuk / Cap Rouge.",
+   "url": "https://www.pc.gc.ca/en/pn-np/ns/cbreton/activ/camping/mkwesaqtuk-caprouge"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/ns/cbreton",
+ "petsUrl": "https://www.pc.gc.ca/pn-np/ns/cbreton/securite-safety",
+ "coordinates": [
+  -60.6597,
+  46.7167
+ ],
+ "coordinatesSource": "Wikidata Q253517"
+}

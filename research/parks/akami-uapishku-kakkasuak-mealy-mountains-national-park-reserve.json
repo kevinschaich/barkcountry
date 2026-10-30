@@ -1,0 +1,46 @@
+{
+ "id": "akami-uapishku-kakkasuak-mealy-mountains-national-park-reserve",
+ "name": "Akami-Uapishkᵘ-KakKasuak-Mealy Mountains National Park Reserve",
+ "policy": "everywhere",
+ "policyReason": "The park's own visitor and safety pages say nothing about dogs, so this rests on the National Parks of Canada Domestic Animals Regulations (SOR/98-177) and Parks Canada's dog page: dogs on a 3 m leash, with no area of this park posted as closed.",
+ "summary": "No dog rules of its own; the national rule applies: dogs on a leash of 3 m or less, under control at all times.",
+ "excerpts": [
+  {
+   "quote": "5 Every person who brings a domestic animal into a park or who keeps a domestic animal in a park shall have the animal under physical control at all times and shall ensure that the animal does not",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html"
+  },
+  {
+   "quote": "(b) in respect of a domestic animal to which paragraph (a) does not apply, restraint by a leash that does not exceed 3 metres in length; or",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html"
+  },
+  {
+   "quote": "When visiting a Parks Canada place dogs must be on a leash and under control at all times.",
+   "url": "https://parks.canada.ca/voyage-travel/regles-rules/chien-dog"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be under physical control (a leash of 3 m or less) at all times.",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html"
+  },
+  {
+   "text": "Dogs may not chase or disturb wildlife, or enter areas posted as closed to domestic animals.",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html"
+  },
+  {
+   "text": "Keeping a dog in the park more than 30 days a year needs a permit.",
+   "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-98-177/FullText.html"
+  },
+  {
+   "text": "The park's visitor pages name no dog rules or closures.",
+   "url": "https://parks.canada.ca/pn-np/nl/mealy/visit"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nl/mealy",
+ "petsUrl": null,
+ "coordinates": [
+  -59.3667,
+  53.4
+ ],
+ "coordinatesSource": "Wikidata Q4293399"
+}

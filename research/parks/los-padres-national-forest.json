@@ -1,0 +1,25 @@
+{
+ "id": "los-padres-national-forest",
+ "name": "Los Padres National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome; 6-ft leash on trails and in campgrounds.",
+ "summary": "Dogs are welcome; 6-ft leash on trails and in campgrounds.",
+ "excerpts": [
+  {
+   "quote": "Dogs are always welcome on the Los Padres National Forest.",
+   "url": "https://www.fs.usda.gov/r05/lospadres/recreation/cerro-alto-loop"
+  },
+  {
+   "quote": "While on a trail or in and around campgrounds and picnic areas, dogs must be kept on a leash (unless caged or crated) no longer than six feet.",
+   "url": "https://www.fs.usda.gov/r05/lospadres/recreation/camping-cabins"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/lpnf",
+ "petsUrl": "https://www.fs.usda.gov/r05/lospadres/recreation/cerro-alto-loop",
+ "coordinates": [
+  -119.751,
+  34.6667
+ ],
+ "coordinatesSource": "Wikidata Q3290802"
+}

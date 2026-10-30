@@ -1,0 +1,34 @@
+{
+ "id": "bryce-canyon-national-park",
+ "name": "Bryce Canyon National Park",
+ "policy": "roads",
+ "policyReason": "Pets are limited to paved paths in developed areas (the Shared-use Path and the paved Rim Trail between Sunset and Sunrise Points), which don't count as trails, so roads.",
+ "summary": "Pets may go only on paved surfaces: roads, campgrounds, viewpoints, the Shared-use Path and the paved Rim Trail by the lodge.",
+ "excerpts": [
+  {
+   "quote": "Pets are only allowed on paved surfaces, including park roads and campgrounds, the Shared-use Path, paved viewpoints (all viewpoints except Piracy Point), and the 1/2 mile (0.8 km) section of Rim Trail between Sunset and Sunrise Points.",
+   "url": "https://www.nps.gov/brca/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on unpaved trails, Piracy Point, buildings or the shuttle, even if carried.",
+   "url": "https://www.nps.gov/brca/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Do not leave pets tied to an object.",
+   "url": "https://www.nps.gov/brca/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Emotional support animals follow the pet rules.",
+   "url": "https://www.nps.gov/brca/planyourvisit/day-hikes.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/brca",
+ "petsUrl": "https://www.nps.gov/brca/planyourvisit/pets.htm",
+ "coordinates": [
+  -112.17,
+  37.64
+ ],
+ "coordinatesSource": "Wikidata Q219562"
+}

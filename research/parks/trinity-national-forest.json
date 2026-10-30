@@ -1,0 +1,27 @@
+{
+ "id": "trinity-national-forest",
+ "name": "Trinity National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed in campgrounds and on trails.",
+ "summary": "Dogs are allowed in campgrounds and on trails.",
+ "excerpts": [
+  {
+   "quote": "Pets and animals are allowed in campgrounds and trails with the following restriction:",
+   "url": "https://www.fs.usda.gov/r05/shasta-trinity/about-area/faqs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "6-ft leash in developed areas and on interpretive trails.",
+   "url": "https://www.fs.usda.gov/r05/shasta-trinity/recreation"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/stnf",
+ "petsUrl": "https://www.fs.usda.gov/r05/shasta-trinity/about-area/faqs",
+ "coordinates": [
+  -123.1586138,
+  40.6492184
+ ],
+ "coordinatesSource": "OpenStreetMap: Trinity National Forest, Big Creek Road, Trinity County, California, United Stat",
+ "unit": "Shasta-Trinity National Forest"
+}

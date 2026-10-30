@@ -1,0 +1,34 @@
+{
+ "id": "kenai-fjords-national-park",
+ "name": "Kenai Fjords National Park",
+ "policy": "roads",
+ "policyReason": "Pets are allowed in only a few select areas and are prohibited on trails at all times.",
+ "summary": "Pets are allowed in only a few select areas and are prohibited on trails at all times.",
+ "excerpts": [
+  {
+   "quote": "For the safety of all, pets are allowed in only a few select areas, and may not be left unattended.",
+   "url": "https://www.nps.gov/kefj/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on trails past the Exit Glacier parking lot.",
+   "url": "https://www.nps.gov/kefj/planyourvisit/conditions.htm"
+  },
+  {
+   "text": "No pets along the coast to 1/4 mile inland, May 30 to Nov 1.",
+   "url": "https://www.nps.gov/kefj/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Mushing and skijoring dogs allowed on the Harding Icefield.",
+   "url": "https://www.nps.gov/kefj/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/kefj",
+ "petsUrl": "https://www.nps.gov/kefj/planyourvisit/pets.htm",
+ "coordinates": [
+  -149.9875,
+  59.917777777
+ ],
+ "coordinatesSource": "Wikidata Q841503"
+}

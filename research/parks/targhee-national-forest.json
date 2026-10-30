@@ -1,0 +1,38 @@
+{
+ "id": "targhee-national-forest",
+ "name": "Targhee National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Dogs are welcome, but must be on a leash.",
+   "url": "https://www.fs.usda.gov/r04/caribou-targhee/recreation/explore-forest"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Winter forest order: no dogs on or within 200 yards of groomed ski trails in parts of the Teton Basin and Palisades districts.",
+   "url": "https://www.fs.usda.gov/r04/caribou-targhee/alerts/04-15-25-218-teton-basin-palisades-dog-closure"
+  },
+  {
+   "text": "Forest order: no dogs on Ashton/Island Park groomed ski trails.",
+   "url": "https://www.fs.usda.gov/r04/caribou-targhee/alerts/04-15-23-214-ashton-island-park-ski-trails"
+  },
+  {
+   "text": "Winter: dogs leashed at trailheads and banned on the South Valley trail system.",
+   "url": "https://www.fs.usda.gov/r04/caribou-targhee/newsroom/releases/annual-winter-restrictions-targhee-forest"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r04/caribou-targhee",
+ "petsUrl": null,
+ "coordinates": [
+  -111.3341184,
+  44.5001989
+ ],
+ "coordinatesSource": "OpenStreetMap: Targhee National Forest, Gooding, Fremont County, Idaho, 83433, United States"
+}

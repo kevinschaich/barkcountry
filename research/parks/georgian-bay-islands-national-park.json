@@ -1,0 +1,38 @@
+{
+ "id": "georgian-bay-islands-national-park",
+ "name": "Georgian Bay Islands National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are allowed, on a leash of at most 3 m.",
+ "summary": "Leashed pets are allowed, on a leash of at most 3 m.",
+ "excerpts": [
+  {
+   "quote": "All domestic animals must be kept under direct physical control (i.e. on a leash (max 3 meters) or in suitable confinement).",
+   "url": "https://parks.canada.ca/pn-np/on/georg/securite-safety/reglements-regulations"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash of at most 3 m, or suitable confinement.",
+   "url": "https://parks.canada.ca/pn-np/on/georg/securite-safety/reglements-regulations"
+  },
+  {
+   "text": "Pets must not be left unattended on campsites.",
+   "url": "https://parks.canada.ca/pn-np/on/georg/securite-safety/reglements-regulations"
+  },
+  {
+   "text": "A leash helps protect dogs from rattlesnakes, porcupines and poison ivy.",
+   "url": "https://parks.canada.ca/pn-np/on/georg/visit/comportements-guidelines"
+  },
+  {
+   "text": "Pets must stay leashed at primitive campsites.",
+   "url": "https://parks.canada.ca/pn-np/on/georg/activ/camping/prim-camp-sauv"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/on/georg",
+ "petsUrl": "https://parks.canada.ca/pn-np/on/georg/securite-safety/reglements-regulations",
+ "coordinates": [
+  -79.8747,
+  44.8778
+ ],
+ "coordinatesSource": "Wikidata Q583518"
+}

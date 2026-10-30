@@ -1,0 +1,21 @@
+{
+ "id": "croatan-national-forest",
+ "name": "Croatan National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome on nearly all trails.",
+ "summary": "Dogs are welcome on nearly all trails.",
+ "excerpts": [
+  {
+   "quote": "National Forests in North Carolina have hundreds of miles of hiking trails, and dogs are welcome on nearly all of it.",
+   "url": "https://www.fs.usda.gov/r08/northcarolina/safety-ethics"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/nfsnc",
+ "petsUrl": "https://www.fs.usda.gov/r08/northcarolina/safety-ethics",
+ "coordinates": [
+  -77.056446,
+  34.914441
+ ],
+ "coordinatesSource": "Wikipedia: Croatan National Forest"
+}

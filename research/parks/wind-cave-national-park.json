@@ -1,0 +1,26 @@
+{
+ "id": "wind-cave-national-park",
+ "name": "Wind Cave National Park",
+ "policy": "trails",
+ "policyReason": "Pets are barred from most trails and the backcountry, with a few exceptions.",
+ "summary": "Pets are barred from most trails and the backcountry, with a few exceptions.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed on any other trail or in the backcountry.",
+   "url": "https://www.nps.gov/thingstodo/pet-friendly-hikes-wica.htm?fbclid=IwAR1DdlbZN7vgqoUVmpBkiAdfaFJl9GJDuvxF7EQxr7Ad1MoXVNb7mieyU4E"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Prairie Vista Trail, picnic area and campground allow leashed pets.",
+   "url": "https://www.nps.gov/thingstodo/picnic-wica.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/wica/index.htm",
+ "petsUrl": "https://www.nps.gov/wica/planyourvisit/pets.htm",
+ "coordinates": [
+  -103.47865,
+  43.55635
+ ],
+ "coordinatesSource": "Wikidata Q1334313"
+}

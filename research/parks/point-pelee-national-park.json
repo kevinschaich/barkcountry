@@ -1,0 +1,38 @@
+{
+ "id": "point-pelee-national-park",
+ "name": "Point Pelee National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome on all trails, in the Visitor Centre and on the shuttle to the tip.",
+ "summary": "Leashed dogs are welcome on all trails, in the Visitor Centre and on the shuttle to the tip.",
+ "excerpts": [
+  {
+   "quote": "Your dog is welcome to join you in the Visitor Centre, along all trails and on the shuttle to the tip.",
+   "url": "https://parks.canada.ca/pn-np/on/pelee/visit/chien-dog"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs are welcome in the Visitor Centre, on all trails and on the shuttle to the tip.",
+   "url": "https://parks.canada.ca/pn-np/on/pelee/visit/chien-dog"
+  },
+  {
+   "text": "There is no off-leash area in the park.",
+   "url": "https://parks.canada.ca/pn-np/on/pelee/visit/chien-dog"
+  },
+  {
+   "text": "Only oTENTik sites 8 and 9 at Camp Henry are pet-friendly; at most 2 pets, no pets on beds.",
+   "url": "https://parks.canada.ca/pn-np/on/pelee/activ/otentik"
+  },
+  {
+   "text": "Never leave a pet in a vehicle alone.",
+   "url": "https://parks.canada.ca/pn-np/on/pelee/visit/chien-dog"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/on/pelee",
+ "petsUrl": "https://parks.canada.ca/pn-np/on/pelee/visit/chien-dog",
+ "coordinates": [
+  -82.516666666,
+  41.966666666
+ ],
+ "coordinatesSource": "Wikidata Q1153938"
+}

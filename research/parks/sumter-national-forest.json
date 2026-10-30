@@ -1,0 +1,22 @@
+{
+ "id": "sumter-national-forest",
+ "name": "Sumter National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs may hike if kept under physical restraint.",
+ "summary": "Dogs may hike if kept under physical restraint.",
+ "excerpts": [
+  {
+   "quote": "If you bring your dog hiking, keep it under physical restraint at all times.",
+   "url": "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/trail-safety"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/r08/francismarionsumter",
+ "petsUrl": "https://www.fs.usda.gov/r08/francismarionsumter/safety-ethics/trail-safety",
+ "coordinates": [
+  -81.5919,
+  34.5683
+ ],
+ "coordinatesSource": "Wikipedia: Sumter National Forest",
+ "unit": "Francis Marion and Sumter National Forests"
+}

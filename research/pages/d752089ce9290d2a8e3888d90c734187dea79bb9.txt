@@ -1,0 +1,643 @@
+# Cibola National Forest and National Grasslands
+
+## Fiscal Year 2014 Monitoring and Evaluation Report
+
+TREES
+
+The river flows through the valley, surrounded by desert vegetation and rocky hills.
+
+---
+
+In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA)) civil rights regulations and policies, 
+the USDA, its Agencies, offices, and employees, and institutions participating in or administering USDA programs are 
+prohibited from discriminating based on race, color, national origin, religion, sex, gender identity (including gender 
+expression), sexual orientation, disability, age, marital status, family/parental status, income derived from a public assistance 
+program, political beliefs, or reprisal or retaliation for prior civil rights activity, in any program or activity conducted or 
+funded by USDA (not all bases apply to all programs). Remedies and complaint filing deadlines vary by program or incident.
+
+Persons with disabilities who require alternative means of communication for program information (e.g., Braille, large print,
+audiotape, American Sign Language, etc.) should contact the responsible Agency or USDA’s TARGET Center at (202) 720-
+2600 (voice and TTY) or contact USDA through the Federal Relay Service at (800) 877-8339. Additionally, program 
+information may be made available in languages other than English.
+
+To file a program discrimination complaint, complete the USDA Program Discrimination Complaint Form, AD-3027, found 
+online at http://www.ascr.usda.gov/complaint_filing_cust.html and at any USDA office or write a letter addressed to USDA 
+and provide in the letter all of the information requested in the form. To request a copy of the complaint form, call (866) 632-
+9992. Submit your completed form or letter to USDA by: (1) mail: U.S. Department of Agriculture, Office of the Assistant 
+Secretary for Civil Rights, 1400 Independence Avenue, SW, Washington, D.C. 20250-9410; (2) fax: (202) 690-7442; or (3) 
+email: program.intake@usda.gov.
+
+USDA is an equal opportunity provider, employer and lender.
+
+---
+
+#### Contents
+
+Executive Summary...................................................................................................................................... 1
+Elements Monitored and Results under the 1985 Cibola Forest Plan
+for the Mountain Ranger Districts............................................................................................................ 1
+Cultural Resources................................................................................................................................ 1
+Engineering........................................................................................................................................... 1
+Fire Monitoring..................................................................................................................................... 1
+Forestry................................................................................................................................................. 1
+Land and Land Use............................................................................................................................... 2
+Range.................................................................................................................................................... 3
+Recreation............................................................................................................................................. 3
+Soil and Water....................................................................................................................................... 3
+Best Management Practices.................................................................................................................. 4
+Wildlife................................................................................................................................................. 4
+Monitoring Questions and Findings under the 2012 Kiowa, Rita Blanca, Black Kettle, 
+and McClellan Creek Land and Resource Management Plan....................................................................... 6
+Developed Recreation........................................................................................................................... 6
+Ecological Indicators............................................................................................................................. 6
+Management Indicator Species............................................................................................................. 7
+Grasslands Plan Background and Monitoring Administrative Correction.................................................... 7
+1985 Cibola Forest Plan (Mountain Ranger Districts only) Background and Amendments........................ 8
+FY 2014 Monitoring Results under the 1985 Cibola Forest Plan for Mountain Ranger Districts Only..... 10
+FY 2014 Monitoring Results for the Kiowa, Rita Blanca, Black Kettle and McClellan Creek National 
+Grasslands under the 2012 Land and Resource Management Plan............................................................ 26
+
+###### List of Tables
+
+Table 1. Amendment history to the 1985 Cibola Forest Plan....................................................................... 9
+Table 2. FY 2014 monitoring results by program area (1985 Cibola Forest Plan for Mountain Ranger 
+Districts only)...................................................................................................................................... 10
+Table 3. Monitoring results for the Kiowa, Rita Blanca, Black Kettle and McClellan Creek National 
+Grasslands........................................................................................................................................... 26
+**_List of Figures_**
+Figure 1. Cibola National Forest and National Grasslands and vicinity......................................................iii
+
+---
+
+## Forest Supervisor Certification
+
+I certify that the 1985 Cibola National Forest Plan (Forest Plan) as amended is sufficient to guide future management of the Cibola National Forest Mountain Ranger Districts, until the plan revision process is completed.
+
+I certify that the 2012 Kiowa, Rita Blanca, Black Kettle, and McClellan Creek National Grasslands Land and Resources Management Plan is sufficient to guide future management of these four national grasslands.
+
+This Monitoring and Evaluation Report meets regulatory requirements for completing an annual report for the fiscal year of 2014, based on Section 219 of the 2012 planning rule provisions.
+
+Elaine Kohrman, Forest Supervisor
+
+Date
+
+---
+
+CIBOLA NATIONAL FOREST
+AND NATIONAL GRASSLANDS
+
+Oklahoma
+
+Boise City
+
+Springer
+
+D7
+
+Gallup
+
+D2
+
+Albuquerque
+
+Grants
+
+D5
+
+Tucumcari
+
+D6
+
+Cheyenne
+
+Amarillo
+
+Sayre
+
+D4
+
+Socorro
+
+D3
+
+Truth Or Consequences
+
+New Mexico
+
+Texas
+
+Ranger Districts
+D2: Mount Taylor
+D3: Magdalena
+D4: Mountainair
+D5: Sandia
+D6: Black Kettle and McClellan Creek NGs
+D7: Kiowa and Rita Blanca NGs
+
+**Figure 1. Cibola National Forest and National Grasslands and vicinity**
+
+---
+
+### Executive Summary
+
+This monitoring and evaluation report for fiscal year 2014 (FY 2014) gives monitoring results for land 
+and resource management activities important to achieving Forestwide goals stated in the <u>1985 Cibola</u> 
+<u>National Forest Land and Resource Management Plan</u> (1985 Cibola Forest Plan) and grasslands-wide 
+desired conditions stated in the <u>2012 Kiowa, Rita Blanca, Black Kettle and McClellan Creek National</u> 
+<u>Grasslands Plan (2012 Cibola Grasslands Plan)</u>. The monitoring elements and questions addressed in this 
+report are on pages 199−229 of the 1985 Cibola Forest Plan and pages 113−125 of the 2012 Cibola 
+Grasslands Plan.
+
+The following is a synopsis of information found in table 2 and table 3.  Monitoring results, and 
+inferences where appropriate, are presented for cultural resources, engineering, fire, forestry, lands and 
+land use, minerals, range, recreation, soils and water, wildlife, vegetation conditions and ecological 
+indicators, and wildlife management indicator species.  These results and inferences are relevant to future 
+adaptive management.
+
+#### Elements Monitored and Results under the 1985 Cibola Forest Plan for the Mountain Ranger Districts
+
+##### Cultural Resources
+
+Cultural resources monitoring in FY 2014 involved six heritage resource sites, determined as eligible for 
+the National Register.  Archeologists conducted 21 surveys for section 106 clearances and documented 
+117 sites.  An additional 204 sites were analyzed for a National Environmental Policy Act (NEPA) 
+specialist report.
+
+##### Engineering
+
+No new roads were constructed and 8.53 miles of existing system roads were reconstructed on the Cibola 
+National Forest mountain ranger districts in FY 2104.  Approximately 290 miles of Forest Service-system 
+roads were maintained Forestwide, and 0.21 miles of roads were obliterated in the Mount Taylor, East La 
+Jara Restoration Project.  Overall, Forest road conditions continued to deteriorate. Reductions in funding 
+have prevented adequate maintenance, road improvement, and road decommissioning.
+
+##### Fire Monitoring
+
+Fire and fuels staff conducted and monitored 10 prescribed burns on the Cibola National Forest totally 
+about 2,002 acres in FY 2014.  Sixty-nine wildfires burned about 525 acres. On the National Grasslands, 
+extreme drought prohibited any prescribed fires, and unplanned fires were extinguished.
+
+##### Forestry
+
+Forestry staff monitored compliance with silvicultural prescriptions, including post-treatment basal areas, 
+canopy cover, stand densities, snag retention, and implementation of mitigation measures in timber sale 
+and personal-use firewood programs.  Monitoring allowed District staff to make areawide designations 
+for personal-use firewood in Magdalena Ranger District and to make length-of-season adjustments in 
+personal-use firewood in Mount Taylor Ranger District, Magdalena Ranger District, and Mountainair 
+Ranger District.
+
+Timely inspections were key to implementing “designation-by-description” on collaborative Forest 
+restoration projects and service projects in the Mountain Districts.
+
+---
+
+District foresters and silviculturalists used ground sampling and aerial photos, which the Regional Office 
+provided, to monitor insect and disease damage.  The majority of the pinon *Ips* beetle damage occurred on 
+the Mountainair and Sandia ranger districts, Isleta pueblo, and state and private lands in the mountains 
+east of Albuquerque.  In 2014, the western pine beetle affected the Cibola and Santa Fe National Forests, 
+as well as state and private lands.  Cibola Forest staff in the Magdalena and Sandia Mountain districts 
+detected new outbreaks of Douglas-fir tussock moth.  Aspen defoliation and decline occurred in patches 
+throughout New Mexico, especially in the Cibola and Santa Fe national forests.  Sandia District 
+developed recreation sites experienced continued tree mortality, mostly white fir.  Much of the detected 
+insect and disease damage occurred in wilderness areas or on steep, inaccessible slopes.
+
+Forest fire and fuels crews helped fall hazard trees at all developed recreation sites prior to the Spring 
+opening of Mount Taylor, Magdalena, Mountainair, and Sandia recreation sites.  Staff used hazard tree 
+removal as training and coordinated with the wildlife staff on the timing of tree cutting to reduce the 
+impact on cavity nesters.  Fuelwood permittees bucked fallen trees and carried them to parking areas for 
+removal.
+
+Forestry staff monitored commercial and personal-use fuelwood areas for compliance with permits and 
+contract requirements.  Wood theft, timber trespass, and incomplete compliance with closure orders 
+continued to occur.  Resource damage occurred in areas in the Mount Taylor, Magdalena, and 
+Mountainair ranger districts.  Due to the lack of sufficient funding and lack of Forest Protection and Law 
+Enforcement Officers, the Forest moved to the load ticket system and NEPA-designated fuelwood areas 
+Forestwide.
+
+The Forest did not need or use silvicultural practices of overstory and final removal harvesting, 
+intermediate harvesting, reforestation, or restocking of regeneration harvest during FY 2013−2014.  
+Forestry staff accomplished timber stand improvement on 5,616 acres in FY 2013 and on 8,616 acres in 
+FY 2014.  Some of these acres utilized cut/skid/deck treatments, which yarded merchantable timber to 
+roadsides for public fuelwood gathering.  Cunits (CCF or one-hundred cubic feet) of net sawtimber and 
+fuelwood sold was 23,650 CCF in FY 2013 and 18, 681 CCF in FY 2014.  Stands and acres of forest 
+lands inventoried and stored in FSVeg-Common Stand Exams database totaled 798 stands Forestwide, 
+which amounted to approximately 8,000 acres on Mount Taylor and Sandia ranger districts.
+
+The Forest also continued forest restoration treatments to restore forest resiliency in the Zuni Mountain 
+Collaborative Forest Landscape Restoration Project (CFLRP) and the Isleta Joint Chief’s Project.  An 
+average of approximately 1,000 acres of overstory thinning treatments of commercial thinning and of 
+group selection continued in the Zuni Mountains CFLRP and will be reported as “accomplished” when 
+treatment units are completed and accepted.
+
+##### Land and Land Use
+
+Lands staff continued to review desirable land acquisitions Forestwide and monitored right-of-way 
+(ROW) acquisition through non-Forest Service inholdings. Property surveys identified property 
+boundaries.  Staff addressed boundary line issues and notified individuals of encroachments.  Staff 
+worked with non-Forest Service property owners to provide an understanding of Forest goals and 
+management activities and their effects.  The purchase of Tampico Springs I and II with a Land and Water 
+Conservation Fund contribution helped the Forest Service to preserve key pieces of land from future 
+development.  The purchase of Tampico Springs eliminated easements in that area.  Through travel 
+management analyses, staff also identified ROW needs and explored ROW opportunities.  Overall, staff 
+looked at the effects of management practices conducted on adjacent non-Forest Service lands on the 
+goals of the Forest Plan.
+
+---
+
+Land use staff continued monitoring for NEPA compliance with authorization reissue and application 
+processing for several expired authorizations, one military training area permit, and three 
+telecommunication site leases.  Staff also approved two new authorizations, one for road use to access 
+private property and one for a water transmission pipeline.  Funding was also set aside for audits of 
+telecommunication sites for FY 2015.
+
+##### Range
+
+Range monitoring continued to indicate the effects of long-term drought and the primary reason for 
+reduced stocking rates.  All 84 grazing allotments were administered to standard.  Stocking rates for the 
+2014 grazing year on the mountain units were 32 percent below permitted; however, overall drought 
+conditions improved.  Moderately wet conditions were observed between the reporting periods from 
+January 2014 to December 2014 within the Central Highlands Division, which encompasses three out of 
+the four Mountain Ranger Districts including Sandia, Mountainair, and Magdalena.  The Standardized 
+Precipitation Index (SPI) at the end of the reporting period on December 14, 2014, was +1.3.  Reductions 
+in livestock numbers and/or season of use were generally the result of voluntary efforts from livestock 
+permittees resulting in minimal permittee noncompliance.  Annual planning, and proactive measures by 
+the Cibola National Forest and National Grasslands to communicate ongoing drought issues early in the 
+grazing season allowed permittees to adjust prior to the peak of the grazing season.  Adaptive 
+management processes outlined in grazing NEPA and allotment management plans are carried forward to 
+the annual operating instructions, which outline specific grazing strategies for the year.  All 84 allotments 
+on the mountain ranger districts were monitored for the 2014 grazing year, and all were in compliance 
+with the annual operating instructions.  Range conditions overall remained static; however, increased 
+production and vigor was noted at the end of the growing season.
+
+##### Recreation
+
+The Recreation Program increasingly depends on volunteers and youth corps organizations to accomplish 
+trail construction, reconstruction, and maintenance. We continue to improve capabilities for 
+accomplishing trail work by collaborating with other New Mexico forests and by taking advantage of 
+grant opportunities, especially those that provide opportunities and benefit youth and veterans.
+
+Our biggest challenge to improve the condition of recreation facilities is the short window of opportunity 
+to award contracts for the purchase and installation of facilities, such as vault toilets, and to make 
+improvement to existing structures.  The recreation program is working toward having project plans “on 
+the shelf,” so that the acquisition process can be initiated as soon as final appropriated funds are available.
+
+##### Soil and Water
+
+**Watershed Condition Assessment.** Watersheds are referred to by their proper name as well as by a 
+grouping of numbers, called the watershed’s <u>hydrologic unit code (HUC)</u>, also known as the watershed 
+address. The HUC can range from 2 to 16 digits.
+
+The Cibola National Forest rated 6 -code HUC watersheds with more than 10 percent within National<sup>th</sup> 
+Forest System lands using the national framework for assessing watershed condition (USDA 2011).
+
+$$
+6^{th}
+$$
+
+• 161 watersheds rated as “good”, meaning the watershed processes are functioning properly.
+
+• 50 watersheds rated as “fair”, meaning the watershed is functioning at risk.
+
+• 1 watershed rated as “poor”, meaning the watershed is not functioning properly.
+
+---
+
+Two identified priority watersheds are Bluewater and Las Huertas.  A watershed improvement action plan 
+(WRAP) is underway for the Las Huertas Watershed.  Many of the essential projects identified in the 
+Bluewater WRAP were implemented.  The implemented projects are part of the Bluewater Ecosystem 
+Management Project.  Additional projects, such as fencing, cattle guard replacement, road work, and 
+invasive weed treatments are scheduled.   Reassessment will occur in 2016.
+
+**Spring Inventory and Assessment.** Springs on the Cibola National Forest are a valuable, but limited, 
+resource.  Springs provide water to an otherwise dry landscape.  There are 255 named springs on the 
+Forest as identified using available GIS data.  While this number seems large, these springs are located 
+across 1.9 million acres on four Mountain Ranger Districts in New Mexico and National Grasslands in 
+New Mexico, Oklahoma, and Texas.  Many of these springs are associated with stream channels.  More 
+than half of these springs were developed for drinking water, wildlife, and livestock use.  Other springs 
+have been impacted by adjacent wells.  When springs are developed, or nearby groundwater is pumped, 
+the spring and associated stream ecosystem is often impacted.
+
+The Cibola Forest has been working with the University of New Mexico to inventory springs across the 
+Forest and Grasslands.  This inventory provides basic information about springs and their associated 
+surface and ground waters, using protocols developed by the Forest Service and other researchers.  
+Location, flow, chemistry, and management status are some of the attributes to be collected.  In 
+2013−2014, 19 springs were inventoried for characteristics and condition.  This includes two springs on 
+the Sandia Ranger District in the Las Huertas Watershed.  On the Mount Taylor Ranger District, 16
+springs were assessed. The Agua Ramora Spring is monitored more extensively due to its importance to a 
+rare fish, the Zuni bluehead sucker.
+
+**Watershed Improvement Projects.** Opportunities for watershed improvement are identified through an 
+integrated approach and by assessing the effectiveness of best management practices.  Vegetation projects 
+provide the opportunity to improve soil condition where woody material and/or ground cover are lacking.  
+Wildlife staff work with watershed resources staff to improve riparian and watershed conditions for both 
+resources.  Recreational uses provide opportunities to improve watershed condition by re-routing trails 
+away from surface waters.  Range staff also work with watershed staff to improve springs where they are 
+used as water sources for livestock.  Engineering staff improve roads and trails and remove and reduce 
+impacts to water resources.  By combining resources, 10,821 acres of watershed were improved in 2014, 
+largely through integration with wildlife and vegetation programs.  These improvements include riparian 
+restoration and soil improvements through targeted vegetation management on the Mount Taylor and 
+Mountainair ranger districts.
+
+##### Best Management Practices
+
+Two sites were monitored using the national BMP protocol.  One grazing allotment and a prescribed fire 
+area were monitored and entered into the national database.  This information showed the need to 
+improve BMP description in NEPA documents and carry through BMPs into the implementing document, 
+such as the burn plans and allotment management plans.
+
+##### Wildlife
+
+Results for wildlife monitoring elements of the 1985 Cibola Forest Plan Mountain Ranger Districts only 
+are as follows.  There were 28,719 acres of browse vegetation treated to improve availability and 
+productivity.  Fifty-one wildlife water developments were monitored.  The number of quality snags per 
+acre and number of turkey roost groups were not monitored in FY 2014, because these elements are 
+addressed every third year.
+
+---
+
+For threatened, endangered, and sensitive species monitoring pertaining to the sensitive species northern 
+goshawk on the Mount Taylor Ranger District, there were three fledglings at each of two nest sites, single 
+adults at two other sites, and no occupancy at the remaining site.  Surveys for northern goshawk on the 
+Magdalena Ranger District found one fledgling at one of two nest sites, and no occupancy was detected at 
+the other monitored site.  Of the five post-fledging family areas on Mountainair RD, two were 
+unoccupied, two sites had single adult detections, and in one site, a pair was detected.  On the Sandia 
+Ranger District, three of four post-fledging family areas were unoccupied, and the fourth site had two 
+fledglings.
+
+For the endangered southwestern willow fly catcher, two potential habitats were monitored, one each on 
+Mount Taylor and Mountainair ranger districts, with no birds detected at either site.  For the threatened 
+Mexican spotted owl, a total of 11 survey areas and/or protected activity centers were completely or 
+partially surveyed for the presence of owls in 2014 on the Mount Taylor Ranger District.  Two pairs of 
+owls with successful fledglings were visually observed within the two extant protected activity centers.  
+Six Mexican spotted owl responses were recorded by sex at five different sites, which were not protected 
+activity centers.  In FY 2014, 5,711 acres were surveyed for Mexican spotted owls on the Magdalena 
+Ranger District.  The projected areas surveyed were Durfee-Bolander, Bear Trap in Baney and Fisher 
+units, and East MG ii.  Nine protected activity centers were informally monitored, and there were three 
+incidental observations reported.  Rocky Mountain Bird Observatory had responses at 3 of the 15 plots, 
+which they monitored for the pilot population study.  Six protected activity centers monitored in 
+Mountainair and Sandia ranger districts had one sub-adult male owl detected.
+
+There are no known federally endangered Aplomado falcon territories on the Mountain Ranger Districts.  
+For the sensitive species peregrine falcon, 2 of 20 sites were randomly selected for monitoring.  One eyrie 
+produced two young, one of which was taken by a falconer.  At the other eyrie, no birds were found.  
+Persistence of the proposed endangered Zuni bluehead sucker was confirmed in the Aqua Remora on the 
+Mount Taylor Ranger District, the only occurrence on the Mountain Ranger Districts.  For the federally 
+threatened Zuni fleabane plant, 38 sites were evaluated for its occurrence. A total of 3,395 individual 
+plants were documented in 2014 from the two New Mexico meta-populations.  Extant plants were 
+documented from 34 of the 38 sites.  Of these, five sites were documented for the first time in 2014.  Two 
+sites no longer contained any plants, and two sites were either mis-mapped or misidentified. Two 
+specimen records were obtained through SEINet, but were determined to be inaccurate.  A search of the 
+Zuni Mountains location on the specimen label by K.D. Heil, and others, 29450 (SJNM) failed to find any 
+Zuni fleabane or suitable habitat at or near the described location.  The R. Kass, 2469 (RM) specimen 
+from near Grants, New Mexico, was determined to be misidentified.
+
+For non-game management indicator species, the juniper titmouse’s statewide population trend is down, 
+but Cibola habitat trend is stable. The pygmy nuthatch’s statewide population trend is up, and the Cibola 
+habitat trend is stable.  For the hairy woodpecker, statewide population trend is stable, and the Cibola 
+habitat trend is stable.  The red-breasted nuthatch statewide population trend is stable, and the Cibola 
+habitat trend is stable.
+
+For game-management indicator species, the elk population trend on the Mountain Ranger Districts rose. 
+The mule deer population trend on the Mountain Ranger Districts is downward.  Black bear populations 
+appeared to be stable on the Mountain Ranger Districts.  Population numbers are expected to increase in 
+the future for the Rio Grande turkey, indicating an upward population trend on the Mountain Ranger 
+Districts.
+
+A total of 5,993 migrating raptors representing 17 species were counted in 2014, which was 12 percent
+higher than the site’s long-term average. However, the increase was not a statistically significant 
+difference.  Highlights of the flight included a record high season total for rough-legged hawks (three), and the biggest merlin day ever recorded at the Manzano Hawk Watch (8). The relative proportions of 
+buteos were high in 2014 compared to historic values.  Vultures and ospreys were counted in proportions 
+similar to historic averages; while accipiters, falcons, eagles and northern harriers made up less of the 
+flight than typical.  Crews trapped for 55 days for a total of 500.5 hours between August 28 and October 
+29, 2014, and captured 384 raptors of ten different species.  Both the number of trapping hours and 
+capture totals were low compared to historic site averages.  Season highlights from the blind included the 
+capture of a sub-adult bald eagle, a hatch-year male golden eagle and a hatch-year Swainson’s hawk.
+
+Results of fall migration monitoring of passerines at Capilla Peak on the Mountainair Ranger District
+were a total of 603.5 net hours and 192 individual birds of 27 species banded.  Though the overall number 
+of individuals and species was lower than average, there were several neo-tropic migrant species, 
+including western wood-pewee, Townsend’s warbler, MacGillivray’s warbler, and Wilson’s warbler, 
+which were slightly above the past 14-year average.  Several year-round species, including Steller’s jay, 
+Williamson’s sapsucker, mountain chickadee and red-breasted nuthatches, were also above the 14-year 
+average. Though the number of individuals for these species was slightly above average for 2014, the 
+overall trend for many of these birds was downward.
+
+### Monitoring Questions and Findings under the 2012
+
+### Kiowa, Rita Blanca, Black Kettle, and McClellan Creek
+
+### Land and Resource Management Plan
+
+This section of this report presents fiscal year (FY) 2014 monitoring results of land and resource 
+management activities important to achieving Grasslandswide and management-area-specific plan 
+direction stated in the 2012 Kiowa, Rita Blanca, Black Kettle, and McClellan Creek National Grasslands 
+(Cibola Grasslands) Land and Resource Management Plan.  The annual monitoring elements addressed 
+by this report are presented on pages 113−126 of the 2012 Cibola Grasslands Plan. This section 
+summarizes information presented in table 2 and table 3 of this report.  Monitoring results and inferences, 
+where appropriate, are presented for recreation, vegetation conditions, and wildlife management indicator 
+species.  These results and inferences are relevant to future adaptive management.
+
+##### Developed Recreation
+
+Results for developed recreation monitoring are that condition surveys/inventories were conducted on 0
+percent of developed recreation sites on the Kiowa and Rita Blanca Management Area and 12 percent on 
+the Black Kettle and McClellan Creek Management Area.  Thirty-three percent of monitored sites are in 
+class I Facility Condition Index (FCI), and 67 percent of sites are in class II FCI.  A FCI value less than 
+10 percent is regarded as class I; an FCI greater than 10 percent is regarded as class II.  Facility Condition 
+Index is an indicator of the depleted value of an asset. This value is calculated by dividing the deferred 
+maintenance cost by the current replacement value.  Completing deferred maintenance on developed 
+recreation facilities continues to be hampered because of limited program funds and the difficulty of 
+attracting qualified contractors.
+
+##### Ecological Indicators
+
+Monitoring of ecological indicators (undesirable trees) for mixed grass prairie, shinnery oak, and deepplowed inclusions on the Black Kettle and McClellan Creek Management Area indicated that because of 
+drought, no prescribed burns were conducted to treat encroachment of undesirable trees.  A few 
+unplanned fires occurred in these vegetation types, but they were quickly suppressed due to drought 
+conditions.
+
+---
+
+##### Management Indicator Species
+
+Rio Grande turkey, a management indicator species for mixed riparian hardwood vegetation on the Black 
+Kettle National Grassland, increased by 10 percent in population numbers, a reversal of a nearly decadelong trend.
+
+Western bluebird, a management indicator species in pinyon juniper and juniper grassland on the Kiowa 
+National Grassland, was not counted on the Kiowa National Grassland/Mills Canyon Breeding Bird 
+Survey route in 2014.  Rocky Mountain Bird Observatory (RMBO) estimated densities and population 
+sizes for species on the Kiowa National Grassland and on the Rita Blanca National Grassland.  
+Occupancy was not confirmed under this monitoring design on either grassland for western bluebird in 
+2014 with data furnished by RMBO.
+
+The burrowing owl is a management indicator species for the shortgrass prairie early successional stage 
+on the Kiowa and Rita Blanca Management Area.  Recent monitoring effort on the Rita Blanca National 
+Grassland by RMBO in 2014 detected six burrowing owls.  Estimated population size was 536, with a 
+density of 0.45 birds per square kilometer. None were reported on the Kiowa National Grassland.
+
+### Grasslands Plan Background and Monitoring Administrative Correction
+
+The Cibola Grasslands plan and associated environmental impact statement (EIS) were published and 
+implemented in 2012 under the 1982 Planning Rule.  Previously, the Cibola Grasslands were managed 
+under direction of the 1985 Cibola Forest Plan, as amended.  The 2012 Cibola Grasslands Plan has not 
+been amended to date.
+
+However, there is an administrative correction to part 6, page 124 (Monitoring Elements) of the Cibola 
+Grasslands Plan currently being undertaken.  A typographical mistake was made in identifying the 
+mountain bluebird *(Sialia currucoides)* as a management indicator species (MIS) in pinyon-juniper and 
+juniper grasslands on the Kiowa and Rita Blanca Management Area.  The correct MIS for the above 
+vegetation communities on the aforesaid management area is the western bluebird (*Sialia mexicana).*  The 
+western bluebird is more suited as a MIS because of its more consistently documented occurrence and 
+ease of detection on the management area, versus the sporadic, occasional occurrence of the mountain 
+bluebird.  The analysis conducted and documented in the final EIS for the Cibola Grasslands Plan focused 
+on the need for a MIS specifically for cavity nesting birds that would reveal a change in vegetation 
+structure and species composition in the pinyon-juniper and juniper grasslands vegetation communities 
+due to Forest Service management.  The western bluebird is a cavity nesting species better suited to reveal
+such changes.  This species was indeed selected as an MIS in collaborative interagency meetings of USFS 
+biologists with biologists of the New Mexico Department of Fish and Game and the U.S. Fish and 
+Wildlife Service in July 2010 and was documented in the planning record; however, the name of the 
+species became transposed in the final documents. Thus, the trends of the western bluebird, not the 
+mountain bluebird, are reported in this FY 2014 Monitoring and Evaluation Report.
+
+---
+
+### 1985 Cibola Forest Plan (Mountain Ranger Districts only) Background and Amendments
+
+The 1985 Cibola Forest plan and associated EIS were published in 1985.  After 1985, the following 
+amendments listed in table 1 were made to the 1985 Forest Plan.  The 1985 Cibola Forest Plan as 
+amended remains in effect until a current forest plan revision effort underway is completed under the 
+2012 National Forest System Land Management Planning Rule.  That revision effort is anticipated to be 
+completed by summer 2017.
+
+---
+
+**Table 1. Amendment history to the 1985 Cibola Forest Plan**
+
+| Amendment Number | Decision Date | Amendment Description |
+| --- | --- | --- |
+| Amendment #1 | 01/09/87 | Clarified language throughout all five chapters |
+| Amendment #2 | 05/25/89 | Added electronic site near Boise City, Oklahoma, for the Coast Guard's Long-Range Aid to Navigation (LORAN-C) |
+| Amendment #3 | 06/30/89 | Changed timber projections based on projects in Las Huertas Canyon near Placitas, New Mexico |
+| Amendment #4 | 05/29/90 | Revised the ten-year timber sale schedule, amended fire management standards and guidelines, added black bear and curlew to the MIS (management indicator species) list, and changed recreation opportunity spectrum for management areas 8 and 13 |
+| Amendment #5 | 06/27/90 | Designated Oso Ridge Lookout as an electronic site |
+| Amendment #6 | 09/06/91 | Established standards and guidelines for capital investment priorities and Sandia winter use; added the grasshopper sparrow to the MIS list and established standards and guidelines for Abert's squirrel |
+| Amendment #7 | 09/09/96 | Added regional direction for management of Mexican spotted owl, northern goshawk, grazing and old growth |
+| Amendment #8 | 12/20/96 | Returned Federal lands near Kirkland Air Force Base from Department of Energy back to the National Forest System |
+| Amendment #9 | 09/18/97 | Established Bernalillo Watershed Research Natural Area |
+| Amendment #10 | 10/17/02 | Identified eligible wild and scenic rivers and added direction for protecting their values |
+| Amendment #11 | 07/10/08 | Changes to Sandia Ranger District direction required by travel management decision |
+| Amendment #12 | 08/26/08 | Changes to Grasslands Management Areas 4 and 5 oil and gas leasing stipulations |
+| Amendment #13 | 05/07/12 | Travel management on the Mountainair Ranger District |
+| Amendment #14 | 06/19/12 | Deleted plan standards related to Casa Loma summer homes, Sandia Ranger District |
+| Amendment #15 | 04/14/11 | Travel management on the Mount Taylor Ranger District |
+
+---
+
+### FY 2014 Monitoring Results under the 1985 Cibola Forest Plan for Mountain Ranger Districts Only
+
+**Table 2. FY 2014 monitoring results by program area (1985 Cibola Forest Plan for Mountain Ranger Districts only)**
+
+| Program Area/LRMP Monitoring Element Addressed | Monitoring Accomplished | Record Location | Districts | Results | Comments |
+| --- | --- | --- | --- | --- | --- |
+| Cultural Resources |  |  |  |  |  |
+| Cultural Resources | Cultural resources listed in or eligible to the National Register of Historic Places | Supervisor's Office | All | Six new-determination, heritage resource sites were determined eligible to the National Register. | Total number of sites documented in FY 2014 was 117; an additional 204 sites were analyzed for a NEPA specialist report. |
+| Cultural Resources | Clearance surveys for cultural resources | Supervisor's Office | All | 21 surveys, totaling 4,057 acres for section 106 clearances. | Total acres cleared for undertakings based on previous and new surveys were 77,669 acres. |
+| Engineering and Facilities |  |  |  |  |  |
+| EF1 | Miles of road construction/reconstruction | Work accomplishment records (local drive) | Mount Taylor Magdalena | Spot gravel placement and storm damage repairs make up the reconstruction miles. | Limited budgets necessitated prioritizing safety mitigations, resource damage, and restoration project areas for reconstruction efforts. |
+| EF2 | Miles of level 3, 4, and 5 road maintenance | Work accomplishment records (local drive) | Mount Taylor Magdalena Mountainair Sandia Black Kettle and McClellan Creek National Grasslands | Roughly 290 miles of passenger car roads were maintained throughout the Forest, which included surface maintenance and drainage structure maintenance. | Although targets were met, a large amount of road mileage was not maintained due to reduced or stagnant budgets; lack of maintenance means further deterioration of road infrastructure. |
+| EF3 | Miles of road obliterated | Work accomplishment | Mount Taylor | 0.21 miles of unauthorized road were obliterated to | Although targets were met, a large amount of unauthorized road |
+|  |  | records (local drive) |  | improve resource condition in the area. | mileage was not obliterated due to reduced or stagnant budgets; failure to obliterate these roads will allow further deterioration of resource condition. |
+| Fire |  |  |  |  |  |
+| Broadcast Burning (covers a majority of the unit) | Broadcast burning | District files | Mount Taylor | 650 |  |
+| Broadcast Burning (covers a majority of the unit) | Broadcast burning | District files | Magdalena | 27 |  |
+| Broadcast Burning (covers a majority of the unit) | Broadcast burning | District files | Magdalena | 740 |  |
+| Burning of Piled Material | Burning of piled material | District files | Magdalena | 29 |  |
+| Broadcast Burning (covers a majority of the unit) | Broadcast burning | District files | Mountainair | 170 |  |
+| Broadcast Burning (covers a majority of the unit) | Broadcast Burning | District files | Sandia | 271 |  |
+| Forestry |  |  |  |  |  |
+| Forestry | Monitored compliance with silvicultural prescriptions, including post-treatment | Forestry records located in individual | Mount Taylor Magdalena | Inspections indicated compliance. | Timely inspections are key to achieving desired results when implementing; Designation by |
+|  | basal areas, canopy cover, stand densities, snag retention, and implementation of mitigation measures in timber sale, in personal use firewood programs, and in CFRP thinning grants administered in FY 2013-14 | District project files and at Supervisor's Office | Mountainair Sandia Supervisor's Office |  | Description on Collaborative Forest Restoration Projects and service contracts in pinyon-juniper stands (Mount Taylor, Magdalena, Mountainair, Sandia). Monitoring has allowed the districts to make length of season adjustments in personal-use firewood (Mount Taylor, Magdalena, Mountainair). Monitoring has also allowed districts to make area-wide designations for personal-use firewood (Magdalena). Desired results are also achieved through interaction and collaboration with grant partners (Mount Taylor, Magdalena, Mountainair). |
+| Forestry | Monitored for insect and disease damage to forest stands through aerial survey by regional office and ground sampling by district foresters and silviculturists; monitored for insect activity within active timber sales and thinning projects in Mount Taylor, Magdalena, Mountainair, and Sandia | Forestry files | Mount Taylor Magdalena Mountainair Sandia | Mountainair and Sandia RDs, Isleta Pueblo, and state and private lands in the mountains east of Albuquerque accounted for the majority of the pinyon Ips damage in New Mexico in 2014. This concentrated area has been particularly affected the past couple of years. In 2014, the Cibola National Forest, Santa Fe National Forest and state and private land holdings were the most heavily affected by western pine beetle. In 2014, new outbreaks of Douglas-firt tussock moth were detected on | On-going forest restoration projects located across the Cibola National Forest created conditions that are more resilient to disturbances such as insect and disease outbreaks. |
+|  |  |  |  | the Magdalena and Sandia Mountains of the Cibola National Forest. Aspen defoliation and decline occurred in small patches, spread throughout New Mexico, especially on the Cibola National Forest and the Santa Fe National Forest. |  |
+| Forestry | Monitored for hazard trees at all developed recreation sites | District recreation files | Forestwide | There is continued mortality, mostly of white fir, in the Sandia District's developed recreation sites in Sandia. | Forest fire/fuels crews helped fell hazard trees and provided new training opportunities or refreshers for sawyers. Staff coordinated with wildlife on the timing of hazard tree removal to reduce the impact on cavity nesters. Although the Fall is the best time of the year for tree removal, hazard trees are typically felled in the spring prior to opening up recreation sites in Mount Taylor, Magdalena, Mountainair, and Sandia. Bucking of fallen trees is unnecessary to ensure removal, because permittees buck and remove them. |
+| Forestry | Monitored commercial and personal-use fuelwood areas for compliance with permits and contract requirements | District forestry files | Forestwide | Wood theft and timber trespass continued; compliance with closure orders was not always adhered to. | Due to lack of forest protection officers and law enforcement officers, the Forest has moved to load ticket system and NEPA-designated fuelwood areas Forestwide. Law enforcement is insufficient in Mount Taylor, Magdalena and Mountainair. There continues to be inadequate funding of the forest protection officers |
+|  |  |  |  |  | program for Mount Taylor, Magdalena and Mountainair. Resource damage occurred with little, if any, repercussion. Law enforcement is insufficient in those areas incurring resource damage (particularly in Mount Taylor, Magdalena and Mountainair. |
+| Forestry | Acres of overstory and final removal harvest | FACTS | Forestwide | In FY 2013–14, the Forest did not use this silvicultural practice. |  |
+| Forestry | Acres of Intermediate harvest | FACTS | Forestwide | In FY 2013-14, the Forest accomplished zero acres of this harvest system. |  |
+| Forestry | Acres in need of reforestation | FACTS | Forestwide | Zero acres were in need of reforestation in FY 2013–14. |  |
+| Forestry | Timber stand improvement acres | FACTS | Mount Taylor Mountainair Sandia | In FY 2013 the Forest accomplished 5,616 acres of TSI; in FY 2014 8,616 acres of TSI was accomplished. Activity Codes 4520-4529 | Some of these acres utilized cut/skid/deck treatments, where merchantable material was yarded to roadsides and made available for public fuelwood gathering. |
+| Forestry | CCF of net sawtimber and fuelwood sold | PTSAR | Forestwide | 23,650 CCF were sold in FY 2013 and 18,681 CCF were sold in FY 2014. |  |
+| Forestry | Adequate restocking of regeneration harvest | FACTS | Forestwide | 0 acres in FY2013–14. |  |
+| Forestry | Stands and acres of forest lands identified and tracked in FSVeg-Common Stand Exams | FSVeg; Stand Exam Contracts at Supervisor's Office and Mount Taylor | Forestwide | 798 stands were completed and added to FSVeg in FY 2013–14. |  |
+| Lands |  |  |  |  |  |
+| Lands | Monitoring of right-of-way (ROW) acquisition through non-Forest Service inholdings | Supervisor's Office | Forestwide | Easements were eliminated with the purchase of Tampico Springs in Mount Taylor. | Through travel management analyses, ROW needs were identified and opportunities were explored. |
+| Lands | Effect of goals, objectives and management activities of the Forest on adjacent, non-Forest Service lands | Supervisor's Office | Forestwide | Continued to identify property boundaries through property surveys; worked with non-Forest Service property owners to provide an understanding of Forest goals. The purchase of Tampico Springs I &amp; II with LWCF contribution helped the Forest Service preserve key pieces of land from future development. | Continued to peruse opportunistic and desirable land acquisitions. |
+| Lands | Effect of management practices conducted on adjacent non-Forest Service lands on goals and objectives of the Forest Plan | Supervisor's Office | Forestwide | Continued to address boundary line issues and notification of individuals involved in encroachments. | Continued to monitor, assess and take advantage of opportunities, as they become available. |
+| Non-recreation, Special Use Authorizations |  |  |  |  |  |
+| Lands (Special Use Authorizations) | Monitoring for compliance with authorization terms and conditions | Supervisor's Office/Districts | Forestwide | Processed four authorizations that have expired, one military training area permit and three telecommunication site leases. Accepted and approved two applications for new authorizations, one for road use to access private property and one for water transmission pipeline. | Monitoring continues for NEPA compliance with authorization reissue and application processing. Funding set aside for audits of telecommunication sites for FY 2015. |
+| Range |  |  |  |  |  |
+| Range | Range improvements (structural) inspections | 2240 Range files | Mount Taylor Mountainair Magdalena Sandia | Fence: 12 miles in Mountainair | As time and funding allows, annual inspections of range improvements will continue. Inspections normally occur during utilization monitoring on selected allotments. Wildlife accessibility and safety are key design features in new and reconstructed range improvements. Reduction in water flows from springs and seeps continue to be observed. |
+| Range | Range improvements (structural) maintenance | 2240 Range files | Mount Taylor Magdalena Sandia | Fence: 30 miles in Mount Taylor Fence: 12 miles in Mountainair Spring Development: 1 in Mount Taylor | Maintenance on range improvements is normally identified as a permittee responsibility. The 25 years + age of current infrastructure necessitate an emphasis on major reconstruction in future years. Installation of “Please Close the Gate” signs will be critical to maintain proper livestock grazing rotations. |
+| Range | Range improvements (structural) new | 2240 Range files | Mount Taylor Magdalena Mountainair | Wells: 1 in Magdalena Fence: 1.2 miles in Mount Taylor Fence: 7 miles in Magdalena Pipeline: 6 miles in Magdalena Drinkers: 5 in Magdalena Storage Tanks: 4 in Magdalena | Partnerships and other cost share opportunities will be emphasized in the future to continue construction and maintenance of new and existing range improvements. Wildlife escape ramps were installed as a design feature in new Magdalena drinkers. Construction of new range improvements will be critical in |
+|  |  |  |  |  | future years to implement projects identified in Range Rescission Act NEPA. |
+| Range | Unauthorized use | 2210 and other Range files | Mount Taylor | Feral horse problem continued on Mount Taylor, American Ranch, and San Lucas. Allotments utilized year-round showed evidence of excessive forage utilization. | Unauthorized use compromised the ability to effectively manage permitted livestock use and caused negative impacts. Wildlife, riparian health and other resource concerns were also negatively impacted. |
+| Invasive Species Management | Inventory | NRIS | Mount Taylor Magdalena Mountainair | Tamarisk: 50 acres in Magdalena Tamarisk: 10 acres in Mountainair | Invasive species management will continue to be an issue, particularly within sensitive habitats such as riparian areas, which are limited on the Cibola. Mountainair has observed an upward and aggressive trend in thistle infestations. Seasonal crews would be effective to inventory and treat new infestations because of limited staff time. Partnership and volunteer efforts can also facilitate and accelerate inventory and treatment initiatives. |
+| Invasive Species Management | Treatment | NRIS | Mountainair | Tamarisk: 10 acres |  |
+| Recreation |  |  |  |  |  |
+| Wilderness1 (W1) | Wilderness use by wilderness opportunity spectrum | N/A | N/A | N/A | We did not measure use by wilderness opportunity spectrum. It was not practical using the National Visitor Use Monitoring process for estimating visitation. |
+| W2 | Miles of wilderness trail construction/reconstruction and maintenance | Infra, Work Accomplishment Records | Mountainair Sandia | 10.35 miles | The majority of trail work on the Forest is accomplished by volunteers and youth corps crews. |
+| Recreation 1 (REC1) | Miles of non-wilderness trail construction/reconstruction and maintenance | Infra, Work Accomplishment Records | Mount Taylor Magdalena Mountainair Sandia | 46.00 miles | 36.5 miles accomplished on Mount Taylor alone by two YCC crews and 50K Volunteers. |
+| REC2 | Developed site use, public and private sector | Infra | Mount Taylor Magdalena Mountainair Sandia | 2,616,645 PAOT | PAOT = Persons at one time |
+| REC3 | Condition of developed sites in the public sector | Infra | Mount Taylor Magdalena Mountainair Sandia | Class I: 76% Class II: 24% | Any facility condition index less than 0.90 is considered class II and not maintained to standard. |
+| REC4 | Provision of increased development of PAOT for recreation use | RMIS | Black Kettle and McClellan Creek National Grasslands Kiowa and Rita Blanca National Grasslands | N/A | There was no increase in PAOTs. |
+| Visual Resources 1 (V1) | Effect of management activities on acres of visual quality objectives |  | Black Kettle and McClellan Creek National Grasslands Kiowa and Rita Blanca National Grasslands |  | Management activities were planned/implemented to meet visual quality objectives. |
+| Soil and Water |  |  |  |  |  |
+| SW1 (Watershed) | Watershed improvement acres | Work Plan project files on | Integrated projects on all | Watershed condition improved on 10,821 acres. | Accomplished through integrated projects with vegetation, range, |
+| improvement acres and watershed condition inventories) |  | districts | districts |  | and wildlife programs. |
+| SW1 (Watershed improvement acres and watershed condition inventories) | Watershed Condition Assessment | WCATT (Watershed Condition Assessment Tracking Tool) | All districts | 161 watersheds rated as good 50 watersheds rated as fair 1 watershed rated as poor Watershed Restoration Action Plan (WRAP) developed for Bluewater Watershed. Essential projects identified to bring watershed to properly functioning condition. Las Huertas WRAP in progress. | Reassessment to occur in 2016. |
+| SW2 (Riparian acres treated to bring to satisfactory condition) | Riparian acres treated to bring to satisfactory condition | Supervisor's Office, WIT | Magdalena Mount Taylor | Two exclosures in Limestone Canyon. Headcut stabilization: Agua Remora (ZBHS habitat). | Wildlife program has the lead on these integrated projects. |
+| SW2 (Riparian acres treated to bring to satisfactory condition) | Spring inventory | Supervisor's Office | Mount Taylor Sandia | 19 springs inventoried; springs were characterized in terms of chemistry, flow, and condition. | Spring monitoring through cost share agreement with UNM (led to appropriate prioritization and restoration). |
+| SW3 (Best management practicesBMPs) | BMPs | Supervisor's Office project support files | Mountain Districts | Hosted training for national BMP protocol; monitored 2 sites. | Effectiveness depends on BMPs from NEPA document being carried over to implementing document. |
+| SW4 (Closing and obliteration of temporary roads and trails) | Close and restore non-designated routes | Supervisor's Office | Sandia | NEPA in progress for closure/restoration of non-designated routes on Sandia Ranger District. |  |
+| Wildlife |  |  |  |  |  |
+| Wildlife (WL1 &amp; 2) | Acres of browse vegetation treated to improve availability and productivity | 2630-1 SO, District Files WIT Database | Mount Taylor Magdalena Mountainair Sandia | HBT-ENH-TERR 28,719 acres |  |
+| Wildlife (WL3) | Monitored water developments | 2630-1 SO, District Files HSP Maintenance Report | Mount Taylor Magdalena Mountainair Sandia | Number of developments: Mount Taylor = 18 Magdalena = 16 Mountainair, Sandia = 17 |  |
+| Wildlife (WL4) | Monitored number of quality snags per acre | 2620-3 SO, District Files Triannual Field Review of forest product sale areas | Mount Taylor Magdalena Mountainair Sandia | Not monitored this period. |  |
+| Wildlife (WL5) | Monitored number of roost groups | 2620-3 SO, District Files Triannual Field review of forest product sale areas | Mount Taylor Magdalena Mountainair Sandia | Not monitored this period. |  |
+| Wildlife (WL6) | Threatened, endangered or sensitive animals Monitored for goshawk occupancy and reproductive success | 2670-6 SO, District Files | Mount Taylor Magdalena Mountainair Sandia | Mount Taylor = 5 territories Magdalena = 2 territories Mountainair = 5 territories Sandia = 4 territories In Mount Taylor, there were three fledglings at two nest sites, with single adults at two others, and no occupancy was detected at the remaining site. Surveys in Magdalena found one fledgling at one of the two |  |
+|  |  |  |  | nest sites, with no occupancy detected at the other site monitored. Of the 5 PFAs on Mountainair, two were not occupied, while two had single adult detections, and in one, a pair was detected. In Sandia, three out of four PFAs were not occupied, but the fourth had two fledglings. |  |
+| Wildlife (WL6) | Threatened, endangered or sensitive animals Southwestern willow flycatcher territories monitored | 2670-6 SO, District Files | Mount Taylor Mountainair | Southwestern willow flycatcher territories monitored Mount Taylor = 1; none detected Mountainair = 1 (potential habitat); none detected |  |
+| Wildlife (WL6) | Threatened, Endangered or sensitive animals Mexican spotted owl | 2670-6 SO, District Files | Mount Taylor Magdalena Mountainair Sandia | A total of 11 survey areas and/or PACs was completely or partially surveyed for presence of owls in 2014 on the Mount Taylor Ranger District. Two pairs of owls with successful fledglings were visually observed within two extant PACs. Six Mexican spotted owl responses were recorded by sex at five different sites, which were not PACs. |  |
+| Wildlife (WL6) | Threatened, Endangered or sensitive animals Monitored Aplomado falcon prey species and population trend (two 1-mile BBS | 2670-6 SO, District Files | Magdalena | There are no Aplomado falcon territories on the Forest. |  |
+|  | transects conducted annually by volunteers) |  |  |  |  |
+| Wildlife (WL6) | Threatened, endangered or sensitive animalsMonitored peregrine falcon eyrie occupancy and nest success (random sample conducted by NMDGF contractors, monitoring by CIF staff) | 2670-6 SO, District Files | Mount Taylor Magdalena Mountainair Sandia | Two of 20 sites were monitored. One eyrie produced two young, one of which was taken by a falconer. At the other eyrie, no birds were found. |  |
+| Wildlife (WL6) | Threatened, endangered or sensitive animalsZuni bluehead sucker monitoring | 2670-6 SO, District Files | Mount Taylor | Persistence of Zuni bluehead sucker was confirmed in the Aqua Remora. |  |
+| Wildlife (WL7) | Threatened and endangered or sensitive plantsZuni fleabane | 2670-6 SO, District Files | Mount Taylor Magdalena | New inventories were conducted. Thirty-eight sites were evaluated for their presence of Zuni fleabane in 2014. A total of 3,395 individual plants were documented in 2014 from the two New Mexico meta-populations. Extant plants were documented from 34 of the 38 sites. Of these, five sites were documented for the first time in 2014. Two sites no longer contained any plants, and two sites were either mismapped or misidentified. Two specimen records were obtained through SEINet, but were determined to be inaccurate. A search of the Zuni Mountains location on the specimen label by K.D. Heil et |  |
+|  |  |  |  | al. 29450 (SJNM) failed to find any Zuni fleabane or suitable habitat at or near the described location. The R. Kass 2469 (RM) specimen from near Grants, New Mexico, was determined to be misidentified. (Dr. Ron Hartman, Rocky Mountain Herbarium Curator, personal communication, July 2014). |  |
+| Wildlife (WL8) | Population and habitat trends of management indicator speciesMonitored occurrence and population trend of migratory and resident birds on about 140 miles of transects to determine habitat trend-habitat diversity | 2620-3 SO, District Files | Mount Taylor Magdalena Mountainair Sandia | Management Indicator Species (MIS)Juniper titmouse: statewide population trend down, Cibola habitat trend stable.Pygmy nuthatch: statewide population trend up, Cibola habitat trend stable.Hairy woodpecker: statewide population trend stable, Cibola habitat trend stable.Red-breasted nuthatch: statewide population trend stable, habitat trend stable.Red-napped sapsucker: statewide population trend stable, habitat trend stable.House wren: statewide population trend down, Cibola habitat trend down. |  |
+| Wildlife (WL8) | Population and habitat trends of management indicator speciesMonitored Game- | 2620-3 SO, District Files | Mount Taylor Magdalena Mountainair Sandia | The elk population trend on the Cibola National Forest rose The mule deer population trend on the Forest is |  |
+|  | Management Indicator Species: Merriam's turkey Rocky Mountain elk Mule deer Black bear |  |  | downward. Black bear populations appeared to be stable on the Forest. Population numbers are expected to increase in the future, indicating an upward population trend on the Cibola National Forest. |  |
+| Wildlife (WL8) | Population and habitat trends of management indicator species Monitored trends of migrating raptor populations on the Manzano Mountains | 2620-3 SO, District Files | Mountainair | A total of 5,993 migrating raptors representing 17 species were counted in 2014, which was 12% higher than the site's long-term average, but the increase was not a statistically significant difference. Highlights of the flight included a record-high season total for rough-legged hawks (3), and the biggest Merlin day ever recorded at the Manzano Hawk Watch (8). The relative proportions of buteos were high in 2014 compared to historic values. Vultures and ospreys were counted in proportions similar to historic averages; while accipiters, falcons, eagles, and northern harriers made up less of the flight, than they typically do. Crews trapped for 55 days for a total of 500.5 hrs. between August 28, 2014, and October 29, 2014, and captured 384 |  |
+|  |  |  |  | raptors of ten different species. Both the number of trapping hours and capture totals were low compared to historic site averages. Season highlights from the blind included the capture of a sub-adult bald eagle, a hatch-year male golden eagle, and a hatch-year Swainson's hawk. |  |
+| Wildlife (WL8) | Population and habitat trends of management indicator speciesMonitored fall passerine bird species by trapping at Capilla Peak | 2620-3 SO, District Files | Mountainair | There were a total of 603.5 net hours and 192 individual birds of 27 species banded. Though the overall number of individuals and species was lower than average, there were several neo-tropic migrant species, including western wood-pewee, Townsend's warbler, MacGillivray's warbler and Wilson's warbler, which were slightly above the past 14-year average. Several year-round species, including Steller's jay, Williamson's sapsucker, mountain chickadee and red-breasted nuthatches, were also above the 14-year average. Though the number of individuals for these species was slightly above average for 2014, the overall trend for many of these birds trended downward. |  |
+
+---
+
+### FY 2014 Monitoring Results for the Kiowa, Rita Blanca, Black Kettle and McClellan Creek National Grasslands under the 2012 Land and Resource Management Plan
+
+**Table 3. Monitoring results for the Kiowa, Rita Blanca, Black Kettle and McClellan Creek National Grasslands**
+
+| Program Area/LRMP Monitoring Element Addressed | Monitoring Accomplished | Record Location | Districts | Results | Comments |
+| --- | --- | --- | --- | --- | --- |
+| Black Kettle and McClellan Creek Management Area Vegetation Types Represented by Ecological Indicators |  |  |  |  |  |
+| Black Kettle and McClellan Creek Management Area Mixed Grass Prairie Ecological Indicator (presence of undesirable trees) |  | 2230/2240 Range files | Black Kettle and McClellan Creek National Grasslands | Undesirable trees were still present in the Mixed Grass Prairie, although drought has been responsible for an estimated 30–40% natural mortality of undesirable trees. | Because of extreme and exceptional drought no prescribed fire was planned or carried out. Unplanned fires were extinguished. |
+| Black Kettle and McClellan Creek Management Area Shinnery Oak and Deep-Plowed Inclusions Ecological Indicator (presence of undesirable trees) |  | 2230/2240 Range files | Black Kettle and McClellan Creek National Grasslands | Undesirable trees were still present on the Shinnery Oak and Deep-Plowed Inclusion Areas, although the drought has been responsible for a 25–30% natural mortality of undesirable trees. | Because of extreme and exceptional drought, no prescribed fire was planned or carried out. Unplanned fires were extinguished. |
+| Developed Recreation: Kiowa, Rita Blanca, Black Kettle and McClellan Creek National Grasslands-wide |  |  |  |  |  |
+| Developed Recreation, Grasslands-wide | Condition surveys and inventories were conducted on 20% of developed recreation facilities grasslandswide. | Recreation files and INFRA data for Black Kettle and McClellan Creek National Grasslands and Kiowa National Grasslands | Black Kettle and McClellan Creek National Grasslands Kiowa and Rita Blanca National Grasslands | Kiowa and Rita Blanca Management Area were not surveyed in FY 2014. Black Kettle and McClellan Creek MA surveyed 12% of facilities and 33% were in class I condition. | Kiowa and Rita Blanca's recreation staff position was vacant for the entire FY. A Facility Condition Index (FCI) value less than 10% is regarded as class I; a FCI greater than 10% is regarded as class II. FCI is an indicator of the depleted value of an asset. The value is calculated by dividing the deferred maintenance cost (DM) by the current replacement value (CRV). |
+| Black Kettle and Kiowa and Rita Blanca Management Areas Vegetation Types Represented by Management Indicator Species |  |  |  |  |  |
+| Black Kettle National Grasslands Mixed Hardwood Riparian Management Indicator Species (MIS) | Annual surveys to monitor Rio Grande turkey (Meleagris gallopavo intermedia) as a MIS The Rio Grande turkey populations on Black Kettle National Grasslands are monitored by Oklahoma Department of Wildlife Conservation (ODWC), which monitors fall turkey roosts for Roger Mills County. | 2620-3 Survey data from ODWC for Rogers Mills County | Black Kettle and McClellan Creek National Grasslands | ODWC census data estimated approximately a 10% increase in overall numbers from the previous year in Roger Mills County in 2013-2014. | During 2011-2013, drought likely had a significant impact on Rio Grande turkey recruitment (the number of poults that reach juvenile age in the fall). Weather conditions and predation were the two main factors influencing recruitment. Nesting cover was likely adequate in most locations. However, the long-term drought may have caused minimal vegetative growth, negatively affecting food for poults and hens, and perhaps, fall recruitment. More moderate weather |
+|  |  |  |  |  | conditions may have been responsible for estimated increases in numbers based on 2013/2014 census data. Black Kettle National Grasslands and the National Wild Turkey Federation were restoring turkey roosts, loafing areas, and brood range by removing the dense understory of eastern red cedar, salt cedar, and black locust from cottonwood galleries. A lush grass and forb understory response benefited all wildlife. The units will be rested from livestock grazing following restoration implementation, and the grass/forb/legume composition is anticipated to improve over time through adaptive management. |
+| Kiowa National Grasslands Pinyon-juniper and Juniper Grasslands MIS | Annual breeding bird survey to monitor western bluebird (Sialia mexicana) as a MIS USGS Breeding Bird Survey (BBS) to monitor breeding birds including western bluebird MIS Additional information can be found at http://www.mbr-pwrc.usgs.gov/ | 2620-3 SO Wildlife Files, Annual Breeding Bird Survey Report | Kiowa and Rita Blanca National Grasslands | The western bluebird was not counted on the Kiowa National Grasslands Mills Canyon BBS route in 2014. RMBO estimated densities and population sizes for species on the Kiowa National Grasslands and on the Rita Blanca National Grasslands. | Populations at the national level showed a stable trend for the western bluebird. surveys by the USGS from 1966 through 2010 indicated a slightly downward trend for New Mexico. Reasons for recent declines in New Mexico as a whole are not well understood. The trend for the Kiowa National |
+|  |  |  |  | Occupancy was not confirmed under this monitoring design on either grassland for western bluebird in 2014. | Grasslands indicated a stable trend. Proper woodland management as provided for in the Cibola Grasslands Plan will ensure habitat is provided for the western bluebird. |
+| Kiowa and Rita Blanca National Grasslands Early Successional Shortgrass Prairie MIS | Annual breeding bird survey to monitor burrowing owl (Athene cunicularia hypugaea) as a MIS for early successional shortgrass prairie associated with black-tailed prairie dogs. RMBO integrated monitoring for 2014. RMBO's specialized surveys to monitor burrowing owl populations began in 2015. Additional information can be found at http://rmbo.org/v3/avian/ReportsPublications.aspx. | 2620-3 Kiowa and Rita Blanca National Grasslands and Supervisor's Office Wildlife files | Kiowa and Rita Blanca National Grasslands | Recent monitoring effort on the Rita Blanca National Grassland by RMBO in 2014 detected six burrowing owls. Estimated population size was 536, with a density of 0.45 birds per square kilometer. None were reported on the Kiowa National Grasslands. | Burrowing owls are heavily dependent on prairie dogs for burrows, for burrow maintenance, and for the preferred low vegetation profile. Programs to maintain prairie dogs, such as shooting area closures, dusting for fleas and plague vaccine testing, which are being practiced on portions of the Kiowa and Rita Blanca Management Area, are expected to be beneficial to burrowing owl populations, because they maintain breeding habitat. This monitoring design and current sampling intensity is not providing population trend information for the burrowing owl on the Kiowa and Rita Blanca Management Area. The Cibola National Forest Supervisor's Office established an agreement with RMBO in 2014 to establish a baseline estimate of burrowing owl |
+|  |  |  |  |  | populations within known prairie dog towns on the Kiowa/Rita Blanca National Grasslands in New Mexico, Texas, and Oklahoma. Work on the baseline surveys will begin in the spring of 2015 and should provide population and density estimates to monitor the MIS trend. |

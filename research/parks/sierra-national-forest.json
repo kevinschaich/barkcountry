@@ -1,0 +1,26 @@
+{
+ "id": "sierra-national-forest",
+ "name": "Sierra National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed in the forest and wilderness.",
+ "summary": "Dogs are allowed in the forest and wilderness.",
+ "excerpts": [
+  {
+   "quote": "Domestic pets are allowed in the Sierra National Forest and wilderness areas.",
+   "url": "https://www.fs.usda.gov/r05/sierra/wilderness/pets-forest-wilderness"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on trails in adjacent national parks.",
+   "url": "https://www.fs.usda.gov/r05/sierra/wilderness/pets-forest-wilderness"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/sierra",
+ "petsUrl": "https://www.fs.usda.gov/r05/sierra/wilderness/pets-forest-wilderness",
+ "coordinates": [
+  -119.167,
+  37.4167
+ ],
+ "coordinatesSource": "Wikidata Q1332987"
+}

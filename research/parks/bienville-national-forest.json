@@ -1,0 +1,30 @@
+{
+ "id": "bienville-national-forest",
+ "name": "Bienville National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the National Forests in Mississippi site (which manages this forest) gives only leash rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "Pets must be on a leash.",
+   "url": "https://www.fs.usda.gov/r08/mississippi/recreation/shongelo-lake"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Shongelo Lake: pets on a leash.",
+   "url": "https://www.fs.usda.gov/r08/mississippi/recreation/shongelo-lake"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r08/mississippi/recreation/bienville",
+ "petsUrl": null,
+ "coordinates": [
+  -89.503,
+  32.294
+ ],
+ "coordinatesSource": "Wikipedia: Bienville National Forest"
+}

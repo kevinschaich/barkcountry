@@ -1,0 +1,21 @@
+{
+ "id": "payette-national-forest",
+ "name": "Payette National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome in campgrounds, picnic areas and on trails.",
+ "summary": "Dogs are welcome in campgrounds, picnic areas and on trails.",
+ "excerpts": [
+  {
+   "quote": "Dogs are welcome in all campgrounds, picnic areas, and on trails.",
+   "url": "https://www.fs.usda.gov/r04/payette/recreation/recreation-faqs"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/payette/",
+ "petsUrl": "https://www.fs.usda.gov/r04/payette/recreation/recreation-faqs",
+ "coordinates": [
+  -116.103,
+  44.9108
+ ],
+ "coordinatesSource": "Wikidata Q14687276"
+}

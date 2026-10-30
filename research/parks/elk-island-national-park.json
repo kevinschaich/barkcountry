@@ -1,0 +1,34 @@
+{
+ "id": "elk-island-national-park",
+ "name": "Elk Island National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed; the park lists dog walking among its activities.",
+ "summary": "Leashed dogs are allowed; the park lists dog walking among its activities.",
+ "excerpts": [
+  {
+   "quote": "Keep dogs on a leash and under physical control at all times",
+   "url": "https://www.pc.gc.ca/pn-np/ab/elkisland/securite-safety/comportements-guidelines"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be leashed and under control; off-leash dogs can provoke bison, moose, bears and coyotes.",
+   "url": "https://www.pc.gc.ca/pn-np/ab/elkisland/securite-safety/comportements-guidelines"
+  },
+  {
+   "text": "Dogs can agitate bison and provoke attacks; keep them leashed near bison.",
+   "url": "https://www.pc.gc.ca/pn-np/ab/elkisland/securite-safety/bison"
+  },
+  {
+   "text": "Store pet food and bowls securely at picnic areas.",
+   "url": "https://www.pc.gc.ca/en/pn-np/ab/elkisland/activ/experiences/pique-nique-picnicking"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/ab/elkisland",
+ "petsUrl": "https://www.pc.gc.ca/pn-np/ab/elkisland/securite-safety/comportements-guidelines",
+ "coordinates": [
+  -112.866,
+  53.6144
+ ],
+ "coordinatesSource": "Wikidata Q1331433"
+}

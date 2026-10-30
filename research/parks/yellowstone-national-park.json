@@ -1,0 +1,30 @@
+{
+ "id": "yellowstone-national-park",
+ "name": "Yellowstone National Park",
+ "policy": "roads",
+ "policyReason": "Pets must stay within 100 feet of roads, parking areas and campgrounds.",
+ "summary": "Pets must stay within 100 feet of roads, parking areas and campgrounds.",
+ "excerpts": [
+  {
+   "quote": "Pets are not allowed on boardwalks, hiking trails, in the backcountry, or in thermal areas.",
+   "url": "https://www.nps.gov/yell/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Within 100 ft of roads, parking areas and campgrounds only.",
+   "url": "https://www.nps.gov/yell/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Carried pets are not allowed in these areas either.",
+   "url": "https://www.nps.gov/yell/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/yell",
+ "petsUrl": "https://www.nps.gov/yell/planyourvisit/pets.htm",
+ "coordinates": [
+  -110.5,
+  44.6
+ ],
+ "coordinatesSource": "Wikidata Q351"
+}

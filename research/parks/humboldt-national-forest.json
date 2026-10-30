@@ -1,0 +1,31 @@
+{
+ "id": "humboldt-national-forest",
+ "name": "Humboldt National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are allowed; keep them under control.",
+ "summary": "Dogs are allowed; keep them under control.",
+ "excerpts": [
+  {
+   "quote": "Dogs or other pets are allowed for trips staying in the National Forest.",
+   "url": "https://www.fs.usda.gov/r04/humboldt-toiyabe/wilderness"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Leash at campgrounds and trailheads.",
+   "url": "https://www.fs.usda.gov/r04/humboldt-toiyabe/recreation/hilltop-campground"
+  },
+  {
+   "text": "Store pet food as required for people food.",
+   "url": "https://www.fs.usda.gov/r04/humboldt-toiyabe/wilderness"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r04/humboldt-toiyabe",
+ "petsUrl": "https://www.fs.usda.gov/r04/humboldt-toiyabe/wilderness",
+ "coordinates": [
+  -117.127767,
+  39.254041
+ ],
+ "coordinatesSource": "Wikipedia: Humboldt National Forest",
+ "unit": "Humboldt-Toiyabe National Forest"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "glacier-national-park-of-canada",
+ "name": "Glacier National Park of Canada",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome on many trails, except Balu Pass and, in winter, the backcountry.",
+ "summary": "Leashed dogs are welcome on many trails, except Balu Pass and, in winter, the backcountry.",
+ "excerpts": [
+  {
+   "quote": "Dogs are welcome on many trails in Mount Revelstoke and Glacier national parks",
+   "url": "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs"
+  },
+  {
+   "quote": "While dogs are allowed in most areas, some permanent dog restrictions exist, and temporary restrictions may be present in certain areas due to wildlife activity.",
+   "url": "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No dogs on the Balu Pass Trail or in the Connaught Creek drainage (Rogers Pass water supply).",
+   "url": "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs"
+  },
+  {
+   "text": "Winter (Nov 15 to May 31): no dogs in the backcountry, meaning anywhere beyond the Trans-Canada Highway parking lots.",
+   "url": "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs"
+  },
+  {
+   "text": "Dogs are welcome in Snowforest, Illecillewaet and Loop Brook campgrounds, on leash; store pet food in your vehicle or a bear locker.",
+   "url": "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs"
+  },
+  {
+   "text": "Leave your dog at home for the backcountry, or keep it leashed.",
+   "url": "https://parks.canada.ca/pn-np/bc/glacier/activ/passez-stay/arrierepays-backcountry"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/bc/glacier",
+ "petsUrl": "https://parks.canada.ca/pn-np/bc/glacier/visit/chiens-dogs",
+ "coordinates": [
+  -117.52976,
+  51.33529
+ ],
+ "coordinatesSource": "original map"
+}

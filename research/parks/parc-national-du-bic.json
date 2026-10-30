@@ -1,0 +1,50 @@
+{
+ "id": "parc-national-du-bic",
+ "name": "Bic National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on one summer trail (Le Pic-Champlain), part of a campground and a picnic area, May to October.",
+ "summary": "Leashed dogs are allowed on one summer trail (Le Pic-Champlain), part of a campground and a picnic area, May to October.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis dans le parc.",
+   "url": "https://www.sepaq.com/pq/bic/"
+  },
+  {
+   "quote": "L'accès des chiens est cependant limité à certains endroits, selon certaines conditions.",
+   "url": "https://www.sepaq.com/pq/bic/"
+  },
+  {
+   "quote": "Prenez note que les chiens sont admis du début mai jusqu'à la fin octobre.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trail: Le Pic-Champlain.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot"
+  },
+  {
+   "text": "Camping: Rivière-du-Sud-Ouest, sites 1 to 66 (summer only).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot"
+  },
+  {
+   "text": "Picnic area: Îlet-au-Flacon.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot"
+  },
+  {
+   "text": "Boat launches at Îlet-au-Flacon and Havre-du-Bic, in personal watercraft only.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot"
+  },
+  {
+   "text": "No dogs from November 1 to April 30.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/bic/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-bic.dot",
+ "coordinates": [
+  -68.783333,
+  48.35
+ ],
+ "coordinatesSource": "Wikidata Q170269"
+}

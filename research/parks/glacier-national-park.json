@@ -1,0 +1,38 @@
+{
+ "id": "glacier-national-park",
+ "name": "Glacier National Park",
+ "policy": "roads",
+ "policyReason": "Pets are allowed only in developed areas such as campgrounds, picnic areas and along roads.",
+ "summary": "Pets are allowed only in developed areas such as campgrounds, picnic areas and along roads.",
+ "excerpts": [
+  {
+   "quote": "Pets are not permitted on trails, along lake shores outside of developed locations, in the backcountry, or in any building.",
+   "url": "https://www.nps.gov/glac/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Allowed in frontcountry campgrounds, picnic areas, parking areas and along roads.",
+   "url": "https://www.nps.gov/glac/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Allowed in boats on lakes where motorboats are permitted.",
+   "url": "https://www.nps.gov/glac/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Leashed dogs may use the Apgar to West Glacier bike path when free of snow.",
+   "url": "https://www.nps.gov/glac/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Roads closed to cars count as backcountry trails: no dogs.",
+   "url": "https://www.nps.gov/glac/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/glac",
+ "petsUrl": "https://www.nps.gov/glac/planyourvisit/pets.htm",
+ "coordinates": [
+  -113.8,
+  48.755
+ ],
+ "coordinatesSource": "Wikidata Q373567"
+}

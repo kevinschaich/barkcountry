@@ -1,0 +1,38 @@
+{
+ "id": "parc-national-des-iles-de-boucherville",
+ "name": "Îles-de-Boucherville National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on the Île-Sainte-Marguerite trail, its picnic areas and the RV area, but not in boats.",
+ "summary": "Leashed dogs are allowed on the Île-Sainte-Marguerite trail, its picnic areas and the RV area, but not in boats.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis dans l'Espace VR.",
+   "url": "https://www.sepaq.com/pq/bou/"
+  },
+  {
+   "quote": "Notez que les chiens ne sont pas admis sur les embarcations en location et les embarcations personnelles, sauf pour les chiens-guides.",
+   "url": "https://www.sepaq.com/pq/bou/"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Trail (summer and winter): Île-Sainte-Marguerite multi-use trail and its picnic areas.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-iles-boucherville.dot"
+  },
+  {
+   "text": "Camping: Espace VR Molson.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-iles-boucherville.dot"
+  },
+  {
+   "text": "No dogs in rented or personal boats.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-iles-boucherville.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/bou/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-iles-boucherville.dot",
+ "coordinates": [
+  -73.466667222,
+  45.616667222
+ ],
+ "coordinatesSource": "Wikidata Q1327997"
+}

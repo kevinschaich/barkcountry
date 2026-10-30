@@ -1,0 +1,38 @@
+{
+ "id": "parc-national-du-mont-megantic",
+ "name": "Mont-Mégantic National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on the Mont-Mégantic trail (Observatoire sector) and one picnic area, May to October.",
+ "summary": "Leashed dogs are allowed on the Mont-Mégantic trail (Observatoire sector) and one picnic area, May to October.",
+ "excerpts": [
+  {
+   "quote": "Prenez note que les chiens sont admis du début mai jusqu'à la fin octobre.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-megantic.dot"
+  },
+  {
+   "quote": "Sentier du Mont-Mégantic (secteur de l'Observatoire)",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-megantic.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trail: Sentier du Mont-Mégantic (Observatoire sector).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-megantic.dot"
+  },
+  {
+   "text": "Picnic area at the pavillon des Randonneurs.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-megantic.dot"
+  },
+  {
+   "text": "No dogs at campgrounds, on the water or in winter.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-megantic.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/mme/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-mont-megantic.dot",
+ "coordinates": [
+  -71.1625,
+  45.4569
+ ],
+ "coordinatesSource": "Wikidata Q1751092"
+}

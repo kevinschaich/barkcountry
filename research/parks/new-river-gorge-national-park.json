@@ -1,0 +1,38 @@
+{
+ "id": "new-river-gorge-national-park",
+ "name": "New River Gorge National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets are allowed on all trails.",
+ "summary": "Leashed pets are allowed on all trails.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed on all trails at New River Gorge National Park and Preserve.",
+   "url": "https://www.nps.gov/neri/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets in park buildings, visitor centers or ranger-led programs.",
+   "url": "https://www.nps.gov/neri/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Bring water for your pet; streams may carry Giardia and trailheads have no drinking water.",
+   "url": "https://www.nps.gov/neri/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Dogs can become B.A.R.K. Rangers at any visitor center.",
+   "url": "https://www.nps.gov/neri/planyourvisit/bark-ranger.htm"
+  },
+  {
+   "text": "Dogs can join the 100 Mile Challenge.",
+   "url": "https://www.nps.gov/neri/planyourvisit/new-river-gorge-100-mile-challenge.htm"
+  }
+ ],
+ "officialUrl": "https://www.nps.gov/neri/",
+ "petsUrl": "https://www.nps.gov/neri/planyourvisit/pets.htm",
+ "coordinates": [
+  -81.08166667,
+  37.96083333
+ ],
+ "coordinatesSource": "Wikipedia: New River Gorge National Park"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "kluane-national-park-and-reserve",
+ "name": "Kluane National Park and Reserve",
+ "policy": "everywhere",
+ "policyReason": "The official pages only require leashes and list no trail bans.",
+ "summary": "Leashed dogs are allowed, including at Kathleen Lake Campground.",
+ "excerpts": [
+  {
+   "quote": "Always keep pets on a leash, in a kennel, or inside a vehicle.",
+   "url": "https://www.pc.gc.ca/pn-np/yt/kluane/visit/services/kathleen/emplacements-campsites"
+  },
+  {
+   "quote": "Dogs can provoke defensive behaviour in bears.",
+   "url": "https://www.pc.gc.ca/en/pn-np/yt/kluane/securite-safety/ours-bears"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "At Kathleen Lake Campground keep pets leashed, kenneled or in a vehicle, never unattended.",
+   "url": "https://www.pc.gc.ca/pn-np/yt/kluane/visit/services/kathleen/emplacements-campsites"
+  },
+  {
+   "text": "Pet-friendly oTENTiks 1 and 5 and 38 pet-friendly sites at Kathleen Lake.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  },
+  {
+   "text": "Store pet food in bear-resistant containers in the backcountry.",
+   "url": "https://www.pc.gc.ca/en/pn-np/yt/kluane/securite-safety/ours-bears"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/yt/kluane",
+ "petsUrl": "https://www.pc.gc.ca/pn-np/yt/kluane/visit/services/kathleen/emplacements-campsites",
+ "coordinates": [
+  -137.829166666,
+  60.453611111
+ ],
+ "coordinatesSource": "Wikidata Q738582"
+}

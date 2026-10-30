@@ -1,0 +1,30 @@
+{
+ "id": "parc-national-de-la-pointe-taillon",
+ "name": "Pointe-Taillon National Park",
+ "policy": "roads",
+ "policyReason": "Sépaq allows dogs only in one campground loop here; its summer trails are closed to dogs.",
+ "summary": "Dogs are allowed only in one campground loop of the Camp-de-Touage-Les-Îles sector; no trails.",
+ "excerpts": [
+  {
+   "quote": "Les chiens sont admis dans le nouveau secteur Camp-de-Touage-Les-Îles seulement (Saint-Gédéon).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-pointe-taillon.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Only Camp-de-Touage campground loop C (sites 466 to 493), May to October.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-pointe-taillon.dot"
+  },
+  {
+   "text": "No dogs on summer trails.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-pointe-taillon.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/pta/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-pointe-taillon.dot",
+ "coordinates": [
+  -71.9667,
+  48.7
+ ],
+ "coordinatesSource": "Wikidata Q2051991"
+}

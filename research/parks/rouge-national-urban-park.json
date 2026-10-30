@@ -1,0 +1,34 @@
+{
+ "id": "rouge-national-urban-park",
+ "name": "Rouge National Urban Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are welcome, including at the beach.",
+ "summary": "Leashed dogs are welcome, including at the beach.",
+ "excerpts": [
+  {
+   "quote": "Your four-legged friends are welcome in Rouge National Urban Park.",
+   "url": "https://parks.canada.ca/pn-np/on/rouge/securite-safety/terrestre-land/animaux-pets"
+  },
+  {
+   "quote": "As a courtesy to other visitors, please keep your dog on a leash, even at the beach.",
+   "url": "https://parks.canada.ca/pn-np/on/rouge/securite-safety/terrestre-land/animaux-pets"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Keep dogs leashed, even at the beach.",
+   "url": "https://parks.canada.ca/pn-np/on/rouge/securite-safety/terrestre-land/animaux-pets"
+  },
+  {
+   "text": "Stay on marked trails; dogs can provoke black bears.",
+   "url": "https://parks.canada.ca/pn-np/on/rouge/securite-safety/faune-wildlife"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/on/rouge",
+ "petsUrl": "https://parks.canada.ca/pn-np/on/rouge/securite-safety/terrestre-land/animaux-pets",
+ "coordinates": [
+  -79.22315,
+  43.93768
+ ],
+ "coordinatesSource": "original map"
+}

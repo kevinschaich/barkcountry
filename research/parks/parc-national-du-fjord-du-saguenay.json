@@ -1,0 +1,38 @@
+{
+ "id": "parc-national-du-fjord-du-saguenay",
+ "name": "Saguenay Fjord National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on four summer trails, part of Baie-Éternité campground and one picnic area, May to October.",
+ "summary": "Leashed dogs are allowed on four summer trails, part of Baie-Éternité campground and one picnic area, May to October.",
+ "excerpts": [
+  {
+   "quote": "Prenez note que les chiens sont admis du début mai jusqu'à la fin octobre.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-fjord-saguenay.dot"
+  },
+  {
+   "quote": "Les chiens sont admis dans le parc.",
+   "url": "https://www.sepaq.com/pq/sag/"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trails: La Statue, L'Anse-de-Tabatière, La Pointe-de-l'Islet, La Colline-de-l'Anse-à-l'Eau.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-fjord-saguenay.dot"
+  },
+  {
+   "text": "Camping de Baie-Éternité sites 1–19 and 45–85 (not ready-to-camp units).",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-fjord-saguenay.dot"
+  },
+  {
+   "text": "No water access and no winter trails.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-fjord-saguenay.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/sag/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-fjord-saguenay.dot",
+ "coordinates": [
+  -70.2635,
+  48.2757
+ ],
+ "coordinatesSource": "Wikidata Q3364513"
+}

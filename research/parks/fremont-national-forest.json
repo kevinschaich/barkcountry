@@ -1,0 +1,30 @@
+{
+ "id": "fremont-national-forest",
+ "name": "Fremont National Forest",
+ "policy": "everywhere",
+ "policyReason": "The national Forest Service page says dogs are allowed in national forests, and the forest's own pages give only leash and site rules and name no forest-wide ban.",
+ "summary": "Dogs are allowed across the forest; keep them leashed in campgrounds and other developed sites.",
+ "excerpts": [
+  {
+   "quote": "Not sure if you can bring your dog to the national forests on your next adventure? The answer is, “Yes!”",
+   "url": "https://www.fs.usda.gov/about-agency/features/get-out-there-your-best-dog-friend"
+  },
+  {
+   "quote": "These include regulations like forest-wide camping stay limits; use of camp fires, firearms, and fireworks; paying fees, and controlling pets.",
+   "url": "https://www.fs.usda.gov/r06/fremont-winema/recreation/camping-cabins"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Forest-wide rules require controlling pets.",
+   "url": "https://www.fs.usda.gov/r06/fremont-winema/recreation/camping-cabins"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r06/fremont-winema",
+ "petsUrl": null,
+ "coordinates": [
+  -121.312,
+  42.9375
+ ],
+ "coordinatesSource": "Wikidata Q3079129"
+}

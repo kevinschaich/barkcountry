@@ -1,0 +1,27 @@
+{
+ "id": "arapaho-national-forest",
+ "name": "Arapaho National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs may use most trails.",
+ "summary": "Leashed dogs may use most trails.",
+ "excerpts": [
+  {
+   "quote": "You may bring your leashed dog on most Forest Service trails.",
+   "url": "https://www.fs.usda.gov/r02/arp/about-area/faqs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Brainard Lake recreation trail has its own seasonal dog rules.",
+   "url": "https://www.fs.usda.gov/r02/arp/about-area/faqs"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r02/arp",
+ "petsUrl": "https://www.fs.usda.gov/r02/arp/about-area/faqs",
+ "coordinates": [
+  -105.642778,
+  39.588611
+ ],
+ "coordinatesSource": "Wikipedia: Arapaho National Forest",
+ "unit": "Arapaho and Roosevelt National Forests"
+}

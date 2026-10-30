@@ -1,0 +1,50 @@
+{
+ "id": "gros-morne-national-park",
+ "name": "Gros Morne National Park",
+ "policy": "everywhere",
+ "policyReason": "Pets are banned only from the top of Gros Morne Mountain and the Western Brook Pond boat tour; elsewhere they are allowed on leash.",
+ "summary": "Leashed dogs can use most of the park, but not the top of Gros Morne Mountain or the Western Brook Pond boat tour.",
+ "excerpts": [
+  {
+   "quote": "All domestic animals must be kept on a leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/info/reglements-regulations"
+  },
+  {
+   "quote": "Not permitted on the top of Gros Morne Mountain.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/activ/camping/camping-information-pcrs"
+  },
+  {
+   "quote": "Pets not permitted on the Western Brook Pond boat tour.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/activ/camping/camping-information-pcrs"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not permitted on the top of Gros Morne Mountain; dogs are not recommended on the Summit Trail.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/activ/camping/camping-information-pcrs"
+  },
+  {
+   "text": "No pets on the Western Brook Pond boat tour.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/activ/camping/camping-information-pcrs"
+  },
+  {
+   "text": "Off-leash dog park at Green Point Campground.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/activ/camping/camping-information-pcrs"
+  },
+  {
+   "text": "Some areas are closed to pets; check notices at trailheads.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/info/reglements-regulations"
+  },
+  {
+   "text": "Unattended tied-up animals may be impounded.",
+   "url": "https://parks.canada.ca/pn-np/nl/grosmorne/info/reglements-regulations"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/nl/grosmorne",
+ "petsUrl": "https://parks.canada.ca/pn-np/nl/grosmorne/info/reglements-regulations",
+ "coordinates": [
+  -57.738055555,
+  49.689444444
+ ],
+ "coordinatesSource": "Wikidata Q257598"
+}

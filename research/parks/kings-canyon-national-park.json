@@ -1,0 +1,34 @@
+{
+ "id": "kings-canyon-national-park",
+ "name": "Kings Canyon National Park",
+ "policy": "roads",
+ "policyReason": "Pets are prohibited on all trails; only parking lots, paved roads, campgrounds and picnic areas.",
+ "summary": "Pets are prohibited on all trails; only parking lots, paved roads, campgrounds and picnic areas.",
+ "excerpts": [
+  {
+   "quote": "Pets are prohibited on all trails.",
+   "url": "https://www.nps.gov/seki/planyourvisit/pets.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Prohibited on all trails, including paved ones like General Sherman Tree Trail.",
+   "url": "https://www.nps.gov/seki/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Allowed in parking lots, paved roads, campgrounds and picnic areas.",
+   "url": "https://www.nps.gov/seki/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Surrounding national forest trails allow leashed pets.",
+   "url": "https://www.nps.gov/seki/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/seki",
+ "petsUrl": "https://www.nps.gov/seki/planyourvisit/pets.htm",
+ "coordinates": [
+  -118.672861111,
+  36.789280555
+ ],
+ "coordinatesSource": "Wikidata Q936623"
+}

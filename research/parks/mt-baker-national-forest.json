@@ -1,0 +1,27 @@
+{
+ "id": "mt-baker-national-forest",
+ "name": "Mt. Baker National Forest",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs may use trails such as those around Artist Point.",
+ "summary": "Leashed dogs may use trails such as those around Artist Point.",
+ "excerpts": [
+  {
+   "quote": "Pets are allowed on a leash at Artist Point and are allowed on all nearby trails except Table Mountain trail.",
+   "url": "https://www.fs.usda.gov/r06/mbs/recreation/artist-point-trailhead"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "No pets on Table Mountain trail.",
+   "url": "https://www.fs.usda.gov/r06/mbs/recreation/artist-point-trailhead"
+  }
+ ],
+ "officialUrl": "https://www.fs.usda.gov/r06/mbs",
+ "petsUrl": "https://www.fs.usda.gov/r06/mbs/recreation/artist-point-trailhead",
+ "coordinates": [
+  -121.4618848,
+  48.1449378
+ ],
+ "coordinatesSource": "OpenStreetMap: Mount Baker National Forest, FS 2083, Snohomish County, Washington, United State",
+ "unit": "Mt. Baker-Snoqualmie National Forest"
+}

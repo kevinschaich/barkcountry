@@ -1,0 +1,38 @@
+{
+ "id": "miguasha-national-park",
+ "name": "Miguasha National Park",
+ "policy": "trails",
+ "policyReason": "Leashed dogs are allowed on the L’évolution de la vie trail and the shore, May to October.",
+ "summary": "Leashed dogs are allowed on the L’évolution de la vie trail and the shore, May to October.",
+ "excerpts": [
+  {
+   "quote": "Prenez note que les chiens sont admis du début mai jusqu'à la fin octobre.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-miguasha.dot"
+  },
+  {
+   "quote": "L'évolution de la vie",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-miguasha.dot"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Summer trail: L'évolution de la vie.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-miguasha.dot"
+  },
+  {
+   "text": "Shore access, except during guided activities.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-miguasha.dot"
+  },
+  {
+   "text": "No dogs at the campground or in winter.",
+   "url": "https://www.sepaq.com/animaux/annexes/endroits-autorises-miguasha.dot"
+  }
+ ],
+ "officialUrl": "https://www.sepaq.com/pq/mig/fr/",
+ "petsUrl": "https://www.sepaq.com/animaux/annexes/endroits-autorises-miguasha.dot",
+ "coordinates": [
+  -66.369444444,
+  48.110555555
+ ],
+ "coordinatesSource": "Wikidata Q631128"
+}

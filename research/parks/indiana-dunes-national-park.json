@@ -1,0 +1,34 @@
+{
+ "id": "indiana-dunes-national-park",
+ "name": "Indiana Dunes National Park",
+ "policy": "everywhere",
+ "policyReason": "Pets are permitted everywhere including beaches, with a few exceptions.",
+ "summary": "Pets are permitted everywhere including beaches, with a few exceptions.",
+ "excerpts": [
+  {
+   "quote": "Pets are permitted everywhere including beaches in the national park with the following exceptions:",
+   "url": "https://www.nps.gov/indu/faqs.htm"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Not on the Pinhook Bog Trail (Upland Trail is fine).",
+   "url": "https://www.nps.gov/indu/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not on the equestrian portion of the Glenwood Dunes Trail system.",
+   "url": "https://www.nps.gov/indu/planyourvisit/pets.htm"
+  },
+  {
+   "text": "Not in the West Beach lifeguarded area in summer.",
+   "url": "https://www.nps.gov/indu/planyourvisit/pets.htm"
+  }
+ ],
+ "officialUrl": "https://nps.gov/indu",
+ "petsUrl": "https://www.nps.gov/indu/planyourvisit/pets.htm",
+ "coordinates": [
+  -87.108055555,
+  41.648055555
+ ],
+ "coordinatesSource": "Wikidata Q6023179"
+}

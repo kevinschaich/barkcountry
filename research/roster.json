@@ -1,0 +1,6665 @@
+[
+ {
+  "wikidata": "Q4293399",
+  "name": "Akami-Uapishkᵘ-KakKasuak-Mealy Mountains National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/en/pn-np/nl/mealy",
+   "http://www.pc.gc.ca/fr/pn-np/nl/mealy"
+  ],
+  "coordinates": [
+   -59.3667,
+   53.4
+  ],
+  "id": "akami-uapishku-kakkasuak-mealy-mountains-national-park-reserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q4293399"
+ },
+ {
+  "wikidata": "Q771612",
+  "name": "Aulavik National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/nt/aulavik"
+  ],
+  "coordinates": [
+   -119.919,
+   73.7003
+  ],
+  "id": "aulavik-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q771612"
+ },
+ {
+  "wikidata": "Q789743",
+  "name": "Auyuittuq National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/nu/auyuittuq",
+   "https://www.pc.gc.ca/fr/pn-np/nu/auyuittuq"
+  ],
+  "coordinates": [
+   -66.0,
+   67.5
+  ],
+  "id": "auyuittuq-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q789743"
+ },
+ {
+  "wikidata": "Q41858",
+  "name": "Banff National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/ab/banff",
+   "https://parks.canada.ca/pn-np/ab/banff"
+  ],
+  "coordinates": [
+   -115.55,
+   51.166666666
+  ],
+  "id": "banff-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -115.92806,
+    51.49685
+   ]
+  },
+  "coordinatesSource": "Wikidata Q41858"
+ },
+ {
+  "wikidata": "Q991459",
+  "name": "Bruce Peninsula National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/on/bruce/index"
+  ],
+  "coordinates": [
+   -81.6142,
+   45.2389
+  ],
+  "id": "bruce-peninsula-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -81.52483,
+    45.2284
+   ]
+  },
+  "coordinatesSource": "Wikidata Q991459"
+ },
+ {
+  "wikidata": "Q253517",
+  "name": "Cape Breton Highlands National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/ns/cbreton",
+   "https://www.pc.gc.ca/fr/pn-np/ns/cbreton"
+  ],
+  "coordinates": [
+   -60.6597,
+   46.7167
+  ],
+  "id": "cape-breton-highlands-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -60.7686,
+    46.81351
+   ]
+  },
+  "coordinatesSource": "Wikidata Q253517"
+ },
+ {
+  "wikidata": "Q1331433",
+  "name": "Elk Island National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/ab/elkisland"
+  ],
+  "coordinates": [
+   -112.866,
+   53.6144
+  ],
+  "id": "elk-island-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -112.83666,
+    53.58298
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1331433"
+ },
+ {
+  "wikidata": "Q1437338",
+  "name": "Forillon National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/qc/forillon",
+   "https://www.pc.gc.ca/fr/pn-np/qc/forillon"
+  ],
+  "coordinates": [
+   -64.35,
+   48.9
+  ],
+  "id": "forillon-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -64.25676,
+    48.83343
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1437338"
+ },
+ {
+  "wikidata": "Q1474238",
+  "name": "Fundy National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/en/pn-np/nb/fundy",
+   "http://www.pc.gc.ca/fr/pn-np/nb/fundy"
+  ],
+  "coordinates": [
+   -64.953888888,
+   45.595277777
+  ],
+  "id": "fundy-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -65.03163,
+    45.61378
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1474238"
+ },
+ {
+  "wikidata": "Q583518",
+  "name": "Georgian Bay Islands National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/on/georg",
+   "https://parks.canada.ca/pn-np/on/georg"
+  ],
+  "coordinates": [
+   -79.8747,
+   44.8778
+  ],
+  "id": "georgian-bay-islands-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -79.86851,
+    44.87422
+   ]
+  },
+  "coordinatesSource": "Wikidata Q583518"
+ },
+ {
+  "wikidata": "Q1161253",
+  "name": "Glacier National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/bc/glacier",
+   "https://parks.canada.ca/pn-np/bc/glacier"
+  ],
+  "coordinates": [
+   -117.519,
+   51.3
+  ],
+  "id": "glacier-national-park-canada-parks",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1161253"
+ },
+ {
+  "wikidata": null,
+  "name": "Glacier National Park of Canada",
+  "region": "canada-parks",
+  "id": "glacier-national-park-of-canada",
+  "sites": [],
+  "coordinates": [
+   -117.52976,
+   51.33529
+  ],
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -117.52976,
+    51.33529
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q1543598",
+  "name": "Grasslands National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/en/pn-np/sk/grasslands",
+   "http://www.pc.gc.ca/fr/pn-np/sk/grasslands"
+  ],
+  "coordinates": [
+   -107.51,
+   49.15
+  ],
+  "id": "grasslands-national-park-of-canada",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -107.42133,
+    49.1251
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1543598"
+ },
+ {
+  "wikidata": "Q257598",
+  "name": "Gros Morne National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/fra/pn-np/nl/grosmorne/index.aspx"
+  ],
+  "coordinates": [
+   -57.738055555,
+   49.689444444
+  ],
+  "id": "gros-morne-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -57.75576,
+    49.65202
+   ]
+  },
+  "coordinatesSource": "Wikidata Q257598"
+ },
+ {
+  "wikidata": "Q775595",
+  "name": "Gulf Islands National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/bc/gulf",
+   "https://parks.canada.ca/pn-np/bc/gulf"
+  ],
+  "coordinates": [
+   -123.447777777,
+   48.850555555
+  ],
+  "id": "gulf-islands-national-park-reserve",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -123.15204,
+    48.78051
+   ]
+  },
+  "coordinatesSource": "Wikidata Q775595"
+ },
+ {
+  "wikidata": "Q862285",
+  "name": "Gwaii Haanas National Park Reserve and Haida Heritage Site",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/bc/gwaiihaanas",
+   "https://parks.canada.ca/pn-np/bc/gwaiihaanas"
+  ],
+  "coordinates": [
+   -131.471,
+   52.3892
+  ],
+  "id": "gwaii-haanas-national-park-reserve-and-haida-heritage-site",
+  "original": {
+   "policy": "none",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -131.55823,
+    52.46827
+   ]
+  },
+  "coordinatesSource": "Wikidata Q862285"
+ },
+ {
+  "wikidata": "Q200590",
+  "name": "Ivvavik National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/fr/pn-np/yt/ivvavik/index"
+  ],
+  "coordinates": [
+   -139.525,
+   69.5197
+  ],
+  "id": "ivvavik-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -139.83398,
+    69.09406
+   ]
+  },
+  "coordinatesSource": "Wikidata Q200590"
+ },
+ {
+  "wikidata": "Q503429",
+  "name": "Jasper National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/ab/jasper",
+   "https://parks.canada.ca/pn-np/ab/jasper"
+  ],
+  "coordinates": [
+   -117.9,
+   52.8
+  ],
+  "id": "jasper-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -117.95429,
+    52.87338
+   ]
+  },
+  "coordinatesSource": "Wikidata Q503429"
+ },
+ {
+  "wikidata": "Q795176",
+  "name": "Kejimkujik National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/fra/pn-np/ns/kejimkujik/index.aspx"
+  ],
+  "coordinates": [
+   -65.2183,
+   44.3992
+  ],
+  "id": "kejimkujik-national-park-seaside",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -65.30023,
+    44.35042
+   ]
+  },
+  "coordinatesSource": "Wikidata Q795176"
+ },
+ {
+  "wikidata": "Q738582",
+  "name": "Kluane National Park and Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/yt/kluane",
+   "https://parks.canada.ca/pn-np/yt/kluane"
+  ],
+  "coordinates": [
+   -137.829166666,
+   60.453611111
+  ],
+  "id": "kluane-national-park-and-reserve",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -139.5,
+    60.75
+   ]
+  },
+  "coordinatesSource": "Wikidata Q738582"
+ },
+ {
+  "wikidata": "Q903323",
+  "name": "Kootenay National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/bc/kootenay",
+   "https://parks.canada.ca/pn-np/bc/kootenay"
+  ],
+  "coordinates": [
+   -116.049,
+   50.8831
+  ],
+  "id": "kootenay-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -115.95921,
+    50.97694
+   ]
+  },
+  "coordinatesSource": "Wikidata Q903323"
+ },
+ {
+  "wikidata": "Q862260",
+  "name": "Kouchibouguac National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/nb/kouchibouguac",
+   "https://www.pc.gc.ca/fr/pn-np/nb/kouchibouguac"
+  ],
+  "coordinates": [
+   -64.9669,
+   46.8497
+  ],
+  "id": "kouchibouguac-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -64.96494,
+    46.79564
+   ]
+  },
+  "coordinatesSource": "Wikidata Q862260"
+ },
+ {
+  "wikidata": "Q1798539",
+  "name": "La Mauricie National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/qc/mauricie",
+   "https://www.pc.gc.ca/fr/pn-np/qc/mauricie/"
+  ],
+  "coordinates": [
+   -72.9667,
+   46.8
+  ],
+  "id": "la-mauricie-national-park",
+  "original": {
+   "policy": "roads",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -73,
+    46.83333
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1798539"
+ },
+ {
+  "wikidata": "Q862157",
+  "name": "Mingan Archipelago National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/qc/mingan",
+   "https://parks.canada.ca/pn-np/qc/mingan"
+  ],
+  "coordinates": [
+   -63.829166666,
+   50.2
+  ],
+  "id": "mingan-archipelago-national-park-reserve",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -63.59199,
+    50.2458
+   ]
+  },
+  "coordinatesSource": "Wikidata Q862157"
+ },
+ {
+  "wikidata": "Q862265",
+  "name": "Mount Revelstoke National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/bc/revelstoke",
+   "https://parks.canada.ca/pn-np/bc/revelstoke"
+  ],
+  "coordinates": [
+   -118.066,
+   51.0858
+  ],
+  "id": "mount-revelstoke-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -118,
+    51.08333
+   ]
+  },
+  "coordinatesSource": "Wikidata Q862265"
+ },
+ {
+  "wikidata": "Q391391",
+  "name": "Nahanni National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/nt/nahanni",
+   "https://www.pc.gc.ca/fr/pn-np/nt/nahanni"
+  ],
+  "coordinates": [
+   -125.852,
+   61.5971
+  ],
+  "id": "nahanni-national-park-reserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q391391"
+ },
+ {
+  "wikidata": null,
+  "name": "Nahanni National Park Reserve of Canada",
+  "region": "canada-parks",
+  "id": "nahanni-national-park-reserve-of-canada",
+  "sites": [],
+  "coordinates": [
+   -125.50047,
+   61.5007
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -125.50047,
+    61.5007
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q861957",
+  "name": "Nááts'įhch'oh National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/eng/pn-np/nt/naatsihchoh/index.aspx",
+   "http://www.pc.gc.ca/fra/pn-np/nt/naatsihchoh/index.aspx"
+  ],
+  "coordinates": [
+   -128.25,
+   62.25
+  ],
+  "id": "naats-ihch-oh-national-park-reserve",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -128.17613,
+    62.51661
+   ]
+  },
+  "coordinatesSource": "Wikidata Q861957"
+ },
+ {
+  "wikidata": "Q1756401",
+  "name": "Pacific Rim National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/bc/pacificrim",
+   "https://parks.canada.ca/pn-np/bc/pacificrim"
+  ],
+  "coordinates": [
+   -125.666666666,
+   48.983333333
+  ],
+  "id": "pacific-rim-national-park-reserve",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -125.15636,
+    48.79193
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1756401"
+ },
+ {
+  "wikidata": "Q127315453",
+  "name": "Pituamkek National Park Reserve",
+  "region": "canada-parks",
+  "sites": [],
+  "coordinates": [
+   -63.787655,
+   46.61229
+  ],
+  "id": "pituamkek-national-park-reserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q127315453"
+ },
+ {
+  "wikidata": "Q1153938",
+  "name": "Point Pelee National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/fr/pn-np/on/pelee/index"
+  ],
+  "coordinates": [
+   -82.516666666,
+   41.966666666
+  ],
+  "id": "point-pelee-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -82.51844,
+    41.96277
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1153938"
+ },
+ {
+  "wikidata": "Q1122878",
+  "name": "Prince Albert National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/fra/pn-np/sk/princealbert/index.aspx"
+  ],
+  "coordinates": [
+   -106.37,
+   53.9633
+  ],
+  "id": "prince-albert-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -106.38889,
+    53.92569
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1122878"
+ },
+ {
+  "wikidata": "Q1314367",
+  "name": "Prince Edward Island National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/fra/pn-np/pe/pei-ipe/index.aspx"
+  ],
+  "coordinates": [
+   -63.075,
+   46.4167
+  ],
+  "id": "prince-edward-island-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -63.07354,
+    46.41585
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1314367"
+ },
+ {
+  "wikidata": "Q283482",
+  "name": "Pukaskwa National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/on/pukaskwa",
+   "https://www.pc.gc.ca/fr/pn-np/on/pukaskwa"
+  ],
+  "coordinates": [
+   -85.916666666,
+   48.25
+  ],
+  "id": "pukaskwa-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -85.88821,
+    48.24568
+   ]
+  },
+  "coordinatesSource": "Wikidata Q283482"
+ },
+ {
+  "wikidata": "Q18167998",
+  "name": "Qausuittuq National Park",
+  "region": "canada-parks",
+  "sites": [],
+  "coordinates": [
+   -101.031111111,
+   76.124166666
+  ],
+  "id": "qausuittuq-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q18167998"
+ },
+ {
+  "wikidata": "Q1327341",
+  "name": "Quttinirpaaq National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/eng/pn-np/nu/quttinirpaaq/index.aspx",
+   "http://www.pc.gc.ca/fra/pn-np/nu/quttinirpaaq/index.aspx"
+  ],
+  "coordinates": [
+   -72.216666666,
+   82.216666666
+  ],
+  "id": "quttinirpaaq-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1327341"
+ },
+ {
+  "wikidata": "Q795190",
+  "name": "Riding Mountain National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/fra/pn-np/mb/riding/index.aspx"
+  ],
+  "coordinates": [
+   -100.036,
+   50.8639
+  ],
+  "id": "riding-mountain-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -100.22195,
+    50.8553
+   ]
+  },
+  "coordinatesSource": "Wikidata Q795190"
+ },
+ {
+  "wikidata": null,
+  "name": "Rouge National Urban Park",
+  "region": "canada-parks",
+  "id": "rouge-national-urban-park",
+  "sites": [],
+  "coordinates": [
+   -79.22315,
+   43.93768
+  ],
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -79.22315,
+    43.93768
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q4133141",
+  "name": "Sable Island National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/eng/pn-np/ns/sable/index.aspx"
+  ],
+  "coordinates": [
+   -59.906944444,
+   43.935277777
+  ],
+  "id": "sable-island-national-park",
+  "original": {
+   "policy": "none",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -59.91317,
+    43.93044
+   ]
+  },
+  "coordinatesSource": "Wikidata Q4133141"
+ },
+ {
+  "wikidata": "Q795332",
+  "name": "Sirmilik National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://pc.gc.ca/pn-np/nu/sirmilik/index_e.asp"
+  ],
+  "coordinates": [
+   -80.583333333,
+   72.833333333
+  ],
+  "id": "sirmilik-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q795332"
+ },
+ {
+  "wikidata": "Q1422693",
+  "name": "Terra Nova National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/nl/terranova",
+   "https://www.pc.gc.ca/fr/pn-np/nl/terranova"
+  ],
+  "coordinates": [
+   -53.9281,
+   48.5306
+  ],
+  "id": "terra-nova-national-park-visitor-center",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -53.94941,
+    48.57963
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1422693"
+ },
+ {
+  "wikidata": "Q724310",
+  "name": "Thaidene Nëné National Park Reserve",
+  "region": "canada-parks",
+  "sites": [
+   "https://parks.canada.ca/pn-np/nt/thaidene-nene",
+   "https://parcs.canada.ca/pn-np/nt/thaidene-nene"
+  ],
+  "coordinates": [
+   -108.634444444,
+   62.7075
+  ],
+  "id": "thaidene-nene-national-park-reserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q724310"
+ },
+ {
+  "wikidata": "Q636823",
+  "name": "Thousand Islands National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/fr/pn-np/on/1000",
+   "https://www.pc.gc.ca/pn-np/on/1000"
+  ],
+  "coordinates": [
+   -75.955,
+   44.3525
+  ],
+  "id": "thousand-islands-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -76.05093,
+    44.34258
+   ]
+  },
+  "coordinatesSource": "Wikidata Q636823"
+ },
+ {
+  "wikidata": "Q152688",
+  "name": "Torngat Mountains National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/nl/torngats",
+   "https://www.pc.gc.ca/fr/pn-np/nl/torngats"
+  ],
+  "coordinates": [
+   -63.696388888,
+   59.435833333
+  ],
+  "id": "torngat-mountains-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q152688"
+ },
+ {
+  "wikidata": null,
+  "name": "Torngat Mountains National Park Reserve of Canada",
+  "region": "canada-parks",
+  "id": "torngat-mountains-national-park-reserve-of-canada",
+  "sites": [],
+  "coordinates": [
+   -64.10898,
+   59.18041
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -64.10898,
+    59.18041
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q597959",
+  "name": "Tuktut Nogait National Park",
+  "region": "canada-parks",
+  "sites": [],
+  "coordinates": [
+   -121.749,
+   68.8187
+  ],
+  "id": "tuktut-nogait-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -121.81268,
+    68.7498
+   ]
+  },
+  "coordinatesSource": "Wikidata Q597959"
+ },
+ {
+  "wikidata": "Q862318",
+  "name": "Ukkusiksalik National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/en/pn-np/nu/ukkusiksalik",
+   "https://www.pc.gc.ca/fr/pn-np/nu/ukkusiksalik"
+  ],
+  "coordinates": [
+   -87.895277777,
+   65.498611111
+  ],
+  "id": "ukkusiksalik-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q862318"
+ },
+ {
+  "wikidata": null,
+  "name": "Ukkusiksalik National Park of Canada",
+  "region": "canada-parks",
+  "id": "ukkusiksalik-national-park-of-canada",
+  "sites": [],
+  "coordinates": [
+   -90.4655,
+   65.76956
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -90.4655,
+    65.76956
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q862271",
+  "name": "Vuntut National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/fra/pn-np/yt/vuntut/index.aspx"
+  ],
+  "coordinates": [
+   -140.048,
+   68.3069
+  ],
+  "id": "vuntut-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -139.86479,
+    68.39085
+   ]
+  },
+  "coordinatesSource": "Wikidata Q862271"
+ },
+ {
+  "wikidata": "Q1638019",
+  "name": "Wapusk National Park",
+  "region": "canada-parks",
+  "sites": [
+   "http://www.pc.gc.ca/pn-np/mb/wapusk.aspx",
+   "https://parcs.canada.ca/pn-np/mb/wapusk"
+  ],
+  "coordinates": [
+   -93.3714,
+   57.7739
+  ],
+  "id": "wapusk-national-park",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -93.1583,
+    57.78613
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1638019"
+ },
+ {
+  "wikidata": "Q902778",
+  "name": "Waterton Lakes National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://www.pc.gc.ca/fr/pn-np/ab/waterton/index"
+  ],
+  "coordinates": [
+   -113.933333333,
+   49.05
+  ],
+  "id": "waterton-lakes-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -113.91667,
+    49.08333
+   ]
+  },
+  "coordinatesSource": "Wikidata Q902778"
+ },
+ {
+  "wikidata": "Q391338",
+  "name": "Wood Buffalo National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://pc.gc.ca/en/pn-np/nt/woodbuffalo",
+   "https://pc.gc.ca/fr/pn-np/nt/woodbuffalo"
+  ],
+  "coordinates": [
+   -112.983,
+   59.3833
+  ],
+  "id": "wood-buffalo-national-park-of-canada",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -112.8764,
+    59.4395
+   ]
+  },
+  "coordinatesSource": "Wikidata Q391338"
+ },
+ {
+  "wikidata": "Q828404",
+  "name": "Yoho National Park",
+  "region": "canada-parks",
+  "sites": [
+   "https://parcs.canada.ca/pn-np/bc/yoho",
+   "https://parks.canada.ca/pn-np/bc/yoho"
+  ],
+  "coordinates": [
+   -116.487,
+   51.3953
+  ],
+  "id": "yoho-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q828404"
+ },
+ {
+  "wikidata": "Q1327757",
+  "name": "Aiguebelle National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.wdpa.org/parc-national-aiguebelle-quebec-s-national-park"
+  ],
+  "coordinates": [
+   -78.749,
+   48.5104
+  ],
+  "id": "parc-national-d-aiguebelle",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -78.74897,
+    48.51045
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1327757"
+ },
+ {
+  "wikidata": "Q2052003",
+  "name": "Anticosti National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/pan/fr/"
+  ],
+  "coordinates": [
+   -62.8333,
+   49.5
+  ],
+  "id": "anticosti-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q2052003"
+ },
+ {
+  "wikidata": "Q170269",
+  "name": "Bic National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/bic/"
+  ],
+  "coordinates": [
+   -68.783333,
+   48.35
+  ],
+  "id": "parc-national-du-bic",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -68.80493,
+    48.35478
+   ]
+  },
+  "coordinatesSource": "Wikidata Q170269"
+ },
+ {
+  "wikidata": "Q1625209",
+  "name": "Frontenac National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "https://www.sepaq.com/pq/fro/index.dot?language_id=2"
+  ],
+  "coordinates": [
+   -71.2167,
+   45.8667
+  ],
+  "id": "parc-national-de-frontenac",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.16273,
+    45.84046
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1625209"
+ },
+ {
+  "wikidata": "Q2051988",
+  "name": "Gaspésie National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/gas/fr/"
+  ],
+  "coordinates": [
+   -66.2333,
+   48.9333
+  ],
+  "id": "parc-national-de-la-gaspesie",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -66.12243,
+    48.94742
+   ]
+  },
+  "coordinatesSource": "Wikidata Q2051988"
+ },
+ {
+  "wikidata": "Q1553329",
+  "name": "Grands-Jardins National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/grj/fr/"
+  ],
+  "coordinates": [
+   -70.85,
+   47.6833
+  ],
+  "id": "parc-national-des-grands-jardins",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -70.21917,
+    47.69033
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1553329"
+ },
+ {
+  "wikidata": "Q1145575",
+  "name": "Hautes-Gorges-de-la-Rivière-Malbaie National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/hgo/fr/"
+  ],
+  "coordinates": [
+   -70.5167,
+   47.9333
+  ],
+  "id": "parc-national-des-hautes-gorges-de-la-riviere-malbaie",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -70.42949,
+    47.85453
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1145575"
+ },
+ {
+  "wikidata": "Q1631583",
+  "name": "Jacques-Cartier National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/jac/fr/"
+  ],
+  "coordinates": [
+   -71.35,
+   47.3333
+  ],
+  "id": "parc-national-de-la-jacques-cartier",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.36959,
+    47.17545
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1631583"
+ },
+ {
+  "wikidata": "Q2051982",
+  "name": "Kuururjuaq National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.nunavikparks.ca/en/parks/kuururjuaq",
+   "http://www.nunavikparks.ca/fr/parcs/kuururjuaq"
+  ],
+  "coordinates": [
+   -64.566666666,
+   58.6
+  ],
+  "id": "kuururjuaq-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q2051982"
+ },
+ {
+  "wikidata": "Q1748065",
+  "name": "Lac-Témiscouata National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.mddep.gouv.qc.ca/parcs/projets/lac-temis.htm"
+  ],
+  "coordinates": [
+   -68.7917,
+   47.7366
+  ],
+  "id": "parc-national-du-lac-temiscouata",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -68.84791,
+    47.69689
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1748065"
+ },
+ {
+  "wikidata": "Q631128",
+  "name": "Miguasha National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/mig/fr/"
+  ],
+  "coordinates": [
+   -66.369444444,
+   48.110555555
+  ],
+  "id": "miguasha-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q631128"
+ },
+ {
+  "wikidata": "Q1751092",
+  "name": "Mont-Mégantic National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/mme/fr/"
+  ],
+  "coordinates": [
+   -71.1625,
+   45.4569
+  ],
+  "id": "parc-national-du-mont-megantic",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.12594,
+    45.42329
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1751092"
+ },
+ {
+  "wikidata": "Q1147629",
+  "name": "Mont-Orford National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/mor/fr/"
+  ],
+  "coordinates": [
+   -72.2167,
+   45.3333
+  ],
+  "id": "parc-national-du-mont-orford",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -72.18816,
+    45.32278
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1147629"
+ },
+ {
+  "wikidata": "Q2051996",
+  "name": "Mont-Saint-Bruno National Park",
+  "region": "quebec-parks",
+  "sites": [],
+  "coordinates": [
+   -73.3167,
+   45.55
+  ],
+  "id": "mont-saint-bruno-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q2051996"
+ },
+ {
+  "wikidata": "Q252793",
+  "name": "Mont-Tremblant National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/mot/fr/"
+  ],
+  "coordinates": [
+   -74.35,
+   46.4333
+  ],
+  "id": "parc-national-du-mont-tremblant",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -74.5101,
+    46.26117
+   ]
+  },
+  "coordinatesSource": "Wikidata Q252793"
+ },
+ {
+  "wikidata": "Q1395482",
+  "name": "Monts-Valin National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "https://www.sepaq.com/pq/mva/index.dot?language_id=2"
+  ],
+  "coordinates": [
+   -70.8,
+   48.6167
+  ],
+  "id": "monts-valin-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1395482"
+ },
+ {
+  "wikidata": "Q3457131",
+  "name": "Nibiischii National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "https://www.nibiischii.com"
+  ],
+  "coordinates": [
+   -72.668055555,
+   51.233333333
+  ],
+  "id": "nibiischii-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3457131"
+ },
+ {
+  "wikidata": "Q2052005",
+  "name": "Oka National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/oka/fr/"
+  ],
+  "coordinates": [
+   -74.030555555,
+   45.468055555
+  ],
+  "id": "parc-national-d-oka",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -74.06048,
+    45.47393
+   ]
+  },
+  "coordinatesSource": "Wikidata Q2052005"
+ },
+ {
+  "wikidata": "Q15395907",
+  "name": "Opémican National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "https://www.sepaq.com/pq/ope/index.dot"
+  ],
+  "coordinates": [
+   -79.1025,
+   46.885
+  ],
+  "id": "opemican-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q15395907"
+ },
+ {
+  "wikidata": "Q568357",
+  "name": "Pingualuit National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.nunavikparks.ca/en/parks/pingualuit",
+   "http://www.nunavikparks.ca/fr/parcs/pingualuit"
+  ],
+  "coordinates": [
+   -73.666666666,
+   61.3
+  ],
+  "id": "pingualuit-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q568357"
+ },
+ {
+  "wikidata": "Q1630760",
+  "name": "Plaisance National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "https://www.sepaq.com/pq/pla/index.dot"
+  ],
+  "coordinates": [
+   -75.1333,
+   45.6
+  ],
+  "id": "parc-national-de-plaisance",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -75.10857,
+    45.59894
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1630760"
+ },
+ {
+  "wikidata": "Q2051991",
+  "name": "Pointe-Taillon National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/pta/fr/"
+  ],
+  "coordinates": [
+   -71.9667,
+   48.7
+  ],
+  "id": "parc-national-de-la-pointe-taillon",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -71.87314,
+    48.67803
+   ]
+  },
+  "coordinatesSource": "Wikidata Q2051991"
+ },
+ {
+  "wikidata": "Q3364513",
+  "name": "Saguenay Fjord National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/sag/fr/"
+  ],
+  "coordinates": [
+   -70.2635,
+   48.2757
+  ],
+  "id": "parc-national-du-fjord-du-saguenay",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -70.33531,
+    48.30074
+   ]
+  },
+  "coordinatesSource": "Wikidata Q3364513"
+ },
+ {
+  "wikidata": "Q3457180",
+  "name": "Tursujuq National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.nunavikparks.ca/en/parks/tursujuq",
+   "http://www.nunavikparks.ca/fr/parcs/tursujuq"
+  ],
+  "coordinates": [
+   -76.294166666,
+   56.249444444
+  ],
+  "id": "tursujuq-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3457180"
+ },
+ {
+  "wikidata": "Q3457181",
+  "name": "Ulittaniujalik National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.nunavikparks.ca/fr/parcs/ulittaniujalik",
+   "http://www.nunavikparks.ca/en/parks/ulittaniujalik"
+  ],
+  "coordinates": [
+   -65.431944444,
+   57.626944444
+  ],
+  "id": "ulittaniujalik-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3457181"
+ },
+ {
+  "wikidata": "Q1329151",
+  "name": "Yamaska National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/yam/fr/"
+  ],
+  "coordinates": [
+   -72.6164,
+   45.4297
+  ],
+  "id": "parc-national-de-la-yamaska",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -72.61604,
+    45.42822
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1329151"
+ },
+ {
+  "wikidata": "Q745054",
+  "name": "Île-Bonaventure-et-du-Rocher-Percé National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/bon/index.dot"
+  ],
+  "coordinates": [
+   -64.161944,
+   48.496389
+  ],
+  "id": "ile-bonaventure-et-du-rocher-perce-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q745054"
+ },
+ {
+  "wikidata": "Q1327997",
+  "name": "Îles-de-Boucherville National Park",
+  "region": "quebec-parks",
+  "sites": [
+   "http://www.sepaq.com/pq/bou/"
+  ],
+  "coordinates": [
+   -73.466667222,
+   45.616667222
+  ],
+  "id": "parc-national-des-iles-de-boucherville",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -73.46853,
+    45.59869
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1327997"
+ },
+ {
+  "wikidata": "Q448940",
+  "name": "Allegheny National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/allegheny/"
+  ],
+  "coordinates": [
+   -79.0212,
+   41.65219
+  ],
+  "id": "allegheny-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q448940"
+ },
+ {
+  "wikidata": "Q3079095",
+  "name": "Angeles National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/angeles"
+  ],
+  "coordinates": [
+   -118.133,
+   34.3333
+  ],
+  "id": "angeles-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079095"
+ },
+ {
+  "wikidata": null,
+  "name": "Angelina National Forest",
+  "region": "us-forests",
+  "id": "angelina-national-forest",
+  "sites": [],
+  "coordinates": [
+   -94.41194444,
+   31.26861111
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Angelina National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Apache National Forest",
+  "region": "us-forests",
+  "id": "apache-national-forest",
+  "sites": [],
+  "coordinates": [
+   -109.08388889,
+   33.58333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Apache National Forest"
+ },
+ {
+  "wikidata": "Q453831",
+  "name": "Apache–Sitgreaves National Forests",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/asnf"
+  ],
+  "coordinates": [
+   -109.288,
+   33.6372
+  ],
+  "id": "apachesitgreaves-national-forests",
+  "original": null,
+  "coordinatesSource": "Wikidata Q453831"
+ },
+ {
+  "wikidata": null,
+  "name": "Apalachicola National Forest",
+  "region": "us-forests",
+  "id": "apalachicola-national-forest",
+  "sites": [],
+  "coordinates": [
+   -84.66555556,
+   30.23611111
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Apalachicola National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Arapaho National Forest",
+  "region": "us-forests",
+  "id": "arapaho-national-forest",
+  "sites": [],
+  "coordinates": [
+   -105.642778,
+   39.588611
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Arapaho National Forest"
+ },
+ {
+  "wikidata": "Q117223617",
+  "name": "Arapaho and Roosevelt National Forests and Pawnee National Grassland",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/arp"
+  ],
+  "coordinates": [
+   -105.0824666,
+   40.5604052
+  ],
+  "id": "arapaho-and-roosevelt-national-forests-and-pawnee-national-grassland",
+  "original": null,
+  "coordinatesSource": "OpenStreetMap: Arapaho and Roosevelt National Forests and Pawnee National Grassland, 2150, Cent"
+ },
+ {
+  "wikidata": "Q4805539",
+  "name": "Ashley National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/ashley/"
+  ],
+  "coordinates": [
+   -110.333,
+   40.3333
+  ],
+  "id": "ashley-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q4805539"
+ },
+ {
+  "wikidata": "Q3079107",
+  "name": "Beaverhead–Deerlodge National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -112.7873484,
+   45.6005964
+  ],
+  "id": "beaverhead-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -113.00115,
+    45.5002
+   ]
+  },
+  "coordinatesSource": "Wikidata Q3079107"
+ },
+ {
+  "wikidata": null,
+  "name": "Bienville National Forest",
+  "region": "us-forests",
+  "id": "bienville-national-forest",
+  "sites": [],
+  "coordinates": [
+   -89.503,
+   32.294
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Bienville National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Bighorn National Forest",
+  "region": "us-forests",
+  "id": "bighorn-national-forest",
+  "sites": [],
+  "coordinates": [
+   -107.35,
+   44.53333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Bighorn National Forest"
+ },
+ {
+  "wikidata": "Q3079113",
+  "name": "Bitterroot National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/bitterroot"
+  ],
+  "coordinates": [
+   -113.964,
+   46.2328
+  ],
+  "id": "bitterroot-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079113"
+ },
+ {
+  "wikidata": "Q594965",
+  "name": "Black Hills National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/blackhills/"
+  ],
+  "coordinates": [
+   -103.728,
+   43.9364
+  ],
+  "id": "black-hills-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q594965"
+ },
+ {
+  "wikidata": "Q891075",
+  "name": "Boise National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/boise"
+  ],
+  "coordinates": [
+   -115.5625,
+   43.8125
+  ],
+  "id": "boise-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q891075"
+ },
+ {
+  "wikidata": "Q4966630",
+  "name": "Bridger National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -110.7,
+   42.8
+  ],
+  "id": "bridger-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q4966630"
+ },
+ {
+  "wikidata": "Q913792",
+  "name": "Bridger–Teton National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.fed.us/r4/btnf/"
+  ],
+  "coordinates": [
+   -110.725,
+   43.43
+  ],
+  "id": "bridgerteton-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q913792"
+ },
+ {
+  "wikidata": "Q5015959",
+  "name": "Cache National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -111.634,
+   41.6844
+  ],
+  "id": "cache-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q5015959"
+ },
+ {
+  "wikidata": null,
+  "name": "Caribou National Forest",
+  "region": "us-forests",
+  "id": "caribou-national-forest",
+  "sites": [],
+  "coordinates": [
+   -111.55,
+   42.78333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Caribou National Forest"
+ },
+ {
+  "wikidata": "Q1036127",
+  "name": "Caribou–Targhee National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/ctnf"
+  ],
+  "coordinates": [
+   -111.55,
+   42.7833
+  ],
+  "id": "cariboutarghee-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1036127"
+ },
+ {
+  "wikidata": "Q2746705",
+  "name": "Carson National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/carson/"
+  ],
+  "coordinates": [
+   -106.07511,
+   36.51038
+  ],
+  "id": "carson-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q2746705"
+ },
+ {
+  "wikidata": null,
+  "name": "Challis National Forest",
+  "region": "us-forests",
+  "id": "challis-national-forest",
+  "sites": [],
+  "coordinates": [
+   -114.75119,
+   44.25019
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -114.75119,
+    44.25019
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": null,
+  "name": "Chattahoochee National Forest",
+  "region": "us-forests",
+  "id": "chattahoochee-national-forest",
+  "sites": [],
+  "coordinates": [
+   -84.115556,
+   34.763611
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Chattahoochee National Forest"
+ },
+ {
+  "wikidata": "Q1068278",
+  "name": "Chattahoochee–Oconee National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/main/conf/home"
+  ],
+  "coordinates": [
+   -84.1156,
+   34.7636
+  ],
+  "id": "chattahoocheeoconee-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1068278"
+ },
+ {
+  "wikidata": null,
+  "name": "Chequamegon National Forest",
+  "region": "us-forests",
+  "id": "chequamegon-national-forest",
+  "sites": [],
+  "coordinates": [
+   -91.0004626,
+   46.16662
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "OpenStreetMap: Chequamegon National Forest, Forest Road 334, Town of Namakagon, Bayfield County"
+ },
+ {
+  "wikidata": "Q3079112",
+  "name": "Chequamegon–Nicolet National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/cnnf/"
+  ],
+  "coordinates": [
+   -90.872777777,
+   46.154722222
+  ],
+  "id": "chequamegonnicolet-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3079112"
+ },
+ {
+  "wikidata": "Q3079114",
+  "name": "Cherokee National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/cherokee/"
+  ],
+  "coordinates": [
+   -83.06371,
+   35.86652
+  ],
+  "id": "cherokee-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079114"
+ },
+ {
+  "wikidata": "Q3079117",
+  "name": "Chippewa National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/chippewa"
+  ],
+  "coordinates": [
+   -94.2067,
+   47.3406
+  ],
+  "id": "chippewa-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079117"
+ },
+ {
+  "wikidata": "Q1089340",
+  "name": "Chugach National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/chugach/"
+  ],
+  "coordinates": [
+   -149.126111111,
+   60.461388888
+  ],
+  "id": "chugach-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1089340"
+ },
+ {
+  "wikidata": "Q5119235",
+  "name": "Cibola National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/cibola/"
+  ],
+  "coordinates": [
+   -107.413,
+   34.297
+  ],
+  "id": "cibola-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q5119235"
+ },
+ {
+  "wikidata": "Q5130951",
+  "name": "Clearwater National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/nezperceclearwater/"
+  ],
+  "coordinates": [
+   -115.16,
+   46.5511
+  ],
+  "id": "clearwater-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q5130951"
+ },
+ {
+  "wikidata": "Q3079127",
+  "name": "Cleveland National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/cleveland"
+  ],
+  "coordinates": [
+   -116.8,
+   33.3
+  ],
+  "id": "cleveland-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079127"
+ },
+ {
+  "wikidata": "Q1105434",
+  "name": "Coconino National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/coconino"
+  ],
+  "coordinates": [
+   -111.764444444,
+   34.7575
+  ],
+  "id": "coconino-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1105434"
+ },
+ {
+  "wikidata": "Q5140848",
+  "name": "Coeur d'Alene National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/main/ipnf/"
+  ],
+  "coordinates": [
+   -116.2175,
+   47.72673
+  ],
+  "id": "coeur-d-alene-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q5140848"
+ },
+ {
+  "wikidata": "Q5150298",
+  "name": "Colville National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/colville"
+  ],
+  "coordinates": [
+   -117.625,
+   48.688
+  ],
+  "id": "colville-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q5150298"
+ },
+ {
+  "wikidata": null,
+  "name": "Conecuh National Forest",
+  "region": "us-forests",
+  "id": "conecuh-national-forest",
+  "sites": [],
+  "coordinates": [
+   -86.63833333,
+   31.09833333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Conecuh National Forest"
+ },
+ {
+  "wikidata": "Q591893",
+  "name": "Coronado National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/coronado"
+  ],
+  "coordinates": [
+   -110.309,
+   31.9964
+  ],
+  "id": "coronado-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q591893"
+ },
+ {
+  "wikidata": null,
+  "name": "Croatan National Forest",
+  "region": "us-forests",
+  "id": "croatan-national-forest",
+  "sites": [],
+  "coordinates": [
+   -77.056446,
+   34.914441
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Croatan National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Custer National Forest",
+  "region": "us-forests",
+  "id": "custer-national-forest",
+  "sites": [],
+  "coordinates": [
+   -108.35,
+   45.2
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Custer National Forest"
+ },
+ {
+  "wikidata": "Q22134469",
+  "name": "Custer–Gallatin National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/main/custergallatin/"
+  ],
+  "coordinates": [
+   -108.35,
+   45.2
+  ],
+  "id": "custergallatin-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q22134469"
+ },
+ {
+  "wikidata": "Q1160129",
+  "name": "Daniel Boone National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/dbnf"
+  ],
+  "coordinates": [
+   -83.8753,
+   37.2881
+  ],
+  "id": "daniel-boone-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1160129"
+ },
+ {
+  "wikidata": null,
+  "name": "Davy Crockett National Forest",
+  "region": "us-forests",
+  "id": "davy-crockett-national-forest",
+  "sites": [],
+  "coordinates": [
+   -95.08333333,
+   31.33333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Davy Crockett National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "De Soto National Forest",
+  "region": "us-forests",
+  "id": "de-soto-national-forest",
+  "sites": [],
+  "coordinates": [
+   -88.98333333,
+   31.06666667
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: De Soto National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Deerlodge National Forest",
+  "region": "us-forests",
+  "id": "deerlodge-national-forest",
+  "sites": [],
+  "coordinates": [
+   -112.33418,
+   46.08326
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -112.33418,
+    46.08326
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": null,
+  "name": "Delta National Forest",
+  "region": "us-forests",
+  "id": "delta-national-forest",
+  "sites": [],
+  "coordinates": [
+   -90.78333333,
+   32.76666667
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Delta National Forest"
+ },
+ {
+  "wikidata": "Q3079128",
+  "name": "Deschutes National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/Deschutes"
+  ],
+  "coordinates": [
+   -121.5,
+   44.0
+  ],
+  "id": "deschutes-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079128"
+ },
+ {
+  "wikidata": "Q2447196",
+  "name": "Dixie National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/dixie/"
+  ],
+  "coordinates": [
+   -111.633,
+   38.0167
+  ],
+  "id": "dixie-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q2447196"
+ },
+ {
+  "wikidata": "Q2375961",
+  "name": "El Yunque National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -65.78333333,
+   18.31666667
+  ],
+  "id": "el-yunque-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q2375961"
+ },
+ {
+  "wikidata": "Q577753",
+  "name": "Eldorado National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/eldorado"
+  ],
+  "coordinates": [
+   -120.333,
+   38.7503
+  ],
+  "id": "eldorado-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q577753"
+ },
+ {
+  "wikidata": null,
+  "name": "Finger Lakes National Forest",
+  "region": "us-forests",
+  "id": "finger-lakes-national-forest",
+  "sites": [],
+  "coordinates": [
+   -76.78968,
+   42.51063
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -76.78968,
+    42.51063
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q2642417",
+  "name": "Fishlake National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/fishlake"
+  ],
+  "coordinates": [
+   -111.959,
+   38.7083
+  ],
+  "id": "fishlake-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q2642417"
+ },
+ {
+  "wikidata": null,
+  "name": "Flathead National Forest",
+  "region": "us-forests",
+  "id": "flathead-national-forest",
+  "sites": [],
+  "coordinates": [
+   -113.8,
+   48.03333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Flathead National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Francis Marion National Forest",
+  "region": "us-forests",
+  "id": "francis-marion-national-forest",
+  "sites": [],
+  "coordinates": [
+   -79.666667,
+   33.166667
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Francis Marion National Forest"
+ },
+ {
+  "wikidata": "Q141136178",
+  "name": "Francis Marion and Sumter National Forests",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r08/francismarionsumter"
+  ],
+  "coordinates": null,
+  "id": "francis-marion-and-sumter-national-forests",
+  "original": null
+ },
+ {
+  "wikidata": "Q3079129",
+  "name": "Fremont National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -121.312,
+   42.9375
+  ],
+  "id": "fremont-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -121.31362,
+    42.93736
+   ]
+  },
+  "coordinatesSource": "Wikidata Q3079129"
+ },
+ {
+  "wikidata": "Q5501644",
+  "name": "Fremont–Winema National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://fs.usda.gov/fremont-winema"
+  ],
+  "coordinates": [
+   -121.2,
+   42.6
+  ],
+  "id": "fremontwinema-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q5501644"
+ },
+ {
+  "wikidata": null,
+  "name": "Gallatin National Forest",
+  "region": "us-forests",
+  "id": "gallatin-national-forest",
+  "sites": [],
+  "coordinates": [
+   -108.35,
+   45.2
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Gallatin National Forest"
+ },
+ {
+  "wikidata": "Q49329889",
+  "name": "George Washington National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -79.36,
+   38.206666666
+  ],
+  "id": "george-washington-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -79.16642,
+    38.5004
+   ]
+  },
+  "coordinatesSource": "Wikidata Q49329889"
+ },
+ {
+  "wikidata": "Q3079313",
+  "name": "George Washington and Jefferson National Forests",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/gwj"
+  ],
+  "coordinates": [
+   -79.0,
+   38.5
+  ],
+  "id": "george-washington-and-jefferson-national-forests",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3079313"
+ },
+ {
+  "wikidata": "Q670490",
+  "name": "Gifford Pinchot National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/giffordpinchot"
+  ],
+  "coordinates": [
+   -121.756,
+   46.189
+  ],
+  "id": "gifford-pinchot-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q670490"
+ },
+ {
+  "wikidata": "Q1523874",
+  "name": "Gila National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/gila"
+  ],
+  "coordinates": [
+   -108.533333333,
+   33.466666666
+  ],
+  "id": "gila-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1523874"
+ },
+ {
+  "wikidata": null,
+  "name": "Grand Mesa National Forest",
+  "region": "us-forests",
+  "id": "grand-mesa-national-forest",
+  "sites": [],
+  "coordinates": [
+   -107.8834,
+   39.0668
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Grand Mesa National Forest"
+ },
+ {
+  "wikidata": "Q117211560",
+  "name": "Grand Mesa, Uncompahgre and Gunnison National Forests",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/gmug"
+  ],
+  "coordinates": null,
+  "id": "grand-mesa-uncompahgre-and-gunnison-national-forests",
+  "original": null
+ },
+ {
+  "wikidata": null,
+  "name": "Green Mountain National Forest",
+  "region": "us-forests",
+  "id": "green-mountain-national-forest",
+  "sites": [],
+  "coordinates": [
+   -73.06666667,
+   43.95
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Green Mountain National Forest"
+ },
+ {
+  "wikidata": "Q141137163",
+  "name": "Green Mountain and Finger Lakes National Forests",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r09/gmfl"
+  ],
+  "coordinates": null,
+  "id": "green-mountain-and-finger-lakes-national-forests",
+  "original": null
+ },
+ {
+  "wikidata": null,
+  "name": "Gunnison National Forest",
+  "region": "us-forests",
+  "id": "gunnison-national-forest",
+  "sites": [],
+  "coordinates": [
+   -107.2167,
+   38.703237
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Gunnison National Forest"
+ },
+ {
+  "wikidata": "Q3079097",
+  "name": "Helena National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -111.833,
+   46.5833
+  ],
+  "id": "helena-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079097"
+ },
+ {
+  "wikidata": "Q124387374",
+  "name": "Helena–Lewis and Clark National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/hlcnf"
+  ],
+  "coordinates": [
+   -112.657769833,
+   47.270359833
+  ],
+  "id": "helenalewis-and-clark-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q124387374"
+ },
+ {
+  "wikidata": "Q5750580",
+  "name": "Hiawatha National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/hiawatha"
+  ],
+  "coordinates": [
+   -86.6667,
+   46.1333
+  ],
+  "id": "hiawatha-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q5750580"
+ },
+ {
+  "wikidata": null,
+  "name": "Holly Springs National Forest",
+  "region": "us-forests",
+  "id": "holly-springs-national-forest",
+  "sites": [],
+  "coordinates": [
+   -89.13333333,
+   34.73333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Holly Springs National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Homochitto National Forest",
+  "region": "us-forests",
+  "id": "homochitto-national-forest",
+  "sites": [],
+  "coordinates": [
+   -90.998611,
+   31.503056
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Homochitto National Forest"
+ },
+ {
+  "wikidata": "Q5898597",
+  "name": "Hoosier National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/hoosier/"
+  ],
+  "coordinates": [
+   -86.525,
+   38.4775
+  ],
+  "id": "hoosier-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q5898597"
+ },
+ {
+  "wikidata": null,
+  "name": "Humboldt National Forest",
+  "region": "us-forests",
+  "id": "humboldt-national-forest",
+  "sites": [],
+  "coordinates": [
+   -117.127767,
+   39.254041
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Humboldt National Forest"
+ },
+ {
+  "wikidata": "Q5940240",
+  "name": "Humboldt–Toiyabe National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/htnf"
+  ],
+  "coordinates": [
+   -117.128,
+   39.254
+  ],
+  "id": "humboldttoiyabe-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q5940240"
+ },
+ {
+  "wikidata": null,
+  "name": "Huron National Forest",
+  "region": "us-forests",
+  "id": "huron-national-forest",
+  "sites": [],
+  "coordinates": [
+   -84.0152306,
+   44.5093519
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "OpenStreetMap: Huron National Forest, Oscoda County, Michigan, 48761, United States"
+ },
+ {
+  "wikidata": "Q5946838",
+  "name": "Huron–Manistee National Forests",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r09/huron-manistee"
+  ],
+  "coordinates": null,
+  "id": "huronmanistee-national-forests",
+  "original": null
+ },
+ {
+  "wikidata": "Q1671852",
+  "name": "Inyo National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/inyo"
+  ],
+  "coordinates": [
+   -118.286,
+   37.8528
+  ],
+  "id": "inyo-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1671852"
+ },
+ {
+  "wikidata": "Q31811174",
+  "name": "Jefferson National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -80.395555555,
+   37.497777777
+  ],
+  "id": "jefferson-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -80.66645,
+    37.2504
+   ]
+  },
+  "coordinatesSource": "Wikidata Q31811174"
+ },
+ {
+  "wikidata": "Q1427269",
+  "name": "Kaibab National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/kaibab"
+  ],
+  "coordinates": [
+   -112.135,
+   36.4125
+  ],
+  "id": "kaibab-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1427269"
+ },
+ {
+  "wikidata": "Q6363198",
+  "name": "Kaniksu National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6IeDdGCqCPOBqwDLG-AAjgb6fh75uan6BdnZaY6OiooA1tkqlQ!!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfMjAwMDAwMDBBODBPSEhWTjBNMDAwMDAwMDA!/?ss=110104&navtype=BROWSEBYSUBJECT&cid=FSE_003853&navid=091000000000000&pnavid=null&position=BROWSEBYSUBJECT&ttype=main&pname=Idaho%2520Panhandle%2520National%2520Forest-%2520Home/"
+  ],
+  "coordinates": [
+   -116.152,
+   48.317
+  ],
+  "id": "kaniksu-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q6363198"
+ },
+ {
+  "wikidata": "Q3079132",
+  "name": "Kisatchie National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.fed.us/r8/kisatchie"
+  ],
+  "coordinates": [
+   -92.504166666,
+   31.633888888
+  ],
+  "id": "kisatchie-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079132"
+ },
+ {
+  "wikidata": "Q6419646",
+  "name": "Klamath National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/klamath"
+  ],
+  "coordinates": [
+   -123.43086,
+   41.60503
+  ],
+  "id": "klamath-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q6419646"
+ },
+ {
+  "wikidata": null,
+  "name": "Kootenai National Forest",
+  "region": "us-forests",
+  "id": "kootenai-national-forest",
+  "sites": [],
+  "coordinates": [
+   -115.46666667,
+   48.18333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Kootenai National Forest"
+ },
+ {
+  "wikidata": "Q14705186",
+  "name": "Lake Tahoe Basin Management Unit",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/ltbmu"
+  ],
+  "coordinates": [
+   -120.0,
+   39.0
+  ],
+  "id": "lake-tahoe-basin-management-unit",
+  "original": null,
+  "coordinatesSource": "Wikidata Q14705186"
+ },
+ {
+  "wikidata": "Q3079135",
+  "name": "Lassen National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/lassen"
+  ],
+  "coordinates": [
+   -121.000277777,
+   40.500277777
+  ],
+  "id": "lassen-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079135"
+ },
+ {
+  "wikidata": "Q1822187",
+  "name": "Lewis and Clark National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -111.45,
+   47.1833
+  ],
+  "id": "lewis-clark-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1822187"
+ },
+ {
+  "wikidata": "Q6550881",
+  "name": "Lincoln National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/lincoln/"
+  ],
+  "coordinates": [
+   -105.683333333,
+   32.833333333
+  ],
+  "id": "lincoln-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q6550881"
+ },
+ {
+  "wikidata": null,
+  "name": "Lolo National Forest",
+  "region": "us-forests",
+  "id": "lolo-national-forest",
+  "sites": [],
+  "coordinates": [
+   -114.45,
+   47.15
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Lolo National Forest"
+ },
+ {
+  "wikidata": "Q3290802",
+  "name": "Los Padres National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/lpnf"
+  ],
+  "coordinates": [
+   -119.751,
+   34.6667
+  ],
+  "id": "los-padres-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3290802"
+ },
+ {
+  "wikidata": "Q1425435",
+  "name": "Malheur National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/malheur/"
+  ],
+  "coordinates": [
+   -118.784,
+   44.2832
+  ],
+  "id": "malheur-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1425435"
+ },
+ {
+  "wikidata": null,
+  "name": "Manistee National Forest",
+  "region": "us-forests",
+  "id": "manistee-national-forest",
+  "sites": [],
+  "coordinates": [
+   -86.1607925,
+   43.5065226
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "OpenStreetMap: Manistee National Forest, Otto Township, Oceana County, Michigan, United States"
+ },
+ {
+  "wikidata": null,
+  "name": "Manti-La Sal National Forest",
+  "region": "us-forests",
+  "id": "manti-la-sal-national-forest",
+  "sites": [],
+  "coordinates": [
+   -111.425,
+   39.28333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Manti-La Sal National Forest"
+ },
+ {
+  "wikidata": "Q456015",
+  "name": "Manti–La Sal National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/mantilasal"
+  ],
+  "coordinates": [
+   -111.424722222,
+   39.283333333
+  ],
+  "id": "mantila-sal-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q456015"
+ },
+ {
+  "wikidata": "Q6770091",
+  "name": "Mark Twain National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/mtnf"
+  ],
+  "coordinates": [
+   -91.09,
+   37.637
+  ],
+  "id": "mark-twain-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q6770091"
+ },
+ {
+  "wikidata": null,
+  "name": "Medicine Bow National Forest",
+  "region": "us-forests",
+  "id": "medicine-bow-national-forest",
+  "sites": [],
+  "coordinates": [
+   -106.21666667,
+   41.58333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Medicine Bow National Forest"
+ },
+ {
+  "wikidata": "Q250597",
+  "name": "Medicine Bow–Routt National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/mbr/"
+  ],
+  "coordinates": [
+   -106.216666666,
+   41.583333333
+  ],
+  "id": "medicine-bowroutt-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q250597"
+ },
+ {
+  "wikidata": "Q6816692",
+  "name": "Mendocino National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/mendocino"
+  ],
+  "coordinates": [
+   -122.8125,
+   39.5625
+  ],
+  "id": "mendocino-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q6816692"
+ },
+ {
+  "wikidata": "Q6842169",
+  "name": "Midewin National Tallgrass Prairie",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/midewin"
+  ],
+  "coordinates": [
+   -88.11213,
+   41.37672
+  ],
+  "id": "midewin-national-tallgrass-prairie",
+  "original": null,
+  "coordinatesSource": "Wikidata Q6842169"
+ },
+ {
+  "wikidata": "Q6889555",
+  "name": "Modoc National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/modoc"
+  ],
+  "coordinates": [
+   -120.944,
+   41.5036
+  ],
+  "id": "modoc-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q6889555"
+ },
+ {
+  "wikidata": "Q513450",
+  "name": "Monongahela National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -79.89362,
+   38.55516
+  ],
+  "id": "monongahela-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q513450"
+ },
+ {
+  "wikidata": "Q3079176",
+  "name": "Mount Baker–Snoqualmie National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.fed.us/r6/mbs/about/"
+  ],
+  "coordinates": [
+   -121.378,
+   47.766
+  ],
+  "id": "mount-bakersnoqualmie-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3079176"
+ },
+ {
+  "wikidata": "Q1427290",
+  "name": "Mount Hood National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/mthood/"
+  ],
+  "coordinates": [
+   -121.70892,
+   45.33005
+  ],
+  "id": "mount-hood-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1427290"
+ },
+ {
+  "wikidata": null,
+  "name": "Mt. Baker National Forest",
+  "region": "us-forests",
+  "id": "mt-baker-national-forest",
+  "sites": [],
+  "coordinates": [
+   -121.4618848,
+   48.1449378
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "OpenStreetMap: Mount Baker National Forest, FS 2083, Snohomish County, Washington, United State"
+ },
+ {
+  "wikidata": null,
+  "name": "Mt. Hood National Forest",
+  "region": "us-forests",
+  "id": "mt-hood-national-forest",
+  "sites": [],
+  "coordinates": [
+   -121.70388889,
+   45.37055556
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Mt. Hood National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Nantahala National Forest",
+  "region": "us-forests",
+  "id": "nantahala-national-forest",
+  "sites": [],
+  "coordinates": [
+   -83.559265,
+   35.233842
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Nantahala National Forest"
+ },
+ {
+  "wikidata": "Q141136205",
+  "name": "National Forests and Grasslands in Texas",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r08/texas"
+  ],
+  "coordinates": null,
+  "id": "national-forests-and-grasslands-in-texas",
+  "original": null
+ },
+ {
+  "wikidata": "Q141131806",
+  "name": "National Forests in Alabama",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r08/alabama"
+  ],
+  "coordinates": null,
+  "id": "national-forests-in-alabama",
+  "original": null
+ },
+ {
+  "wikidata": "Q138839991",
+  "name": "National Forests in Florida",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r08/florida"
+  ],
+  "coordinates": null,
+  "id": "national-forests-in-florida",
+  "original": null
+ },
+ {
+  "wikidata": "Q111907523",
+  "name": "National Forests in Mississippi",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r08/mississippi"
+  ],
+  "coordinates": null,
+  "id": "national-forests-in-mississippi",
+  "original": null
+ },
+ {
+  "wikidata": "Q111907526",
+  "name": "National Forests in North Carolina",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/nfsnc"
+  ],
+  "coordinates": null,
+  "id": "national-forests-in-north-carolina",
+  "original": null
+ },
+ {
+  "wikidata": "Q3079172",
+  "name": "Nebraska National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/nebraska"
+  ],
+  "coordinates": [
+   -102.902,
+   42.7461
+  ],
+  "id": "nebraska-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079172"
+ },
+ {
+  "wikidata": "Q28847828",
+  "name": "Nebraska National Forests and Grasslands",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/main/nebraska/"
+  ],
+  "coordinates": null,
+  "id": "nebraska-national-forests-and-grasslands",
+  "original": null
+ },
+ {
+  "wikidata": "Q124389907",
+  "name": "Nez Perce–Clearwater National Forests",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/nezperceclearwater"
+  ],
+  "coordinates": [
+   -115.0824,
+   46.1882
+  ],
+  "id": "nez-perceclearwater-national-forests",
+  "original": null,
+  "coordinatesSource": "Wikidata Q124389907"
+ },
+ {
+  "wikidata": null,
+  "name": "Nezperce National Forest",
+  "region": "us-forests",
+  "id": "nezperce-national-forest",
+  "sites": [],
+  "coordinates": [
+   -115.91666667,
+   45.45
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Nezperce National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Nicolet National Forest",
+  "region": "us-forests",
+  "id": "nicolet-national-forest",
+  "sites": [],
+  "coordinates": [
+   -88.5247219,
+   45.3763893
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "OpenStreetMap: Nicolet National Forest, Knowles Creek Road, Town of Lakewood, Oconto County, Wi"
+ },
+ {
+  "wikidata": null,
+  "name": "Ocala National Forest",
+  "region": "us-forests",
+  "id": "ocala-national-forest",
+  "sites": [],
+  "coordinates": [
+   -81.82166667,
+   29.17361111
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Ocala National Forest"
+ },
+ {
+  "wikidata": "Q3079101",
+  "name": "Ochoco National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/ochoco"
+  ],
+  "coordinates": [
+   -120.117,
+   44.3764
+  ],
+  "id": "ochoco-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079101"
+ },
+ {
+  "wikidata": null,
+  "name": "Oconee National Forest",
+  "region": "us-forests",
+  "id": "oconee-national-forest",
+  "sites": [],
+  "coordinates": [
+   -84.115556,
+   34.763611
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Oconee National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Okanogan National Forest",
+  "region": "us-forests",
+  "id": "okanogan-national-forest",
+  "sites": [],
+  "coordinates": [
+   -120.385,
+   48.5517
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Okanogan National Forest"
+ },
+ {
+  "wikidata": "Q931881",
+  "name": "Olympic National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/olympic/"
+  ],
+  "coordinates": [
+   -123.067,
+   47.81
+  ],
+  "id": "olympic-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q931881"
+ },
+ {
+  "wikidata": "Q3079104",
+  "name": "Osceola National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/osceola"
+  ],
+  "coordinates": [
+   -82.3217,
+   30.2906
+  ],
+  "id": "osceola-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079104"
+ },
+ {
+  "wikidata": "Q7109216",
+  "name": "Ottawa National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r09/ottawa"
+  ],
+  "coordinates": [
+   -89.24318,
+   46.45274
+  ],
+  "id": "ottawa-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q7109216"
+ },
+ {
+  "wikidata": "Q3079109",
+  "name": "Ouachita National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/ouachita/"
+  ],
+  "coordinates": [
+   -94.25,
+   34.5
+  ],
+  "id": "ouachita-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079109"
+ },
+ {
+  "wikidata": null,
+  "name": "Ozark National Forest",
+  "region": "us-forests",
+  "id": "ozark-national-forest",
+  "sites": [],
+  "coordinates": [
+   -93.50526,
+   35.71758
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -93.50526,
+    35.71758
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q94443",
+  "name": "Ozark–St. Francis National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/osfnf"
+  ],
+  "coordinates": [
+   -94.47555556,
+   35.275
+  ],
+  "id": "ozarkst-francis-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q94443"
+ },
+ {
+  "wikidata": "Q14687276",
+  "name": "Payette National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/payette/"
+  ],
+  "coordinates": [
+   -116.103,
+   44.9108
+  ],
+  "id": "payette-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q14687276"
+ },
+ {
+  "wikidata": null,
+  "name": "Pike National Forest",
+  "region": "us-forests",
+  "id": "pike-national-forest",
+  "sites": [],
+  "coordinates": [
+   -105.31666667,
+   39.18333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Pike National Forest"
+ },
+ {
+  "wikidata": "Q141123752",
+  "name": "Pike–San Isabel National Forests and Cimarron and Comanche National Grasslands",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r02/psicc"
+  ],
+  "coordinates": null,
+  "id": "pikesan-isabel-national-forests-and-cimarron-and-comanche-national-grasslands",
+  "original": null
+ },
+ {
+  "wikidata": null,
+  "name": "Pisgah National Forest",
+  "region": "us-forests",
+  "id": "pisgah-national-forest",
+  "sites": [],
+  "coordinates": [
+   -82.793,
+   35.36
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Pisgah National Forest"
+ },
+ {
+  "wikidata": "Q7205382",
+  "name": "Plumas National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/plumas"
+  ],
+  "coordinates": [
+   -120.668055555,
+   40.000277777
+  ],
+  "id": "plumas-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q7205382"
+ },
+ {
+  "wikidata": "Q3079141",
+  "name": "Prescott National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/prescott"
+  ],
+  "coordinates": [
+   -112.413,
+   34.6744
+  ],
+  "id": "prescott-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079141"
+ },
+ {
+  "wikidata": "Q7335222",
+  "name": "Rio Grande National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/riogrande"
+  ],
+  "coordinates": [
+   -106.835,
+   37.74
+  ],
+  "id": "rio-grande-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q7335222"
+ },
+ {
+  "wikidata": null,
+  "name": "Rogue River National Forest",
+  "region": "us-forests",
+  "id": "rogue-river-national-forest",
+  "sites": [],
+  "coordinates": [
+   -123.9375,
+   42.0625
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Rogue River National Forest"
+ },
+ {
+  "wikidata": "Q3079138",
+  "name": "Rogue River–Siskiyou National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/rogue-siskiyou"
+  ],
+  "coordinates": [
+   -123.9375,
+   42.0625
+  ],
+  "id": "rogue-riversiskiyou-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3079138"
+ },
+ {
+  "wikidata": null,
+  "name": "Roosevelt National Forest",
+  "region": "us-forests",
+  "id": "roosevelt-national-forest",
+  "sites": [],
+  "coordinates": [
+   -105.581,
+   40.709
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Roosevelt National Forest"
+ },
+ {
+  "wikidata": "Q49332131",
+  "name": "Routt National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -106.75701,
+   40.54214
+  ],
+  "id": "routt-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q49332131"
+ },
+ {
+  "wikidata": null,
+  "name": "Sabine National Forest",
+  "region": "us-forests",
+  "id": "sabine-national-forest",
+  "sites": [],
+  "coordinates": [
+   -93.84222222,
+   31.34083333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Sabine National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Salmon National Forest",
+  "region": "us-forests",
+  "id": "salmon-national-forest",
+  "sites": [],
+  "coordinates": [
+   -114.5012,
+   45.25019
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -114.5012,
+    45.25019
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q7405481",
+  "name": "Salmon–Challis National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/scnf"
+  ],
+  "coordinates": [
+   -114.2,
+   45.283333333
+  ],
+  "id": "salmonchallis-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q7405481"
+ },
+ {
+  "wikidata": null,
+  "name": "Sam Houston National Forest",
+  "region": "us-forests",
+  "id": "sam-houston-national-forest",
+  "sites": [],
+  "coordinates": [
+   -95.1325,
+   30.58444444
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Sam Houston National Forest"
+ },
+ {
+  "wikidata": "Q3079091",
+  "name": "Samuel R. McKelvie National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/recarea/nebraska/recarea/?recid=30324"
+  ],
+  "coordinates": [
+   -101.039722222,
+   42.711388888
+  ],
+  "id": "samuel-r-mckelvie-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079091"
+ },
+ {
+  "wikidata": "Q7413436",
+  "name": "San Bernardino National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/sbnf"
+  ],
+  "coordinates": [
+   -116.425,
+   33.5233
+  ],
+  "id": "san-bernardino-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q7413436"
+ },
+ {
+  "wikidata": null,
+  "name": "San Isabel National Forest",
+  "region": "us-forests",
+  "id": "san-isabel-national-forest",
+  "sites": [],
+  "coordinates": [
+   -105.108776,
+   38.043948
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: San Isabel National Forest"
+ },
+ {
+  "wikidata": "Q643618",
+  "name": "San Juan National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/sanjuan"
+  ],
+  "coordinates": [
+   -107.672,
+   37.5553
+  ],
+  "id": "san-juan-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q643618"
+ },
+ {
+  "wikidata": "Q7419545",
+  "name": "Santa Fe National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/santafe/"
+  ],
+  "coordinates": [
+   -106.2,
+   35.7
+  ],
+  "id": "santa-fe-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q7419545"
+ },
+ {
+  "wikidata": "Q141136347",
+  "name": "Savannah River Site Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r08/savannah-river"
+  ],
+  "coordinates": [
+   -81.683611111,
+   33.363055555
+  ],
+  "id": "savannah-river-site-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q141136347"
+ },
+ {
+  "wikidata": "Q3609437",
+  "name": "Sawtooth National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/sawtooth"
+  ],
+  "coordinates": [
+   -114.666666666,
+   43.733333333
+  ],
+  "id": "sawtooth-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3609437"
+ },
+ {
+  "wikidata": "Q3079145",
+  "name": "Sequoia National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/sequoia/"
+  ],
+  "coordinates": [
+   -118.504,
+   36.04
+  ],
+  "id": "sequoia-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079145"
+ },
+ {
+  "wikidata": null,
+  "name": "Shasta National Forest",
+  "region": "us-forests",
+  "id": "shasta-national-forest",
+  "sites": [],
+  "coordinates": [
+   -122.94194444,
+   40.73527778
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Shasta National Forest"
+ },
+ {
+  "wikidata": "Q3079148",
+  "name": "Shasta–Trinity National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/stnf"
+  ],
+  "coordinates": [
+   -122.942,
+   40.7353
+  ],
+  "id": "shastatrinity-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q3079148"
+ },
+ {
+  "wikidata": "Q591413",
+  "name": "Shawnee National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/shawnee"
+  ],
+  "coordinates": [
+   -88.6667,
+   37.5
+  ],
+  "id": "shawnee-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q591413"
+ },
+ {
+  "wikidata": "Q427858",
+  "name": "Shoshone National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/main/shoshone/home"
+  ],
+  "coordinates": [
+   -109.615277777,
+   44.463333333
+  ],
+  "id": "shoshone-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q427858"
+ },
+ {
+  "wikidata": "Q1332987",
+  "name": "Sierra National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/sierra"
+  ],
+  "coordinates": [
+   -119.167,
+   37.4167
+  ],
+  "id": "sierra-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1332987"
+ },
+ {
+  "wikidata": null,
+  "name": "Siskiyou National Forest",
+  "region": "us-forests",
+  "id": "siskiyou-national-forest",
+  "sites": [],
+  "coordinates": [
+   -123.9375,
+   42.0625
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Siskiyou National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Sitgreaves National Forest",
+  "region": "us-forests",
+  "id": "sitgreaves-national-forest",
+  "sites": [],
+  "coordinates": [
+   -110.6168921,
+   34.388548
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Sitgreaves National Forest"
+ },
+ {
+  "wikidata": "Q1165341",
+  "name": "Siuslaw National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/siuslaw/"
+  ],
+  "coordinates": [
+   -123.917,
+   44.3333
+  ],
+  "id": "siuslaw-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1165341"
+ },
+ {
+  "wikidata": "Q3079149",
+  "name": "Six Rivers National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/srnf"
+  ],
+  "coordinates": [
+   -123.84523,
+   41.72479
+  ],
+  "id": "six-rivers-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079149"
+ },
+ {
+  "wikidata": null,
+  "name": "Snoqualmie National Forest",
+  "region": "us-forests",
+  "id": "snoqualmie-national-forest",
+  "sites": [],
+  "coordinates": [
+   -121.378,
+   47.766
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Snoqualmie National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "St. Francis National Forest",
+  "region": "us-forests",
+  "id": "st-francis-national-forest",
+  "sites": [],
+  "coordinates": [
+   -94.47555556,
+   35.275
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: St. Francis National Forest"
+ },
+ {
+  "wikidata": "Q7588564",
+  "name": "St. Joe National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/main/ipnf"
+  ],
+  "coordinates": [
+   -115.669,
+   47.169
+  ],
+  "id": "st-joe-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q7588564"
+ },
+ {
+  "wikidata": "Q2898163",
+  "name": "Stanislaus National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.fed.us/r5/stanislaus"
+  ],
+  "coordinates": [
+   -120.000278,
+   38.250278
+  ],
+  "id": "stanislaus-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q2898163"
+ },
+ {
+  "wikidata": null,
+  "name": "Sumter National Forest",
+  "region": "us-forests",
+  "id": "sumter-national-forest",
+  "sites": [],
+  "coordinates": [
+   -81.5919,
+   34.5683
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Sumter National Forest"
+ },
+ {
+  "wikidata": "Q3079158",
+  "name": "Superior National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/superior"
+  ],
+  "coordinates": [
+   -91.524722222,
+   47.83
+  ],
+  "id": "superior-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079158"
+ },
+ {
+  "wikidata": "Q3079156",
+  "name": "Tahoe National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/tahoe"
+  ],
+  "coordinates": [
+   -120.562,
+   39.5625
+  ],
+  "id": "tahoe-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079156"
+ },
+ {
+  "wikidata": null,
+  "name": "Talladega National Forest",
+  "region": "us-forests",
+  "id": "talladega-national-forest",
+  "sites": [],
+  "coordinates": [
+   -86.4625,
+   33.19611111
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Talladega National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Targhee National Forest",
+  "region": "us-forests",
+  "id": "targhee-national-forest",
+  "sites": [],
+  "coordinates": [
+   -111.55,
+   42.78333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Targhee National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Teton National Forest",
+  "region": "us-forests",
+  "id": "teton-national-forest",
+  "sites": [],
+  "coordinates": [
+   -110.33333333,
+   43.58333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Teton National Forest"
+ },
+ {
+  "wikidata": "Q49332641",
+  "name": "Toiyabe National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -119.3935,
+   38.62689
+  ],
+  "id": "toiyabe-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q49332641"
+ },
+ {
+  "wikidata": null,
+  "name": "Tombigbee National Forest",
+  "region": "us-forests",
+  "id": "tombigbee-national-forest",
+  "sites": [],
+  "coordinates": [
+   -88.917482,
+   33.992323
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Tombigbee National Forest"
+ },
+ {
+  "wikidata": "Q1502633",
+  "name": "Tongass National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/tongass"
+  ],
+  "coordinates": [
+   -133.0,
+   56.75
+  ],
+  "id": "tongass-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q1502633"
+ },
+ {
+  "wikidata": "Q3079162",
+  "name": "Tonto National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/r03/tonto"
+  ],
+  "coordinates": [
+   -111.285,
+   33.8443
+  ],
+  "id": "tonto-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079162"
+ },
+ {
+  "wikidata": null,
+  "name": "Trinity National Forest",
+  "region": "us-forests",
+  "id": "trinity-national-forest",
+  "sites": [],
+  "coordinates": [
+   -123.1586138,
+   40.6492184
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "OpenStreetMap: Trinity National Forest, Big Creek Road, Trinity County, California, United Stat"
+ },
+ {
+  "wikidata": null,
+  "name": "Tuskegee National Forest",
+  "region": "us-forests",
+  "id": "tuskegee-national-forest",
+  "sites": [],
+  "coordinates": [
+   -85.60722222,
+   32.47638889
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Tuskegee National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Uinta National Forest",
+  "region": "us-forests",
+  "id": "uinta-national-forest",
+  "sites": [],
+  "coordinates": [
+   -111.28333333,
+   40.25
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Uinta National Forest"
+ },
+ {
+  "wikidata": "Q131986631",
+  "name": "Uinta–Wasatch–Cache National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/uwcnf"
+  ],
+  "coordinates": [
+   -112.015,
+   41.65
+  ],
+  "id": "uintawasatchcache-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikipedia: Uinta–Wasatch–Cache National Forest"
+ },
+ {
+  "wikidata": "Q688553",
+  "name": "Umatilla National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/umatilla/"
+  ],
+  "coordinates": [
+   -118.183,
+   45.6333
+  ],
+  "id": "umatilla-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q688553"
+ },
+ {
+  "wikidata": "Q3079111",
+  "name": "Umpqua National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/umpqua"
+  ],
+  "coordinates": [
+   -122.254,
+   43.2225
+  ],
+  "id": "umpqua-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079111"
+ },
+ {
+  "wikidata": null,
+  "name": "Uncompahgre National Forest",
+  "region": "us-forests",
+  "id": "uncompahgre-national-forest",
+  "sites": [],
+  "coordinates": [
+   -107.782,
+   37.983
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Uncompahgre National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Uwharrie National Forest",
+  "region": "us-forests",
+  "id": "uwharrie-national-forest",
+  "sites": [],
+  "coordinates": [
+   -80.01972222,
+   35.43333333
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Uwharrie National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Wallowa National Forest",
+  "region": "us-forests",
+  "id": "wallowa-national-forest",
+  "sites": [],
+  "coordinates": [
+   -117,
+   45.3
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Wallowa National Forest"
+ },
+ {
+  "wikidata": "Q525077",
+  "name": "Wallowa–Whitman National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/wallowa-whitman/"
+  ],
+  "coordinates": [
+   -117.001,
+   45.3333
+  ],
+  "id": "wallowawhitman-national-forest",
+  "original": null,
+  "coordinatesSource": "Wikidata Q525077"
+ },
+ {
+  "wikidata": null,
+  "name": "Wasatch National Forest",
+  "region": "us-forests",
+  "id": "wasatch-national-forest",
+  "sites": [],
+  "coordinates": [
+   -111.19,
+   40.72611111
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Wasatch National Forest"
+ },
+ {
+  "wikidata": "Q3079164",
+  "name": "Wayne National Forest",
+  "region": "us-forests",
+  "sites": [
+   "http://www.fs.usda.gov/wayne/"
+  ],
+  "coordinates": [
+   -82.514722222,
+   38.699444444
+  ],
+  "id": "wayne-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079164"
+ },
+ {
+  "wikidata": null,
+  "name": "Wenatchee National Forest",
+  "region": "us-forests",
+  "id": "wenatchee-national-forest",
+  "sites": [],
+  "coordinates": [
+   -120.385,
+   48.5517
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Wenatchee National Forest"
+ },
+ {
+  "wikidata": "Q2566939",
+  "name": "White Mountain National Forest",
+  "region": "us-forests",
+  "sites": [],
+  "coordinates": [
+   -71.4,
+   44.1
+  ],
+  "id": "white-mountain-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q2566939"
+ },
+ {
+  "wikidata": "Q2566990",
+  "name": "White River National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/main/whiteriver"
+  ],
+  "coordinates": [
+   -106.8925,
+   39.56072
+  ],
+  "id": "white-river-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q2566990"
+ },
+ {
+  "wikidata": null,
+  "name": "Whitman National Forest",
+  "region": "us-forests",
+  "id": "whitman-national-forest",
+  "sites": [],
+  "coordinates": [
+   -118.25,
+   45
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: Whitman National Forest"
+ },
+ {
+  "wikidata": "Q3079173",
+  "name": "Willamette National Forest",
+  "region": "us-forests",
+  "sites": [
+   "https://www.fs.usda.gov/willamette/"
+  ],
+  "coordinates": [
+   -122.18353,
+   44.10947
+  ],
+  "id": "willamette-national-forest",
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikidata Q3079173"
+ },
+ {
+  "wikidata": null,
+  "name": "William B. Bankhead National Forest",
+  "region": "us-forests",
+  "id": "william-b-bankhead-national-forest",
+  "sites": [],
+  "coordinates": [
+   -87.33444444,
+   34.23722222
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": null
+  },
+  "coordinatesSource": "Wikipedia: William B. Bankhead National Forest"
+ },
+ {
+  "wikidata": null,
+  "name": "Winema National Forest",
+  "region": "us-forests",
+  "id": "winema-national-forest",
+  "sites": [],
+  "coordinates": [
+   -121.81363,
+   42.93735
+  ],
+  "original": {
+   "policy": "trails",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -121.81363,
+    42.93735
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q337396",
+  "name": "Acadia National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/acad"
+  ],
+  "coordinates": [
+   -68.216666666,
+   44.35
+  ],
+  "id": "acadia-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "The First National Park East of the Mississippi River\n\nPeople have been drawn to the rugged coast of Maine throughout history. Awed by its beauty and diversity, early 20th-century visionaries donated the land that became Acadia National Park. The park is home to many plants and animals, and the tallest mountain on the U.S. Atlantic coast. Today visitors come to Acadia to hike granite peaks, bike historic carriage roads, or relax and enjoy the scenery.",
+   "link": "https://www.nps.gov/acad/",
+   "coordinates": [
+    -68.2458,
+    44.40835
+   ]
+  },
+  "coordinatesSource": "Wikidata Q337396"
+ },
+ {
+  "wikidata": "Q223969",
+  "name": "Arches National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/arch"
+  ],
+  "coordinates": [
+   -109.54,
+   38.728055555
+  ],
+  "id": "arches-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Arches National Park preserves over 2,000 natural sandstone arches, like the world-famous Delicate Arch, as well as many other unusual rock formations. In some areas, the forces of nature have exposed millions of years of geologic history. The extraordinary features of the park create a landscape of contrasting colors, landforms and textures that is unlike any other in the world.",
+   "link": "https://www.nps.gov/arch/",
+   "coordinates": [
+    -109.6197,
+    38.61611
+   ]
+  },
+  "coordinatesSource": "Wikidata Q223969"
+ },
+ {
+  "wikidata": "Q306216",
+  "name": "Badlands National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/badl"
+  ],
+  "coordinates": [
+   -102.5,
+   43.75
+  ],
+  "id": "badlands-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Containing the world’s richest Oligocene epoch fossil beds, dating 37-28 million years old, the evolutionary stories of mammals such as the horse and rhinoceros arise from the 244,000 acres of sharply eroded buttes, pinnacles, and spires. Bison, bighorn sheep, endangered black-footed ferrets, and swift fox roam one of the largest, protected mixed-grass prairies in the United States.",
+   "link": "https://www.nps.gov/badl/",
+   "coordinates": [
+    -101.94242,
+    43.74906
+   ]
+  },
+  "coordinatesSource": "Wikidata Q306216"
+ },
+ {
+  "wikidata": "Q1427197",
+  "name": "Big Bend National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/bibe/"
+  ],
+  "coordinates": [
+   -103.25,
+   29.25
+  ],
+  "id": "big-bend-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "\"A land of strong beauty— often savage and always imposing.\"\n\nSometimes considered \"three parks in one,\" Big Bend includes mountain, desert, and river environments. An hour’s drive can take you from the banks of the Rio Grande to a mountain basin nearly a mile high. Here, you can explore one of the last remaining wild corners of the United States, and experience unmatched sights, sounds, and solitude.",
+   "link": "https://www.nps.gov/bibe/",
+   "coordinates": [
+    -103.20735,
+    29.32212
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1427197"
+ },
+ {
+  "wikidata": "Q866080",
+  "name": "Biscayne National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/bisc"
+  ],
+  "coordinates": [
+   -80.18096924,
+   25.50185493
+  ],
+  "id": "biscayne-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "A Watery Wonderland\n\nWithin sight of downtown Miami, yet worlds away, Biscayne protects a rare combination of aquamarine waters, emerald islands, and fish-bejeweled coral reefs. Here too is evidence of 10,000 years of human history, from pirates and shipwrecks to pineapple farmers and presidents. Outdoors enthusiasts can boat, snorkel, camp, watch wildlife…or simply relax in a rocking chair gazing out over the bay.",
+   "link": "https://www.nps.gov/bisc/",
+   "coordinates": [
+    -80.33469,
+    25.46335
+   ]
+  },
+  "coordinatesSource": "Wikidata Q866080"
+ },
+ {
+  "wikidata": "Q305880",
+  "name": "Black Canyon of the Gunnison National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/blca"
+  ],
+  "coordinates": [
+   -107.7275,
+   38.58
+  ],
+  "id": "black-canyon-of-the-gunnison-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Welcome to Black Canyon\n\nThe Black Canyon of the Gunnison's unique and spectacular landscape was formed slowly by the action of water and rock scouring down through hard Proterozoic crystalline rock.\n\nNo other canyon in North America combines the narrow opening, sheer walls, and startling depths offered by the Black Canyon of the Gunnison.\n\nNo other canyon in North America combines the narrow opening, sheer walls, and startling depths offered by the Black Canyon of the Gunnison.",
+   "link": "https://www.nps.gov/blca/",
+   "coordinates": [
+    -107.68619,
+    38.55479
+   ]
+  },
+  "coordinatesSource": "Wikidata Q305880"
+ },
+ {
+  "wikidata": "Q219562",
+  "name": "Bryce Canyon National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/brca"
+  ],
+  "coordinates": [
+   -112.17,
+   37.64
+  ],
+  "id": "bryce-canyon-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Hoodoos - grotesque, eerie and often whimsical... are on display here, along with ancient trees and scenic views from the rim.\n\nFamous for its unique geology of red rock spires and horseshoe-shaped amphitheaters, Bryce offers the visitor a \"Far View\" from the eastern edge of the Paunsaugunt Plateau in southern Utah.",
+   "link": "https://www.nps.gov/brca/",
+   "coordinates": [
+    -112.16912,
+    37.64021
+   ]
+  },
+  "coordinatesSource": "Wikidata Q219562"
+ },
+ {
+  "wikidata": "Q541856",
+  "name": "Canyonlands National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/cany"
+  ],
+  "coordinates": [
+   -109.76,
+   38.1669
+  ],
+  "id": "canyonlands-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Canyonlands preserves a colorful landscape eroded into countless canyons, mesas and buttes by the Colorado River and its tributaries. The rivers divide the park into four districts: the Island in the Sky, the Needles, the Maze and the rivers themselves. While these areas share a primitive desert atmosphere, each retains its own character and offers different opportunities for exploration.",
+   "link": "https://www.nps.gov/cany/",
+   "coordinates": [
+    -109.86277,
+    38.35313
+   ]
+  },
+  "coordinatesSource": "Wikidata Q541856"
+ },
+ {
+  "wikidata": "Q129902",
+  "name": "Capitol Reef National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/care"
+  ],
+  "coordinates": [
+   -111.167,
+   38.2
+  ],
+  "id": "capitol-reef-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "The Waterpocket Fold, a 100-mile long wrinkle in the earth's crust known as a monocline, extends from nearby Thousand Lakes Mountain to the Colorado River (now Lake Powell). Capitol Reef National Park was established to protect this grand and colorful geologic feature, as well as the unique natural and cultural history found in the area.",
+   "link": "https://www.nps.gov/care/",
+   "coordinates": [
+    -111.26141,
+    38.29125
+   ]
+  },
+  "coordinatesSource": "Wikidata Q129902"
+ },
+ {
+  "wikidata": "Q273195",
+  "name": "Carlsbad Caverns National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/cave"
+  ],
+  "coordinates": [
+   -104.443888888,
+   32.175277777
+  ],
+  "id": "carlsbad-caverns-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "As you pass through the Chihuahuan Desert and Guadalupe Mountains of southeastern New Mexico and west Texas—filled with prickly pear, chollas, sotols and agaves—you might never guess there are more than 300 known caves beneath the surface. The park contains 113 of these caves, formed when sulfuric acid dissolved the surrounding limestone, creating some of the largest caves in North America.",
+   "link": "https://www.nps.gov/cave/",
+   "coordinates": [
+    -104.44411,
+    32.17496
+   ]
+  },
+  "coordinatesSource": "Wikidata Q273195"
+ },
+ {
+  "wikidata": "Q306193",
+  "name": "Channel Islands National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/chis"
+  ],
+  "coordinates": [
+   -119.64,
+   33.66
+  ],
+  "id": "channel-islands-national-park",
+  "original": {
+   "policy": "none",
+   "description": "Close to the California mainland, yet worlds apart, Channel Islands National Park encompasses five remarkable islands (Anacapa, Santa Cruz, Santa Rosa, San Miguel, and Santa Barbara) and their ocean environment, preserving and protecting a wealth of natural and cultural resources. Isolation over thousands of years has created unique animals, plants, and archeological resources found nowhere else on Earth and helped preserve a place where visitors can experience coastal southern California as it once was.",
+   "link": "https://www.nps.gov/chis/",
+   "coordinates": [
+    -119.57897,
+    34.02136
+   ]
+  },
+  "coordinatesSource": "Wikidata Q306193"
+ },
+ {
+  "wikidata": "Q1074719",
+  "name": "Chiricahua National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/chir/"
+  ],
+  "coordinates": [
+   -109.357,
+   32.0057
+  ],
+  "id": "chiricahua-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1074719"
+ },
+ {
+  "wikidata": "Q175688",
+  "name": "Congaree National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/cong"
+  ],
+  "coordinates": [
+   -80.783333333,
+   33.783333333
+  ],
+  "id": "congaree-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "Home of Champions!\n\nWelcome to the largest remnant of old-growth floodplain forest remaining on the continent! Experience national and state champion trees, towering to record size amidst astonishing biodiversity. Walk, paddle or just relax within this dynamic floodplain ecosystem. Beauty and tranquility reign supreme in the midst of this natural treasure.",
+   "link": "https://www.nps.gov/cosw/",
+   "coordinates": [
+    -80.82406,
+    33.83035
+   ]
+  },
+  "coordinatesSource": "Wikidata Q175688"
+ },
+ {
+  "wikidata": "Q239304",
+  "name": "Crater Lake National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/crla"
+  ],
+  "coordinates": [
+   -122.148055555,
+   42.911944444
+  ],
+  "id": "crater-lake-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Crater Lake has inspired people for hundreds of years. No place else on earth combines a deep, pure lake, so blue in color; sheer surrounding cliffs, almost two thousand feet high; two picturesque islands; and a violent volcanic past. It is a place of immeasurable beauty, and an outstanding outdoor laboratory and classroom.\n\nCrater Lake is located in Southern Oregon on the crest of the Cascade Mountain range, 100 miles (160 km) east of the Pacific Ocean. It lies inside a caldera, or volcanic basin, created when the 12,000 foot (3,660 meter) high Mount Mazama collapsed 7,700 years ago following a large eruption.\n\nGenerous amounts of winter snow, averaging 533 inches (1,354 cm) per year, supply the lake with water. There are no inlets or outlets to the lake. Crater Lake, at 1,943 feet (592 meters) deep, is the seventh deepest lake in the world and the deepest in the United States. Evaporation and seepage prevent the lake from becoming any deeper.",
+   "link": "https://www.nps.gov/crla/",
+   "coordinates": [
+    -122.13391,
+    42.89642
+   ]
+  },
+  "coordinatesSource": "Wikidata Q239304"
+ },
+ {
+  "wikidata": "Q152820",
+  "name": "Cuyahoga Valley National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/cuva"
+  ],
+  "coordinates": [
+   -81.549722222,
+   41.241666666
+  ],
+  "id": "cuyahoga-valley-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "Along the \"Crooked River\"\n\nThough a short distance from the urban environments of Cleveland and Akron, Cuyahoga Valley National Park seems worlds away. The winding Cuyahoga—the \"crooked river\" as named by American Indians—gives way to deep forests, rolling hills, and open farmlands. The park is a refuge for flora and fauna, gives a sense of times past, and provides recreation and solitude for Ohio's residents and visitors.",
+   "link": "https://www.nps.gov/cuva/",
+   "coordinates": [
+    -81.55881,
+    41.26289
+   ]
+  },
+  "coordinatesSource": "Wikidata Q152820"
+ },
+ {
+  "wikidata": "Q242111",
+  "name": "Death Valley National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/deva"
+  ],
+  "coordinates": [
+   -116.85,
+   36.45
+  ],
+  "id": "death-valley-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Death Valley National Park: A Land of Extremes\n\nHottest, Driest, Lowest: A superlative desert of streaming sand dunes, snow-capped mountains, multicolored rock layers, water-fluted canyons and three million acres of stone wilderness. Home to the Timbisha Shoshone and to plants and animals unique to the harshest deserts. A place of legend and a place of trial.",
+   "link": "https://www.nps.gov/deva/",
+   "coordinates": [
+    -116.86581,
+    36.46083
+   ]
+  },
+  "coordinatesSource": "Wikidata Q242111"
+ },
+ {
+  "wikidata": "Q49482738",
+  "name": "Denali National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -150.73414,
+   63.34111
+  ],
+  "id": "denali-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Denali’s dynamic glaciated landscape supports a diversity of wildlife with grizzly bears, caribou, wolves, Dall sheep and moose. Summer slopes are graced with birds and wildflowers. Visitors enjoy sightseeing, backpacking, mountaineering, and research opportunities. Whether climbing or admiring, the crowning jewel of North America’s highest peak is the awe inspiring 20,320 foot Mount McKinley.",
+   "link": "https://www.nps.gov/dena/",
+   "coordinates": [
+    -148.91453,
+    63.73034
+   ]
+  },
+  "coordinatesSource": "Wikidata Q49482738"
+ },
+ {
+  "wikidata": "Q217136",
+  "name": "Denali National Park and Preserve",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/dena"
+  ],
+  "coordinates": [
+   -150.3,
+   63.2
+  ],
+  "id": "denali-national-park-and-preserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q217136"
+ },
+ {
+  "wikidata": "Q1143655",
+  "name": "Dry Tortugas National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/drto"
+  ],
+  "coordinates": [
+   -82.873333333,
+   24.628611111
+  ],
+  "id": "dry-tortugas-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Guardian of the Gulf\n\nAlmost 70 miles (112.9 km) west of Key West lies a cluster of seven islands, composed of coral reefs and sand, called the Dry Tortugas. Along with the surrounding shoals and waters, they make up Dry Tortugas National Park. The area is known for its famous bird and marine life, its legends of pirates and sunken gold, and its military past.",
+   "link": "https://www.nps.gov/drto/",
+   "coordinates": [
+    -82.8727,
+    24.62673
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1143655"
+ },
+ {
+  "wikidata": "Q274131",
+  "name": "Everglades National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/ever"
+  ],
+  "coordinates": [
+   -80.6875,
+   25.3125
+  ],
+  "id": "everglades-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "There is only one Everglades in the World.\n\nEverglades National Park is the largest subtropical wilderness in the United States. The area boasts rare and endangered species, such as the American crocodile, Florida panther, and West Indian manatee. It has been designated an International Biosphere Reserve, a World Heritage Site, and a Wetland of International Importance, in recognition of its significance to all the people of the world.",
+   "link": "https://www.nps.gov/ever/",
+   "coordinates": [
+    -80.92821,
+    25.13938
+   ]
+  },
+  "coordinatesSource": "Wikidata Q274131"
+ },
+ {
+  "wikidata": "Q139487714",
+  "name": "Gates of the Arctic National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -153.3,
+   67.78333333
+  ],
+  "id": "gates-of-the-arctic-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "Wilderness Adventure\n\nThe floatplane disappears, leaving you on the lakeshore. For the next two weeks you must survive using the knowledge, skills and gear you bring with you. Traveling through this vast wilderness you will discover craggy ridges, glacier carved valleys and fragile flowers. You will walk or float through intact ecosystems where people have lived with the land for thousands of years. You will experience solitude, self reliance and nature on its own terms. Are you prepared?",
+   "link": "https://www.nps.gov/gaar/",
+   "coordinates": [
+    -153.26412,
+    67.56595
+   ]
+  },
+  "coordinatesSource": "Wikipedia: Gates of the Arctic National Park"
+ },
+ {
+  "wikidata": "Q605657",
+  "name": "Gates of the Arctic National Park and Preserve",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/gaar"
+  ],
+  "coordinates": [
+   -153.3,
+   67.7833
+  ],
+  "id": "gates-of-the-arctic-national-park-and-preserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q605657"
+ },
+ {
+  "wikidata": "Q45234",
+  "name": "Gateway Arch National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/jeff"
+  ],
+  "coordinates": [
+   -90.185,
+   38.6246
+  ],
+  "id": "gateway-arch-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -90.18679,
+    38.62506
+   ]
+  },
+  "coordinatesSource": "Wikidata Q45234"
+ },
+ {
+  "wikidata": "Q139118523",
+  "name": "Glacier Bay National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -137,
+   58.5
+  ],
+  "id": "glacier-bay-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "The marine wilderness of Glacier Bay National Park and Preserve includes tidewater glaciers, snow-capped mountain ranges, ocean coastlines, deep fjords, and freshwater rivers and lakes. This diverse land and seascape hosts a mosaic of plant communities and a variety of marine and terrestrial wildlife and presents many opportunities for adventuring ( learning ( about this unique and powerful place.",
+   "link": "https://www.nps.gov/glba/planyourvisit/index.htm)and",
+   "coordinates": [
+    -135.86157,
+    58.44675
+   ]
+  },
+  "coordinatesSource": "Wikipedia: Glacier Bay National Park"
+ },
+ {
+  "wikidata": "Q261577",
+  "name": "Glacier Bay National Park and Preserve",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/glba"
+  ],
+  "coordinates": [
+   -137.0,
+   58.7
+  ],
+  "id": "glacier-bay-national-park-and-preserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q261577"
+ },
+ {
+  "wikidata": "Q373567",
+  "name": "Glacier National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/glac"
+  ],
+  "coordinates": [
+   -113.8,
+   48.755
+  ],
+  "id": "glacier-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Welcome to Glacier National Park\n\nCome and experience Glacier's pristine forests, alpine meadows, rugged mountains, and spectacular lakes. With over 700 miles of trails, Glacier is a hiker's paradise for adventurous visitors seeking wilderness and solitude. Relive the days of old through historic chalets, lodges, transportation, and stories of Native Americans. Explore Glacier National Park and discover what awaits you.",
+   "link": "https://www.nps.gov/glac/",
+   "coordinates": [
+    -113.99508,
+    48.52769
+   ]
+  },
+  "coordinatesSource": "Wikidata Q373567"
+ },
+ {
+  "wikidata": "Q220289",
+  "name": "Grand Canyon National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/grca"
+  ],
+  "coordinates": [
+   -112.122,
+   36.0553
+  ],
+  "id": "grand-canyon-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "A powerful and inspiring landscape, the Grand Canyon overwhelms our senses through its immense size; 277 river miles (446km) long, up to 18 miles (29km) wide, and a mile (1.6km) deep.",
+   "link": "https://www.nps.gov/grca/",
+   "coordinates": [
+    -112.13638,
+    36.05696
+   ]
+  },
+  "coordinatesSource": "Wikidata Q220289"
+ },
+ {
+  "wikidata": "Q222695",
+  "name": "Grand Teton National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/grte"
+  ],
+  "coordinates": [
+   -110.700833333,
+   43.833333333
+  ],
+  "id": "grand-teton-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Located in northwestern Wyoming, Grand Teton National Park preserves a spectacular landscape rich with majestic mountains, pristine lakes and extraordinary wildlife. The abrupt vertical rise of the jagged Teton Range contrasts with the horizontal sage-covered valley and glacial lakes at their base, creating world-renowned scenery that attracts nearly four million visitors per year.",
+   "link": "https://www.nps.gov/grte/",
+   "coordinates": [
+    -110.71685,
+    43.65727
+   ]
+  },
+  "coordinatesSource": "Wikidata Q222695"
+ },
+ {
+  "wikidata": "Q1137657",
+  "name": "Great Basin National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/grba"
+  ],
+  "coordinates": [
+   -114.2197,
+   39.0058
+  ],
+  "id": "great-basin-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "In the shadow of 13,063-foot Wheeler Peak, 5,000 year old bristlecone pine trees grow on rocky glacial moraines. Come to Great Basin National Park to experience the solitude of the desert, the smell of sagebrush after a thunderstorm, the darkest of night skies, and the beauty of Lehman Caves. Far from a wasteland, the Great Basin is a diverse region that awaits your discovery.",
+   "link": "https://www.nps.gov/grba/",
+   "coordinates": [
+    -114.21954,
+    39.00558
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1137657"
+ },
+ {
+  "wikidata": "Q49495619",
+  "name": "Great Sand Dunes National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -105.62886,
+   37.77654
+  ],
+  "id": "great-sand-dunes-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Alpine tundra, forests, massive dunes, grasslands, and wetlands are all protected as elements of the Great Sand Dunes natural system.",
+   "link": "https://www.nps.gov/grsa/",
+   "coordinates": [
+    -105.51192,
+    37.73261
+   ]
+  },
+  "coordinatesSource": "Wikidata Q49495619"
+ },
+ {
+  "wikidata": "Q609097",
+  "name": "Great Sand Dunes National Park and Preserve",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/grsa"
+  ],
+  "coordinates": [
+   -105.512222222,
+   37.732777777
+  ],
+  "id": "great-sand-dunes-national-park-and-preserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q609097"
+ },
+ {
+  "wikidata": "Q464004",
+  "name": "Great Smoky Mountains National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/grsm"
+  ],
+  "coordinates": [
+   -83.425,
+   35.611111111
+  ],
+  "id": "great-smoky-mountains-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "A Wondrous Diversity of Life\n\nRidge upon ridge of forest straddles the border between North Carolina and Tennessee in Great Smoky Mountains National Park. World renowned for its diversity of plant and animal life, the beauty of its ancient mountains, and the quality of its remnants of Southern Appalachian mountain culture, this is America’s most visited national park.",
+   "link": "https://www.nps.gov/grsm/",
+   "coordinates": [
+    -83.30538,
+    35.51539
+   ]
+  },
+  "coordinatesSource": "Wikidata Q464004"
+ },
+ {
+  "wikidata": "Q370501",
+  "name": "Guadalupe Mountains National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/gumo"
+  ],
+  "coordinates": [
+   -104.866666666,
+   31.916666666
+  ],
+  "id": "guadalupe-mountains-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Welcome to Guadalupe Mountains National Park\n\nGuadalupe Mountains National Park safeguards the world's finest example of a fossilized reef, a surprisingly complex and unique assemblage of flora and fauna, and West Texas' only legally designated wilderness. Here, one can experience solitude, tranquility, and the joy of finding plants and animals whose mastery of survival renews our sense of wonder.",
+   "link": "https://www.nps.gov/gumo/",
+   "coordinates": [
+    -104.85352,
+    31.93352
+   ]
+  },
+  "coordinatesSource": "Wikidata Q370501"
+ },
+ {
+  "wikidata": "Q1137640",
+  "name": "Haleakalā National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/hale"
+  ],
+  "coordinates": [
+   -156.15515,
+   20.7204
+  ],
+  "id": "haleakala-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Haleakala National Park\n\nThis special place vibrates with stories of ancient and modern Hawaiian culture and protects the bond between the land and its people. The park also cares for endangered species some of which exist nowhere else. Come visit this special place - renew your spirit of adventure amid stark volcanic landscapes, sub-tropical rain forest and the unforgettable experience of hiking the backcountry.",
+   "link": "https://www.nps.gov/hale/",
+   "coordinates": [
+    -156.24664,
+    20.75938
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1137640"
+ },
+ {
+  "wikidata": "Q205952",
+  "name": "Hawaiʻi Volcanoes National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/havo/index.htm"
+  ],
+  "coordinates": [
+   -155.12361,
+   19.40083
+  ],
+  "id": "hawaii-volcanoes-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Hawai‘i Volcanoes National Park\n\nHawai‘i Volcanoes National Park displays the results of 70 million years of volcanism, migration, and evolution -- processes that thrust a bare land from the sea and clothed it with unique ecosystems, and a distinct human culture. The park highlights two of the world's most active volcanoes, and offers insights on the birth of the Hawaiian Islands and views of dramatic volcanic landscapes.",
+   "link": "https://www.nps.gov/havo/",
+   "coordinates": [
+    -155.25732,
+    19.4294
+   ]
+  },
+  "coordinatesSource": "Wikidata Q205952"
+ },
+ {
+  "wikidata": "Q1143416",
+  "name": "Hot Springs National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/hosp"
+  ],
+  "coordinates": [
+   -93.053611111,
+   34.513611111
+  ],
+  "id": "hot-springs-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "Hot Springs in the Middle of Town\n\nPeople have used the hot springs here for more than two hundred years to treat illnesses and to relax. Both rich and poor came for the baths, and a town built up around the Hot Springs Reservation to accommodate them. Together nicknamed \"The American Spa,” Hot Springs National Park today surrounds the north end of the city of Hot Springs, Arkansas.",
+   "link": "https://www.nps.gov/hosp/",
+   "coordinates": [
+    -93.05343,
+    34.51373
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1143416"
+ },
+ {
+  "wikidata": "Q6023179",
+  "name": "Indiana Dunes National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/indu"
+  ],
+  "coordinates": [
+   -87.108055555,
+   41.648055555
+  ],
+  "id": "indiana-dunes-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": null,
+   "link": null,
+   "coordinates": [
+    -87.06356,
+    41.65862
+   ]
+  },
+  "coordinatesSource": "Wikidata Q6023179"
+ },
+ {
+  "wikidata": "Q163515",
+  "name": "Isle Royale National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/isro"
+  ],
+  "coordinates": [
+   -88.9092899,
+   47.9958654
+  ],
+  "id": "isle-royale-national-park",
+  "original": {
+   "policy": "none",
+   "description": "A Superior Wilderness\n\nIsle Royale’s physical isolation and primitive wilderness challenged human use for centuries; ironically today it has become the Island’s main attraction. Accessible only by boat or seaplane, visitors come to experience this island park through hiking its trails, paddling its inland waterways, exploring its rugged coast, or venturing into the depth of its shipwrecks.",
+   "link": "https://www.nps.gov/isro/index.htm",
+   "coordinates": [
+    -89.15785,
+    47.91163
+   ]
+  },
+  "coordinatesSource": "Wikidata Q163515"
+ },
+ {
+  "wikidata": "Q735202",
+  "name": "Joshua Tree National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/jotr"
+  ],
+  "coordinates": [
+   -115.819308,
+   33.748381
+  ],
+  "id": "joshua-tree-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "A Desert Park\n\nViewed from the road, this desert park only hints at its vitality. Closer examination reveals a fascinating variety of plants and animals that make their home in this land shaped by strong winds, unpredictable torrents of rain, and climatic extremes. Dark night skies, a rich cultural history, and surreal geologic features add to the attraction of this place. Come see for yourself!",
+   "link": "https://www.nps.gov/jotr/",
+   "coordinates": [
+    -115.81981,
+    33.74735
+   ]
+  },
+  "coordinatesSource": "Wikidata Q735202"
+ },
+ {
+  "wikidata": "Q139487734",
+  "name": "Katmai National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -155,
+   58.5
+  ],
+  "id": "katmai-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "Katmai National Park & Preserve\n\nKatmai National Monument was created in 1918 to preserve the famed Valley of Ten Thousand Smokes, a spectacular forty square mile, 100 to 700 foot deep ash flow deposited by Novarupta Volcano. A National Park & Preserve since 1980, today Katmai is still famous for volcanoes, but also for brown bears, pristine waterways with abundant fish, remote wilderness, and a rugged coastline.",
+   "link": "https://www.nps.gov/katm/",
+   "coordinates": [
+    -155.7791,
+    58.55169
+   ]
+  },
+  "coordinatesSource": "Wikipedia: Katmai National Park"
+ },
+ {
+  "wikidata": "Q609902",
+  "name": "Katmai National Park and Preserve",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/katm"
+  ],
+  "coordinates": [
+   -155.0,
+   58.5
+  ],
+  "id": "katmai-national-park-and-preserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q609902"
+ },
+ {
+  "wikidata": "Q841503",
+  "name": "Kenai Fjords National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/kefj"
+  ],
+  "coordinates": [
+   -149.9875,
+   59.917777777
+  ],
+  "id": "kenai-fjords-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Kenai Fjords National Park\n\nAt the tip of the Kenai Peninsula lies a land where the ice age still lingers. In Kenai Fjords, glaciers, earthquakes, and ocean storms are the architects. Ice worms, bears and whales make their home in this land of constant change. Native Alutiiq used these resources to nurture a life entwined with the sea. Explore this site to discover Kenai Fjords, its history, science and remote splendor.",
+   "link": "https://www.nps.gov/kefj/",
+   "coordinates": [
+    -149.4349,
+    60.10521
+   ]
+  },
+  "coordinatesSource": "Wikidata Q841503"
+ },
+ {
+  "wikidata": "Q936623",
+  "name": "Kings Canyon National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/seki"
+  ],
+  "coordinates": [
+   -118.672861111,
+   36.789280555
+  ],
+  "id": "kings-canyon-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "A LAND OF GIANTS\n\nThese two parks testify to nature's size, beauty, and diversity: Immense mountains, rugged foothills, deep canyons, vast caverns, and the world’s largest trees!\n\nThe parks lie in the southern Sierra Nevada, east of the San Joaquin Valley. Activities vary greatly by season and elevation - which ranges from 1300' to 14,494' (see Climate below).",
+   "link": "https://www.nps.gov/seki/",
+   "coordinates": [
+    -118.66874,
+    36.79212
+   ]
+  },
+  "coordinatesSource": "Wikidata Q936623"
+ },
+ {
+  "wikidata": "Q836264",
+  "name": "Kobuk Valley National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/kova"
+  ],
+  "coordinates": [
+   -159.19889,
+   67.35336
+  ],
+  "id": "kobuk-valley-national-park",
+  "original": {
+   "policy": "none",
+   "description": "Wilderness Adventure\n\nCaribou, sand dunes, the Kobuk River, Onion Portage - just some of the facets of Kobuk Valley National Park. Half a million caribou migrate through, their tracks crisscrossing sculpted dunes. The Kobuk River is an ancient and current path for people and wildlife. For 9000 years, people came to Onion Portage to harvest caribou as they swam the river. Even today, that rich tradition continues.",
+   "link": "https://www.nps.gov/kova/",
+   "coordinates": [
+    -159.06301,
+    67.39137
+   ]
+  },
+  "coordinatesSource": "Wikidata Q836264"
+ },
+ {
+  "wikidata": "Q139487743",
+  "name": "Lake Clark National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -153.41666667,
+   60.96666667
+  ],
+  "id": "lake-clark-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "Lake Clark National Park and Preserve\n\nLake Clark National Park and Preserve was created to protect scenic beauty (volcanoes, glaciers, wild rivers and waterfalls), populations of fish and wildlife, watersheds essential for red salmon, and the traditional lifestyle of local residents.\n\nLake Clark's spectacular scenery provides a true wilderness experience for those who visit.",
+   "link": "https://www.nps.gov/lacl/",
+   "coordinates": [
+    -154.321,
+    60.20081
+   ]
+  },
+  "coordinatesSource": "Wikipedia: Lake Clark National Park"
+ },
+ {
+  "wikidata": "Q1163542",
+  "name": "Lassen Volcanic National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/lavo"
+  ],
+  "coordinates": [
+   -121.4275,
+   40.498055555
+  ],
+  "id": "lassen-volcanic-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Lassen Volcanic National Park\n\nTo visit Lassen Volcanic National Park is to witness a brief moment in the ancient battle between the earth shaping forces of creation and destruction in Northern California. Nestled within Lassen’s peaceful forests and untouched wilderness, hissing fumaroles and boiling mud pots still shape and change the land, evidence of Lassen’s long fiery and active past.",
+   "link": "https://www.nps.gov/lavo/",
+   "coordinates": [
+    -121.53426,
+    40.4375
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1163542"
+ },
+ {
+  "wikidata": "Q242681",
+  "name": "Mammoth Cave National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/maca/index.htm"
+  ],
+  "coordinates": [
+   -86.101111111,
+   37.186944444
+  ],
+  "id": "mammoth-cave-national-park",
+  "original": {
+   "policy": "none",
+   "description": "A Grand, Gloomy and Peculiar Place\n\nMammoth Cave National Park preserves the cave system and a part of the Green River valley and hilly country of south central Kentucky. This is the world's longest cave system, with more than 365 miles explored. Early guide Stephen Bishop called the cave a \"grand, gloomy and peculiar place,\" but its vast chambers and complex labyrinths have earned its name: Mammoth.",
+   "link": "https://www.nps.gov/maca/",
+   "coordinates": [
+    -86.1002,
+    37.18658
+   ]
+  },
+  "coordinatesSource": "Wikidata Q242681"
+ },
+ {
+  "wikidata": "Q237128",
+  "name": "Mesa Verde National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/meve/index.htm"
+  ],
+  "coordinates": [
+   -108.494444,
+   37.260375
+  ],
+  "id": "mesa-verde-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Mesa Verde National Park\n\nMesa Verde, Spanish for green table, offers a spectacular look into the lives of the Ancestral Pueblo people who made it their home for over 700 years, from A.D. 600 to A.D. 1300. Today, the park protects over 4,000 known archeological sites, including 600 cliff dwellings. These sites are some of the most notable and best preserved in the United States.",
+   "link": "https://www.nps.gov/meve/",
+   "coordinates": [
+    -108.49806,
+    37.25798
+   ]
+  },
+  "coordinatesSource": "Wikidata Q237128"
+ },
+ {
+  "wikidata": "Q944329",
+  "name": "Mount Rainier National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/mora/index.htm"
+  ],
+  "coordinates": [
+   -121.75,
+   46.85
+  ],
+  "id": "mount-rainier-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Mount Rainier National Park\n\nA Source of Inspiration\n\nLearn about glaciers. Discover life in a rainforest. Hike the Wonderland Trail. Explore subalpine ecology. Watch clouds shroud the mountain and disappear. Visit a rustic historic building. Dream about climbing to the summit. Study geology. Experience a mountain meadow. Listen to a glacier crack. Observe the wildlife...and wonder!",
+   "link": "https://www.nps.gov/mora/",
+   "coordinates": [
+    -121.73969,
+    46.78413
+   ]
+  },
+  "coordinatesSource": "Wikidata Q944329"
+ },
+ {
+  "wikidata": "Q843075",
+  "name": "National Park of American Samoa",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/npsa"
+  ],
+  "coordinates": [
+   -170.68333333,
+   -14.25833333
+  ],
+  "id": "national-park-of-american-samoa",
+  "original": {
+   "policy": "none",
+   "description": "American Samoa\n\nSamoa, a chain of mountainous islands clothed in tropical rainforest, is ringed with rugged cliffs, glistening beaches, and biologically rich coral reefs.\n\nThe Samoan village leaders and the U.S. Congress have set aside the finest samples of the islands' land and seascapes as a national park.",
+   "link": "https://www.nps.gov/npsa/",
+   "coordinates": [
+    -170.7009,
+    -14.27933
+   ]
+  },
+  "coordinatesSource": "Wikidata Q843075"
+ },
+ {
+  "wikidata": "Q131274238",
+  "name": "New River Gorge National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -81.08166667,
+   37.96083333
+  ],
+  "id": "new-river-gorge-national-park",
+  "original": null,
+  "coordinatesSource": "Wikipedia: New River Gorge National Park"
+ },
+ {
+  "wikidata": "Q1163799",
+  "name": "North Cascades National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/noca/index.htm"
+  ],
+  "coordinates": [
+   -120.911388888,
+   48.483055555
+  ],
+  "id": "north-cascades-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "North Cascades National Park Service ComplexJagged peaks, deep valleys, cascading waterfalls and over 300 glaciers adorn the North Cascades National Park Service Complex. Three park units in this mountainous region are managed as one and include North Cascades National Park, Ross Lake, and Lake Chelan National Recreation Areas. These complementary protected lands are united by a contiguous overlay of Stephen Mather Wilderness.",
+   "link": "https://www.nps.gov/noca/",
+   "coordinates": [
+    -121.26426,
+    48.66621
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1163799"
+ },
+ {
+  "wikidata": "Q372093",
+  "name": "Olympic National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/olym/index.htm"
+  ],
+  "coordinates": [
+   -123.75,
+   47.7
+  ],
+  "id": "olympic-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "A Land of Contrasts and Variety\n\nHere you will find Pacific Ocean beaches, rain forest valleys, glacier-capped peaks and a stunning variety of plants and animals. Roads provide access to the outer edges of the park, but the heart of Olympic is wilderness; a primeval sanctuary for humans and wild creatures alike.",
+   "link": "https://www.nps.gov/olym/",
+   "coordinates": [
+    -123.43114,
+    48.10068
+   ]
+  },
+  "coordinatesSource": "Wikidata Q372093"
+ },
+ {
+  "wikidata": "Q305949",
+  "name": "Petrified Forest National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/pefo/index.htm"
+  ],
+  "coordinates": [
+   -109.806,
+   35.0881
+  ],
+  "id": "petrified-forest-national-park",
+  "original": {
+   "policy": "everywhere",
+   "description": "Petrified Forest National Park\n\nWith one of the world's largest and most colorful concentrations of petrified wood, multi-hued badlands of the Painted Desert, historic structures, archeological sites, and displays of 225 million year old fossils, this is a surprising land of scenic wonders and fascinating science.",
+   "link": "https://www.nps.gov/pefo/",
+   "coordinates": [
+    -109.78248,
+    35.06626
+   ]
+  },
+  "coordinatesSource": "Wikidata Q305949"
+ },
+ {
+  "wikidata": "Q1783768",
+  "name": "Pinnacles National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/pinn"
+  ],
+  "coordinates": [
+   -121.167,
+   36.4869
+  ],
+  "id": "pinnacles-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "An Ancient Volcanic Field\n\nRising out of the chaparral-covered Gabilan Mountains, east of central California's Salinas Valley, are the spectacular remains of an ancient volcanic field. Massive monoliths, spires, sheer-walled canyons and talus passages define millions of years of erosion, faulting and tectonic plate movement.",
+   "link": "https://www.nps.gov/pinn",
+   "coordinates": [
+    -121.14704,
+    36.4938
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1783768"
+ },
+ {
+  "wikidata": "Q191824",
+  "name": "Redwood National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/redw/index.htm"
+  ],
+  "coordinates": [
+   -124.058333,
+   41.529167
+  ],
+  "id": "redwood-national-park",
+  "original": {
+   "policy": "none",
+   "description": "More Than Redwoods\n\nStand at the base of a coast redwood and the huckleberry bushes tower over you. Watch statuette Roosevelt elk grazing in the prairies. Observe the tail of a female Chinook salmon heave skyward as she makes a nest for her eggs. Whether a morning or night person, you can hear theendangered ( marbled murrelets' keer across the treetops as they fly from sea to mossy nest.",
+   "link": "https://www.nps.gov/redw/index.htm#CP_JUMP_12796)",
+   "coordinates": [
+    -124.09006,
+    41.28571
+   ]
+  },
+  "coordinatesSource": "Wikidata Q191824"
+ },
+ {
+  "wikidata": "Q777183",
+  "name": "Rocky Mountain National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/romo/index.htm"
+  ],
+  "coordinates": [
+   -105.6833,
+   40.35
+  ],
+  "id": "rocky-mountain-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "From lush valleys to craggy peaks\n\nThis living showcase of the grandeur of the Rocky Mountains, with elevations ranging from 8,000 feet in the wet, grassy valleys to 14,259 feet at the weather-ravaged top of Longs Peak, provides visitors with opportunities for countless breathtaking experiences and adventures.",
+   "link": "https://www.nps.gov/romo/",
+   "coordinates": [
+    -105.5608,
+    40.36639
+   ]
+  },
+  "coordinatesSource": "Wikidata Q777183"
+ },
+ {
+  "wikidata": "Q676206",
+  "name": "Saguaro National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/sagu/index.htm"
+  ],
+  "coordinates": [
+   -110.610944444,
+   32.202166666
+  ],
+  "id": "saguaro-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Welcome to Saguaro National Park\n\nEnormous cacti, silhouetted by the setting sun, for most of us the Giant Saguaro is the universal symbol of the American West. And yet, these majestic plants are only found in a small portion of the United States. Saguaro National Park protects some of the most impressive forests of these sub-tropical giants, on the edge of the modern City of Tucson.",
+   "link": "https://www.nps.gov/sagu/",
+   "coordinates": [
+    -111.19702,
+    32.25358
+   ]
+  },
+  "coordinatesSource": "Wikidata Q676206"
+ },
+ {
+  "wikidata": "Q152660",
+  "name": "Sequoia National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/seki"
+  ],
+  "coordinates": [
+   -118.772777777,
+   36.564722222
+  ],
+  "id": "sequoia-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "A LAND OF GIANTS\n\nThese two parks testify to nature's size, beauty, and diversity: Immense mountains, rugged foothills, deep canyons, vast caverns, and the world’s largest trees!\n\nThe parks lie in the southern Sierra Nevada, east of the San Joaquin Valley. Activities vary greatly by season and elevation - which ranges from 1300' to 14,494' (see Climate below).",
+   "link": "https://www.nps.gov/seki/",
+   "coordinates": [
+    -118.73423,
+    36.6044
+   ]
+  },
+  "coordinatesSource": "Wikidata Q152660"
+ },
+ {
+  "wikidata": "Q1137401",
+  "name": "Shenandoah National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/shen/index.htm"
+  ],
+  "coordinates": [
+   -78.35,
+   38.5333
+  ],
+  "id": "shenandoah-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Shenandoah, a wilderness oasis in the busy east . . .\n\nGazing across the horizon from the peaks of Shenandoah National Park it’s hard to believe you are just 75 miles from the bustle of our nation’s capital. Take Skyline Drive along the crest of the mountains through the woods and past spectacular vistas. Hike in the shade of oak trees along the Appalachian Trail, discover the stories from Shenandoah’s past, or just relax in the wonder of wilderness.",
+   "link": "https://www.nps.gov/shen/",
+   "coordinates": [
+    -78.20463,
+    38.87152
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1137401"
+ },
+ {
+  "wikidata": "Q1137669",
+  "name": "Theodore Roosevelt National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/thro/index.htm"
+  ],
+  "coordinates": [
+   -103.45,
+   46.966666666
+  ],
+  "id": "theodore-roosevelt-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Theodore Roosevelt National Park\n\nTheodore Roosevelt first came to the badlands in September 1883 on a hunting trip. While here he became interested in the cattle business and invested in the Maltese Cross Ranch. He returned the next year and established the Elkhorn Ranch. Years later he stated several times, \"I never would have been President if it had not been for my experiences in North Dakota.\"",
+   "link": "https://www.nps.gov/thro/",
+   "coordinates": [
+    -103.52539,
+    46.91656
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1137669"
+ },
+ {
+  "wikidata": null,
+  "name": "Virgin Islands National Park",
+  "region": "us-parks",
+  "id": "virgin-islands-national-park",
+  "sites": [
+   "https://www.nps.gov/viis/"
+  ],
+  "coordinates": [
+   -64.79376,
+   18.33188
+  ],
+  "original": {
+   "policy": "everywhere",
+   "description": "American Paradise\n\nVirgin Islands National Park’s hills, valleys and beaches are breath-taking. However, within its 7,000 plus acres on the island of St. John is the complex history of civilizations - both free and enslaved - dating back more than a thousand years, all who utilized the land and the sea for survival.",
+   "link": "https://www.nps.gov/viis/",
+   "coordinates": [
+    -64.79376,
+    18.33188
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q1368788",
+  "name": "Voyageurs National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/voya/index.htm"
+  ],
+  "coordinates": [
+   -92.883333333,
+   48.5
+  ],
+  "id": "voyageurs-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Explore the Lakes of the North Woods\n\nNearly 200 years ago voyageurs paddled birch bark canoes full of animal pelts and trade goods through this area on their way to Lake Athabaska, Canada.\n\nToday, people explore the park by houseboat, motorboat, canoe and kayak.\n\nVoyageurs is a water-based park where you must leave your car and take to the water to fully experience the lakes, islands and shorelines of the park.",
+   "link": "https://www.nps.gov/voya/",
+   "coordinates": [
+    -92.85037,
+    48.43481
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1368788"
+ },
+ {
+  "wikidata": "Q1200164",
+  "name": "White Sands National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/whsa/index.htm"
+  ],
+  "coordinates": [
+   -106.171667,
+   32.779722
+  ],
+  "id": "white-sands-national-park",
+  "original": null,
+  "coordinatesSource": "Wikidata Q1200164"
+ },
+ {
+  "wikidata": "Q1334313",
+  "name": "Wind Cave National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/wica/index.htm"
+  ],
+  "coordinates": [
+   -103.47865,
+   43.55635
+  ],
+  "id": "wind-cave-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Wind Cave National Park\n\nOne of the world's longest and most complex caves and 28,295 acres of mixed-grass prairie, ponderosa pine forest, and associated wildlife are the main features of the park. The cave is well known for its outstanding display of boxwork, an unusual cave formation composed of thin calcite fins resembling honeycombs. The park's mixed-grass prairie is one of the few remaining and is home to native wildlife such as bison, elk, pronghorn, mule deer, coyotes, and prairie dogs.",
+   "link": "https://www.nps.gov/wica/",
+   "coordinates": [
+    -103.47853,
+    43.55606
+   ]
+  },
+  "coordinatesSource": "Wikidata Q1334313"
+ },
+ {
+  "wikidata": null,
+  "name": "Wrangell-St Elias National Park",
+  "region": "us-parks",
+  "id": "wrangell-st-elias-national-park",
+  "sites": [
+   "https://www.nps.gov/wrst/"
+  ],
+  "coordinates": [
+   -142.24266,
+   61.20794
+  ],
+  "original": {
+   "policy": "everywhere",
+   "description": "Wrangell-St. Elias National Park & Preserve\n\nThe Chugach, Wrangell, and Saint Elias ranges converge here in what is often referred to as the \"mountain kingdom of North America.\" The largest unit of the National Park System, this spectacular wilderness includes the continent's largest assemblage of glaciers, and greatest collection of peaks above 16,000 feet, including 18,008’ Mount St. Elias, the second highest peak in the United States.",
+   "link": "https://www.nps.gov/wrst/",
+   "coordinates": [
+    -142.24266,
+    61.20794
+   ]
+  },
+  "coordinatesSource": "original map"
+ },
+ {
+  "wikidata": "Q139437521",
+  "name": "Wrangell–St. Elias National Park",
+  "region": "us-parks",
+  "sites": [],
+  "coordinates": [
+   -142.95361111,
+   61.435
+  ],
+  "id": "wrangellst-elias-national-park",
+  "original": null,
+  "coordinatesSource": "Wikipedia: Wrangell–St. Elias National Park"
+ },
+ {
+  "wikidata": "Q748597",
+  "name": "Wrangell–St. Elias National Park and Preserve",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/wrst/index.htm"
+  ],
+  "coordinates": [
+   -142.953611111,
+   61.435
+  ],
+  "id": "wrangellst-elias-national-park-and-preserve",
+  "original": null,
+  "coordinatesSource": "Wikidata Q748597"
+ },
+ {
+  "wikidata": "Q351",
+  "name": "Yellowstone National Park",
+  "region": "us-parks",
+  "sites": [
+   "http://nps.gov/yell"
+  ],
+  "coordinates": [
+   -110.5,
+   44.6
+  ],
+  "id": "yellowstone-national-park",
+  "original": {
+   "policy": "roads",
+   "description": "Welcome to Yellowstone National Park!\n\nEstablished in 1872, Yellowstone National Park is America's first national park. Located in Wyoming, Montana, and Idaho, it is home to a large variety of wildlife including grizzly bears, wolves, bison, and elk. Preserved within Yellowstone National Park are Old Faithful and a collection of the world's most extraordinary geysers and hot springs, and the Grand Canyon of the Yellowstone.",
+   "link": "https://www.nps.gov/yell/",
+   "coordinates": [
+    -110.55733,
+    44.39296
+   ]
+  },
+  "coordinatesSource": "Wikidata Q351"
+ },
+ {
+  "wikidata": "Q180402",
+  "name": "Yosemite National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://nps.gov/yose"
+  ],
+  "coordinates": [
+   -119.5375,
+   37.7425
+  ],
+  "id": "yosemite-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Not just a great Valley... but a shrine to human foresight, strength of granite, power of glaciers, the persistence of life, and the tranquility of the High Sierra.\n\nYosemite National Park, one of the first wilderness parks in the United States, is best known for its waterfalls, but within its nearly 1,200 square miles, you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much more.",
+   "link": "https://www.nps.gov/yose/",
+   "coordinates": [
+    -119.59077,
+    37.74656
+   ]
+  },
+  "coordinatesSource": "Wikidata Q180402"
+ },
+ {
+  "wikidata": "Q205325",
+  "name": "Zion National Park",
+  "region": "us-parks",
+  "sites": [
+   "https://www.nps.gov/zion/index.htm"
+  ],
+  "coordinates": [
+   -112.98785,
+   37.202619444
+  ],
+  "id": "zion-national-park",
+  "original": {
+   "policy": "trails",
+   "description": "Utah's First National Park\n\nMassive canyon walls ascend toward a brilliant blue sky. To experience Zion, you need to walk among the towering cliffs, or challenge your courage in a small narrow canyon. These unique sandstone cliffs range in color from cream, to pink, to red. They could be described as sand castles crowning desert canyons.",
+   "link": "https://www.nps.gov/zion/",
+   "coordinates": [
+    -112.97949,
+    37.20953
+   ]
+  },
+  "coordinatesSource": "Wikidata Q205325"
+ }
+]

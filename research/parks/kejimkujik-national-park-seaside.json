@@ -1,0 +1,42 @@
+{
+ "id": "kejimkujik-national-park-seaside",
+ "name": "Kejimkujik National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed dogs are allowed on the trails, inland and at the Seaside.",
+ "summary": "Leashed dogs are allowed on the trails, inland and at the Seaside.",
+ "excerpts": [
+  {
+   "quote": "Dogs must be kept on leash.",
+   "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/activ/rando-hiking"
+  },
+  {
+   "quote": "For the safety of wildlife and other visitors, dogs must be on leash at all times.",
+   "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/visit/cartes-maps/guideduvisiteur-borddemer-seaside-visitorguide"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Dogs must be leashed on all trails; clean up after them.",
+   "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/activ/rando-hiking"
+  },
+  {
+   "text": "St. Catherines River Beach closes for piping plover nesting; respect the closure.",
+   "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/visit/cartes-maps/guideduvisiteur-borddemer-seaside-visitorguide"
+  },
+  {
+   "text": "No overnight stays at Kejimkujik Seaside.",
+   "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/visit/cartes-maps/guideduvisiteur-borddemer-seaside-visitorguide"
+  },
+  {
+   "text": "Do daily tick checks on pets.",
+   "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/visit/cartes-maps/guideduvisiteur-borddemer-seaside-visitorguide"
+  }
+ ],
+ "officialUrl": "https://parks.canada.ca/pn-np/ns/kejimkujik",
+ "petsUrl": "https://parks.canada.ca/pn-np/ns/kejimkujik/activ/rando-hiking",
+ "coordinates": [
+  -65.2183,
+  44.3992
+ ],
+ "coordinatesSource": "Wikidata Q795176"
+}

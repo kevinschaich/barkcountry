@@ -1,0 +1,21 @@
+{
+ "id": "sequoia-national-forest",
+ "name": "Sequoia National Forest",
+ "policy": "everywhere",
+ "policyReason": "Dogs are welcome in the forest (not in the national park).",
+ "summary": "Dogs are welcome in the forest (not in the national park).",
+ "excerpts": [
+  {
+   "quote": "Yes, your canine companions are welcome in National Forests.",
+   "url": "https://www.fs.usda.gov/r05/sequoia/about-area/faqs"
+  }
+ ],
+ "dogRules": [],
+ "officialUrl": "https://www.fs.usda.gov/sequoia/",
+ "petsUrl": "https://www.fs.usda.gov/r05/sequoia/about-area/faqs",
+ "coordinates": [
+  -118.504,
+  36.04
+ ],
+ "coordinatesSource": "Wikidata Q3079145"
+}

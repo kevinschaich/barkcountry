@@ -1,0 +1,38 @@
+{
+ "id": "grasslands-national-park-of-canada",
+ "name": "Grasslands National Park",
+ "policy": "everywhere",
+ "policyReason": "Leashed pets can hike the park, but not on prairie dog colonies.",
+ "summary": "Leashed pets can hike the park, but not on prairie dog colonies.",
+ "excerpts": [
+  {
+   "quote": "Keep your pet on a leash at all times.",
+   "url": "https://www.pc.gc.ca/en/pn-np/sk/grasslands/activ/experiences/randonee-hiking?wbdisable=true"
+  },
+  {
+   "quote": "Pets are not permitted on prairie dog colonies.",
+   "url": "https://www.pc.gc.ca/en/pn-np/sk/grasslands/activ/experiences/randonee-hiking?wbdisable=true"
+  }
+ ],
+ "dogRules": [
+  {
+   "text": "Pets are not permitted on prairie dog colonies.",
+   "url": "https://www.pc.gc.ca/en/pn-np/sk/grasslands/activ/experiences/randonee-hiking?wbdisable=true"
+  },
+  {
+   "text": "Take extra care near bison when hiking with pets, especially May to August.",
+   "url": "https://www.pc.gc.ca/en/pn-np/sk/grasslands/activ/experiences/randonee-hiking?wbdisable=true"
+  },
+  {
+   "text": "All campsites are pet-friendly; pet-friendly oTENTiks can be booked in the East and West Blocks.",
+   "url": "https://parks.canada.ca/voyage-travel/experiences/compagnie-pets"
+  }
+ ],
+ "officialUrl": "https://www.pc.gc.ca/en/pn-np/sk/grasslands",
+ "petsUrl": "https://www.pc.gc.ca/en/pn-np/sk/grasslands/activ/experiences/randonee-hiking?wbdisable=true",
+ "coordinates": [
+  -107.51,
+  49.15
+ ],
+ "coordinatesSource": "Wikidata Q1543598"
+}

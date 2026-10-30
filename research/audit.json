@@ -1,0 +1,170 @@
+[
+ {
+  "id": "biscayne-national-park",
+  "before": {
+   "policy": "trails",
+   "summary": "Leashed pets may visit the Convoy Point grounds and Elliott Key, but not Boca Chita Key."
+  },
+  "after": {
+   "policy": "roads",
+   "summary": "Leashed pets may visit the Convoy Point grounds and developed areas on Elliott Key, but not Boca Chita Key."
+  },
+  "why": "Pets are limited to the Convoy Point grounds and Elliott Key developed areas only; no trail is open to them, so roads, not trails."
+ },
+ {
+  "id": "mesa-verde-national-park",
+  "before": {
+   "policy": "trails",
+   "summary": "Leashed pets may use roads and paved areas, and some paved trails at Wetherill Mesa, but not trails or sites."
+  },
+  "after": {
+   "policy": "trails",
+   "summary": "Leashed pets may use roads and paved areas on Mesa Top Loop and Park Point, and Wetherill Mesa trails except Step House and Long House."
+  },
+  "why": "Rule said pets are banned from all trails, but the page allows every Wetherill Mesa trail except Step House and Long House; rules and summary corrected."
+ },
+ {
+  "id": "saguaro-national-park",
+  "before": {
+   "policy": "trails",
+   "summary": "Only a few listed trails, roads and paved trails allow leashed dogs."
+  },
+  "after": {
+   "policy": "trails",
+   "summary": "Leashed dogs may use roads and a few paved trails such as Desert Ecology and Desert Discovery; all other trails are closed to them."
+  },
+  "why": "Card lacked the trail ban and the named dog-friendly trails; added from the pets page."
+ },
+ {
+  "id": "crater-lake-national-park",
+  "before": {
+   "policy": "trails",
+   "summary": "Leashed pets may use a few trails and plowed roads, but not Cleetwood Cove Trail or the lake."
+  },
+  "after": {
+   "policy": "trails",
+   "summary": "Leashed pets may use a few trails and plowed roads, but not Cleetwood Cove Trail or the lake."
+  },
+  "why": "Added the list of the only trails open to pets, which the trails policy rests on."
+ },
+ {
+  "id": "hawaii-volcanoes-national-park",
+  "before": {
+   "policy": "roads",
+   "summary": "Leashed pets are allowed on roads such as Mauna Loa Road and in most parking areas, not in many other areas."
+  },
+  "after": {
+   "policy": "roads",
+   "summary": "Leashed pets are allowed on roads such as Mauna Loa Road and in most parking areas, not in many other areas."
+  },
+  "why": "Roads policy had no quoted trail ban; added the list of prohibited areas from the park release."
+ },
+ {
+  "id": "arches-national-park",
+  "before": {
+   "policy": "roads",
+   "summary": "Pets can go only where cars go: roads, parking lots and campgrounds, not on trails."
+  },
+  "after": {
+   "policy": "roads",
+   "summary": "Pets can go only where cars go: roads, parking lots and campgrounds, not on trails."
+  },
+  "why": "Roads policy rested only on a leash rule; added the quoted trail ban."
+ },
+ {
+  "id": "canyonlands-national-park",
+  "before": {
+   "policy": "roads",
+   "summary": "Pets are banned from trails, overlooks and the backcountry; only paved roads, campgrounds and the Potash/Shafer drive."
+  },
+  "after": {
+   "policy": "roads",
+   "summary": "Pets are banned from trails, overlooks and the backcountry; only paved roads, campgrounds and the Potash/Shafer drive."
+  },
+  "why": "Roads policy rested only on a leash rule; added the compendium trail ban."
+ },
+ {
+  "id": "great-basin-national-park",
+  "before": {
+   "policy": "trails",
+   "summary": "Leashed pets may use the Lexington Arch Trail and the Baker to visitor center trail only."
+  },
+  "after": {
+   "policy": "trails",
+   "summary": "Leashed pets may use the Lexington Arch Trail and the Baker to visitor center trail only."
+  },
+  "why": "Added the quoted trail ban behind the trails policy."
+ },
+ {
+  "id": "snoqualmie-national-forest",
+  "before": {
+   "policy": "everywhere",
+   "summary": "Leashed dogs may use trails such as those around Artist Point."
+  },
+  "after": {
+   "policy": "everywhere",
+   "summary": "Leashed dogs may use trails such as the Pacific Crest Trail at Snoqualmie Pass."
+  },
+  "why": "Card was about Artist Point and Table Mountain, which are in the Mt. Baker unit; replaced with Snoqualmie pages."
+ },
+ {
+  "id": "okanogan-national-forest",
+  "before": {
+   "policy": "everywhere",
+   "summary": "Dogs may use most trails; banned in the Enchantments."
+  },
+  "after": {
+   "policy": "everywhere",
+   "summary": "Dogs are allowed on most wilderness trails, under control."
+  },
+  "why": "Card was about the Enchantments and Alpine Lakes Wilderness, which are in the Wenatchee unit; replaced with forest-wide rules."
+ },
+ {
+  "id": "denali-national-park",
+  "before": {
+   "policy": "roads",
+   "summary": "Pets stay near roads; only the Roadside Hiking Trail and Roadside Bike Trail allow leashed pets."
+  },
+  "after": {
+   "policy": "trails",
+   "summary": "Leashed pets may walk the Roadside Hiking Trail and Roadside Bike Trail, plus roads, parking lots and campgrounds."
+  },
+  "why": "The pets page opens the Roadside Hiking Trail and Roadside Bike Trail to leashed pets, so trails, not roads."
+ },
+ {
+  "id": "capitol-reef-national-park",
+  "before": {
+   "policy": "roads",
+   "summary": "Pets may walk roads, the campground, picnic area, orchards and parking lots, not most trails."
+  },
+  "after": {
+   "policy": "trails",
+   "summary": "Leashed pets may walk the Fremont River Trail to Hattie's Field, plus roads, the campground, orchards and parking lots."
+  },
+  "why": "The pets page opens part of the Fremont River Trail to leashed pets, so trails, not roads."
+ },
+ {
+  "id": "redwood-national-park",
+  "before": {
+   "policy": "roads",
+   "summary": "Pets are permitted in developed campgrounds, on beaches, in picnic areas and on roads, not on trails."
+  },
+  "after": {
+   "policy": "trails",
+   "summary": "Leashed pets may visit Freshwater, Gold Bluffs and Crescent beaches, campgrounds, picnic areas and roads, but no trails."
+  },
+  "why": "The pets page opens three named beaches to leashed pets, and a beach counts as trails, not roads."
+ },
+ {
+  "id": "bryce-canyon-national-park",
+  "before": {
+   "policy": "trails",
+   "summary": "Pets are allowed only on paved surfaces, including a half mile of the Rim Trail and the Shared-use Path."
+  },
+  "after": {
+   "policy": "roads",
+   "summary": "Pets may go only on paved surfaces: roads, campgrounds, viewpoints, the Shared-use Path and the paved Rim Trail by the lodge."
+  },
+  "why": "Pets are limited to paved paths in developed areas (the Shared-use Path and the paved Rim Trail between Sunset and Sunrise Points), which don't count as trails, so roads."
+ }
+]
