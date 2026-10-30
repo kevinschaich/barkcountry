@@ -1,9 +1,8 @@
 @import "tailwindcss";
 @import "@kevinschaich/components/theme.css";
 @import "@kevinschaich/components/styles.css";
-@import "@kevinschaich/map/map.css";
+@import "@kevinschaich/components/map.css";
 @source "../node_modules/@kevinschaich/components/dist";
-@source "../node_modules/@kevinschaich/map/dist";
 
 html,
 body,

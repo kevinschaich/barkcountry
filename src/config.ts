@@ -1,5 +1,5 @@
 import type { DataSource } from '@kevinschaich/components'
-import { BASEMAP_SOURCES, PHOTON_SOURCE } from '@kevinschaich/map'
+import { BASEMAP_SOURCES, PHOTON_SOURCE } from '@kevinschaich/components/map'
 
 export const NAME = 'Barkcountry'
 export const REPO = 'kevinschaich/barkcountry'

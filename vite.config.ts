@@ -1,4 +1,4 @@
-import { kevinschaichMap } from '@kevinschaich/map/vite'
+import { kevinschaichMap } from '@kevinschaich/components/map/vite'
 import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'

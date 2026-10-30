@@ -11,8 +11,7 @@
         "preview": "vite preview"
     },
     "dependencies": {
-        "@kevinschaich/components": "^0.6.0",
-        "@kevinschaich/map": "file:../kevinschaich/packages/map",
+        "@kevinschaich/components": "^0.7.0",
         "lucide-react": "^1.63.0",
         "maplibre-gl": "^6.16.0",
         "react": "19",

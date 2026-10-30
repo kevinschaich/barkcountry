@@ -1,5 +1,5 @@
 import { Badge, Byline, Separator } from '@kevinschaich/components'
-import { BasemapTabs, FeatureCard, Legend, MapPanel, MapView, PlaceSearch, PointLayer, useMap, type SearchHit } from '@kevinschaich/map'
+import { BasemapTabs, FeatureCard, Legend, MapPanel, MapView, PlaceSearch, PointLayer, useMap, type SearchHit } from '@kevinschaich/components/map'
 import { ArrowUpRight, BadgeCheck, MessageSquarePlus, Download, Trees } from 'lucide-react'
 import { useEffect, useMemo, useState } from 'react'
 import { NAME, POLICIES, POLICY, REGION, REGIONS, REPO, SOURCES, suggestUrl, type Park, type Region } from './config'
