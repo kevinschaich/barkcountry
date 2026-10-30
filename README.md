@@ -1,34 +1,40 @@
-# 🐕 Dog-Friendly National Parks
+[![Barkcountry by kevinschaich](https://kevinschaich.com/og/barkcountry.png)](https://kevinschaich.com/project/barkcountry/)
 
-An open-source, curated map of dog and pet-friendly National Parks in the U.S. (Canada coming soon).
+# Barkcountry
 
-[**Explore on Google Maps**](https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
+Find national parks where your dog can hike with you
 
+**[Try it →](https://kevinschaich.com/project/barkcountry/)**
 
-| **Color** | **Icon** | **Meaning** |
-|---|---|---|
-| **Green** | Dog| Pets allowed (almost) everywhere in the park, including multiple trails|
-| **Blue** | Hiker / Trailhead | Pets allowed on one or more trails, check park rules & seasonal restrictions on [NPS.gov](https://nps.gov) before visiting |
-| **Yellow** | Car | Pets only allowed where cars can go, such as paved roads & campgrounds |
-| **Red** | Park Ranger | Pets not allowed 😔 |
+## How it works
 
-Before visiting any park and to get the most up-to-date pet rules and regulations, please visit the [**National Park Service**](https://www.nps.gov/learnandexplore/index.htm) website.
-
-## Data Sources:
-
-First round of data collection was automated using web scraping, second round was done manually via web search / cleanup.
-
-* [**U.S. National Parks – Google Maps**](https://www.google.com/maps/d/u/0/viewer?mid=1US8kt_OlYMffR1KaaEvaqkhYUrs)
-* [**National Park Service**](https://www.nps.gov/learnandexplore/index.htm)
-* [**Canadian National Parks – Google Maps**](https://www.google.com/maps/d/u/0/viewer?mid=1H8BMnOw1YWxq2Tl6Slvos-HqqdU)
-
-## Corrections & Contributions
-
-Please file an [**issue**](https://github.com/kevinschaich/dog-friendly-national-parks/issues) 😊
+- Every U.S. and Canadian national park, Québec national park and U.S. national forest on one map, colored by its pet
+  policy: allowed (almost) everywhere, on one or more trails, only where cars can go, or not at all.
+- Search finds parks first, then any town or address. Pick a park for its dog rules, quotes from its official pages and
+  a link to its site. Always check the park's own rules before you go.
+- It started as a Google My Map; every park has since been checked against its official pages (see Research).
+- Something out of date or missing? Use "Suggest a change" on a park or "Suggest a park", which open a pre-filled
+  [GitHub issue](https://github.com/kevinschaich/barkcountry/issues).
 
 ## Research
 
-`parks.geojson` holds every park with its color, quotes from its official pages and a "last verified" date.
-It's built by the scripts in [`research/`](research/), and every page they read is saved there as evidence.
-See [`research/REPORT.md`](research/REPORT.md) for what changed from the original map, and
+`parks.geojson` holds every park with its color, quotes from its official pages and a "last verified" date. The app
+reads it directly. It's built by the scripts in [`research/`](research/), and every page they read is saved there as
+evidence. See [`research/REPORT.md`](research/REPORT.md) for what changed from the original map, and
 [`research/AGENTS.md`](research/AGENTS.md) for how to redo it.
+
+## Data sources
+
+| What | From | License |
+| --- | --- | --- |
+| Park pet policies and locations | Kevin Schaich's research of each park's official pages ([`research/`](research/)) | © Kevin Schaich |
+| Pet rules, quotes and summaries | Each park's official website, such as the [U.S. National Park Service](https://www.nps.gov) | Quoted for reference |
+| Dark and Streets basemaps | [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) | ODbL |
+| Satellite basemap | [USGS The National Map](https://www.usgs.gov/programs/national-geospatial-program/national-map) | Public domain |
+| Place search | [Photon by Komoot](https://photon.komoot.io) | OSM data, ODbL |
+
+## Run locally
+
+```sh
+bun install && bun dev
+```
