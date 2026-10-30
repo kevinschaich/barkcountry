@@ -57,7 +57,7 @@ def check(park: dict, log: dict) -> tuple[list, list]:
     def cite(url, what):
         e = log.get(url)
         if not e:
-            problems.append(f'{what}: {url} was never fetched by fetch.py or save_browser.py'); return None
+            problems.append(f'{what}: {url} was never fetched by scrape.py or fetch.py'); return None
         used[url] = e
         if e['status'] != 200:
             problems.append(f"{what}: {url} returned {e['status']}"); return None

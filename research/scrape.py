@@ -133,7 +133,7 @@ def main():
     path = ROOT / 'sources.json'
     sources = json.load(open(path)) if path.exists() else {}
     if '--failed' in sys.argv:
-        failed = set(json.load(open(ROOT / 'redo.json')))  # written by digest.py
+        failed = {f['id'] for f in json.load(open(ROOT / 'failed.json'))}  # written by check.py
         for pid in failed: sources.pop(pid, None)
     todo = [p for p in roster if p['id'] not in sources]
     with ThreadPoolExecutor(8) as ex:

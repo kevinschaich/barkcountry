@@ -50,8 +50,6 @@ def main():
         if not s['site']: lines.append('FAILED: no official site found')
         elif not got: lines.append('FAILED: no dog-related text on the scraped pages')
         out.setdefault(p['region'], []).append('\n'.join(lines))
-    json.dump([b.split('\n')[0][3:] for parks in out.values() for b in parks if 'FAILED' in b],
-              open(ROOT / 'redo.json', 'w'), indent=1)
     (ROOT / 'digest').mkdir(exist_ok=True)
     for region, parks in out.items():
         (ROOT / 'digest' / f'{region}.md').write_text('\n\n'.join(parks) + '\n')

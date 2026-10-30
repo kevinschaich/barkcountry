@@ -3,7 +3,8 @@ Parks Canada national park and Québec national park, with official site and loc
 
     .venv/bin/python roster.py
 
-Writes roster.json. Parks already on the map keep their ids, so the original data lines up.
+Rewrites roster.json. Parks from the original map (the `original` field of the current roster.json) keep their ids,
+so the original data lines up.
 """
 import json, re, unicodedata, urllib.parse, urllib.request
 from pathlib import Path
@@ -33,7 +34,8 @@ def sparql(q):
 
 
 def main():
-    original = {p['id']: p for p in json.load(open(ROOT / 'parks.json'))}
+    previous = [e for e in json.load(open(ROOT / 'roster.json')) if e['original']]
+    original = {e['id']: {'id': e['id'], 'name': e['name'], 'region': e['region'], 'original': e['original']} for e in previous}
     by_name = {slug(p['name']): p for p in original.values()}
     roster = {}
     for region, cls in CLASSES.items():
@@ -54,7 +56,8 @@ def main():
 
     by_key = {key(p['name']): p for p in original.values()}
     # matches the name and location rules get wrong
-    pinned = {'Q1327997': 'parc-national-des-iles-de-boucherville'}
+    # parks matched last time keep their match; the rest match by name and location
+    pinned = {e['wikidata']: e['id'] for e in previous if e['wikidata']}
     taken = set(pinned.values())
     for e in roster.values():
         if e['wikidata'] in pinned:

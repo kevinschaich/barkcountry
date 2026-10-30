@@ -9,14 +9,11 @@ trustworthy because scripts, not agents, record what was fetched and test what w
 - **Official pages only:** nps.gov, fs.usda.gov, parks.canada.ca, sepaq.com, and the forest orders and
   closure orders they publish. Never use memory, search-result snippets, a fetch tool's summary or a
   third-party site as the source of a rule.
-- **Every page goes through `fetch.py`:** `.venv/bin/python fetch.py <url>`. It sends an honest user agent,
-  waits 3 s between requests to the same host, saves the page text to `pages/` and appends the real status
-  and time to `fetch-log.jsonl`. Never write the log or a page file by hand.
-  - sepaq.com blocks scripts. Open those pages in the built-in browser pane, then pipe the page text into
-    `.venv/bin/python save_browser.py <url> 200`.
-  - Never disguise a request as a browser.
-- **You may search to find URLs** (WebSearch, or the site's own search). Then fetch the page itself with
-  `fetch.py` and read the saved text.
+- **Every page comes from `scrape.py`** (Firecrawl), which saves the page text to `pages/` and appends the real
+  status and time to `fetch-log.jsonl`. Never write the log or a page file by hand, and never disguise a
+  request as a browser.
+- **You may search to find URLs** (WebSearch, or the site's own search). Add them to the park in
+  `sources.json`, rerun `scrape.py` and read the saved text.
 - **One agent at a time.** Parallel crawlers got the hosts to block us, and their logs couldn't be trusted.
 - **Failures don't change anything.** If a park's pages can't be fetched or read, or they say nothing about
   dogs, write the park file with `"failed": {"why": "...", "urls": [...]}`. `check.py` puts it in the failed
@@ -32,7 +29,7 @@ python3 -m venv .venv && .venv/bin/pip install pypdf
 ## Pipeline
 
 1. `roster.py`: the full park list (US national parks, US national forests, Parks Canada, Québec) from
-   Wikidata → `roster.json`. Parks already on the map keep their ids and original data.
+   Wikidata → `roster.json`. Parks from the original map keep their ids and original data (each entry's `original` field).
 2. `scrape.py`: finds each park's official site and dog pages (Firecrawl search and map), then fetches them
    all in one Firecrawl batch. It needs `FIRECRAWL_API_KEY` in `research/.env`, which is git-ignored and must
    never be committed. Pages land in `pages/`, and every fetch, with its status, is in `fetch-log.jsonl`.
@@ -42,8 +39,6 @@ python3 -m venv .venv && .venv/bin/pip install pypdf
 4. An agent writes `parks/<id>.json` for each park from the digest (below), one region at a time, quoting
    only text that's in the saved pages.
 5. `check.py`: verifies and builds everything (see Outputs).
-
-`fetch.py` and `save_browser.py` are for single pages Firecrawl can't get.
 
 ## Writing each park file
 
@@ -55,7 +50,7 @@ python3 -m venv .venv && .venv/bin/pip install pypdf
   "id": "acadia-national-park",
   "name": "Acadia National Park",
   "policy": "everywhere | trails | roads | none",
-  "policyReason": "one sentence, required when the policy differs from parks.json's original",
+  "policyReason": "one sentence, required when the policy differs from roster.json's `original`",
   "summary": "one plain sentence for the top of the card",
   "excerpts": [{ "quote": "a sentence copied word for word from the page", "url": "..." }],
   "dogRules": [{ "text": "a short plain-English bullet", "url": "..." }],
@@ -81,7 +76,7 @@ python3 -m venv .venv && .venv/bin/pip install pypdf
   kennels, BARK Ranger and service animals. Leave out rules that are the same in every park of the system;
   put those in `network/<region>.json` instead, as a `{text, url}` array.
 - **coordinates**: a point inside the park, from the Wikipedia page summary API
-  (`https://en.wikipedia.org/api/rest_v1/page/summary/<Title>`, fetched with `fetch.py`) or OSM Nominatim.
+  (`https://en.wikipedia.org/api/rest_v1/page/summary/<Title>`, via `coords.py`, which uses `fetch.py`) or OSM Nominatim.
   For combined forests, make sure the point lands in the right unit.
 - **Renamed or merged units** (for example Uinta → Uinta-Wasatch-Cache): put the current official name in
   `name`.

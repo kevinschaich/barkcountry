@@ -6,7 +6,6 @@ Prints one JSON line per URL: {url, status, sha1, path, chars}. The fetch log is
 script, never by hand, so it shows what really happened.
 
 Requests use an honest user agent that names this project, and wait between requests to the same host.
-Hosts that block it (sepaq.com) are read in the built-in browser pane and saved with save_browser.py.
 """
 import hashlib, html.parser, re, threading, io, json, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timezone
